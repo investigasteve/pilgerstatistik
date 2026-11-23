@@ -2,7 +2,7 @@
 090269;Arlanzón;Burgos;http://www.arlanzon.es/;;OFFEN (nicht erreichbar: HTTP Error 403: Forbidden);;gleich wie Hauptadresse
 090294;Atapuerca;Burgos;;;OFFEN;;
 090449;Barrios de Colina;Burgos;http://www.barriosdecolina.com/;;OFFEN (nicht erreichbar: <urlopen error [Errno -2] Name or servic);;gleich wie Hauptadresse
-090487;Belorado;Burgos;https://www.belorado.org/;administracion@belorado.org;website/aviso-legal;info@belorado.org;Unterseite /descubrenos-oficina-de-turismo/oficina-de-turismo
+090487;Belorado;Burgos;https://www.belorado.org/;administracion@belorado.org;website/aviso-legal;;Unterseite /descubrenos-oficina-de-turismo/oficina-de-turismo
 090597;Burgos;Burgos;https://www.aytoburgos.es/;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
 090755;Cardeñuela Riopico;Burgos;http://www.cardeñuelariopico.es/;;OFFEN (nicht erreichbar: HTTP Error 400: Bad Request);;gleich wie Hauptadresse
 090793;Castellanos de Castro;Burgos;http://www.castellanosdecastro.es/;;OFFEN (nicht erreichbar: HTTP Error 403: Forbidden);;gleich wie Hauptadresse
@@ -24,16 +24,16 @@
 094458;Villambistia;Burgos;http://www.villambistia.es/;;OFFEN (nicht erreichbar: HTTP Error 403: Forbidden);;gleich wie Hauptadresse
 150026;Ames;Coruña, A;https://www.concellodeames.gal;atencioncidada@concellodeames.gal;website/;turismo@concellodeames.gal;Adressname
 150063;Arzúa;Coruña, A;http://www.concellodearzua.org/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
-150238;Cee;Coruña, A;https://www.cee.gal;correo@cee.gal;website/;"correo@cee.gal; victor.castineira@cee.gal";Unterseite https://cee.gal/es/turismo-2/
+150238;Cee;Coruña, A;https://www.cee.gal;correo@cee.gal;website/;;Unterseite https://cee.gal/es/turismo-2/
 150281;Corcubión;Coruña, A;http://www.corcubion.info;correo@corcubion.gal;website/;;gleich wie Hauptadresse
 150341;Dumbría;Coruña, A;;;OFFEN;;
 150373;Fisterra;Coruña, A;http://www.concellofisterra.com;info@concellofisterra.com;website/;;gleich wie Hauptadresse
 150452;Mazaricos;Coruña, A;http://www.mazaricos.net;;OFFEN (nicht erreichbar: HTTP Error 403: Forbidden);;gleich wie Hauptadresse
 150465;Melide;Coruña, A;http://www.concellodemelide.gal/;concello@concellodemelide.gal;website/aviso-legal;;keine Kulturseite gefunden
 150525;Muxía;Coruña, A;http://www.concellomuxia.com/;correo@muxia.es;website/;turismo@muxia.es;Adressname
-150562;Negreira;Coruña, A;http://www.concellodenegreira.org;"a15830correo@concellodenegreira.es; correo@concellodenegreira.es";website/contacto;"albergue.altodapena@yahoo.com; alberguecoton@gmail.com";Unterseite /gl/turismo/aloxamentos
+150562;Negreira;Coruña, A;http://www.concellodenegreira.org;"a15830correo@concellodenegreira.es; correo@concellodenegreira.es";website/contacto;;Unterseite /gl/turismo/aloxamentos
 150780;Santiago de Compostela;Coruña, A;https://santiagodecompostela.gal/;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
-240080;Astorga;León;http://www.aytoastorga.es/;atencionalciudadano@astorga.es;website/;"atencionalciudadano@astorga.es; museochocolate@astorga.es";Unterseite /turismo-y-ocio/
+240080;Astorga;León;http://www.aytoastorga.es/;atencionalciudadano@astorga.es;website/;;Unterseite /turismo-y-ocio/
 240188;Bercianos del Real Camino;León;http://www.aytobercianosdelrealcamino.es/;info@aytobercianosdelrealcamino.es;website/;;gleich wie Hauptadresse
 240233;Brazuelo;León;http://www.ayuntamientodebrazuelo.com;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
 240248;Burgo Ranero, El;León;http://www.aytoelburgoranero.es/;elburgoranero@gmail.com;website/;;gleich wie Hauptadresse
@@ -48,15 +48,15 @@
 241152;Ponferrada;León;http://www.ponferrada.org/;;OFFEN (nicht erreichbar: <urlopen error [SSL: CERTIFICATE_VERIFY_);;gleich wie Hauptadresse
 241396;Sahagún;León;http://turismosahagun.com;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
 241422;San Andrés del Rabanedo;León;http://www.aytosanandres.org/;;OFFEN (nicht erreichbar: <urlopen error [Errno -3] Temporary fail);;gleich wie Hauptadresse
-241481;San Justo de la Vega;León;https://www.aytosanjustodelavega.es/;info@aytosanjustodelavega.es;website/;"bibliotecasanjusto@outlook.es; info@aytosanjustodelavega.es";Unterseite /ayuntamiento/agenda/
+241481;San Justo de la Vega;León;https://www.aytosanjustodelavega.es/;info@aytosanjustodelavega.es;website/;;Unterseite /ayuntamiento/agenda/
 241529;Santa Colomba de Somoza;León;http://santacolombadesomoza.com/;;OFFEN (nicht erreichbar: <urlopen error [Errno -2] Name or servic);;gleich wie Hauptadresse
 241591;Santa Marina del Rey;León;https://www.aytosantamarinadelrey.es;info@aytosantamarinadelrey.es;website/;;gleich wie Hauptadresse
 241605;Santas Martas;León;http://www.aytosantasmartas.es/;info@aytosantasmartas.es;website/;;gleich wie Hauptadresse
 241710;Trabadelo;León;http://www.trabadelo.org/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
 241759;Valdefresno;León;http://www.valdefresno.org;;OFFEN (nicht erreichbar: HTTP Error 521: <none>);;gleich wie Hauptadresse
-241895;Valverde de la Virgen;León;http://www.aytovalverdedelavirgen.es/;info@aytovalverdedelavirgen.es;website/;"alberguevirgen@gmail.com; camino.urdiales@hotmail.com";Unterseite /turismo-y-ocio/albergue/index.html
+241895;Valverde de la Virgen;León;http://www.aytovalverdedelavirgen.es/;info@aytovalverdedelavirgen.es;website/;;Unterseite /turismo-y-ocio/albergue/index.html
 241980;Vega de Valcarce;León;http://www.vegadevalcarce.net/index.php;secretaria@vegadevalcarce.net;website/;;gleich wie Hauptadresse
-242053;Villadangos del Páramo;León;http://www.aytovilladangosdelparamo.es/;info@aytovilladangosdelparamo.es;website/;"grupohostelerolibertad@gmail.com; info@aytovilladangosdelparamo.es";Unterseite /turismo-y-ocio/alojamientos/index.html
+242053;Villadangos del Páramo;León;http://www.aytovilladangosdelparamo.es/;info@aytovilladangosdelparamo.es;website/;;Unterseite /turismo-y-ocio/alojamientos/index.html
 242091;Villafranca del Bierzo;León;http://www.villafrancadelbierzo.org;info@villafrancadelbierzo.org;website/;;gleich wie Hauptadresse
 242246;Villares de Órbigo;León;http://www.aytovillaresdeorbigo.es/;info@aytovillaresdeorbigo.es;website/;;gleich wie Hauptadresse
 242278;Villaturiel;León;http://www.villaturiel.com;"aytovillaturiel@aytvillaturiel.com; ojm.villaturiel@justicia.es";website/;;gleich wie Hauptadresse
@@ -65,7 +65,7 @@
 260504;Cirueña;Rioja, La;http://www.ciruenia.org/;ayuntamiento@ciruenia.org;website/;;gleich wie Hauptadresse
 260696;Grañón;Rioja, La;http://www.granon.org/;ayto@granon.es;website/;;gleich wie Hauptadresse
 260892;Logroño;Rioja, La;http://www.logro-o.org;;OFFEN (nicht erreichbar: <urlopen error [Errno -5] No address ass);;gleich wie Hauptadresse
-261026;Nájera;Rioja, La;http://www.najera.es;ayto@aytonajera.es;website/;"3901-1797120000-1797206399@najera.es; 3903-1798677000-1798684200@najera.es";Unterseite https://najera.es/agenda/?ical=1
+261026;Nájera;Rioja, La;http://www.najera.es;ayto@aytonajera.es;website/;;Unterseite https://najera.es/agenda/?ical=1
 261050;Navarrete;Rioja, La;https://www.navarrete.es/;ayto@navarrete.es;website/;;gleich wie Hauptadresse
 261389;Santo Domingo de la Calzada;Rioja, La;http://www.santodomingodelacalzada.org/;info@santodomingodelacalzada.org;website/contacto;cultura@santodomingodelacalzada.org;Adressname
 261639;Ventosa;Rioja, La;http://www.aytoventosa.org;"ayto@aytoventosa.org; turismoventosa@gmail.com";website/;turismoventosa@gmail.com;Adressname
@@ -83,7 +83,7 @@
 310581;Auritz/Burguete;Navarra;http://www.burguete.es/es/;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
 310608;Burlada/Burlata;Navarra;https://www.burlada.es/;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
 310749;Cirauqui/Zirauki;Navarra;;;OFFEN;;
-310765;Cizur;Navarra;http://www.cendeadecizur.es/;ayuntamiento@cendeadecizur.es;website/;"ayuntamiento@cendeadecizur.es; escuelainfantil@cendeadecizur.es";Unterseite https://cendeadecizur.es/nuestra-cendea/fiestas-y-
+310765;Cizur;Navarra;http://www.cendeadecizur.es/;ayuntamiento@cendeadecizur.es;website/;;Unterseite https://cendeadecizur.es/nuestra-cendea/fiestas-y-
 310924;Erro;Navarra;http://www.erroibar.net/;;OFFEN (nicht erreichbar: <urlopen error [Errno -5] No address ass);;gleich wie Hauptadresse
 310977;Estella-Lizarra;Navarra;https://www.estella-lizarra.com/;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
 310983;Esteribar;Navarra;http://www.esteribar.org/;ayuntamiento@esteribar.org;website/;;gleich wie Hauptadresse
@@ -92,7 +92,7 @@
 311831;Obanos;Navarra;;;OFFEN;;
 312016;Pamplona/Iruña;Navarra;http://www.pamplona.es/;pamplona@pamplona.es;website/;;gleich wie Hauptadresse
 312068;Puente la Reina/Gares;Navarra;http://www.puentelareina-gares.es/;;OFFEN (nicht erreichbar: <urlopen error [Errno -5] No address ass);;gleich wie Hauptadresse
-312114;Orreaga/Roncesvalles;Navarra;http://www.roncesvalles.es/;"administracion@roncesvalles.es; archivo@roncesvalles.es; casasabina@roncesvalles.es";website/;"administracion@roncesvalles.es; archivo@roncesvalles.es";Unterseite https://roncesvalles.es/patrimonio-cultural/
+312114;Orreaga/Roncesvalles;Navarra;http://www.roncesvalles.es/;"administracion@roncesvalles.es; archivo@roncesvalles.es; casasabina@roncesvalles.es";website/;;Unterseite https://roncesvalles.es/patrimonio-cultural/
 312191;Sansol;Navarra;;;OFFEN;;
 312310;Torres del Río;Navarra;;;OFFEN;;
 312460;Uterga;Navarra;;;OFFEN;;
