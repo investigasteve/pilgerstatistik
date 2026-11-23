@@ -121,10 +121,20 @@ def main():
                 ergebnis["fehler"].append(f"{jahr}: Jahr nicht gefunden"); continue
             # Mes ist standardmäßig komplett angehakt: einmal „Seleccionar todo“ = alles abwählen (= kein Filter)
             waehle("Mes", "Seleccionar todo")
-            ergebnis["log"].append(f"{jahr} nach Abwahl: {kennzahlen(s)}")
+            gesamt = kennzahlen(s).get("peregrinos")
+            ergebnis["log"].append(f"{jahr} nach Abwahl: {gesamt}")
+
+            def sauber():
+                for _ in range(3):
+                    if kennzahlen(s).get("peregrinos") == gesamt:
+                        return True
+                    waehle("Mes", "Seleccionar todo"); waehle("Mes", "Seleccionar todo")
+                return kennzahlen(s).get("peregrinos") == gesamt
             for monat in monate:
                 t0 = time.time()
                 try:
+                    if not sauber():
+                        ergebnis["fehler"].append(f"{jahr} {monat}: Filter nicht zurückgesetzt"); continue
                     aktuell.clear()
                     if not waehle("Mes", monat):
                         ergebnis["fehler"].append(f"{jahr} {monat}: nicht gefunden"); continue
