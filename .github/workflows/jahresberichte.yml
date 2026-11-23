@@ -1,0 +1,39 @@
+name: Jahresberichte 2004 bis heute einlesen
+
+on:
+  workflow_dispatch:
+    inputs:
+      von:
+        description: 'Erstes Jahr'
+        default: '2004'
+      bis:
+        description: 'Letztes Jahr'
+        default: '2026'
+
+permissions:
+  contents: write
+
+jobs:
+  einlesen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: PDF-Werkzeug
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Berichte laden und auslesen
+        run: python scripts/backfill_pdfs.py "${{ inputs.von }}" "${{ inputs.bis }}" | tee ausgabe.txt
+      - name: Ergebnis speichern
+        if: always()
+        run: |
+          git config user.name "pilgerstatistik-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || git commit -m "Jahresberichte ${{ inputs.von }}–${{ inputs.bis }}"
+          git pull --rebase
+          git push
+      - name: Kurzbericht
+        if: always()
+        run: cat ausgabe.txt >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,39 @@
+name: Täglich Pilgerdaten sammeln
+
+on:
+  schedule:
+    - cron: '17 3 * * *'   # jede Nacht, 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sammeln:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Browser einrichten
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+      - name: Power-BI-Bericht abfragen
+        run: python scripts/collect_powerbi.py
+      - name: Ergebnis speichern
+        if: always()
+        run: |
+          git config user.name "pilgerstatistik-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || git commit -m "Pilgerdaten $(date -u +%F)"
+          git pull --rebase
+          git push
+      - name: Kurzbericht
+        if: always()
+        run: |
+          d=$(date -u +%F)
+          echo "### Pilgerdaten $d" >> "$GITHUB_STEP_SUMMARY"
+          cat "data/powerbi/$d/diagnose.json" >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "keine Diagnose" >> "$GITHUB_STEP_SUMMARY"
