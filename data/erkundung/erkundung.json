@@ -1,0 +1,1416 @@
+{
+ "datum": "2026-11-23",
+ "schritte": [
+  "klick .slicer-dropdown-menu"
+ ],
+ "visuals": [
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Información Estadística Oficina Peregrino  para 2026 hasta noviembre"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderBelow",
+   "x": 655,
+   "y": 0,
+   "w": 292,
+   "h": 33,
+   "text": "Información Estadística Oficina Peregrino  para 2026 hasta noviembre"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 918,
+   "y": 42,
+   "w": 87,
+   "h": 33,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Peregrinos | 569.141"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 584,
+   "y": 64,
+   "w": 46,
+   "h": 28,
+   "text": "Peregrinos | 569.141"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Españoles | 218.370"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 643,
+   "y": 64,
+   "w": 46,
+   "h": 28,
+   "text": "Españoles | 218.370"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Extranjeros | 350.771"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 701,
+   "y": 64,
+   "w": 46,
+   "h": 28,
+   "text": "Extranjeros | 350.771"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Ultimo día : 22/11/2026 | 379"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 760,
+   "y": 64,
+   "w": 46,
+   "h": 28,
+   "text": "Ultimo día : 22/11/2026 | 379"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Españoles | 38 %"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 817,
+   "y": 64,
+   "w": 46,
+   "h": 28,
+   "text": "% Españoles | 38 %"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Variación año anterior | 8 %"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 869,
+   "y": 64,
+   "w": 46,
+   "h": 28,
+   "text": "% Variación año anterior | 8 %"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Año | 2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 926,
+   "y": 81,
+   "w": 40,
+   "h": 24,
+   "text": "Año | 2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Mes | Todas"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 967,
+   "y": 81,
+   "w": 56,
+   "h": 24,
+   "text": "Mes | Todas"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Camino | Todas"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 582,
+   "y": 117,
+   "w": 333,
+   "h": 28,
+   "text": "Camino | Todas"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Peregrinos por camino | Camino Francés | Camino Port… | Camino Portugués por… | Camino I"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 946,
+   "y": 135,
+   "w": 80,
+   "h": 113,
+   "text": "Peregrinos por camino | Camino Francés | Camino Port… | Camino Portugués por… | Camino I"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 886,
+   "y": 145,
+   "w": 26,
+   "h": 7,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 913,
+   "y": 145,
+   "w": 26,
+   "h": 7,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 842,
+   "y": 149,
+   "w": 41,
+   "h": 14,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 892,
+   "y": 149,
+   "w": 16,
+   "h": 15,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 920,
+   "y": 149,
+   "w": 14,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 591,
+   "y": 151,
+   "w": 59,
+   "h": 10,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Número Peregrinos por camino | 0,0 mill. | 0,1 mill. | 0,2 mill. | camino | Total Peregrin"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 588,
+   "y": 163,
+   "w": 179,
+   "h": 85,
+   "text": "Número Peregrinos por camino | 0,0 mill. | 0,1 mill. | 0,2 mill. | camino | Total Peregrin"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Camino | 43,01% | 20,03% | 19,51% | 5,56% | 4,51% | 3,7% | 0,47% | Camino | Camin"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 770,
+   "y": 164,
+   "w": 149,
+   "h": 84,
+   "text": "% Peregrinos por Camino | 43,01% | 20,03% | 19,51% | 5,56% | 4,51% | 3,7% | 0,47% | Camino | Camin"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Pais | Todas"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 582,
+   "y": 252,
+   "w": 331,
+   "h": 24,
+   "text": "Pais | Todas"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Peregrinos por Pais | Desplazarse hacia arriba | Desplazarse hacia abajo | Desplazar a"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 946,
+   "y": 268,
+   "w": 77,
+   "h": 114,
+   "text": "Peregrinos por Pais | Desplazarse hacia arriba | Desplazarse hacia abajo | Desplazar a"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 886,
+   "y": 276,
+   "w": 26,
+   "h": 7,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 913,
+   "y": 276,
+   "w": 26,
+   "h": 7,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 591,
+   "y": 280,
+   "w": 59,
+   "h": 10,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 842,
+   "y": 280,
+   "w": 41,
+   "h": 14,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 892,
+   "y": 280,
+   "w": 16,
+   "h": 15,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 920,
+   "y": 280,
+   "w": 14,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Pais | 38,37% | 9,08% | 7,76% | 4,29% | 4,28% | 2,71% | 2,48% | 2,3% | 1,87% | 1,86"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 779,
+   "y": 292,
+   "w": 150,
+   "h": 87,
+   "text": "% Peregrinos por Pais | 38,37% | 9,08% | 7,76% | 4,29% | 4,28% | 2,71% | 2,48% | 2,3% | 1,87% | 1,86"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Número Peregrinos por País | 0,0 mill. | 0,1 mill. | 0,2 mill. | Pais | Número Peregrinos | "
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 588,
+   "y": 295,
+   "w": 179,
+   "h": 83,
+   "text": "Número Peregrinos por País | 0,0 mill. | 0,1 mill. | 0,2 mill. | Pais | Número Peregrinos | "
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Autonomía | Todas"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 583,
+   "y": 381,
+   "w": 332,
+   "h": 26,
+   "text": "Autonomía | Todas"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Autonomia | Andalucia | Madrid | Comunidad Valenci… | Cataluña | Castilla"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 946,
+   "y": 397,
+   "w": 80,
+   "h": 113,
+   "text": "% Peregrinos por Autonomia | Andalucia | Madrid | Comunidad Valenci… | Cataluña | Castilla"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 886,
+   "y": 407,
+   "w": 26,
+   "h": 7,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 913,
+   "y": 407,
+   "w": 26,
+   "h": 7,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 842,
+   "y": 409,
+   "w": 41,
+   "h": 14,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 892,
+   "y": 410,
+   "w": 16,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 920,
+   "y": 410,
+   "w": 14,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Número Peregrinos por Autonomía | 0 mil | 20 mil | 40 mil | 60 mil | Autonomia | Número Pere"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 584,
+   "y": 423,
+   "w": 170,
+   "h": 83,
+   "text": "Número Peregrinos por Autonomía | 0 mil | 20 mil | 40 mil | 60 mil | Autonomia | Número Pere"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Autonomia | 23,03% | 17,84% | 12,05% | 9,59% | 6,13% | 5,64% | 5,06% | 4,32% | 3,"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 779,
+   "y": 423,
+   "w": 149,
+   "h": 87,
+   "text": "% Peregrinos por Autonomia | 23,03% | 17,84% | 12,05% | 9,59% | 6,13% | 5,64% | 5,06% | 4,32% | 3,"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Procedencia | Todas"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 583,
+   "y": 510,
+   "w": 332,
+   "h": 25,
+   "text": "Procedencia | Todas"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Peregrinos por Procedencia | Desplazarse hacia arriba | Desplazarse hacia abajo | Desp"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 944,
+   "y": 527,
+   "w": 82,
+   "h": 118,
+   "text": "Peregrinos por Procedencia | Desplazarse hacia arriba | Desplazarse hacia abajo | Desp"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 913,
+   "y": 535,
+   "w": 26,
+   "h": 7,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 886,
+   "y": 536,
+   "w": 26,
+   "h": 6,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 840,
+   "y": 538,
+   "w": 43,
+   "h": 14,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 920,
+   "y": 539,
+   "w": 14,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 892,
+   "y": 539,
+   "w": 16,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 591,
+   "y": 540,
+   "w": 59,
+   "h": 10,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Número Peregrinos por Procedencia | 0 mil | 50 mil | 100 mil | 150 mil | 200 mil | Procedenc"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 581,
+   "y": 552,
+   "w": 170,
+   "h": 83,
+   "text": "Número Peregrinos por Procedencia | 0 mil | 50 mil | 100 mil | 150 mil | 200 mil | Procedenc"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Procedencia | 29,37% | 8,13% | 5,39% | 5,27% | 5,27% | 5,1% | 4,76% | 4,39% | 3,9"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 779,
+   "y": 552,
+   "w": 149,
+   "h": 86,
+   "text": "% Peregrinos por Procedencia | 29,37% | 8,13% | 5,39% | 5,27% | 5,27% | 5,1% | 4,76% | 4,39% | 3,9"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Motivo | Medio | Edad | Genero | Mes"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 577,
+   "y": 645,
+   "w": 338,
+   "h": 18,
+   "text": "Motivo | Medio | Edad | Genero | Mes"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Motivo | Religioso | Otros | No Religioso | Desconoci… | 44,22% | 30,57% | 18"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 944,
+   "y": 658,
+   "w": 82,
+   "h": 109,
+   "text": "% Peregrinos por Motivo | Religioso | Otros | No Religioso | Desconoci… | 44,22% | 30,57% | 18"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 886,
+   "y": 668,
+   "w": 26,
+   "h": 6,
+   "text": "GRÁFICO"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 913,
+   "y": 668,
+   "w": 26,
+   "h": 6,
+   "text": "TABLA"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 840,
+   "y": 671,
+   "w": 43,
+   "h": 14,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 892,
+   "y": 671,
+   "w": 16,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 920,
+   "y": 671,
+   "w": 14,
+   "h": 14,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Motivo | 44,22% | 30,57% | 18% | 7,2% | Motivo | Religioso | Otros | No Religio"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 769,
+   "y": 683,
+   "w": 157,
+   "h": 84,
+   "text": "% Peregrinos por Motivo | 44,22% | 30,57% | 18% | 7,2% | Motivo | Religioso | Otros | No Religio"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Número Peregrinos por Motivo | 0,0 mill. | 0,1 mill. | 0,2 mill. | 0,3 mill. | Motivo | Núme"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 581,
+   "y": 683,
+   "w": 170,
+   "h": 84,
+   "text": "Número Peregrinos por Motivo | 0,0 mill. | 0,1 mill. | 0,2 mill. | 0,3 mill. | Motivo | Núme"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Camino | Nacional/Extranjero | Genero"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 577,
+   "y": 779,
+   "w": 163,
+   "h": 15,
+   "text": "Camino | Nacional/Extranjero | Genero"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "% Peregrinos por Camino | Otros | 99,99%"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 944,
+   "y": 787,
+   "w": 82,
+   "h": 105,
+   "text": "% Peregrinos por Camino | Otros | 99,99%"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "2026"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 840,
+   "y": 798,
+   "w": 43,
+   "h": 14,
+   "text": "2026"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 591,
+   "y": 800,
+   "w": 59,
+   "h": 10,
+   "text": "Borrar todos los Filtros"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Número Peregrinos por Mes y Camino | 0 mil | 50 mil | 100 mil | Mes | Número Peregrinos | en"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder visualHeaderAbove droppableElem",
+   "x": 586,
+   "y": 810,
+   "w": 332,
+   "h": 87,
+   "text": "Número Peregrinos por Mes y Camino | 0 mil | 50 mil | 100 mil | Mes | Número Peregrinos | en"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Eje Temporal"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 800,
+   "y": 904,
+   "w": 42,
+   "h": 6,
+   "text": "Eje Temporal"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Año"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 800,
+   "y": 909,
+   "w": 63,
+   "h": 13,
+   "text": "Año"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": "Mes"
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder paddingDisabled noVisualTitle v",
+   "x": 863,
+   "y": 909,
+   "w": 63,
+   "h": 13,
+   "text": "Mes"
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 964,
+   "y": 913,
+   "w": 64,
+   "h": 27,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 570,
+   "y": 920,
+   "w": 124,
+   "h": 20,
+   "text": ""
+  },
+  {
+   "cls": "visual-container-component",
+   "x": 570,
+   "y": 0,
+   "w": 0,
+   "h": 0,
+   "text": ""
+  },
+  {
+   "cls": "visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderAbove",
+   "x": 642,
+   "y": 920,
+   "w": 312,
+   "h": 20,
+   "text": ""
+  }
+ ],
+ "slicer": [
+  {
+   "tag": "DIV",
+   "cls": "visual customPadding allow-deferred-rendering visual-slicer",
+   "aria": null,
+   "txt": "Año | 2026"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-container",
+   "aria": null,
+   "txt": "Año | 2026"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-wrapper",
+   "aria": null,
+   "txt": "Año"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header",
+   "aria": null,
+   "txt": "Año"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-title",
+   "aria": null,
+   "txt": "Año"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "slicer-header-clear enable-hover",
+   "aria": "Borrar selecciones",
+   "txt": ""
+  },
+  {
+   "tag": "H3",
+   "cls": "slicer-header-text",
+   "aria": "Año",
+   "txt": "Año"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-pending-text",
+   "aria": null,
+   "txt": "(Aún no se ha aplicado)"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "path",
+   "cls": "[object SVGAnimatedString]",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-spacer",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-content-wrapper",
+   "aria": null,
+   "txt": "2026"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-dropdown-menu",
+   "aria": "Año",
+   "txt": "2026"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-restatement",
+   "aria": null,
+   "txt": "2026"
+  },
+  {
+   "tag": "DIV",
+   "cls": "visual customPadding allow-deferred-rendering visual-slicer",
+   "aria": null,
+   "txt": "Mes | Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-container",
+   "aria": null,
+   "txt": "Mes | Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-wrapper",
+   "aria": null,
+   "txt": "Mes"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header",
+   "aria": null,
+   "txt": "Mes"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-title",
+   "aria": null,
+   "txt": "Mes"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "slicer-header-clear enable-hover",
+   "aria": "Borrar selecciones",
+   "txt": ""
+  },
+  {
+   "tag": "H3",
+   "cls": "slicer-header-text",
+   "aria": "Mes",
+   "txt": "Mes"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-pending-text",
+   "aria": null,
+   "txt": "(Aún no se ha aplicado)"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "path",
+   "cls": "[object SVGAnimatedString]",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-spacer",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-content-wrapper",
+   "aria": null,
+   "txt": "Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-dropdown-menu",
+   "aria": "Mes",
+   "txt": "Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-restatement",
+   "aria": null,
+   "txt": "Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "visual customPadding allow-deferred-rendering visual-slicer",
+   "aria": null,
+   "txt": "Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-container",
+   "aria": null,
+   "txt": "Todas"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-wrapper",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-title",
+   "aria": null,
+   "txt": "camino(Aún no se ha aplicado) |         "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "slicer-header-clear enable-hover",
+   "aria": "Borrar selecciones",
+   "txt": ""
+  },
+  {
+   "tag": "H3",
+   "cls": "slicer-header-text",
+   "aria": "camino",
+   "txt": "camino"
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-pending-text",
+   "aria": null,
+   "txt": "(Aún no se ha aplicado)"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "path",
+   "cls": "[object SVGAnimatedString]",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-header-spacer",
+   "aria": null,
+   "txt": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "slicer-content-wrapper",
+   "aria": null,
+   "txt": "Todas"
+  }
+ ],
+ "optionen": [
+  "Camino Francés",
+  "Camino Portugués",
+  "Camino Portugués por…",
+  "Camino Inglés",
+  "Camino Primitivo",
+  "Camino del Norte",
+  "Vía de la Plata",
+  "Camino de Invierno",
+  "Muxía - Finisterre",
+  "Otros Caminos",
+  "España",
+  "Estados Unidos",
+  "Italia",
+  "Alemania",
+  "Portugal",
+  "Reino Unido",
+  "México",
+  "Desconocido",
+  "Irlanda",
+  "Polonia",
+  "Andalucia",
+  "Madrid",
+  "Comunidad Valenciana",
+  "Cataluña",
+  "Castilla La Mancha",
+  "Galicia",
+  "Canarias",
+  "Castilla León",
+  "Murcia",
+  "Extremadura",
+  "Sarria",
+  "Tui",
+  "Ferrol",
+  "S. Jean P. Port",
+  "Oporto",
+  "Oporto Costa",
+  "Vigo",
+  "Porto (por Tui)",
+  "Valença do Minho",
+  "Oviedo - C.P.",
+  "Motivo",
+  "Motivo",
+  "Medio",
+  "Medio",
+  "Edad",
+  "Edad",
+  "Genero",
+  "Genero",
+  "Mes",
+  "Mes",
+  "Religioso",
+  "Otros",
+  "No Religioso",
+  "Desconocido",
+  "Camino",
+  "Camino",
+  "Nacional/Extranjero",
+  "Nacional/Extranjero",
+  "Genero",
+  "Genero"
+ ]
+}
