@@ -1,0 +1,10 @@
+== e05250001-base-general-de-datos-de-entidades-locales
+titel: [{"_value": "Base de datos general de entidades locales", "_lang": "es"}]
+  dist: https://serviciostelematicosext.hacienda.gob.es/sgcief/InventarioBDGEL/Home/ConsultaBDGEL | {"_about": "https://datos.gob.es/catalogo/e05250001-base-gen
+  dist: https://www.hacienda.gob.es/SGFAL/DGCFEL/metodologiabdgel-2017-05-25.pdf | {"_about": "https://datos.gob.es/catalogo/e05250001-base-gen
+== e05232701-registro-de-entidades-locales-busqueda-por-municipios
+titel: [{"_value": "Registro de entidades locales: búsqueda por municipios", "_lang": "es"}]
+Fehler: 'str' object has no attribute 'get'
+== e05232701-registro-de-alcaldes
+titel: [{"_value": "Registro de alcaldes", "_lang": "es"}]
+Fehler: 'str' object has no attribute 'get'
