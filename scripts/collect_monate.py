@@ -101,6 +101,18 @@ def main():
         print("Mes-Einträge:", mes_liste, flush=True)
         s.keyboard.press("Escape"); s.wait_for_timeout(500)
         if os.environ.get("ERKUNDEN"):
+            oeffne("Mes")
+            ergebnis["dom"] = s.evaluate("""() => {
+              const v = [...document.querySelectorAll('.slicerItemContainer')].filter(e => e.offsetParent !== null && e.getBoundingClientRect().height > 0);
+              const out = {sichtbar: v.map(e => e.innerText.trim()), ketten: []};
+              if (v[0]) { let e = v[0]; for (let i = 0; i < 8 && e; i++, e = e.parentElement) out.ketten.push({tag: e.tagName, cls: e.className && e.className.toString().slice(0,80), sh: e.scrollHeight, ch: e.clientHeight, oy: getComputedStyle(e).overflowY}); }
+              out.inputs = [...document.querySelectorAll('input')].map(i => ({cls: i.className, ph: i.placeholder, vis: i.offsetParent !== null}));
+              out.scrollbars = [...document.querySelectorAll('[class*=scroll]')].filter(e => e.offsetParent !== null).slice(0,15).map(e => ({cls: e.className.toString().slice(0,80), sh: e.scrollHeight, ch: e.clientHeight}));
+              return out; }""")
+            s.keyboard.press("End"); s.wait_for_timeout(800)
+            ergebnis["nach_end"] = [e for e in eintraege(s)]
+            s.keyboard.press("PageDown"); s.wait_for_timeout(800)
+            ergebnis["nach_pagedown"] = eintraege(s)
             s.screenshot(path=str(ZIEL / "erkunden.png"))
             (ROOT / "data" / "monate-powerbi.json").write_text(json.dumps(ergebnis, ensure_ascii=False, indent=1), encoding="utf-8")
             return
