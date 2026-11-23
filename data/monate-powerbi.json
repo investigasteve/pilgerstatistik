@@ -12,25 +12,8 @@
    }
   }
  },
- "fehler": [
-  "2025 agosto: nicht gefunden",
-  "2025 septiembre: nicht gefunden"
- ],
- "log": [
-  "2025 nach Abwahl: {'peregrinos': 530716, 'españoles': 228109, 'extranjeros': 302607}",
-  "suche agosto via input.searchInput:visible: leer",
-  "suche agosto via input[placeholder*='uscar' i]:visible: leer",
-  "suche agosto via input[aria-label*='uscar' i]:visible: leer",
-  "suche agosto via .slicer-dropdown-popup input:visible: leer",
-  "suche agosto via input[type=text]:visible: leer",
-  "nicht gefunden agosto: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
-  "suche septiembre via input.searchInput:visible: leer",
-  "suche septiembre via input[placeholder*='uscar' i]:visible: leer",
-  "suche septiembre via input[aria-label*='uscar' i]:visible: leer",
-  "suche septiembre via .slicer-dropdown-popup input:visible: leer",
-  "suche septiembre via input[type=text]:visible: leer",
-  "nicht gefunden septiembre: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo"
- ],
+ "fehler": [],
+ "log": [],
  "mes_sichtbar": [
   "Seleccionar todo",
   "enero",
@@ -52,5 +35,413 @@
   "octubre",
   "noviembre",
   "diciembre"
+ ],
+ "dom": {
+  "sichtbar": [
+   "Seleccionar todo",
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo"
+  ],
+  "ketten": [
+   {
+    "tag": "DIV",
+    "cls": "slicerItemContainer",
+    "sh": 42,
+    "ch": 42,
+    "oy": "hidden"
+   },
+   {
+    "tag": "DIV",
+    "cls": "row",
+    "sh": 42,
+    "ch": 42,
+    "oy": "visible"
+   },
+   {
+    "tag": "DIV",
+    "cls": "visibleGroup",
+    "sh": 252,
+    "ch": 252,
+    "oy": "visible"
+   },
+   {
+    "tag": "DIV",
+    "cls": "scrollRegion",
+    "sh": 546,
+    "ch": 546,
+    "oy": "hidden"
+   },
+   {
+    "tag": "DIV",
+    "cls": "scrollbar-inner scroll-content scroll-scrolly_visible",
+    "sh": 546,
+    "ch": 173,
+    "oy": "scroll"
+   },
+   {
+    "tag": "DIV",
+    "cls": "scroll-wrapper scrollbar-inner",
+    "sh": 173,
+    "ch": 173,
+    "oy": "hidden"
+   },
+   {
+    "tag": "DIV",
+    "cls": "slicerBody",
+    "sh": 173,
+    "ch": 173,
+    "oy": "visible"
+   },
+   {
+    "tag": "DIV",
+    "cls": "slicerContainer",
+    "sh": 200,
+    "ch": 200,
+    "oy": "auto"
+   }
+  ],
+  "inputs": [
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "",
+    "ph": "",
+    "vis": true
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": true
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   },
+   {
+    "cls": "searchInput",
+    "ph": "Buscar",
+    "vis": false
+   }
+  ],
+  "scrollbars": [
+   {
+    "cls": "scrollUp visually-hidden",
+    "sh": 21,
+    "ch": 1
+   },
+   {
+    "cls": "scrollDown visually-hidden",
+    "sh": 21,
+    "ch": 1
+   },
+   {
+    "cls": "scrollLeft visually-hidden",
+    "sh": 21,
+    "ch": 1
+   },
+   {
+    "cls": "scrollRight visually-hidden",
+    "sh": 21,
+    "ch": 1
+   },
+   {
+    "cls": "scrollable-cells-viewport ",
+    "sh": 26,
+    "ch": 26
+   },
+   {
+    "cls": "scrollable-cells-container ",
+    "sh": 26,
+    "ch": 26
+   },
+   {
+    "cls": "scrollable-cells-viewport ",
+    "sh": 18,
+    "ch": 18
+   },
+   {
+    "cls": "scrollable-cells-container ",
+    "sh": 18,
+    "ch": 18
+   },
+   {
+    "cls": "scrollable-cells-viewport ",
+    "sh": 35,
+    "ch": 35
+   },
+   {
+    "cls": "scrollable-cells-container ",
+    "sh": 35,
+    "ch": 35
+   },
+   {
+    "cls": "scrollable-cells-viewport ",
+    "sh": 18,
+    "ch": 18
+   },
+   {
+    "cls": "scrollable-cells-container ",
+    "sh": 18,
+    "ch": 18
+   },
+   {
+    "cls": "scrollable-cells-viewport ",
+    "sh": 18,
+    "ch": 18
+   },
+   {
+    "cls": "scrollable-cells-container ",
+    "sh": 18,
+    "ch": 18
+   },
+   {
+    "cls": "scrollable-cells-viewport ",
+    "sh": 18,
+    "ch": 18
+   }
+  ]
+ },
+ "nach_end": [
+  "Seleccionar todo",
+  "enero",
+  "febrero",
+  "marzo",
+  "abril",
+  "mayo"
+ ],
+ "nach_pagedown": [
+  "Seleccionar todo",
+  "enero",
+  "febrero",
+  "marzo",
+  "abril",
+  "mayo"
  ]
 }
