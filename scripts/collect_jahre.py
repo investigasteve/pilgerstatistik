@@ -29,6 +29,12 @@ def kennzahlen(seite):
 
 def main():
     ergebnis = {"stand": datetime.date.today().isoformat(), "jahre": {}, "fehler": []}
+    alt = ROOT / "data" / "jahre-powerbi.json"
+    if alt.exists():
+        try:
+            ergebnis["jahre"] = json.loads(alt.read_text(encoding="utf-8")).get("jahre", {})
+        except Exception:
+            pass
     with sync_playwright() as p:
         b = p.chromium.launch()
         ctx = b.new_context(viewport={"width": 1600, "height": 1000}, locale="es-ES")
@@ -54,7 +60,12 @@ def main():
 
         def finde(jahr):
             """Sucht den Eintrag; scrollt die Liste bei Bedarf."""
-            for _ in range(14):
+            try:
+                s.evaluate('''() => { let e = document.querySelector('.slicerItemContainer'); while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement; if (e) e.scrollTop = 0; }''')
+                s.wait_for_timeout(300)
+            except Exception:
+                pass
+            for _ in range(24):
                 el = s.locator(".slicerItemContainer", has_text=str(jahr))
                 for i in range(el.count()):
                     if (el.nth(i).inner_text() or "").strip() == str(jahr):
