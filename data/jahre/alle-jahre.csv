@@ -1,0 +1,295 @@
+jahr,tabelle,name,wert,prozent
+2004,Profesiones,De 30 a,60,66783.0
+2004,Profesiones,Mayores de,60,14561.0
+2004,Profesiones,Menores de,30,98600.0
+2005,Profesiones,De 36 a,65,53294.0
+2005,Profesiones,Mayores de,60,10413.0
+2005,Profesiones,Menores de,30,30217.0
+2006,Profesiones,De 36 a,65,49558.0
+2006,Profesiones,Más de,65,4843.0
+2006,Profesiones,De 19 a,35,35266.0
+2006,Profesiones,De 13 a,18,9780.0
+2006,Profesiones,De 0 a,12,930.0
+2007,Profesiones,De 36 a,65,58631.0
+2007,Profesiones,Más de,65,6298.0
+2007,Profesiones,De 19 a,35,37689.0
+2007,Profesiones,De 13 a,18,10338.0
+2007,Profesiones,De 0 a,12,1070.0
+2008,Profesiones,De 36 a,65,65364.0
+2008,Profesiones,Más de,65,7158.0
+2008,Profesiones,De 19 a,35,41123.0
+2008,Profesiones,De 13 a,18,10403.0
+2008,Profesiones,De 0 a,12,1093.0
+2009,Profesiones,De 36 a,65,73293.0
+2009,Profesiones,Más de,65,7874.0
+2009,Profesiones,De 19 a,35,51135.0
+2009,Profesiones,De 13 a,18,12303.0
+2009,Profesiones,De 0 a,12,1272.0
+2019,Caminos,Frances-Camino de,189937,54.65
+2019,Caminos,Sarria,96124,27.66
+2019,Caminos,Portugués-Camino,72357,20.82
+2019,Caminos,S. Jean P. Port,33197,9.55
+2019,Caminos,Oporto,27924,8.03
+2019,Caminos,Tui,22814,6.56
+2019,Caminos,Costa Camino Portugués,22292,6.41
+2019,Caminos,Norte-Camino de,19019,5.47
+2019,Caminos,Inglés-Camino,15780,4.54
+2019,Caminos,Primitivo-Camino,15715,4.52
+2019,Caminos,Ferrol,15097,4.34
+2019,Caminos,Oporto Costa,11421,3.29
+2019,Caminos,León,10505,3.02
+2019,Caminos,Valença do Minho,10490,3.02
+2019,Caminos,Oviedo - C.P.,9531,2.74
+2019,Caminos,Vía de la Plata,9201,2.65
+2019,Caminos,Cebreiro,8367,2.41
+2019,Caminos,Ponferrada,6804,1.96
+2019,Caminos,Irún,5580,1.61
+2019,Caminos,Roncesvalles,4920,1.42
+2019,Caminos,Astorga,4513,1.3
+2019,Caminos,Lugo - C.P.,4165,1.2
+2019,Caminos,Ourense,4163,1.2
+2019,Caminos,Le Puy,3180,0.91
+2019,Caminos,Pamplona,3039,0.87
+2019,Caminos,Lisboa,2651,0.76
+2019,Caminos,Vigo,2638,0.76
+2019,Caminos,Triacastela,2637,0.76
+2019,Caminos,Muxía-Finisterre,1548,0.45
+2019,Caminos,Invierno de Camino,1035,0.3
+2019,Caminos,Otros caminos,694,0.2
+2019,Edades,<30,92970,26.75
+2019,Edades,>60,65103,18.73
+2019,Medios,Pie,327281,94.16
+2019,Medios,Bicicleta,19563,5.63
+2019,Medios,Caballo,406,0.12
+2019,Medios,Vela,243,0.07
+2019,Medios,Silla de ruedas,85,0.02
+2019,Motivos,Religioso y otros,169314,48.71
+2019,Motivos,Religioso,140110,40.31
+2019,Motivos,No religioso,38154,10.98
+2019,Países,España,146350,42.11
+2019,Países,Andalucía,33155,22.76
+2019,Países,Italia,28749,8.27
+2019,Países,Madrid,27683,19.01
+2019,Países,Alemania,26167,7.53
+2019,Países,Estados Unidos,20652,5.94
+2019,Países,Comunidad Valenciana,17830,12.24
+2019,Países,Portugal,17450,5.02
+2019,Países,Cataluña,13183,9.05
+2019,Países,Francia,9248,2.66
+2019,Países,Reino Unido,9132,2.63
+2019,Países,Galicia,8309,5.7
+2019,Países,Corea,8224,2.37
+2019,Países,Castilla la Mancha,7855,5.39
+2019,Países,Castilla León,6918,4.75
+2019,Países,Irlanda,6826,1.96
+2019,Países,Brasil,6025,1.73
+2019,Países,Canarias,5435,3.73
+2019,Países,Australia,5301,1.53
+2019,Países,Canadá,5279,1.52
+2019,Países,Polonia,4874,1.4
+2019,Países,Extremadura,4846,3.33
+2019,Países,Murcia,4618,3.17
+2019,Países,País Vasco,4523,3.11
+2019,Países,Holanda,4195,1.21
+2019,Países,México,4091,1.18
+2019,Países,Argentina,2954,0.85
+2019,Países,Aragón,2891,1.98
+2019,Países,Asturias,2817,1.93
+2019,Países,Dinamarca,2610,0.75
+2019,Países,Rusia,2605,0.75
+2019,Países,República Checa,2494,0.72
+2019,Países,Belgica,2335,0.67
+2019,Países,Colombia,2313,0.67
+2019,Países,Austria,2136,0.61
+2019,Países,Baleares,2005,1.38
+2019,Países,Sudáfrica,1780,0.51
+2019,Países,Taiwán,1625,0.47
+2019,Países,Suiza,1554,0.45
+2019,Países,Suecia,1481,0.43
+2019,Países,Japón,1452,0.42
+2019,Países,Hungría,1201,0.35
+2019,Países,Navarra,1128,0.77
+2019,Países,Eslovaquia,1127,0.32
+2019,Países,China,1062,0.31
+2019,Países,Ucrania,1052,0.3
+2019,Países,Cantabria,1044,0.72
+2019,Países,Nueva Zelanda,914,0.26
+2019,Países,Venezuela,877,0.25
+2019,Países,Eslovenia,855,0.25
+2019,Países,Rumania,848,0.24
+2019,Países,Lituania,777,0.22
+2019,Países,Finlandia,755,0.22
+2019,Países,Noruega,684,0.2
+2019,Países,La Rioja,629,0.43
+2019,Países,Uruguay,614,0.18
+2019,Países,Croacia,607,0.17
+2019,Países,Bulgaria,587,0.17
+2019,Países,Filipinas,528,0.15
+2019,Países,Chile,481,0.14
+2019,Países,Residentes Extranjero,465,0.32
+2019,Países,Israel,440,0.13
+2019,Países,Singapur,436,0.13
+2019,Países,Ecuador,432,0.12
+2019,Países,Puerto Rico,331,0.1
+2019,Países,Perú,326,0.09
+2019,Países,Malta,287,0.08
+2019,Países,Costa Rica,280,0.08
+2019,Países,Islandia,259,0.07
+2019,Países,Estonia,236,0.07
+2019,Países,Letonia,214,0.06
+2019,Países,Ceuta,188,0.13
+2019,Países,Bielorrusia,174,0.05
+2019,Países,India,168,0.05
+2019,Países,Malasia,168,0.05
+2019,Países,Guatemala,149,0.04
+2019,Países,Luxemburgo,137,0.04
+2019,Países,Melilla,137,0.09
+2019,Países,Argelia,135,0.04
+2019,Países,Andorra,135,0.04
+2019,Países,Indonesia,130,0.04
+2019,Países,Hong Kong,126,0.04
+2019,Países,Paraguay,106,0.03
+2019,Países,Rep. Dominicana,103,0.03
+2019,Países,Grecia,100,0.03
+2019,Países,Irak,97,0.03
+2019,Países,Cuba,95,0.03
+2019,Países,Bolivia,84,0.02
+2019,Países,Panamá,80,0.02
+2019,Países,Turquía,76,0.02
+2019,Países,Honduras,68,0.02
+2019,Países,Líbano,66,0.02
+2019,Países,Marruecos,64,0.02
+2019,Países,El Salvador,61,0.02
+2019,Países,Nicaragua,46,0.01
+2019,Países,Emiratos Arabes Unidos,43,0.01
+2019,Países,Cabo Verde,43,0.01
+2019,Países,Armenia,42,0.01
+2019,Países,Namibia,42,0.01
+2019,Países,Tailandia,41,0.01
+2019,Países,Serbia,40,0.01
+2019,Países,Moldavia,38,0.01
+2019,Países,Albania,32,0.01
+2019,Países,Jamaica,31,0.01
+2019,Países,Macedonia,29,0.01
+2019,Países,Egipto,29,0.01
+2019,Países,Georgia,27,0.01
+2019,Países,Nueva Caledonia,26,0.01
+2019,Países,Irán,25,0.01
+2019,Países,Vietnam,23,0.01
+2019,Países,Omán,20,0.01
+2019,Países,Jordania,19,0.01
+2019,Países,Kazajistán,19,0.01
+2019,Países,Camerún,17,0.0
+2019,Países,Nigeria,16,0.0
+2019,Países,Islas Feroe,16,0.0
+2019,Países,Kenya,15,0.0
+2019,Países,Swazilandia,15,0.0
+2019,Países,Madagascar,15,0.0
+2019,Países,Bosnia,15,0.0
+2019,Países,Laos,14,0.0
+2019,Países,Angola,13,0.0
+2019,Países,Zimbabwe,13,0.0
+2019,Países,Guinea,13,0.0
+2019,Países,Urbekistán,12,0.0
+2019,Países,Comores,12,0.0
+2019,Países,Dominica,12,0.0
+2019,Países,Costa de Marfil,11,0.0
+2019,Países,San Marino,10,0.0
+2019,Países,Arabia Saudita,10,0.0
+2019,Países,Chipre,9,0.0
+2019,Países,Rwanda,9,0.0
+2019,Países,Afganistán,8,0.0
+2019,Países,Sri Lanka,8,0.0
+2019,Países,Trinidad y Tobago,8,0.0
+2019,Países,Túnez,8,0.0
+2019,Países,Mauritania,7,0.0
+2019,Países,Montenegro,7,0.0
+2019,Países,Pakistán,7,0.0
+2019,Países,Palau,6,0.0
+2019,Países,Qatar,6,0.0
+2019,Países,Etiopía,6,0.0
+2019,Países,Siria,6,0.0
+2019,Países,Camboya,6,0.0
+2019,Países,Mónaco,6,0.0
+2019,Países,Nepal,6,0.0
+2019,Países,Liberia,6,0.0
+2019,Países,Haití,6,0.0
+2019,Países,Bangladesh,5,0.0
+2019,Países,Groenlandia,5,0.0
+2019,Países,Tuvalu,5,0.0
+2019,Países,Senegal,5,0.0
+2019,Países,Mozambique,5,0.0
+2019,Países,Barbados,5,0.0
+2019,Países,Tanzania,5,0.0
+2019,Países,Rep. Centroafricana,5,0.0
+2019,Países,Gabón,4,0.0
+2019,Países,I. Reunión,4,0.0
+2019,Países,Liechtensein,4,0.0
+2019,Países,Palestina,4,0.0
+2019,Países,Botswana,4,0.0
+2019,Países,Zambia,4,0.0
+2019,Países,Bermudas,4,0.0
+2019,Países,Bahamas,3,0.0
+2019,Países,Surinam,3,0.0
+2019,Países,Libia,3,0.0
+2019,Países,Timor Oriental,3,0.0
+2019,Países,Eritrea,3,0.0
+2019,Países,Ghana,3,0.0
+2019,Países,Tayikistán,2,0.0
+2019,Países,Gambia,2,0.0
+2019,Países,Antillas Holandesas,2,0.0
+2019,Países,Uganda,2,0.0
+2019,Países,Sudán,2,0.0
+2019,Países,Kuwait,2,0.0
+2019,Países,Congo,2,0.0
+2019,Países,Zaire,2,0.0
+2019,Países,Mongolia,2,0.0
+2019,Países,Kosovo,2,0.0
+2019,Países,Aruba,2,0.0
+2019,Países,Azerbaiyán,2,0.0
+2019,Países,Islas Caimán,2,0.0
+2019,Países,Vanuatu,2,0.0
+2019,Países,Fiji,2,0.0
+2019,Países,Mauricio,2,0.0
+2019,Países,Kirguistán,2,0.0
+2019,Países,Burkina Faso,2,0.0
+2019,Países,Chad,2,0.0
+2019,Países,Sin establecer,2,0.0
+2019,Países,Belice,1,0.0
+2019,Países,Brunei,1,0.0
+2019,Países,Islas Vírgenes,1,0.0
+2019,Países,Papúa - Nueva Guinea,1,0.0
+2019,Países,Micronesia,1,0.0
+2019,Países,Mali,1,0.0
+2019,Países,Maldivas,1,0.0
+2019,Países,Benin,1,0.0
+2019,Países,Lesotho,1,0.0
+2019,Países,Bhután,1,0.0
+2019,Países,Guinea Ecuatorial,1,0.0
+2019,Países,Granada,1,0.0
+2019,Países,Martinica,1,0.0
+2019,Países,Samoa Occidental,1,0.0
+2019,Países,Sierra Leona,1,0.0
+2019,Países,Togo,1,0.0
+2019,Países,Turkmenistán,1,0.0
+2019,Países,Malawi,1,0.0
+2019,Países,Yemen,1,0.0
+2019,Profesiones,Empleados,82758,23.81
+2019,Profesiones,Estudiantes,62681,18.03
+2019,Profesiones,Liberales,49458,14.23
+2019,Profesiones,Jubilados,45970,13.23
+2019,Profesiones,Tecnicos,33624,9.67
+2019,Profesiones,Profesores,24748,7.12
+2019,Profesiones,Funcionarios,18635,5.36
+2019,Profesiones,Amas de Casa,6634,1.91
+2019,Profesiones,Directivos,6280,1.81
+2019,Profesiones,Parados,4350,1.25
+2019,Profesiones,Obreros,4029,1.16
+2019,Profesiones,Artistas,3273,0.94
+2019,Profesiones,Sacerdotes,1631,0.47
+2019,Profesiones,Religiosas/os,1250,0.36
+2019,Profesiones,Agricultores,1235,0.36
+2019,Profesiones,Deportistas,543,0.16
+2019,Profesiones,Marinos,479,0.14
+2019,Sexos,Mujer,177801,51.15
+2019,Sexos,Hombre,169777,48.85
