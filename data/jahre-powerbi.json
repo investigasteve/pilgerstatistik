@@ -1,18 +1,18 @@
 {
  "stand": "2026-11-23",
  "jahre": {
-  "2025": {
+  "2022": {
    "kennzahlen": {
-    "peregrinos": 530716,
-    "españoles": 228109,
-    "extranjeros": 302607
+    "peregrinos": 437589,
+    "españoles": 239026,
+    "extranjeros": 198563
    },
    "tabellen": 33
   }
  },
  "fehler": [
-  "2022: Locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\".slicerItemContainer\").filter(has_text=\"2022\").first\n    - locator resolved",
-  "2019: Eintrag nicht gefunden"
+  "2019: Eintrag nicht gefunden",
+  "2010: Eintrag nicht gefunden"
  ],
  "sichtbar_beim_oeffnen": [
   "2026",
