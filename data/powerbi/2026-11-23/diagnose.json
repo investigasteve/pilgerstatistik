@@ -1,0 +1,299 @@
+{
+  "datum": "2026-11-23",
+  "antworten": [
+    {
+      "nr": 1,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/43a440c2-2512-4e15-bfd5-adb3c6b9ef07/modelsAndExploration?preferReadOnlySession=true",
+      "status": 200,
+      "bytes": 9028639
+    },
+    {
+      "nr": 2,
+      "url": "https://content.powerapps.com/resource/powerbiwfe/scripts/reportEmbed.ExplorationPersistentState.min.abdbcae7687e636d12cf.js",
+      "status": 200,
+      "bytes": 21685
+    },
+    {
+      "nr": 3,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/conceptualschema",
+      "status": 200,
+      "bytes": 64735
+    },
+    {
+      "nr": 4,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 2077,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 5,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1963,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 6,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 2883,
+      "tabellen": [
+        29
+      ]
+    },
+    {
+      "nr": 7,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 3009,
+      "tabellen": [
+        1,
+        28
+      ]
+    },
+    {
+      "nr": 8,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 21600,
+      "tabellen": [
+        1,
+        499
+      ]
+    },
+    {
+      "nr": 9,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 2286,
+      "tabellen": [
+        21
+      ]
+    },
+    {
+      "nr": 10,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 6974,
+      "tabellen": [
+        1,
+        199
+      ]
+    },
+    {
+      "nr": 11,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 10038,
+      "tabellen": [
+        1,
+        199
+      ]
+    },
+    {
+      "nr": 12,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1720,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 13,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1597,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 14,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1887,
+      "tabellen": [
+        5
+      ]
+    },
+    {
+      "nr": 15,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1887,
+      "tabellen": [
+        3
+      ]
+    },
+    {
+      "nr": 16,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 7320,
+      "tabellen": [
+        200
+      ]
+    },
+    {
+      "nr": 17,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 2426,
+      "tabellen": [
+        1,
+        21
+      ]
+    },
+    {
+      "nr": 18,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 4500,
+      "tabellen": [
+        28,
+        1
+      ]
+    },
+    {
+      "nr": 19,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1661,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 20,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 8400,
+      "tabellen": [
+        1,
+        199
+      ]
+    },
+    {
+      "nr": 21,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1606,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 22,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1666,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 23,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 17576,
+      "tabellen": [
+        1,
+        548
+      ]
+    },
+    {
+      "nr": 24,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1651,
+      "tabellen": [
+        1
+      ]
+    },
+    {
+      "nr": 25,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 2654,
+      "tabellen": [
+        21
+      ]
+    },
+    {
+      "nr": 26,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 2696,
+      "tabellen": [
+        11
+      ]
+    },
+    {
+      "nr": 27,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1808,
+      "tabellen": [
+        2
+      ]
+    },
+    {
+      "nr": 28,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1775,
+      "tabellen": [
+        4
+      ]
+    },
+    {
+      "nr": 29,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1920,
+      "tabellen": [
+        1,
+        4
+      ]
+    },
+    {
+      "nr": 30,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1864,
+      "tabellen": [
+        4
+      ]
+    }
+  ],
+  "seiten": [
+    {
+      "name": "seite-1",
+      "zeichen": 6583,
+      "titel": "Microsoft Power BI"
+    },
+    {
+      "name": "seite-1-button[aria-",
+      "zeichen": 6603,
+      "titel": "Microsoft Power BI"
+    }
+  ],
+  "fehler": [
+    "Navigation button[aria-label*=Página i] #1: Locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label*=Página i]\").nth(1)\n    - locator resolved to <button disabled hidden=\"\" aria-disabled=\"true\" _ngcontent-ng-c314512272=\"\" aria-label=\"Página anterior\">…</button>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    9 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 500ms\n",
+    "Navigation button[aria-label*=Página i] #2: Locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label*=Página i]\").nth(2)\n    - locator resolved to <button disabled hidden=\"\" aria-disabled=\"true\" _ngcontent-ng-c314512272=\"\" aria-label=\"Página siguiente\">…</button>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 100ms\n    9 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click action\n      - waiting 500ms\n"
+  ],
+  "navigation": {
+    "[role=tab]": 0,
+    ".navigation-pane-item": 0,
+    "[class*=pageNavigator] [role=button]": 0,
+    "[class*=pbi-page] [role=button]": 0,
+    "button[aria-label*=Page i]": 0,
+    "button[aria-label*=Página i]": 3
+  }
+}
