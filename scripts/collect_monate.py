@@ -70,7 +70,10 @@ def main():
             el = finde(text)
             if el is None:
                 return False
-            el.click(force=True, timeout=5000)
+            try:
+                el.click(force=True, timeout=5000)
+            except Exception:
+                el.evaluate("e => e.click()")
             s.wait_for_timeout(4000)
             s.keyboard.press("Escape"); s.wait_for_timeout(800)
             return True
@@ -93,8 +96,9 @@ def main():
         for jahr in [int(x) for x in os.environ.get("JAHRE", "2025").split(",")]:
             if not waehle("Año", str(jahr)):
                 ergebnis["fehler"].append(f"{jahr}: Jahr nicht gefunden"); continue
-            for nr, monat in enumerate(mes_liste, 0):
-                pass
+            # Mes ist standardmäßig komplett angehakt: einmal „Seleccionar todo“ = alles abwählen (= kein Filter)
+            waehle("Mes", "Seleccionar todo")
+            ergebnis["log"].append(f"{jahr} nach Abwahl: {kennzahlen(s)}")
             for monat in monate:
                 t0 = time.time()
                 try:
