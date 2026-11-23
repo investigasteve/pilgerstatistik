@@ -60,24 +60,19 @@ def main():
                     return el.nth(i)
             return None
 
+        SCROLL = """(d) => { const v = [...document.querySelectorAll('.slicerItemContainer')].filter(e => e.offsetParent !== null && e.getBoundingClientRect().height > 0);
+            if (!v.length) return -1; let e = v[0]; while (e && !e.classList.contains('scroll-content')) e = e.parentElement;
+            if (!e) return -2; if (d === 0) e.scrollTop = 0; else e.scrollTop += d; return e.scrollTop; }"""
+
         def finde(text):
-            t = sichtbar_treffer(text)
-            if t is not None:
-                return t
-            # nicht sichtbar: über das Suchfeld des geöffneten Filters
-            for sel in ("input.searchInput:visible", "input[placeholder*='uscar' i]:visible", "input[aria-label*='uscar' i]:visible", ".slicer-dropdown-popup input:visible", "input[type=text]:visible"):
-                feld = s.locator(sel).first
-                try:
-                    if feld.count():
-                        feld.click(timeout=2000)
-                        feld.fill(text)
-                        s.wait_for_timeout(1500)
-                        t = sichtbar_treffer(text)
-                        ergebnis["log"].append(f"suche {text} via {sel}: {'ok' if t is not None else 'leer'}")
-                        if t is not None:
-                            return t
-                except Exception as e:
-                    ergebnis["log"].append(f"suche {sel}: {str(e)[:80]}")
+            s.evaluate(SCROLL, 0)
+            s.wait_for_timeout(400)
+            for _ in range(12):
+                t = sichtbar_treffer(text)
+                if t is not None:
+                    return t
+                s.evaluate(SCROLL, 120)
+                s.wait_for_timeout(500)
             ergebnis["log"].append(f"nicht gefunden {text}: " + ",".join(eintraege(s)))
             return None
 
