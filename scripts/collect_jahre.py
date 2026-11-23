@@ -2,7 +2,7 @@
 """Jahresreihe aus dem Power-BI-Bericht: wählt im Filter „Año“ nacheinander jedes Jahr,
 liest die Kennzahl „Peregrinos“ und sichert die Datenantworten (CSV) je Jahr.
 Ausgabe: data/jahre-powerbi/<jahr>/abfrage-NN.csv und data/jahre-powerbi.json"""
-import datetime, json, pathlib, re, sys
+import datetime, json, os, pathlib, re, sys, time
 from playwright.sync_api import sync_playwright
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from collect_powerbi import BERICHT, dekodiere, csv_text
@@ -54,7 +54,7 @@ def main():
 
         def finde(jahr):
             """Sucht den Eintrag; scrollt die Liste bei Bedarf."""
-            for _ in range(40):
+            for _ in range(14):
                 el = s.locator(".slicerItemContainer", has_text=str(jahr))
                 for i in range(el.count()):
                     if (el.nth(i).inner_text() or "").strip() == str(jahr):
@@ -71,7 +71,11 @@ def main():
         oeffnen()
         sichtbar = s.evaluate("() => [...document.querySelectorAll('.slicerItemContainer')].map(e => (e.innerText||'').trim())")
         ergebnis["sichtbar_beim_oeffnen"] = sichtbar
-        for jahr in range(2026, 2002, -1):
+        wahl = os.environ.get('JAHRE')
+        liste = [int(x) for x in wahl.split(',')] if wahl else list(range(2026, 2002, -1))
+        for jahr in liste:
+            t0 = time.time()
+            print('Jahr', jahr, flush=True)
             try:
                 oeffnen()
                 el = finde(jahr)
@@ -97,9 +101,12 @@ def main():
                     except Exception as e:
                         ergebnis["fehler"].append(f"{jahr}: Antwort nicht lesbar {e}")
                 ergebnis["jahre"][str(jahr)] = {"kennzahlen": k, "tabellen": n}
+                print('  ', k, n, 'Tabellen', round(time.time() - t0), 's', flush=True)
                 s.screenshot(path=str(d / "ansicht.png"))
+                (ROOT / 'data' / 'jahre-powerbi.json').write_text(json.dumps(ergebnis, ensure_ascii=False, indent=1), encoding='utf-8')
             except Exception as e:
                 ergebnis["fehler"].append(f"{jahr}: {str(e)[:150]}")
+                print('  Fehler', str(e)[:150], flush=True)
         b.close()
     (ROOT / "data" / "jahre-powerbi.json").write_text(json.dumps(ergebnis, ensure_ascii=False, indent=1), encoding="utf-8")
 

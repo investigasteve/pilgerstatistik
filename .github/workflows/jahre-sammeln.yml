@@ -1,6 +1,11 @@
 name: Jahresreihe sammeln
 on:
   workflow_dispatch:
+    inputs:
+      jahre:
+        description: 'Jahre, kommagetrennt (leer = alle)'
+        required: false
+        default: ''
 permissions:
   contents: write
 jobs:
@@ -14,7 +19,10 @@ jobs:
       - run: |
           pip install playwright
           playwright install --with-deps chromium
-      - run: python scripts/collect_jahre.py
+      - run: python -u scripts/collect_jahre.py
+        timeout-minutes: 12
+        env:
+          JAHRE: ${{ inputs.jahre }}
       - if: always()
         run: |
           git config user.name "pilgerstatistik-bot"
