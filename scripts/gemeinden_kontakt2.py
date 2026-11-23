@@ -2,7 +2,7 @@
 import concurrent.futures, csv, html, pathlib, re, urllib.parse, urllib.request
 
 D = pathlib.Path(__file__).resolve().parent.parent / "data" / "gemeinden"
-UA = {"User-Agent": "pilgerportal-gemeindenkontakt/1.0 (+https://steffenpfeiffer.es)"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", "Accept": "text/html,application/xhtml+xml", "Accept-Language": "es-ES,es;q=0.9"}
 MAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
 SKIP = ("example", "sentry", "wixpress", ".png", ".jpg", ".gif", ".webp", "domain.", "email.com", "tuemail", "tucorreo", "protection", "usuario@", "nombre@")
 LINK = re.compile(r'href=["\']([^"\']+)["\']', re.I)
@@ -31,10 +31,16 @@ def mails(h):
 def suche(site):
     base = site if site.startswith("http") else "http://" + site
     base = base if base.endswith("/") else base + "/"
-    try:
-        start = get(base)
-    except Exception:
-        return set(), "Seite nicht erreichbar"
+    start, fehler = None, ""
+    for b in dict.fromkeys([base, base.replace("http://", "https://"), base.replace("://www.", "://"), base.replace("http://", "https://").replace("://www.", "://")]):
+        try:
+            start = get(b, 12)
+            base = b
+            break
+        except Exception as e:
+            fehler = str(e)[:40]
+    if start is None:
+        return set(), "nicht erreichbar: " + fehler
     m = mails(start)
     if m:
         return m, "start"
