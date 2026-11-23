@@ -60,9 +60,12 @@ def main():
                     if (el.nth(i).inner_text() or "").strip() == str(jahr):
                         return el.nth(i)
                 try:
-                    s.locator(".slicerItemContainer").last.scroll_into_view_if_needed(timeout=1500)
-                    s.mouse.move(950, 130)
-                    s.mouse.wheel(0, 120)
+                    s.evaluate('''() => {
+                        const it = document.querySelector('.slicerItemContainer');
+                        let e = it;
+                        while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement;
+                        if (e) e.scrollTop += Math.max(60, e.clientHeight * 0.6);
+                    }''')
                 except Exception:
                     pass
                 s.wait_for_timeout(350)
@@ -83,7 +86,10 @@ def main():
                     ergebnis["fehler"].append(f"{jahr}: Eintrag nicht gefunden")
                     continue
                 aktuell.clear()
-                el.click(timeout=5000)
+                try:
+                    el.click(timeout=5000, force=True)
+                except Exception:
+                    el.evaluate('e => e.click()')
                 s.wait_for_timeout(5000)
                 try:
                     s.wait_for_load_state("networkidle", timeout=15000)
