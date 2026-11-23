@@ -32,7 +32,7 @@
 150465;Melide;Coruña, A;http://www.concellodemelide.gal/;concello@concellodemelide.gal;website/aviso-legal;;keine Kulturseite gefunden
 150525;Muxía;Coruña, A;http://www.concellomuxia.com/;correo@muxia.es;website/;turismo@muxia.es;Adressname
 150562;Negreira;Coruña, A;http://www.concellodenegreira.org;"a15830correo@concellodenegreira.es; correo@concellodenegreira.es";website/contacto;;Unterseite /gl/turismo/aloxamentos
-150780;Santiago de Compostela;Coruña, A;https://santiagodecompostela.gal/;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
+150780;Santiago de Compostela;Coruña, A;https://santiagodecompostela.gal/;alcaldia@santiagodecompostela.gal;Alcaldía (Verzeichniseintrag);;gleich wie Hauptadresse
 240080;Astorga;León;http://www.aytoastorga.es/;atencionalciudadano@astorga.es;website/;;Unterseite /turismo-y-ocio/
 240188;Bercianos del Real Camino;León;http://www.aytobercianosdelrealcamino.es/;info@aytobercianosdelrealcamino.es;website/;;gleich wie Hauptadresse
 240233;Brazuelo;León;http://www.ayuntamientodebrazuelo.com;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
@@ -41,12 +41,12 @@
 240310;Calzada del Coto;León;http://www.aytocalzadadelcoto.es/;info@aytocalzadadelcoto.es;website/;;gleich wie Hauptadresse
 240346;Camponaraya;León;https://www.camponaraya.es;correoweb@camponaraya.org;website/;;gleich wie Hauptadresse
 240824;Hospital de Órbigo;León;http://www.hospitaldeorbigo.com/;ayuntamiento@hospitaldeorbigo.com;website/;;gleich wie Hauptadresse
-240896;León;León;https://www.aytoleon.es/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
+240896;León;León;https://www.aytoleon.es/;atencion.ciudadano@aytoleon.es;Atención Ciudadana (offizielles PDF der Stadt);;gleich wie Hauptadresse
 240943;Mansilla de las Mulas;León;http://www.ayto-mansilla.org/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
 240956;Mansilla Mayor;León;http://www.aytomansillamayor.com/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
 241008;Molinaseca;León;http://molinaseca.es/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
 241152;Ponferrada;León;http://www.ponferrada.org/;;OFFEN (nicht erreichbar: <urlopen error [SSL: CERTIFICATE_VERIFY_);;gleich wie Hauptadresse
-241396;Sahagún;León;http://turismosahagun.com;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
+241396;Sahagún;León;http://turismosahagun.com;oficinadeturismo@turismosahagun.com;"Turismusbüro Sahagún (Verzeichniseintrag); keine Rathausadresse gefunden";;gleich wie Hauptadresse
 241422;San Andrés del Rabanedo;León;http://www.aytosanandres.org/;;OFFEN (nicht erreichbar: <urlopen error [Errno -3] Temporary fail);;gleich wie Hauptadresse
 241481;San Justo de la Vega;León;https://www.aytosanjustodelavega.es/;info@aytosanjustodelavega.es;website/;;Unterseite /ayuntamiento/agenda/
 241529;Santa Colomba de Somoza;León;http://santacolombadesomoza.com/;;OFFEN (nicht erreichbar: <urlopen error [Errno -2] Name or servic);;gleich wie Hauptadresse
@@ -75,7 +75,7 @@
 270459;Pedrafita do Cebreiro;Lugo;http://www.concellopedrafita.es/;concello@concellopedrafita.es;website/;;keine Kulturseite gefunden
 270497;Portomarín;Lugo;http://www.concellodeportomarin.es/;infoportomarin@concellodeportomarin.es;website/;;gleich wie Hauptadresse
 270556;Samos;Lugo;http://www.concellosamos.es/;"concello.samos@eidolocal.es; concellosamos@concellosamos.gal";website/;;gleich wie Hauptadresse
-270575;Sarria;Lugo;https://www.sarria.es/;;OFFEN (keine Adresse gefunden);;gleich wie Hauptadresse
+270575;Sarria;Lugo;https://www.sarria.es/;turismo@sarria.gal;"Turismusbüro Sarria (Verzeichniseintrag); keine Rathausadresse gefunden";;gleich wie Hauptadresse
 270620;Triacastela;Lugo;http://www.concellotriacastela.es;;OFFEN (nicht erreichbar: <urlopen error timed out>);;gleich wie Hauptadresse
 310291;Arcos, Los;Navarra;http://www.losarcos.es/es/;;OFFEN (nicht erreichbar: <urlopen error [Errno -5] No address ass);;gleich wie Hauptadresse
 310410;Ayegui/Aiegi;Navarra;;;OFFEN;;
