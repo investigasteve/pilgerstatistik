@@ -1,5 +1,6 @@
-G0,M0
-Religioso,0.44105324599520074D
-Otros,0.32981386600946883D
-No Religioso,0.17242363317984305D
-Desconocido,0.056709254815487387D
+K0,G0
+'motivo_ext'[Motivo],Motivo
+'medio_ext'[medio],Medio
+'entradas_2003-2022'[Rangos edad],Edad
+'sexo_ext'[Genero],Genero
+'date'[Mes Modificada],Mes

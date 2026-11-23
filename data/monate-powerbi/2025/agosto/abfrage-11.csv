@@ -1,6 +1,135 @@
-K0,G0
-'motivo_ext'[Motivo],Motivo
-'medio_ext'[medio],Medio
-'entradas_2003-2022'[Rangos edad],Edad
-'sexo_ext'[Genero],Genero
-'date'[Mes Modificada],Mes
+G0,M0
+España,49619L
+Italia,6488L
+Portugal,2460L
+Estados Unidos,2053L
+Alemania,1927L
+Polonia,1077L
+Francia,1058L
+Desconocido,972L
+Reino Unido,917L
+México,875L
+Irlanda,769L
+Argentina,539L
+Brasil,499L
+Taiwán,490L
+Colombia,454L
+República Checa,448L
+Holanda,432L
+Australia,415L
+Corea,409L
+China,371L
+Canadá,363L
+Dinamarca,306L
+Bélgica,296L
+Hungría,283L
+Rumania,234L
+Venezuela,229L
+Austria,205L
+Ucrania,201L
+Eslovaquia,150L
+Rusia,147L
+Croacia,144L
+Suiza,130L
+Ecuador,129L
+Japón,113L
+Chile,109L
+Perú,99L
+Nueva Zelanda,95L
+Paraguay,93L
+Eslovenia,91L
+Lituania,90L
+Suecia,87L
+Bulgaria,86L
+Sudáfrica,86L
+Uruguay,82L
+Hong Kong,68L
+Letonia,55L
+Filipinas,53L
+Grecia,52L
+Puerto Rico,48L
+Irán,46L
+Serbia,42L
+Noruega,39L
+Estonia,36L
+Costa Rica,34L
+Bielorrusia,29L
+Honduras,28L
+Rep. Dominicana,25L
+El Salvador,24L
+Andorra,23L
+Bolivia,23L
+Cuba,22L
+Turquía,22L
+Finlandia,19L
+India,18L
+Israel,18L
+Indonesia,15L
+Malasia,15L
+Nicaragua,13L
+Panamá,12L
+Guatemala,11L
+Luxemburgo,11L
+Singapur,11L
+Malta,10L
+Moldavia,10L
+Armenia,9L
+Marruecos,9L
+Albania,8L
+Kazajistán,7L
+Chipre,6L
+Afganistán,5L
+Islas Feroe,5L
+Líbano,5L
+Egipto,4L
+Angola,3L
+Bosnia,3L
+Georgia,3L
+Granada,3L
+Irak,3L
+Islas Vírgenes,3L
+Macedonia,3L
+Siria,3L
+Sri Lanka,3L
+Tailandia,3L
+Vietnam,3L
+Argelia,2L
+Aruba,2L
+Benin,2L
+Burkina Faso,2L
+Dominica,2L
+Guadalupe,2L
+Guinea Ecuatorial,2L
+Mauricio,2L
+Nepal,2L
+Nigeria,2L
+Omán,2L
+Urbekistán,2L
+Arabia Saudita,1L
+Azerbaiyán,1L
+Bahamas,1L
+Bahrein,1L
+Barbados,1L
+Bermudas,1L
+Cabo Verde,1L
+Camboya,1L
+Emiratos Arabes Unidos,1L
+Eritrea,1L
+Etiopía,1L
+Fiji,1L
+Ghana,1L
+Guayana Francesa,1L
+Guinea - Bissau,1L
+Islas Caimán,1L
+Jamaica,1L
+Jersey,1L
+Laos,1L
+Mozambique,1L
+Palestina,1L
+Rwanda,1L
+San Marino,1L
+Senegal,1L
+Swazilandia,1L
+Togo,1L
+Trinidad y Tobago,1L
+Túnez,1L

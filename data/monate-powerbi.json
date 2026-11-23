@@ -25,13 +25,95 @@
      "extranjeros": 2024
     },
     "tabellen": 33
+   },
+   "febrero": {
+    "kennzahlen": {
+     "peregrinos": 3537,
+     "españoles": 1661,
+     "extranjeros": 1876
+    },
+    "tabellen": 33
+   },
+   "marzo": {
+    "kennzahlen": {
+     "peregrinos": 14068,
+     "españoles": 6117,
+     "extranjeros": 7951
+    },
+    "tabellen": 33
+   },
+   "abril": {
+    "kennzahlen": {
+     "peregrinos": 54642,
+     "españoles": 23644,
+     "extranjeros": 30998
+    },
+    "tabellen": 33
+   },
+   "mayo": {
+    "kennzahlen": {
+     "peregrinos": 78648,
+     "españoles": 22138,
+     "extranjeros": 56510
+    },
+    "tabellen": 33
+   },
+   "junio": {
+    "kennzahlen": {
+     "peregrinos": 74043,
+     "españoles": 28707,
+     "extranjeros": 45336
+    },
+    "tabellen": 33
+   },
+   "julio": {
+    "kennzahlen": {
+     "peregrinos": 67013,
+     "españoles": 39575,
+     "extranjeros": 27438
+    },
+    "tabellen": 33
+   },
+   "septiembre": {
+    "kennzahlen": {
+     "peregrinos": 81532,
+     "españoles": 31591,
+     "extranjeros": 49941
+    },
+    "tabellen": 33
+   },
+   "octubre": {
+    "kennzahlen": {
+     "peregrinos": 62856,
+     "españoles": 18621,
+     "extranjeros": 44235
+    },
+    "tabellen": 33
+   },
+   "noviembre": {
+    "kennzahlen": {
+     "peregrinos": 11072,
+     "españoles": 3980,
+     "extranjeros": 7092
+    },
+    "tabellen": 33
    }
   }
  },
  "fehler": [],
  "log": [
-  "2025 nach Abwahl: {'peregrinos': 530716, 'españoles': 228109, 'extranjeros': 302607}",
+  "2025 nach Abwahl: 530716",
+  "nicht gefunden enero: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
+  "nicht gefunden febrero: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
+  "nicht gefunden marzo: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
+  "nicht gefunden abril: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
+  "nicht gefunden mayo: 2026,2025,2024,2023,2022,2021,marzo,abril,mayo,junio,julio,agosto",
+  "nicht gefunden junio: 2026,2025,2024,2023,2022,2021,febrero,marzo,abril,mayo,junio,julio",
+  "nicht gefunden julio: 2026,2025,2024,2023,2022,2021,mayo,junio,julio,agosto,septiembre,octubre",
   "nicht gefunden agosto: 2026,2025,2024,2023,2022,2021,mayo,junio,julio,agosto,septiembre,octubre",
+  "nicht gefunden septiembre: 2026,2025,2024,2023,2022,2021,mayo,junio,julio,agosto,septiembre,octubre",
+  "nicht gefunden octubre: 2026,2025,2024,2023,2022,2021,agosto,septiembre,octubre,noviembre,diciembre",
+  "nicht gefunden noviembre: 2026,2025,2024,2023,2022,2021,agosto,septiembre,octubre,noviembre,diciembre",
   "nicht gefunden diciembre: 2026,2025,2024,2023,2022,2021,agosto,septiembre,octubre,noviembre,diciembre"
  ],
  "mes_sichtbar": [
