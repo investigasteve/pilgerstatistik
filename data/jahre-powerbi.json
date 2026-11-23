@@ -1,19 +1,16 @@
 {
  "stand": "2026-11-23",
  "jahre": {
-  "2022": {
+  "2019": {
    "kennzahlen": {
-    "peregrinos": 437589,
-    "españoles": 239026,
-    "extranjeros": 198563
+    "peregrinos": 347566,
+    "españoles": 146354,
+    "extranjeros": 201212
    },
    "tabellen": 33
   }
  },
- "fehler": [
-  "2019: Eintrag nicht gefunden",
-  "2010: Eintrag nicht gefunden"
- ],
+ "fehler": [],
  "sichtbar_beim_oeffnen": [
   "2026",
   "2025",
@@ -21,5 +18,8 @@
   "2023",
   "2022",
   "2021"
+ ],
+ "scroll_log": [
+  "2024,2023,2022,2021,2020,2019"
  ]
 }
