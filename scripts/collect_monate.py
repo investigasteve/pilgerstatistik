@@ -53,25 +53,32 @@ def main():
             s.locator(f".slicer-dropdown-menu[aria-label='{name}']").first.click(timeout=8000)
             s.wait_for_timeout(1500)
 
+        def sichtbar_treffer(text):
+            el = s.locator(".slicerItemContainer:visible")
+            for i in range(el.count()):
+                if (el.nth(i).inner_text() or "").strip().lower() == text.lower():
+                    return el.nth(i)
+            return None
+
         def finde(text):
-            s.evaluate("""() => { let e = document.querySelector('.slicerItemContainer'); while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement; if (e) e.scrollTop = 0; }""")
-            s.wait_for_timeout(300)
-            for _ in range(30):
-                el = s.locator(".slicerItemContainer")
-                for i in range(el.count()):
-                    if (el.nth(i).inner_text() or "").strip().lower() == text.lower():
-                        return el.nth(i)
-                s.evaluate("""() => { let e = document.querySelector('.slicerItemContainer'); while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement; if (e) e.scrollTop += Math.max(60, e.clientHeight * 0.6); }""")
-                s.wait_for_timeout(400)
+            t = sichtbar_treffer(text)
+            if t is not None:
+                return t
+            # nicht sichtbar: über das Suchfeld des geöffneten Filters
+            for sel in ("input.searchInput:visible", "input[placeholder*='uscar' i]:visible", "input[aria-label*='uscar' i]:visible", ".slicer-dropdown-popup input:visible", "input[type=text]:visible"):
+                feld = s.locator(sel).first
                 try:
-                    box = s.locator(".slicerItemContainer").first.bounding_box()
-                    if box:
-                        s.mouse.move(box["x"] + box["width"] / 2, box["y"] + box["height"] / 2)
-                        s.mouse.wheel(0, 120)
-                        s.wait_for_timeout(300)
-                except Exception:
-                    pass
-                ergebnis["log"].append(f"suche {text}: " + ",".join(eintraege(s)))
+                    if feld.count():
+                        feld.click(timeout=2000)
+                        feld.fill(text)
+                        s.wait_for_timeout(1500)
+                        t = sichtbar_treffer(text)
+                        ergebnis["log"].append(f"suche {text} via {sel}: {'ok' if t is not None else 'leer'}")
+                        if t is not None:
+                            return t
+                except Exception as e:
+                    ergebnis["log"].append(f"suche {sel}: {str(e)[:80]}")
+            ergebnis["log"].append(f"nicht gefunden {text}: " + ",".join(eintraege(s)))
             return None
 
         def waehle(name, text):
