@@ -22,6 +22,8 @@ jobs:
           playwright install --with-deps chromium
       - name: Power-BI-Bericht abfragen
         run: python scripts/collect_powerbi.py
+      - name: Datenbank aktualisieren
+        run: python scripts/baue_datenbank.py
       - name: Ergebnis speichern
         if: always()
         run: |
