@@ -75,6 +75,7 @@ def main():
     ZIEL.mkdir(parents=True, exist_ok=True)
     diag = {"datum": HEUTE, "antworten": [], "seiten": [], "fehler": []}
     funde = []
+    anfragen = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
@@ -89,7 +90,15 @@ def main():
                 except Exception as e:
                     diag["fehler"].append(f"Antwort nicht lesbar: {a.url[:120]} {e}")
 
+        def bei_anfrage(r):
+            if "querydata" in r.url.lower() and r.method == "POST":
+                try:
+                    anfragen.append({"url": r.url, "body": r.post_data, "header": {k: v for k, v in r.headers.items() if k.lower().startswith("x-powerbi") or k.lower() in ("content-type", "activityid", "requestid")}})
+                except Exception as e:
+                    diag["fehler"].append(f"Anfrage nicht lesbar: {e}")
+
         seite.on("response", bei_antwort)
+        seite.on("request", bei_anfrage)
         try:
             seite.goto(BERICHT, wait_until="networkidle", timeout=90000)
             seite.wait_for_timeout(8000)
@@ -132,17 +141,26 @@ def main():
         nr += 1
         eintrag = {"nr": nr, "url": url[:200], "status": status, "bytes": len(body)}
         try:
-            with gzip.open(ZIEL / f"roh-{nr:02d}.json.gz", "wt", encoding="utf-8") as f:
-                f.write(body)
+            if nr <= 3 and not (ZIEL.parent / "_modell.json.gz").exists():
+                with gzip.open(ZIEL.parent / "_modell.json.gz", "wt", encoding="utf-8") as f:
+                    f.write(body) if nr == 1 else None
             if "querydata" in url.lower():
                 tabs = dekodiere(json.loads(body))
                 eintrag["tabellen"] = [len(t) - 1 for t in tabs]
+                namen = {}
+                for res in json.loads(body).get("results", []):
+                    for sel in (((res.get("result") or {}).get("data") or {}).get("descriptor") or {}).get("Select", []):
+                        namen[sel.get("Value")] = sel.get("Name")
                 for i, t in enumerate(tabs, 1):
+                    if t and namen:
+                        t = [[namen.get(c, c) for c in t[0]]] + t[1:]
                     (ZIEL / f"abfrage-{nr:02d}-{i:02d}.csv").write_text(csv_text(t), encoding="utf-8")
         except Exception:
             eintrag["fehler"] = traceback.format_exc(limit=2)
         diag["antworten"].append(eintrag)
 
+    with gzip.open(ZIEL / "anfragen.json.gz", "wt", encoding="utf-8") as f:
+        json.dump(anfragen, f, ensure_ascii=False)
     (ZIEL / "diagnose.json").write_text(json.dumps(diag, ensure_ascii=False, indent=2), encoding="utf-8")
     zusammen = f"Antworten: {len(diag['antworten'])}, Seiten: {len(diag['seiten'])}, Fehler: {len(diag['fehler'])}"
     print(zusammen)

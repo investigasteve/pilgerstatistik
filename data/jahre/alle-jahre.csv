@@ -1,61 +1,5333 @@
 jahr,tabelle,name,wert,prozent
-2004,Profesiones,De 30 a,60,66783.0
-2004,Profesiones,Mayores de,60,14561.0
-2004,Profesiones,Menores de,30,98600.0
-2005,Profesiones,De 36 a,65,53294.0
-2005,Profesiones,Mayores de,60,10413.0
-2005,Profesiones,Menores de,30,30217.0
-2006,Profesiones,De 36 a,65,49558.0
-2006,Profesiones,Más de,65,4843.0
-2006,Profesiones,De 19 a,35,35266.0
-2006,Profesiones,De 13 a,18,9780.0
-2006,Profesiones,De 0 a,12,930.0
-2007,Profesiones,De 36 a,65,58631.0
-2007,Profesiones,Más de,65,6298.0
-2007,Profesiones,De 19 a,35,37689.0
-2007,Profesiones,De 13 a,18,10338.0
-2007,Profesiones,De 0 a,12,1070.0
-2008,Profesiones,De 36 a,65,65364.0
-2008,Profesiones,Más de,65,7158.0
-2008,Profesiones,De 19 a,35,41123.0
-2008,Profesiones,De 13 a,18,10403.0
-2008,Profesiones,De 0 a,12,1093.0
-2009,Profesiones,De 36 a,65,73293.0
-2009,Profesiones,Más de,65,7874.0
-2009,Profesiones,De 19 a,35,51135.0
-2009,Profesiones,De 13 a,18,12303.0
-2009,Profesiones,De 0 a,12,1272.0
+2004,Autonomías,Extranjeros,42113,
+2004,Autonomías,Galicia,27778,
+2004,Autonomías,Madrid,24557,
+2004,Autonomías,Andalucía,15078,
+2004,Autonomías,Cataluña,13297,
+2004,Autonomías,Comunidad Valenciana,12166,
+2004,Autonomías,Castilla León,10684,
+2004,Autonomías,Pais Vasco,6609,
+2004,Autonomías,Castilla la Mancha,6038,
+2004,Autonomías,Asturias,3594,
+2004,Autonomías,Extremadura,3335,
+2004,Autonomías,Aragón,3058,
+2004,Autonomías,Murcia,2603,
+2004,Autonomías,Baleares,2057,
+2004,Autonomías,Canarias,1992,
+2004,Autonomías,Cantabria,1930,
+2004,Autonomías,Navarra,1536,
+2004,Autonomías,La Rioja,943,
+2004,Autonomías,Españoles en el extranjero,329,
+2004,Autonomías,Ceuta,177,
+2004,Autonomías,Melilla,70,
+2004,Caminos,Camino Francés,138646,
+2004,Caminos,Camino Portugués,15839,
+2004,Caminos,Via de la Plata,9309,
+2004,Caminos,Camino del Norte,7117,
+2004,Caminos,Camino Primitivo,4876,
+2004,Caminos,Camino Inglés,3092,
+2004,Caminos,Otros caminos,1065,
+2004,Edades,Menores de 30,98600,
+2004,Edades,De 30 a 60,66783,
+2004,Edades,Mayores de 60,14561,
+2004,Medios,Pie,156952,
+2004,Medios,Bicicleta,21260,
+2004,Medios,Caballo,1672,
+2004,Medios,Silla de ruedas,60,
+2004,Motivos,Religioso,134330,
+2004,Motivos,Religioso y otros,35528,
+2004,Motivos,No religioso,10086,
+2004,Países,España,137163,
+2004,Países,Italia,7670,
+2004,Países,Alemania,6816,
+2004,Países,Francia,6567,
+2004,Países,Portugal,3252,
+2004,Países,Estados Unidos,2028,
+2004,Países,Brasil,1439,
+2004,Países,Reino Unido,1432,
+2004,Países,Holanda,1399,
+2004,Países,Belgica,1279,
+2004,Países,Austria,1203,
+2004,Países,Canadá,1090,
+2004,Países,México,1001,
+2004,Países,Suiza,699,
+2004,Países,Argentina,590,
+2004,Países,Venezuela,587,
+2004,Países,Irlanda,563,
+2004,Países,Australia,480,
+2004,Países,Dinamarca,415,
+2004,Países,Eslovenia,410,
+2004,Países,Polonia,357,
+2004,Países,Suecia,322,
+2004,Países,Finlandia,302,
+2004,Países,Colombia,295,
+2004,Países,Noruega,262,
+2004,Países,Japón,257,
+2004,Países,Hungría,246,
+2004,Países,Chile,180,
+2004,Países,República Checa,153,
+2004,Países,Uruguay,122,
+2004,Países,Andorra,117,
+2004,Países,Ecuador,107,
+2004,Países,Nueva Zelanda,97,
+2004,Países,Sudáfrica,84,
+2004,Países,Estonia,81,
+2004,Países,Eslovaquia,76,
+2004,Países,Perú,76,
+2004,Países,Puerto Rico,61,
+2004,Países,Rumania,51,
+2004,Países,Rusia,49,
+2004,Países,Israel,30,
+2004,Países,Ucrania,30,
+2004,Países,Bolivia,28,
+2004,Países,Marruecos,26,
+2004,Países,Cuba,25,
+2004,Países,Costa Rica,24,
+2004,Países,Rep. Dominicana,23,
+2004,Países,Filipinas,19,
+2004,Países,Croacia,18,
+2004,Países,Luxemburgo,18,
+2004,Países,Rep. de Corea,18,
+2004,Países,Malta,17,
+2004,Países,Bulgaria,16,
+2004,Países,Guatemala,16,
+2004,Países,Panamá,16,
+2004,Países,China,15,
+2004,Países,El Salvador,13,
+2004,Países,India,13,
+2004,Países,Paraguay,13,
+2004,Países,Taiwán,13,
+2004,Países,Islandia,12,
+2004,Países,Lituania,12,
+2004,Países,Albania,11,
+2004,Países,Honduras,11,
+2004,Países,Nicaragua,7,
+2004,Países,Singapur,7,
+2004,Países,Turquía,7,
+2004,Países,Letonia,6,
+2004,Países,Mauricio,6,
+2004,Países,Bosnia,5,
+2004,Países,Kenya,5,
+2004,Países,Armenia,4,
+2004,Países,Grecia,4,
+2004,Países,Groenlandia,4,
+2004,Países,Nigeria,4,
+2004,Países,San Marino,4,
+2004,Países,Serbia,4,
+2004,Países,Argelia,3,
+2004,Países,Ghana,3,
+2004,Países,Haití,3,
+2004,Países,Irán,3,
+2004,Países,Líbano,3,
+2004,Países,Liechtensein,3,
+2004,Países,Tailandia,3,
+2004,Países,Yugoslavia,3,
+2004,Países,Angola,2,
+2004,Países,Bielorrusia,2,
+2004,Países,Guinea,2,
+2004,Países,Guinea Ecuatorial,2,
+2004,Países,Indonesia,2,
+2004,Países,Malasia,2,
+2004,Países,Mauritania,2,
+2004,Países,Senegal,2,
+2004,Países,Vietnam,2,
+2004,Países,Belice,1,
+2004,Países,Islas Feroe,1,
+2004,Países,Arabia Saudita,1,
+2004,Países,Aruba,1,
+2004,Países,Benin,1,
+2004,Países,Cabo Verde,1,
+2004,Países,Camerún,1,
+2004,Países,Congo,1,
+2004,Países,Egipto,1,
+2004,Países,Etiopía,1,
+2004,Países,Gambia,1,
+2004,Países,Herzegovina,1,
+2004,Países,I. Reunión,1,
+2004,Países,Madagascar,1,
+2004,Países,Mónaco,1,
+2004,Países,Mozambique,1,
+2004,Países,Sri Lanka,1,
+2004,Países,Tanzania,1,
+2004,Países,Túnez,1,
+2004,Países,Zimbabwe,1,
+2004,Procedencias,Sarria,39583,
+2004,Procedencias,Cebreiro,20695,
+2004,Procedencias,Roncesvalles,13108,
+2004,Procedencias,Tui,10725,
+2004,Procedencias,Ponferrada,10648,
+2004,Procedencias,S. Jean P. Port,9343,
+2004,Procedencias,León,9284,
+2004,Procedencias,Astorga,6944,
+2004,Procedencias,Ourense,5616,
+2004,Procedencias,Vilafranca,4686,
+2004,Procedencias,Pamplona,3253,
+2004,Procedencias,Burgos,3227,
+2004,Procedencias,Oviedo - C.P.,3175,
+2004,Procedencias,Triacastela,2370,
+2004,Procedencias,Le Puy,2194,
+2004,Procedencias,Ferrol,1871,
+2004,Procedencias,Francia,1843,
+2004,Procedencias,Samos,1614,
+2004,Procedencias,Valença do Minho,1594,
+2004,Procedencias,Resto C. León,1300,
+2004,Procedencias,Resto Portugal,1284,
+2004,Procedencias,Ribadeo,1227,
+2004,Procedencias,Somport,1196,
+2004,Procedencias,Neda,1156,
+2004,Procedencias,Vilalba,1031,
+2004,Procedencias,Sevilla,987,
+2004,Procedencias,Resto Asturias,940,
+2004,Procedencias,Oporto,852,
+2004,Procedencias,Fonsagrada - C.P.,843,
+2004,Procedencias,Logroño,836,
+2004,Procedencias,Vigo,808,
+2004,Procedencias,Oviedo,763,
+2004,Procedencias,Otros,634,
+2004,Procedencias,Holanda,599,
+2004,Procedencias,Lugo - C.P.,579,
+2004,Procedencias,Santander,563,
+2004,Procedencias,Arles,560,
+2004,Procedencias,Frómista,553,
+2004,Procedencias,Irún,534,
+2004,Procedencias,Sahagún,524,
+2004,Procedencias,Resto País Vasco,499,
+2004,Procedencias,Mérida,484,
+2004,Procedencias,Jaca,415,
+2004,Procedencias,Salamanca,414,
+2004,Procedencias,Zamora,369,
+2004,Procedencias,Sto. Domingo de la Calzada,368,
+2004,Procedencias,Carrión de los Condes,365,
+2004,Procedencias,Puente la Reina,330,
+2004,Procedencias,Bélgica,327,
+2004,Procedencias,Hospital de Orbigo,325,
+2004,Procedencias,Castilla La Mancha,295,
+2004,Procedencias,Puebla de Sanabria,293,
+2004,Procedencias,Braga,282,
+2004,Procedencias,Verín,282,
+2004,Procedencias,Mondoñedo,276,
+2004,Procedencias,Finisterra,256,
+2004,Procedencias,Avilés,248,
+2004,Procedencias,Bilbao,244,
+2004,Procedencias,Vega de Valcarce,216,
+2004,Procedencias,Porriño,214,
+2004,Procedencias,Resto Cantabria,204,
+2004,Procedencias,Gijón,201,
+2004,Procedencias,Estella,190,
+2004,Procedencias,Madrid,189,
+2004,Procedencias,Madrid - C.F.,187,
+2004,Procedencias,Suiza,175,
+2004,Procedencias,Cataluña,160,
+2004,Procedencias,Paradela,155,
+2004,Procedencias,Valencia,139,
+2004,Procedencias,Lourdes,128,
+2004,Procedencias,Canfranc,121,
+2004,Procedencias,Resto Asturias - C.P.,103,
+2004,Procedencias,Fonsagrada,96,
+2004,Procedencias,Resto C. León - V.P.,93,
+2004,Procedencias,Castrojeriz,90,
+2004,Procedencias,Com. Valenciana,85,
+2004,Procedencias,Vegadeo,80,
+2004,Procedencias,Laza,77,
+2004,Procedencias,Cast. la Mancha,76,
+2004,Procedencias,Austria,73,
+2004,Procedencias,Republica Checa,71,
+2004,Procedencias,Italia,71,
+2004,Procedencias,Grandas de Salime - C.P.,68,
+2004,Procedencias,Hendaya,66,
+2004,Procedencias,Vezelay,65,
+2004,Procedencias,Barcelona,65,
+2004,Procedencias,Lisboa,57,
+2004,Procedencias,Ortigueira,57,
+2004,Procedencias,Nájera,52,
+2004,Procedencias,Tineo - C.P.,46,
+2004,Procedencias,Cáceres,43,
+2004,Procedencias,Salas,41,
+2004,Procedencias,San Juan de Ortega,39,
+2004,Procedencias,Reino Unido,37,
+2004,Procedencias,Grandas de Salime,36,
+2004,Procedencias,La Bañeza,36,
+2004,Procedencias,Rábade,34,
+2004,Procedencias,Granada,31,
+2004,Procedencias,Resto de Extremadura,31,
+2004,Procedencias,Viveiro,27,
+2004,Procedencias,Muxia,24,
+2004,Procedencias,París,24,
+2004,Procedencias,Tineo,24,
+2004,Procedencias,Vincios,22,
+2004,Procedencias,Huelva,22,
+2004,Procedencias,Fonfría,21,
+2004,Procedencias,Valcarlos,20,
+2004,Procedencias,Inglaterra,14,
+2004,Procedencias,Córdoba,13,
+2004,Procedencias,Badajoz,12,
+2004,Procedencias,Benavente,10,
+2004,Procedencias,Peñaseita,10,
+2004,Procedencias,Leyre,9,
+2004,Procedencias,Roma,9,
+2004,Procedencias,Dinamarca,7,
+2004,Procedencias,Grado,7,
+2004,Procedencias,Finlandia,6,
+2004,Procedencias,Pontedeume,6,
+2004,Procedencias,Valladolid,6,
+2004,Procedencias,Luxemburgo,5,
+2004,Procedencias,Castilla la Mancha,4,
+2004,Procedencias,Guitiriz,3,
+2004,Procedencias,Betanzos,2,
+2004,Procedencias,Cea,2,
+2004,Procedencias,Grecia,2,
+2004,Procedencias,Irlanda,2,
+2004,Procedencias,Petín,2,
+2004,Procedencias,Silleda,2,
+2004,Procedencias,Murcia,1,
+2004,Procedencias,Artieda,1,
+2004,Procedencias,Cangas de Morrazo,1,
+2004,Procedencias,El Escamplero,1,
+2004,Procedencias,La Mesa,1,
+2004,Procedencias,Mella,1,
+2004,Procedencias,Ventas de Narón,1,
+2004,Procedencias,Alemania,1,
+2004,Profesiones,Estudiantes,45132,
+2004,Profesiones,Empleados,29300,
+2004,Profesiones,Liberales,22660,
+2004,Profesiones,Técnicos,18481,
+2004,Profesiones,Jubilados,12804,
+2004,Profesiones,Obreros,12019,
+2004,Profesiones,Profesores,11805,
+2004,Profesiones,Funcionarios,10048,
+2004,Profesiones,Amas de Casa,9763,
+2004,Profesiones,Parados,2383,
+2004,Profesiones,Directivos,1521,
+2004,Profesiones,Sacerdotes,1233,
+2004,Profesiones,Artistas,1143,
+2004,Profesiones,Agricultores,800,
+2004,Profesiones,Marinos,390,
+2004,Profesiones,Religiosas,325,
+2004,Profesiones,Deportistas,126,
+2004,Sexos,Hombre,100431,
+2004,Sexos,Mujer,79513,
+2005,Autonomías,Extranjeros,41043,
+2005,Autonomías,Madrid,9355,
+2005,Autonomías,Cataluña,7718,
+2005,Autonomías,Comunidad Valenciana,6480,
+2005,Autonomías,Andalucía,6439,
+2005,Autonomías,Pais Vasco,4569,
+2005,Autonomías,Castilla León,3967,
+2005,Autonomías,Galicia,3673,
+2005,Autonomías,Castilla la Mancha,1834,
+2005,Autonomías,Extremadura,1435,
+2005,Autonomías,Murcia,1374,
+2005,Autonomías,Aragón,1316,
+2005,Autonomías,Baleares,1045,
+2005,Autonomías,Asturias,901,
+2005,Autonomías,Navarra,895,
+2005,Autonomías,Canarias,838,
+2005,Autonomías,Cantabria,472,
+2005,Autonomías,La Rioja,360,
+2005,Autonomías,Españoles en el extranjero,145,
+2005,Autonomías,Ceuta,38,
+2005,Autonomías,Melilla,27,
+2005,Caminos,Camino Francés,79396,
+2005,Caminos,Camino Portugués,5507,
+2005,Caminos,Camino del Norte,3843,
+2005,Caminos,Vía de la Plata,3140,
+2005,Caminos,Camino Primitivo,1028,
+2005,Caminos,Camino Inglés,651,
+2005,Caminos,Otros caminos,359,
+2005,Edades,De 36 a 65,53294,
+2005,Edades,Menores de 30,30217,
+2005,Edades,Mayores de 60,10413,
+2005,Medios,Pie,76674,
+2005,Medios,Bicicleta,16985,
+2005,Medios,Caballo,242,
+2005,Medios,Silla de ruedas,23,
+2005,Motivos,Religioso y otros,49977,
+2005,Motivos,Religioso,35456,
+2005,Motivos,No religioso,8491,
+2005,Países,España,52928,
+2005,Países,Italia,7430,
+2005,Países,Alemania,7155,
+2005,Países,Francia,5909,
+2005,Países,Portugal,2574,
+2005,Países,Estados Unidos,2047,
+2005,Países,Holanda,1610,
+2005,Países,Reino Unido,1512,
+2005,Países,Austria,1470,
+2005,Países,Canadá,1420,
+2005,Países,Belgica,1283,
+2005,Países,Brasil,1163,
+2005,Países,Suiza,726,
+2005,Países,Dinamarca,698,
+2005,Países,Australia,666,
+2005,Países,Irlanda,622,
+2005,Países,México,473,
+2005,Países,Polonia,422,
+2005,Países,Suecia,340,
+2005,Países,República Checa,330,
+2005,Países,Hungría,326,
+2005,Países,Argentina,278,
+2005,Países,Japón,278,
+2005,Países,Noruega,278,
+2005,Países,Finlandia,272,
+2005,Países,Eslovaquia,174,
+2005,Países,Sudáfrica,162,
+2005,Países,Colombia,148,
+2005,Países,Venezuela,135,
+2005,Países,Eslovenia,128,
+2005,Países,Nueva Zelanda,125,
+2005,Países,Chile,77,
+2005,Países,Uruguay,74,
+2005,Países,Andorra,66,
+2005,Países,Ecuador,58,
+2005,Países,Perú,51,
+2005,Países,Puerto Rico,49,
+2005,Países,Rumania,40,
+2005,Países,Israel,31,
+2005,Países,Luxemburgo,26,
+2005,Países,Croacia,24,
+2005,Países,Corea,24,
+2005,Países,Rusia,23,
+2005,Países,Estonia,19,
+2005,Países,Cuba,17,
+2005,Países,Costa Rica,15,
+2005,Países,Rep. Dominicana,14,
+2005,Países,Bolivia,13,
+2005,Países,Guatemala,12,
+2005,Países,Marruecos,12,
+2005,Países,San Marino,12,
+2005,Países,Malasia,11,
+2005,Países,Ucrania,11,
+2005,Países,Filipinas,10,
+2005,Países,Islandia,10,
+2005,Países,El Salvador,8,
+2005,Países,Grecia,8,
+2005,Países,Bulgaria,7,
+2005,Países,Lituania,7,
+2005,Países,India,6,
+2005,Países,Angola,5,
+2005,Países,China,5,
+2005,Países,Letonia,5,
+2005,Países,Malta,5,
+2005,Países,Panamá,5,
+2005,Países,Taiwán,5,
+2005,Países,Armenia,4,
+2005,Países,Ghana,4,
+2005,Países,Paraguay,4,
+2005,Países,Rep. de Corea,4,
+2005,Países,Camerún,3,
+2005,Países,Mozambique,3,
+2005,Países,Nicaragua,3,
+2005,Países,Serbia,3,
+2005,Países,Singapur,3,
+2005,Países,Líbano,2,
+2005,Países,Liechtensein,2,
+2005,Países,Namibia,2,
+2005,Países,Nigeria,2,
+2005,Países,Tailandia,2,
+2005,Países,Turquía,2,
+2005,Países,Vietnam,2,
+2005,Países,Zambia,2,
+2005,Países,Bielorrusia,2,
+2005,Países,Bosnia,2,
+2005,Países,Chipre,2,
+2005,Países,Honduras,2,
+2005,Países,Jamaica,2,
+2005,Países,Islas Feroe,1,
+2005,Países,Antillas Holandesas,1,
+2005,Países,Bahamas,1,
+2005,Países,Brunei,1,
+2005,Países,Congo,1,
+2005,Países,Dominica,1,
+2005,Países,Fiji,1,
+2005,Países,Guinea,1,
+2005,Países,Indonesia,1,
+2005,Países,Irak,1,
+2005,Países,Madagascar,1,
+2005,Países,Mauricio,1,
+2005,Países,Mónaco,1,
+2005,Países,Pakistán,1,
+2005,Países,Rep. Popular Democrática de Corea,1,
+2005,Países,Sierra Leona,1,
+2005,Países,Sri Lanka,1,
+2005,Países,Trinidad y Tobago,1,
+2005,Países,Yugoslavia,1,
+2005,Países,Zimbabwe,1,
+2005,Procedencias,Sarria,14848,
+2005,Procedencias,S. Jean P. Port,9851,
+2005,Procedencias,Roncesvalles,9230,
+2005,Procedencias,Cebreiro,7434,
+2005,Procedencias,León,6677,
+2005,Procedencias,Ponferrada,5985,
+2005,Procedencias,Astorga,4303,
+2005,Procedencias,Pamplona,3280,
+2005,Procedencias,Burgos,2609,
+2005,Procedencias,Tui,2533,
+2005,Procedencias,Le Puy,2241,
+2005,Procedencias,Vilafranca,2241,
+2005,Procedencias,Francia,1611,
+2005,Procedencias,Valença do Minho,1102,
+2005,Procedencias,Triacastela,1062,
+2005,Procedencias,Sevilla,1004,
+2005,Procedencias,Somport,857,
+2005,Procedencias,Ourense,759,
+2005,Procedencias,Oporto,740,
+2005,Procedencias,Logroño,730,
+2005,Procedencias,Irún,720,
+2005,Procedencias,Holanda,671,
+2005,Procedencias,Samos,620,
+2005,Procedencias,Ribadeo,591,
+2005,Procedencias,Alemania,513,
+2005,Procedencias,Ferrol,507,
+2005,Procedencias,Oviedo - C.P.,480,
+2005,Procedencias,Resto Portugal,457,
+2005,Procedencias,Resto Asturias,383,
+2005,Procedencias,Sahagún,370,
+2005,Procedencias,Jaca,369,
+2005,Procedencias,Oviedo,349,
+2005,Procedencias,Rabanal del Camino,346,
+2005,Procedencias,Santander,324,
+2005,Procedencias,Ponte de Lima,323,
+2005,Procedencias,Mérida,315,
+2005,Procedencias,Vega de Valcarce,314,
+2005,Procedencias,Vilalba,301,
+2005,Procedencias,Resto País Vasco,291,
+2005,Procedencias,Sto. Domingo de la Calzada,290,
+2005,Procedencias,Bilbao,281,
+2005,Procedencias,Resto C. León,278,
+2005,Procedencias,Frómista,276,
+2005,Procedencias,Lugo - C.P.,262,
+2005,Procedencias,Bélgica,259,
+2005,Procedencias,Puente la Reina,212,
+2005,Procedencias,Gudiña,201,
+2005,Procedencias,Suiza,188,
+2005,Procedencias,Salamanca,186,
+2005,Procedencias,Carrión de los Condes,173,
+2005,Procedencias,Hospital de Orbigo,169,
+2005,Procedencias,Braga,165,
+2005,Procedencias,Madrid - C.F.,154,
+2005,Procedencias,Lourdes,148,
+2005,Procedencias,Neda,144,
+2005,Procedencias,Avilés,142,
+2005,Procedencias,Otros,141,
+2005,Procedencias,Vezelay,132,
+2005,Procedencias,Puebla de Sanabria,132,
+2005,Procedencias,Arles,117,
+2005,Procedencias,Zamora,114,
+2005,Procedencias,Estella,108,
+2005,Procedencias,Gijón,94,
+2005,Procedencias,Fonsagrada - C.P.,88,
+2005,Procedencias,Canfranc,87,
+2005,Procedencias,Resto Asturias - C.P.,87,
+2005,Procedencias,Resto Cantabria,87,
+2005,Procedencias,Vigo,83,
+2005,Procedencias,Xunqueira de Ambia,81,
+2005,Procedencias,Verín,79,
+2005,Procedencias,Austria,78,
+2005,Procedencias,Mondoñedo,72,
+2005,Procedencias,Hendaya,68,
+2005,Procedencias,Muxia,68,
+2005,Procedencias,Cataluña,66,
+2005,Procedencias,Nájera,64,
+2005,Procedencias,Valencia,62,
+2005,Procedencias,Barcelona,58,
+2005,Procedencias,Lisboa,58,
+2005,Procedencias,Cáceres,54,
+2005,Procedencias,Zaragoza,53,
+2005,Procedencias,Tineo - C.P.,48,
+2005,Procedencias,Italia,45,
+2005,Procedencias,R.Pais Vasco,45,
+2005,Procedencias,Castrojeriz,44,
+2005,Procedencias,París,44,
+2005,Procedencias,Finisterra,39,
+2005,Procedencias,Rábade,38,
+2005,Procedencias,Porriño,36,
+2005,Procedencias,Resto C. León - V.P.,36,
+2005,Procedencias,Grandas de Salime,28,
+2005,Procedencias,Madrid,23,
+2005,Procedencias,Resto de Extremadura,22,
+2005,Procedencias,Lourenzá,22,
+2005,Procedencias,Badajoz,20,
+2005,Procedencias,Fonsagrada,19,
+2005,Procedencias,Grandas de Salime - C.P.,19,
+2005,Procedencias,Reino Unido,16,
+2005,Procedencias,Granja de Moreruela,16,
+2005,Procedencias,Huelva,15,
+2005,Procedencias,Malaga,15,
+2005,Procedencias,Castilla La Mancha,14,
+2005,Procedencias,Dinamarca,14,
+2005,Procedencias,Com. Valenciana,14,
+2005,Procedencias,Roma,13,
+2005,Procedencias,Tineo,13,
+2005,Procedencias,Valcarlos,13,
+2005,Procedencias,Cadavo,13,
+2005,Procedencias,Grado,12,
+2005,Procedencias,Salas,12,
+2005,Procedencias,Inglaterra,11,
+2005,Procedencias,Vegadeo,11,
+2005,Procedencias,Resto Andalucia,11,
+2005,Procedencias,Resto Europa,11,
+2005,Procedencias,Republica Checa,10,
+2005,Procedencias,Granada,10,
+2005,Procedencias,Paradela,10,
+2005,Procedencias,Valladolid,10,
+2005,Procedencias,Murcia,9,
+2005,Procedencias,Fonfría,9,
+2005,Procedencias,Luxemburgo,8,
+2005,Procedencias,San Juan de Ortega,8,
+2005,Procedencias,Castilla la Mancha,7,
+2005,Procedencias,Benavente,7,
+2005,Procedencias,Cast. la Mancha,7,
+2005,Procedencias,Polonia,7,
+2005,Procedencias,Laza,6,
+2005,Procedencias,Vincios,6,
+2005,Procedencias,Hungría,6,
+2005,Procedencias,La Bañeza,5,
+2005,Procedencias,Córdoba,4,
+2005,Procedencias,Jerusalem,4,
+2005,Procedencias,A Guarda,4,
+2005,Procedencias,Artieda,3,
+2005,Procedencias,Gonzar,3,
+2005,Procedencias,Irlanda,3,
+2005,Procedencias,La Mesa,2,
+2005,Procedencias,Borres,1,
+2005,Procedencias,Cea,1,
+2005,Procedencias,Finlandia,1,
+2005,Procedencias,Leyre,1,
+2005,Procedencias,Vilabade,1,
+2005,Profesiones,Estudiantes,18827,
+2005,Profesiones,Empleados,16552,
+2005,Profesiones,Tecnicos,11592,
+2005,Profesiones,Liberales,11153,
+2005,Profesiones,Jubilados,10389,
+2005,Profesiones,Profesores,7886,
+2005,Profesiones,Funcionarios,5029,
+2005,Profesiones,Obreros,4798,
+2005,Profesiones,Amas de Casa,2989,
+2005,Profesiones,Parados,1490,
+2005,Profesiones,Directivos,1080,
+2005,Profesiones,Artistas,1035,
+2005,Profesiones,Sacerdotes,521,
+2005,Profesiones,Agricultores,333,
+2005,Profesiones,Marinos,102,
+2005,Profesiones,Religiosas,79,
+2005,Profesiones,Deportistas,69,
+2005,Sexos,Hombres,55106,
+2005,Sexos,Mujeres,38218,
+2006,Autonomías,Extranjeros,48166,
+2006,Autonomías,Madrid,8849,
+2006,Autonomías,Cataluña,7518,
+2006,Autonomías,Andalucía,7010,
+2006,Autonomías,Valencia,6195,
+2006,Autonomías,Euskadi,4271,
+2006,Autonomías,Galicia,3776,
+2006,Autonomías,Castilla León,3555,
+2006,Autonomías,Castilla la Mancha,1972,
+2006,Autonomías,Extremadura,1652,
+2006,Autonomías,Aragón,1267,
+2006,Autonomías,Murcia,1260,
+2006,Autonomías,Asturias,1073,
+2006,Autonomías,Canarias,972,
+2006,Autonomías,Baleares,949,
+2006,Autonomías,Navarra,883,
+2006,Autonomías,Cantabria,380,
+2006,Autonomías,La Rioja,333,
+2006,Autonomías,Españoles en el extranjero,198,
+2006,Autonomías,Ceuta,54,
+2006,Autonomías,Melilla,44,
+2006,Caminos,Camino Francés,82407,
+2006,Caminos,Camino Portugués,6467,
+2006,Caminos,Camino del Norte,5378,
+2006,Caminos,Vía de la Plata,3523,
+2006,Caminos,Camino Primitivo,1588,
+2006,Caminos,Camino Inglés,804,
+2006,Caminos,Otros caminos,210,
+2006,Edades,De 36 a 65,49558,
+2006,Edades,De 19 a 35,35266,
+2006,Edades,De 13 a 18,9780,
+2006,Edades,Más de 65,4843,
+2006,Medios,Pie,81783,
+2006,Medios,Biciclet,18289,
+2006,Medios,Caballo,294,
+2006,Medios,Silla de ruedas,11,
+2006,Motivos,Religiosa y otras,49726,
+2006,Motivos,Religiosa,41793,
+2006,Motivos,No religiosa,8858,
+2006,Países,España,52248,
+2006,Países,Italia,10013,
+2006,Países,Alemania,8097,
+2006,Países,Francia,6791,
+2006,Países,Portugal,3365,
+2006,Países,Estados Unidos,1909,
+2006,Países,Holanda,1636,
+2006,Países,Canadá,1546,
+2006,Países,Reino Unido,1541,
+2006,Países,Bélgica,1443,
+2006,Países,Austria,1422,
+2006,Países,Brasil,1172,
+2006,Países,Irlanda,849,
+2006,Países,Dinamarca,801,
+2006,Países,Suiza,780,
+2006,Países,Australia,730,
+2006,Países,Hungría,609,
+2006,Países,Polonia,600,
+2006,Países,México,484,
+2006,Países,Suecia,411,
+2006,Países,Finlandia,408,
+2006,Países,República Checa,399,
+2006,Países,Noruega,373,
+2006,Países,Argentina,347,
+2006,Países,Japón,282,
+2006,Países,Sudáfrica,222,
+2006,Países,Eslovaquia,198,
+2006,Países,Venezuela,177,
+2006,Países,Eslovenia,140,
+2006,Países,Nueva Zelanda,138,
+2006,Países,Colombia,131,
+2006,Países,Uruguay,89,
+2006,Países,Corea,84,
+2006,Países,Estonia,84,
+2006,Países,Chile,84,
+2006,Países,Andorra,80,
+2006,Países,Ecuador,60,
+2006,Países,Perú,46,
+2006,Países,Rumanía,45,
+2006,Países,Israel,42,
+2006,Países,Puerto Rico,37,
+2006,Países,Rusia,30,
+2006,Países,Letonia,26,
+2006,Países,Cuba,25,
+2006,Países,Luxemburgo,24,
+2006,Países,Filipinas,24,
+2006,Países,Islandia,22,
+2006,Países,Grecia,20,
+2006,Países,Marruecos,20,
+2006,Países,Lituania,18,
+2006,Países,Croacia,18,
+2006,Países,Costa Rica,18,
+2006,Países,Bolivia,16,
+2006,Países,Taiwán,15,
+2006,Países,Nicaragua,14,
+2006,Países,Bulgaria,13,
+2006,Países,República Dominicana,11,
+2006,Países,China,10,
+2006,Países,India,10,
+2006,Países,Turquía,9,
+2006,Países,Panamá,9,
+2006,Países,Guatemala,8,
+2006,Países,Singapur,8,
+2006,Países,Ucrania,7,
+2006,Países,Paraguay,7,
+2006,Países,Serbia,7,
+2006,Países,Malasia,6,
+2006,Países,San Marino,5,
+2006,Países,Albania,5,
+2006,Países,Malta,4,
+2006,Países,Irán,3,
+2006,Países,El Salvador,3,
+2006,Países,Namibia,3,
+2006,Países,Yugoslavia,2,
+2006,Países,Antillas Holandesas,2,
+2006,Países,Belice,2,
+2006,Países,Haití,2,
+2006,Países,Kenya,2,
+2006,Países,Liberia,2,
+2006,Países,Honduras,2,
+2006,Países,Líbano,2,
+2006,Países,Argelia,2,
+2006,Países,Indonesia,2,
+2006,Países,Camerún,2,
+2006,Países,Nigeria,2,
+2006,Países,Zimbabwe,2,
+2006,Países,Chipre,1,
+2006,Países,Islas Feroe,1,
+2006,Países,Angola,1,
+2006,Países,Guinea,1,
+2006,Países,Pakistán,1,
+2006,Países,Bielorrusia,1,
+2006,Países,Cabo Verde,1,
+2006,Países,Laos,1,
+2006,Países,Macedonia,1,
+2006,Países,Mónaco,1,
+2006,Países,Siria,1,
+2006,Países,Congo,1,
+2006,Países,Gabón,1,
+2006,Países,Guinea Ecuatorial,1,
+2006,Países,Mauricio,1,
+2006,Países,Mongolia,1,
+2006,Países,Santo Tomé y Príncipe,1,
+2006,Países,Senegal,1,
+2006,Países,Sierra Leona,1,
+2006,Países,Trinidad y Tobago,1,
+2006,Países,Turkmenistán,1,
+2006,Países,Uzbekistán,1,
+2006,Procedencias,Sarria,16215,
+2006,Procedencias,Saint Jean Pied de Port,10875,
+2006,Procedencias,Roncesvalles,9301,
+2006,Procedencias,León,6907,
+2006,Procedencias,Cebreiro,6590,
+2006,Procedencias,Ponferrada,5848,
+2006,Procedencias,Astorga,4213,
+2006,Procedencias,Pamplona,3342,
+2006,Procedencias,Burgos,2823,
+2006,Procedencias,Le Puy,2738,
+2006,Procedencias,Tuy,2282,
+2006,Procedencias,Villafranca,2110,
+2006,Procedencias,Francia,1774,
+2006,Procedencias,Valença do Minho,1336,
+2006,Procedencias,Oviedo,1225,
+2006,Procedencias,Oporto,1125,
+2006,Procedencias,Triacastela,1035,
+2006,Procedencias,Sevilla,1015,
+2006,Procedencias,Resto de Portugal,979,
+2006,Procedencias,Ourense,943,
+2006,Procedencias,Irún,875,
+2006,Procedencias,Somport,873,
+2006,Procedencias,Samos,756,
+2006,Procedencias,Holanda,726,
+2006,Procedencias,Logroño,699,
+2006,Procedencias,Ribadeo,678,
+2006,Procedencias,Ferrol,674,
+2006,Procedencias,Resto de Castilla-León,637,
+2006,Procedencias,Alemania,628,
+2006,Procedencias,Vilalba,558,
+2006,Procedencias,Resto de Asturias,551,
+2006,Procedencias,Huelva,513,
+2006,Procedencias,Lugo,461,
+2006,Procedencias,Resto de Euskadi,445,
+2006,Procedencias,Santander,416,
+2006,Procedencias,Ponte de Lima,410,
+2006,Procedencias,Rabanal del Camino,395,
+2006,Procedencias,Bilbao,331,
+2006,Procedencias,Bélgica,315,
+2006,Procedencias,Jaca,309,
+2006,Procedencias,Sahagún,293,
+2006,Procedencias,Mérida,289,
+2006,Procedencias,Santo Domingo de la Calzada,244,
+2006,Procedencias,Suiza,232,
+2006,Procedencias,Salamanca,223,
+2006,Procedencias,Zamora,223,
+2006,Procedencias,Lourdes,212,
+2006,Procedencias,Madrid -C.F.,208,
+2006,Procedencias,Mondoñedo,205,
+2006,Procedencias,Vega de Valcarce,203,
+2006,Procedencias,Fonsagrada,203,
+2006,Procedencias,Vezelay,181,
+2006,Procedencias,Frómista,179,
+2006,Procedencias,Puente la Reina,168,
+2006,Procedencias,Carrión de los Condes,166,
+2006,Procedencias,Hospital de Órbigo,161,
+2006,Procedencias,Arles,158,
+2006,Procedencias,Braga,148,
+2006,Procedencias,Gijón,142,
+2006,Procedencias,Resto de Cantabria,139,
+2006,Procedencias,A Gudiña,139,
+2006,Procedencias,Neda,121,
+2006,Procedencias,Verín,114,
+2006,Procedencias,Puebla de Sanabria,108,
+2006,Procedencias,Lourenzá,108,
+2006,Procedencias,Canfranc,106,
+2006,Procedencias,Hendaya,104,
+2006,Procedencias,Muxía,102,
+2006,Procedencias,Cataluña,99,
+2006,Procedencias,Grandas de Salime,81,
+2006,Procedencias,Estella,78,
+2006,Procedencias,Austria,78,
+2006,Procedencias,Chaves-Portugal,73,
+2006,Procedencias,Tineo,73,
+2006,Procedencias,Lisboa,72,
+2006,Procedencias,Bárcelona,70,
+2006,Procedencias,Cadavo,69,
+2006,Procedencias,Zaragoza,65,
+2006,Procedencias,Cáceres,62,
+2006,Procedencias,Porriño,57,
+2006,Procedencias,Nájera,54,
+2006,Procedencias,Rábade,54,
+2006,Procedencias,París,49,
+2006,Procedencias,Italia,46,
+2006,Procedencias,Comunidad Valenciana,45,
+2006,Procedencias,Vigo,40,
+2006,Procedencias,Valencia,38,
+2006,Procedencias,Resto de Andalucía,36,
+2006,Procedencias,Castrojeriz,33,
+2006,Procedencias,Xunqueira de Ambia,32,
+2006,Procedencias,Resto de Europa,32,
+2006,Procedencias,Laza,30,
+2006,Procedencias,Resto de Extremadura,28,
+2006,Procedencias,Dinamarca,25,
+2006,Procedencias,Reino Unido,24,
+2006,Procedencias,Avilés,23,
+2006,Procedencias,Málaga,21,
+2006,Procedencias,Granada,20,
+2006,Procedencias,Córdoba,20,
+2006,Procedencias,Castilla la Mancha,18,
+2006,Procedencias,Benavente,17,
+2006,Procedencias,Roma,14,
+2006,Procedencias,Vincios,14,
+2006,Procedencias,Finisterre,13,
+2006,Procedencias,Paradela,13,
+2006,Procedencias,Granja de Moreruela,12,
+2006,Procedencias,Badajoz,12,
+2006,Procedencias,Valladolid,10,
+2006,Procedencias,Murcia,9,
+2006,Procedencias,Irlanda,9,
+2006,Procedencias,Salas,8,
+2006,Procedencias,Pontedeume,8,
+2006,Procedencias,La Mesa,7,
+2006,Procedencias,Grado,5,
+2006,Procedencias,Polonia,5,
+2006,Procedencias,Luxemburgo,5,
+2006,Procedencias,Borres,5,
+2006,Procedencias,Valcarlos,4,
+2006,Procedencias,República Chea,4,
+2006,Procedencias,La Bañeza,4,
+2006,Procedencias,Vegadeo,3,
+2006,Procedencias,A Guarda,3,
+2006,Procedencias,Finlandia,3,
+2006,Procedencias,Fonfría,3,
+2006,Procedencias,Andorra,2,
+2006,Procedencias,San Juan de Ortega,2,
+2006,Procedencias,Viveiro,2,
+2006,Procedencias,Ortigueira,1,
+2006,Procedencias,Hungría,1,
+2006,Procedencias,Pontevedra,1,
+2006,Profesiones,Estudiantes,20886,
+2006,Profesiones,Empleados,16351,
+2006,Profesiones,Liberales,13266,
+2006,Profesiones,Técnicos,12054,
+2006,Profesiones,Jubilados,11888,
+2006,Profesiones,Profesores,8285,
+2006,Profesiones,Obreros,5178,
+2006,Profesiones,Funcionarios,4642,
+2006,Profesiones,Amas de Casa,2776,
+2006,Profesiones,Parados,1694,
+2006,Profesiones,Directivos,1029,
+2006,Profesiones,Artistas,920,
+2006,Profesiones,Sacerdotes,732,
+2006,Profesiones,Agricultores,343,
+2006,Profesiones,Religiosas,152,
+2006,Profesiones,Marinos,119,
+2006,Profesiones,Deportistas,79,
+2006,Sexos,Hombres,59416,
+2006,Sexos,Mujeres,40961,
+2007,Autonomías,Extranjeros,58700,
+2007,Autonomías,Madrid,9838,
+2007,Autonomías,Cataluña,7835,
+2007,Autonomías,Andalucía,7420,
+2007,Autonomías,Valencia,6668,
+2007,Autonomías,Euskadi,3993,
+2007,Autonomías,Galicia,3933,
+2007,Autonomías,Castilla León,3904,
+2007,Autonomías,Castilla la Mancha,2138,
+2007,Autonomías,Extremadura,1575,
+2007,Autonomías,Aragón,1435,
+2007,Autonomías,Murcia,1359,
+2007,Autonomías,Canarias,1159,
+2007,Autonomías,Asturias,1059,
+2007,Autonomías,Baleares,962,
+2007,Autonomías,Navarra,927,
+2007,Autonomías,Cantabria,385,
+2007,Autonomías,La Rioja,342,
+2007,Autonomías,Españoles en el extranjero,275,
+2007,Autonomías,Ceuta,78,
+2007,Autonomías,Melilla,41,
+2007,Caminos,Camino Francés,91872,
+2007,Caminos,Camino Portugués,8110,
+2007,Caminos,Camino del Norte,5871,
+2007,Caminos,Vía de la Plata,4193,
+2007,Caminos,Camino Primitivo,2569,
+2007,Caminos,Camino Inglés,1085,
+2007,Caminos,Otros caminos,326,
+2007,Edades,De 36 a 65,58631,
+2007,Edades,De 19 a 35,37689,
+2007,Edades,De 13 a 18,10338,
+2007,Edades,Más de 65,6298,
+2007,Edades,De 0 a 12,1070,
+2007,Medios,Pie,93953,
+2007,Medios,Biciclet,19702,
+2007,Medios,Caballo,364,
+2007,Medios,Silla de ruedas,7,
+2007,Motivos,Religiosa y otras,60944,
+2007,Motivos,Religiosa,43581,
+2007,Motivos,No religiosa,9501,
+2007,Países,España,55326,
+2007,Países,Alemania,13837,
+2007,Países,Italia,10275,
+2007,Países,Francia,6982,
+2007,Países,Portugal,4001,
+2007,Países,Estados Unidos,2229,
+2007,Países,Canadá,1850,
+2007,Países,Reino Unido,1696,
+2007,Países,Austria,1686,
+2007,Países,Holanda,1655,
+2007,Países,Brasil,1395,
+2007,Países,Bélgica,1332,
+2007,Países,Suiza,1136,
+2007,Países,Irlanda,1090,
+2007,Países,Polonia,867,
+2007,Países,Dinamarca,835,
+2007,Países,Australia,785,
+2007,Países,Noruega,628,
+2007,Países,Hungría,625,
+2007,Países,Suecia,588,
+2007,Países,República Checa,560,
+2007,Países,México,514,
+2007,Países,Corea,449,
+2007,Países,Finlandia,427,
+2007,Países,Argentina,377,
+2007,Países,Japón,327,
+2007,Países,Eslovaquia,269,
+2007,Países,Sudáfrica,262,
+2007,Países,Nueva Zelanda,195,
+2007,Países,Colombia,184,
+2007,Países,Eslovenia,167,
+2007,Países,Venezuela,162,
+2007,Países,Estonia,107,
+2007,Países,Chile,89,
+2007,Países,Uruguay,81,
+2007,Países,Andorra,79,
+2007,Países,Rumanía,75,
+2007,Países,Israel,64,
+2007,Países,Perú,56,
+2007,Países,Ecuador,56,
+2007,Países,Luxemburgo,53,
+2007,Países,Rusia,50,
+2007,Países,Puerto Rico,47,
+2007,Países,Costa Rica,36,
+2007,Países,Ucrania,33,
+2007,Países,Croacia,31,
+2007,Países,Lituania,30,
+2007,Países,Bulgaria,30,
+2007,Países,Bolivia,27,
+2007,Países,Islandia,24,
+2007,Países,Cuba,21,
+2007,Países,Guatemala,20,
+2007,Países,República Dominicana,20,
+2007,Países,Marruecos,20,
+2007,Países,El Salvador,20,
+2007,Países,China,19,
+2007,Países,Filipinas,16,
+2007,Países,Malta,15,
+2007,Países,Grecia,14,
+2007,Países,Letonia,13,
+2007,Países,Irán,10,
+2007,Países,India,10,
+2007,Países,Líbano,10,
+2007,Países,Taiwán,8,
+2007,Países,Singapur,7,
+2007,Países,Panamá,7,
+2007,Países,Liechtensein,7,
+2007,Países,Islas Feroe,6,
+2007,Países,Paraguay,5,
+2007,Países,Nicaragua,5,
+2007,Países,Tailandia,5,
+2007,Países,Bosnia,5,
+2007,Países,Honduras,4,
+2007,Países,Malasia,4,
+2007,Países,Serbia,4,
+2007,Países,Cabo Verde,4,
+2007,Países,Kenya,4,
+2007,Países,Indonesia,3,
+2007,Países,Zimbabwe,3,
+2007,Países,Macedonia,3,
+2007,Países,Santo Tomé y Príncipe,3,
+2007,Países,Malawi,2,
+2007,Países,Namibia,2,
+2007,Países,Turquía,2,
+2007,Países,Argelia,2,
+2007,Países,Moldavia,2,
+2007,Países,Sri Lanka,2,
+2007,Países,Egipto,2,
+2007,Países,Nigeria,2,
+2007,Países,Etiopía,2,
+2007,Países,Jordania,2,
+2007,Países,Mónaco,2,
+2007,Países,Fiji,2,
+2007,Países,Angola,1,
+2007,Países,Guinea,1,
+2007,Países,San Marino,1,
+2007,Países,Vietnam,1,
+2007,Países,Pakistán,1,
+2007,Países,Albania,1,
+2007,Países,Armenia,1,
+2007,Países,Bielorrusia,1,
+2007,Países,Jamaica,1,
+2007,Países,Laos,1,
+2007,Países,Arabia Saudí,1,
+2007,Países,Bermudas,1,
+2007,Países,Botswana,1,
+2007,Países,Congo,1,
+2007,Países,Costa de Marfil,1,
+2007,Países,Dominica,1,
+2007,Países,Granada,1,
+2007,Países,Isla Reunión,1,
+2007,Países,Irak,1,
+2007,Países,Kirguistán,1,
+2007,Países,Martinica,1,
+2007,Países,Mauricio,1,
+2007,Países,Mauritania,1,
+2007,Países,Omán,1,
+2007,Países,Senegal,1,
+2007,Países,Sierra Leona,1,
+2007,Países,Trinidad y Tobago,1,
+2007,Países,Vanuatu,1,
+2007,Procedencias,Sarria,18969,
+2007,Procedencias,Saint Jean Pied de Port,14040,
+2007,Procedencias,Roncesvalles,9001,
+2007,Procedencias,León,7691,
+2007,Procedencias,Cebreiro,7367,
+2007,Procedencias,Ponferrada,6050,
+2007,Procedencias,Astorga,4531,
+2007,Procedencias,Pamplona,3876,
+2007,Procedencias,Burgos,2983,
+2007,Procedencias,Le Puy,2964,
+2007,Procedencias,Tuy,2760,
+2007,Procedencias,Villafranca,2110,
+2007,Procedencias,PAÍS,2007,
+2007,Procedencias,Francia,1870,
+2007,Procedencias,Oviedo,1828,
+2007,Procedencias,Oporto,1763,
+2007,Procedencias,Valença do Minho,1454,
+2007,Procedencias,Sevilla,1432,
+2007,Procedencias,Triacastela,1312,
+2007,Procedencias,Resto de Portugal,1196,
+2007,Procedencias,Irún,1096,
+2007,Procedencias,Ourense,1053,
+2007,Procedencias,Ferrol,910,
+2007,Procedencias,Somport,898,
+2007,Procedencias,Resto de Castilla-León,893,
+2007,Procedencias,Logroño,885,
+2007,Procedencias,Samos,813,
+2007,Procedencias,Alemania,769,
+2007,Procedencias,Vilalba,693,
+2007,Procedencias,Ribadeo,661,
+2007,Procedencias,Holanda,637,
+2007,Procedencias,Resto de Asturias,551,
+2007,Procedencias,Bilbao,483,
+2007,Procedencias,Resto de Euskadi,483,
+2007,Procedencias,Santander,475,
+2007,Procedencias,Lugo,451,
+2007,Procedencias,Ponte de Lima,375,
+2007,Procedencias,Sahagún,354,
+2007,Procedencias,Suiza,323,
+2007,Procedencias,Frómista,295,
+2007,Procedencias,Jaca,293,
+2007,Procedencias,Bélgica,284,
+2007,Procedencias,Rabanal del Camino,278,
+2007,Procedencias,Salamanca,261,
+2007,Procedencias,Mérida,259,
+2007,Procedencias,Madrid -C.F.,247,
+2007,Procedencias,Mondoñedo,239,
+2007,Procedencias,Vega de Valcarce,230,
+2007,Procedencias,Lisboa,219,
+2007,Procedencias,Fonsagrada,218,
+2007,Procedencias,Avilés,217,
+2007,Procedencias,Puente la Reina,203,
+2007,Procedencias,Lourdes,198,
+2007,Procedencias,Braga,193,
+2007,Procedencias,Zamora,180,
+2007,Procedencias,Hendaya,177,
+2007,Procedencias,Gijón,172,
+2007,Procedencias,Neda,167,
+2007,Procedencias,Arles,167,
+2007,Procedencias,Grandas de Salime,164,
+2007,Procedencias,Vezelay,160,
+2007,Procedencias,Santo Domingo de la Calzada,157,
+2007,Procedencias,Carrión de los Condes,144,
+2007,Procedencias,Resto de Cantabria,140,
+2007,Procedencias,A Gudiña,136,
+2007,Procedencias,Chaves-Portugal,134,
+2007,Procedencias,Hospital de Órbigo,121,
+2007,Procedencias,Puebla de Sanabria,119,
+2007,Procedencias,Cataluña,112,
+2007,Procedencias,Laza,107,
+2007,Procedencias,Muxía,103,
+2007,Procedencias,Canfranc,102,
+2007,Procedencias,Estella,99,
+2007,Procedencias,Vigo,95,
+2007,Procedencias,Tineo,83,
+2007,Procedencias,Austria,79,
+2007,Procedencias,Finisterre,76,
+2007,Procedencias,Lourenzá,71,
+2007,Procedencias,Zaragoza,69,
+2007,Procedencias,Valencia,67,
+2007,Procedencias,París,63,
+2007,Procedencias,Verín,62,
+2007,Procedencias,Cáceres,59,
+2007,Procedencias,Bárcelona,55,
+2007,Procedencias,Resto de Andalucía,54,
+2007,Procedencias,Porriño,53,
+2007,Procedencias,Italia,51,
+2007,Procedencias,Nájera,40,
+2007,Procedencias,Castilla la Mancha,34,
+2007,Procedencias,Rábade,33,
+2007,Procedencias,Allariz,31,
+2007,Procedencias,Comunidad Valenciana,31,
+2007,Procedencias,Cadavo,30,
+2007,Procedencias,Castrojeriz,29,
+2007,Procedencias,Resto de Extremadura,27,
+2007,Procedencias,Xunqueira de Ambia,26,
+2007,Procedencias,La Mesa,22,
+2007,Procedencias,Murcia,20,
+2007,Procedencias,Granada,19,
+2007,Procedencias,Córdoba,18,
+2007,Procedencias,Reino Unido,16,
+2007,Procedencias,Dinamarca,15,
+2007,Procedencias,Valcarlos,13,
+2007,Procedencias,Huelva,13,
+2007,Procedencias,Málaga,12,
+2007,Procedencias,Valladolid,12,
+2007,Procedencias,Grado,11,
+2007,Procedencias,Roma,9,
+2007,Procedencias,República Chea,9,
+2007,Procedencias,Monforte,9,
+2007,Procedencias,Benavente,8,
+2007,Procedencias,Badajoz,8,
+2007,Procedencias,San Juan de Ortega,8,
+2007,Procedencias,Granja de Moreruela,7,
+2007,Procedencias,Salas,7,
+2007,Procedencias,Ortigueira,7,
+2007,Procedencias,Luxemburgo,7,
+2007,Procedencias,Fonfría,7,
+2007,Procedencias,Polonia,5,
+2007,Procedencias,Resto de Europa,5,
+2007,Procedencias,Irlanda,3,
+2007,Procedencias,A Guarda,2,
+2007,Procedencias,Jerusalem,2,
+2007,Procedencias,Guntín,2,
+2007,Procedencias,La Bañeza,2,
+2007,Procedencias,Petín,2,
+2007,Procedencias,Vegadeo,1,
+2007,Procedencias,Andorra,1,
+2007,Procedencias,Grecia,1,
+2007,Procedencias,Hungría,1,
+2007,Procedencias,Leyre,1,
+2007,Procedencias,Betanzos,1,
+2007,Procedencias,Egipto,1,
+2007,Profesiones,Estudiantes,21797,
+2007,Profesiones,Empleados,19056,
+2007,Profesiones,Técnicos,14648,
+2007,Profesiones,Jubilados,13880,
+2007,Profesiones,Liberales,13442,
+2007,Profesiones,Profesores,9381,
+2007,Profesiones,Obreros,7626,
+2007,Profesiones,Funcionarios,5467,
+2007,Profesiones,Amas de Casa,3314,
+2007,Profesiones,Parados,1675,
+2007,Profesiones,Directivos,1269,
+2007,Profesiones,Artistas,936,
+2007,Profesiones,Sacerdotes,837,
+2007,Profesiones,Agricultores,321,
+2007,Profesiones,Marinos,131,
+2007,Profesiones,Religiosas,125,
+2007,Profesiones,Deportistas,121,
+2007,Sexos,Hombres,66780,
+2007,Sexos,Mujeres,47246,
+2008,Autonomías,Extranjeros,64149,
+2008,Autonomías,Madrid,10671,
+2008,Autonomías,Cataluña,8750,
+2008,Autonomías,Andalucía,8568,
+2008,Autonomías,Valencia,7665,
+2008,Autonomías,Galicia,4392,
+2008,Autonomías,Euskadi,4285,
+2008,Autonomías,Castilla León,3869,
+2008,Autonomías,Castilla la Mancha,2729,
+2008,Autonomías,Murcia,1784,
+2008,Autonomías,Aragón,1443,
+2008,Autonomías,Extremadura,1335,
+2008,Autonomías,Canarias,1268,
+2008,Autonomías,Asturias,1203,
+2008,Autonomías,Baleares,1001,
+2008,Autonomías,Navarra,899,
+2008,Autonomías,Cantabria,448,
+2008,Autonomías,La Rioja,390,
+2008,Autonomías,Españoles en el extranjero,164,
+2008,Autonomías,Ceuta,100,
+2008,Autonomías,Melilla,28,
+2008,Caminos,Camino Francés,98729,
+2008,Caminos,Camino Portugués,9770,
+2008,Caminos,Camino del Norte,7035,
+2008,Caminos,Vía de la Plata,5104,
+2008,Caminos,Camino Primitivo,2719,
+2008,Caminos,Camino Inglés,1451,
+2008,Caminos,Otros caminos,333,
+2008,Edades,De 36 a 65,65364,
+2008,Edades,De 19 a 35,41123,
+2008,Edades,De 13 a 18,10403,
+2008,Edades,Más de 65,7158,
+2008,Edades,De 0 a 12,1093,
+2008,Medios,Pie,103669,
+2008,Medios,Biciclet,21143,
+2008,Medios,Caballo,290,
+2008,Medios,Silla de ruedas,39,
+2008,Motivos,Religiosa y otras,63598,
+2008,Motivos,Religiosa,50732,
+2008,Motivos,No religiosa,10811,
+2008,Países,España,61112,
+2008,Países,Alemania,15746,
+2008,Países,Italia,10707,
+2008,Países,Francia,6618,
+2008,Países,Portugal,4341,
+2008,Países,Estados Unidos,2214,
+2008,Países,Canadá,1933,
+2008,Países,Holanda,1864,
+2008,Países,Austria,1847,
+2008,Países,Reino Unido,1559,
+2008,Países,Irlanda,1535,
+2008,Países,Brasil,1365,
+2008,Países,Bélgica,1291,
+2008,Países,Suiza,1246,
+2008,Países,Polonia,1102,
+2008,Países,Australia,1022,
+2008,Países,Dinamarca,986,
+2008,Países,Suecia,929,
+2008,Países,Corea,915,
+2008,Países,Hungría,730,
+2008,Países,Noruega,718,
+2008,Países,México,653,
+2008,Países,Finlandia,619,
+2008,Países,República Checa,564,
+2008,Países,Japón,412,
+2008,Países,Argentina,360,
+2008,Países,Sudáfrica,274,
+2008,Países,Eslovaquia,249,
+2008,Países,Eslovenia,229,
+2008,Países,Venezuela,210,
+2008,Países,Colombia,196,
+2008,Países,Nueva Zelanda,162,
+2008,Países,Estonia,129,
+2008,Países,Chile,83,
+2008,Países,Rumanía,78,
+2008,Países,Uruguay,77,
+2008,Países,Rusia,72,
+2008,Países,Andorra,67,
+2008,Países,Luxemburgo,66,
+2008,Países,Perú,64,
+2008,Países,Ecuador,61,
+2008,Países,Israel,59,
+2008,Países,Lituania,54,
+2008,Países,Puerto Rico,48,
+2008,Países,Croacia,45,
+2008,Países,Guatemala,37,
+2008,Países,Ucrania,31,
+2008,Países,Letonia,29,
+2008,Países,Islandia,28,
+2008,Países,Costa Rica,26,
+2008,Países,Grecia,26,
+2008,Países,Bulgaria,25,
+2008,Países,Bolivia,23,
+2008,Países,Filipinas,22,
+2008,Países,República Dominicana,21,
+2008,Países,China,20,
+2008,Países,Marruecos,16,
+2008,Países,Malta,16,
+2008,Países,Irán,14,
+2008,Países,Turquía,13,
+2008,Países,India,12,
+2008,Países,Cuba,11,
+2008,Países,Taiwán,11,
+2008,Países,El Salvador,9,
+2008,Países,Paraguay,9,
+2008,Países,Singapur,9,
+2008,Países,Chipre,8,
+2008,Países,Honduras,8,
+2008,Países,Islas Feroe,8,
+2008,Países,Líbano,8,
+2008,Países,Malasia,6,
+2008,Países,Argelia,5,
+2008,Países,Nicaragua,5,
+2008,Países,Panamá,5,
+2008,Países,Serbia,5,
+2008,Países,Angola,4,
+2008,Países,Indonesia,4,
+2008,Países,Liechtensein,4,
+2008,Países,Moldavia,4,
+2008,Países,Sri Lanka,3,
+2008,Países,Vietnam,3,
+2008,Países,Guinea,3,
+2008,Países,Kazajistán,3,
+2008,Países,San Marino,3,
+2008,Países,Camerún,2,
+2008,Países,Egipto,2,
+2008,Países,Nigeria,2,
+2008,Países,Pakistán,2,
+2008,Países,Tailandia,2,
+2008,Países,Togo,2,
+2008,Países,Zimbabwe,2,
+2008,Países,Albania,1,
+2008,Países,Armenia,1,
+2008,Países,Bangladesh,1,
+2008,Países,Bielorrusia,1,
+2008,Países,Bosnia,1,
+2008,Países,Cabo Verde,1,
+2008,Países,Etiopía,1,
+2008,Países,Ghana,1,
+2008,Países,Islas Vírgenes,1,
+2008,Países,Jamaica,1,
+2008,Países,Jordania,1,
+2008,Países,Laos,1,
+2008,Países,Macedonia,1,
+2008,Países,Mónaco,1,
+2008,Países,Mozambique,1,
+2008,Países,Nepal,1,
+2008,Países,Siria,1,
+2008,Países,Timor Oriental,1,
+2008,Países,Yugoslavia,1,
+2008,Procedencias,Sarria,20853,
+2008,Procedencias,Saint Jean Pied de Port,15763,
+2008,Procedencias,Roncesvalles,9172,
+2008,Procedencias,León,8216,
+2008,Procedencias,Cebreiro,7874,
+2008,Procedencias,Ponferrada,6644,
+2008,Procedencias,Astorga,5050,
+2008,Procedencias,Pamplona,4327,
+2008,Procedencias,Tuy,3416,
+2008,Procedencias,Burgos,3179,
+2008,Procedencias,Le Puy,2818,
+2008,Procedencias,Oporto,2503,
+2008,Procedencias,Villafranca,2216,
+2008,Procedencias,Oviedo,2086,
+2008,Procedencias,Francia,1961,
+2008,Procedencias,Sevilla,1703,
+2008,Procedencias,Resto de Portugal,1436,
+2008,Procedencias,Triacastela,1378,
+2008,Procedencias,Irún,1356,
+2008,Procedencias,Ourense,1333,
+2008,Procedencias,Ferrol,1223,
+2008,Procedencias,Valença do Minho,1188,
+2008,Procedencias,Somport,978,
+2008,Procedencias,Resto de Castilla-León,968,
+2008,Procedencias,Samos,802,
+2008,Procedencias,Resto de Asturias,789,
+2008,Procedencias,Logroño,777,
+2008,Procedencias,Ribadeo,753,
+2008,Procedencias,Holanda,733,
+2008,Procedencias,Alemania,720,
+2008,Procedencias,Vilalba,664,
+2008,Procedencias,Lugo,594,
+2008,Procedencias,Bilbao,566,
+2008,Procedencias,Resto de Euskadi,555,
+2008,Procedencias,Santander,523,
+2008,Procedencias,Mondoñedo,412,
+2008,Procedencias,Ponte de Lima,408,
+2008,Procedencias,Sahagún,381,
+2008,Procedencias,Salamanca,368,
+2008,Procedencias,Lisboa,357,
+2008,Procedencias,Gijón,342,
+2008,Procedencias,Suiza,331,
+2008,Procedencias,Jaca,304,
+2008,Procedencias,Avilés,300,
+2008,Procedencias,Madrid -C.F.,300,
+2008,Procedencias,Rabanal del Camino,269,
+2008,Procedencias,Zamora,243,
+2008,Procedencias,Vigo,240,
+2008,Procedencias,Bélgica,230,
+2008,Procedencias,Puente la Reina,221,
+2008,Procedencias,Frómista,218,
+2008,Procedencias,Mérida,218,
+2008,Procedencias,Neda,198,
+2008,Procedencias,Resto de Cantabria,192,
+2008,Procedencias,Santo Domingo de la Calzada,190,
+2008,Procedencias,Puebla de Sanabria,182,
+2008,Procedencias,Lourdes,180,
+2008,Procedencias,Braga,173,
+2008,Procedencias,Vega de Valcarce,172,
+2008,Procedencias,Vezelay,157,
+2008,Procedencias,Chaves-Portugal,155,
+2008,Procedencias,Cataluña,153,
+2008,Procedencias,Carrión de los Condes,151,
+2008,Procedencias,Hospital de Órbigo,151,
+2008,Procedencias,Arles,148,
+2008,Procedencias,Grandas de Salime,130,
+2008,Procedencias,Allariz,125,
+2008,Procedencias,A Gudiña,122,
+2008,Procedencias,Bárcelona,116,
+2008,Procedencias,Hendaya,100,
+2008,Procedencias,Estella,99,
+2008,Procedencias,Castilla la Mancha,84,
+2008,Procedencias,Fonsagrada,83,
+2008,Procedencias,Cáceres,76,
+2008,Procedencias,Austria,72,
+2008,Procedencias,Zaragoza,72,
+2008,Procedencias,Xunqueira de Ambia,70,
+2008,Procedencias,París,69,
+2008,Procedencias,Resto de Andalucía,67,
+2008,Procedencias,Abadín,65,
+2008,Procedencias,Cadavo,64,
+2008,Procedencias,Castrojeriz,64,
+2008,Procedencias,Valencia,63,
+2008,Procedencias,Italia,62,
+2008,Procedencias,Tineo,58,
+2008,Procedencias,Muxía,57,
+2008,Procedencias,Canfranc,54,
+2008,Procedencias,Comunidad Valenciana,53,
+2008,Procedencias,Verín,53,
+2008,Procedencias,Porriño,48,
+2008,Procedencias,Finisterre,47,
+2008,Procedencias,Nájera,44,
+2008,Procedencias,Resto de Extremadura,39,
+2008,Procedencias,Lourenzá,38,
+2008,Procedencias,Murcia,38,
+2008,Procedencias,Rábade,38,
+2008,Procedencias,Granja de Moreruela,37,
+2008,Procedencias,Roma,35,
+2008,Procedencias,Vegadeo,35,
+2008,Procedencias,Málaga,33,
+2008,Procedencias,Granada,30,
+2008,Procedencias,Irlanda,29,
+2008,Procedencias,Salas,18,
+2008,Procedencias,Reino Unido,16,
+2008,Procedencias,Valcarlos,15,
+2008,Procedencias,Valladolid,15,
+2008,Procedencias,La Mesa,13,
+2008,Procedencias,Laza,13,
+2008,Procedencias,Grado,12,
+2008,Procedencias,Benavente,11,
+2008,Procedencias,Huelva,11,
+2008,Procedencias,Polonia,10,
+2008,Procedencias,Badajoz,7,
+2008,Procedencias,República Chea,6,
+2008,Procedencias,Córdoba,4,
+2008,Procedencias,Resto de Europa,4,
+2008,Procedencias,Andorra,3,
+2008,Procedencias,Ortigueira,3,
+2008,Procedencias,Pontedeume,3,
+2008,Procedencias,San Juan de Ortega,3,
+2008,Procedencias,Grecia,2,
+2008,Procedencias,Luxemburgo,2,
+2008,Procedencias,Monforte,2,
+2008,Procedencias,Paradela,2,
+2008,Procedencias,A Guarda,1,
+2008,Procedencias,Cea,1,
+2008,Procedencias,Dinamarca,1,
+2008,Procedencias,Finlandia,1,
+2008,Procedencias,Hungría,1,
+2008,Procedencias,Jerusalem,1,
+2008,Procedencias,Leyre,1,
+2008,Procedencias,Pardellas,1,
+2008,Profesiones,Estudiantes,22789,
+2008,Profesiones,Empleados,22024,
+2008,Profesiones,Liberales,16135,
+2008,Profesiones,Técnicos,15704,
+2008,Profesiones,Jubilados,14884,
+2008,Profesiones,Profesores,9915,
+2008,Profesiones,Obreros,8218,
+2008,Profesiones,Funcionarios,6025,
+2008,Profesiones,Amas de Casa,3547,
+2008,Profesiones,Parados,2189,
+2008,Profesiones,Directivos,1223,
+2008,Profesiones,Artistas,936,
+2008,Profesiones,Sacerdotes,934,
+2008,Profesiones,Agricultores,396,
+2008,Profesiones,Religiosas,144,
+2008,Profesiones,Marinos,119,
+2008,Profesiones,Deportistas,113,
+2008,Sexos,Hombres,72936,
+2008,Sexos,Mujeres,52205,
+2009,Autonomías,Extranjeros,79007,
+2009,Autonomías,Madrid,13829,
+2009,Autonomías,Cataluña,11350,
+2009,Autonomías,Andalucía,11261,
+2009,Autonomías,Valencia,9844,
+2009,Autonomías,Galicia,5574,
+2009,Autonomías,Castilla León,5276,
+2009,Autonomías,Euskadi,4853,
+2009,Autonomías,Castilla la Mancha,3754,
+2009,Autonomías,Murcia,2447,
+2009,Autonomías,Extremadura,2201,
+2009,Autonomías,Aragón,1811,
+2009,Autonomías,Canarias,1638,
+2009,Autonomías,Asturias,1329,
+2009,Autonomías,Baleares,1101,
+2009,Autonomías,Navarra,983,
+2009,Autonomías,Cantabria,841,
+2009,Autonomías,La Rioja,463,
+2009,Autonomías,Españoles en el extranjero,308,
+2009,Autonomías,Ceuta,121,
+2009,Autonomías,Melilla,23,
+2009,Caminos,Camino Francés,113001,
+2009,Caminos,Camino Portugués,11956,
+2009,Caminos,Camino del Norte,9183,
+2009,Caminos,Vía de la Plata,6254,
+2009,Caminos,Camino Primitivo,3388,
+2009,Caminos,Camino Inglés,1793,
+2009,Caminos,Otros caminos,302,
+2009,Edades,De 36 a 65,73293,
+2009,Edades,De 19 a 35,51135,
+2009,Edades,De 13 a 18,12303,
+2009,Edades,Más de 65,7874,
+2009,Edades,De 0 a 12,1272,
+2009,Medios,Pie,120605,
+2009,Medios,Biciclet,24892,
+2009,Medios,Caballo,341,
+2009,Medios,Silla de ruedas,39,
+2009,Motivos,Religiosa y otras,70303,
+2009,Motivos,Religiosa,62188,
+2009,Motivos,No religiosa,13386,
+2009,Países,España,79007,
+2009,Países,Alemania,14789,
+2009,Países,Italia,10341,
+2009,Países,Francia,7459,
+2009,Países,Portugal,4854,
+2009,Países,Estados Unidos,2540,
+2009,Países,Canadá,2194,
+2009,Países,Austria,1995,
+2009,Países,Holanda,1916,
+2009,Países,Irlanda,1722,
+2009,Países,Reino Unido,1700,
+2009,Países,Bélgica,1410,
+2009,Países,Polonia,1321,
+2009,Países,Brasil,1248,
+2009,Países,Suiza,1208,
+2009,Países,Corea,1079,
+2009,Países,Dinamarca,1061,
+2009,Países,Suecia,1039,
+2009,Países,Australia,1015,
+2009,Países,Finlandia,825,
+2009,Países,Hungría,710,
+2009,Países,Noruega,647,
+2009,Países,México,638,
+2009,Países,República Checa,618,
+2009,Países,Japón,526,
+2009,Países,Argentina,461,
+2009,Países,Eslovaquia,413,
+2009,Países,Eslovenia,357,
+2009,Países,Venezuela,278,
+2009,Países,Colombia,273,
+2009,Países,Sudáfrica,262,
+2009,Países,Nueva Zelanda,200,
+2009,Países,Chile,120,
+2009,Países,Estonia,110,
+2009,Países,Rumanía,104,
+2009,Países,Rusia,94,
+2009,Países,Uruguay,88,
+2009,Países,Ecuador,85,
+2009,Países,Lituania,83,
+2009,Países,Luxemburgo,82,
+2009,Países,Perú,82,
+2009,Países,Andorra,69,
+2009,Países,Israel,61,
+2009,Países,Bolivia,56,
+2009,Países,Croacia,55,
+2009,Países,Puerto Rico,54,
+2009,Países,Bulgaria,52,
+2009,Países,Grecia,37,
+2009,Países,China,35,
+2009,Países,Costa Rica,35,
+2009,Países,Letonia,35,
+2009,Países,Ucrania,33,
+2009,Países,Cuba,27,
+2009,Países,República Dominicana,27,
+2009,Países,Turquía,16,
+2009,Países,Filipinas,15,
+2009,Países,Guatemala,15,
+2009,Países,Islas Feroe,14,
+2009,Países,Taiwán,14,
+2009,Países,Islandia,13,
+2009,Países,Paraguay,13,
+2009,Países,Marruecos,12,
+2009,Países,Singapur,12,
+2009,Países,India,11,
+2009,Países,Malta,11,
+2009,Países,Panamá,10,
+2009,Países,Tailandia,9,
+2009,Países,Cabo Verde,8,
+2009,Países,El Salvador,7,
+2009,Países,Honduras,7,
+2009,Países,Irán,7,
+2009,Países,Indonesia,6,
+2009,Países,Serbia,6,
+2009,Países,Argelia,5,
+2009,Países,Bielorrusia,5,
+2009,Países,Camerún,5,
+2009,Países,Egipto,5,
+2009,Países,Jamaica,5,
+2009,Países,Nicaragua,5,
+2009,Países,San Marino,5,
+2009,Países,Liechtensein,4,
+2009,Países,Macedonia,4,
+2009,Países,Malasia,4,
+2009,Países,Moldavia,4,
+2009,Países,Nigeria,4,
+2009,Países,Bosnia,4,
+2009,Países,Congo,4,
+2009,Países,Líbano,4,
+2009,Países,Albania,3,
+2009,Países,Dominica,3,
+2009,Países,Etiopía,3,
+2009,Países,Ghana,3,
+2009,Países,Jordania,3,
+2009,Países,Trinidad y Tobago,3,
+2009,Países,Vanuatu,3,
+2009,Países,Chipre,2,
+2009,Países,Guinea Ecuatorial,2,
+2009,Países,Haití,2,
+2009,Países,Kenya,2,
+2009,Países,Namibia,2,
+2009,Países,Togo,2,
+2009,Países,Vietnam,2,
+2009,Países,Zimbabwe,2,
+2009,Países,Angola,1,
+2009,Países,Antillas Holandesas,1,
+2009,Países,Botswana,1,
+2009,Países,Mauritania,1,
+2009,Países,Mónaco,1,
+2009,Países,Senegal,1,
+2009,Países,Sri Lanka,1,
+2009,Países,Timor Oriental,1,
+2009,Procedencias,Sarria,26202,
+2009,Procedencias,Saint Jean Pied de Port,15826,
+2009,Procedencias,Roncesvalles,10564,
+2009,Procedencias,Cebreiro,9417,
+2009,Procedencias,León,9411,
+2009,Procedencias,Ponferrada,7913,
+2009,Procedencias,Astorga,5566,
+2009,Procedencias,Pamplona,4202,
+2009,Procedencias,Tuy,4169,
+2009,Procedencias,Burgos,3783,
+2009,Procedencias,Oviedo,3362,
+2009,Procedencias,Oporto,3236,
+2009,Procedencias,Le Puy,3024,
+2009,Procedencias,Villafranca,2725,
+2009,Procedencias,Sevilla,1905,
+2009,Procedencias,Francia,1892,
+2009,Procedencias,Irún,1723,
+2009,Procedencias,Valença do Minho,1686,
+2009,Procedencias,Ourense,1677,
+2009,Procedencias,Ferrol,1642,
+2009,Procedencias,Triacastela,1611,
+2009,Procedencias,Resto de Portugal,1563,
+2009,Procedencias,Resto de Castilla-León,1378,
+2009,Procedencias,Resto de Asturias,1151,
+2009,Procedencias,Samos,1074,
+2009,Procedencias,Somport,983,
+2009,Procedencias,Logroño,908,
+2009,Procedencias,Ribadeo,898,
+2009,Procedencias,Vilalba,842,
+2009,Procedencias,Santander,789,
+2009,Procedencias,Lugo,738,
+2009,Procedencias,Alemania,729,
+2009,Procedencias,Holanda,666,
+2009,Procedencias,Bilbao,596,
+2009,Procedencias,Resto de Euskadi,537,
+2009,Procedencias,Salamanca,460,
+2009,Procedencias,Ponte de Lima,456,
+2009,Procedencias,Lisboa,449,
+2009,Procedencias,Zamora,441,
+2009,Procedencias,Sahagún,422,
+2009,Procedencias,Vega de Valcarce,369,
+2009,Procedencias,Rabanal del Camino,361,
+2009,Procedencias,Gijón,359,
+2009,Procedencias,Jaca,351,
+2009,Procedencias,Madrid -C.F.,340,
+2009,Procedencias,Avilés,312,
+2009,Procedencias,Suiza,297,
+2009,Procedencias,Puebla de Sanabria,267,
+2009,Procedencias,Frómista,266,
+2009,Procedencias,Bélgica,261,
+2009,Procedencias,Lourdes,248,
+2009,Procedencias,Mérida,242,
+2009,Procedencias,Braga,228,
+2009,Procedencias,A Gudiña,226,
+2009,Procedencias,Santo Domingo de la Calzada,225,
+2009,Procedencias,Resto de Cantabria,222,
+2009,Procedencias,Carrión de los Condes,220,
+2009,Procedencias,Vezelay,204,
+2009,Procedencias,Cataluña,183,
+2009,Procedencias,Puente la Reina,176,
+2009,Procedencias,Arles,170,
+2009,Procedencias,Hospital de Órbigo,169,
+2009,Procedencias,Chaves-Portugal,144,
+2009,Procedencias,Neda,139,
+2009,Procedencias,Hendaya,120,
+2009,Procedencias,Zaragoza,119,
+2009,Procedencias,Austria,118,
+2009,Procedencias,Estella,110,
+2009,Procedencias,Vigo,102,
+2009,Procedencias,Valencia,96,
+2009,Procedencias,Mondoñedo,93,
+2009,Procedencias,Bárcelona,93,
+2009,Procedencias,Granja de Moreruela,93,
+2009,Procedencias,Resto de Andalucía,85,
+2009,Procedencias,Xunqueira de Ambia,84,
+2009,Procedencias,Laza,84,
+2009,Procedencias,París,79,
+2009,Procedencias,Polonia,77,
+2009,Procedencias,Cáceres,74,
+2009,Procedencias,Abadín,72,
+2009,Procedencias,Tineo,69,
+2009,Procedencias,Grandas de Salime,65,
+2009,Procedencias,Lourenzá,64,
+2009,Procedencias,Rábade,64,
+2009,Procedencias,Verín,60,
+2009,Procedencias,Porriño,57,
+2009,Procedencias,Fonsagrada,56,
+2009,Procedencias,Resto de Extremadura,52,
+2009,Procedencias,Comunidad Valenciana,51,
+2009,Procedencias,Italia,48,
+2009,Procedencias,Muxía,48,
+2009,Procedencias,Canfranc,48,
+2009,Procedencias,Nájera,46,
+2009,Procedencias,Resto de Europa,44,
+2009,Procedencias,Granada,42,
+2009,Procedencias,Cadavo,38,
+2009,Procedencias,Castrojeriz,31,
+2009,Procedencias,Finisterre,28,
+2009,Procedencias,Málaga,28,
+2009,Procedencias,Córdoba,26,
+2009,Procedencias,Huelva,24,
+2009,Procedencias,Badajoz,23,
+2009,Procedencias,Salas,19,
+2009,Procedencias,Benavente,18,
+2009,Procedencias,Grado,16,
+2009,Procedencias,Allariz,15,
+2009,Procedencias,Reino Unido,15,
+2009,Procedencias,Valladolid,15,
+2009,Procedencias,Murcia,13,
+2009,Procedencias,Roma,11,
+2009,Procedencias,Monforte,10,
+2009,Procedencias,Castilla la Mancha,9,
+2009,Procedencias,Vegadeo,9,
+2009,Procedencias,Irlanda,9,
+2009,Procedencias,República Chea,8,
+2009,Procedencias,Valcarlos,7,
+2009,Procedencias,La Mesa,7,
+2009,Procedencias,Vincios,6,
+2009,Procedencias,Dinamarca,5,
+2009,Procedencias,Fonfría,5,
+2009,Procedencias,Ortigueira,4,
+2009,Procedencias,San Juan de Ortega,4,
+2009,Procedencias,Luxemburgo,3,
+2009,Procedencias,Pontedeume,2,
+2009,Procedencias,Hungría,2,
+2009,Procedencias,La Bañeza,2,
+2009,Procedencias,Borres,2,
+2009,Procedencias,Andorra,1,
+2009,Procedencias,Finlandia,1,
+2009,Procedencias,Betanzos,1,
+2009,Procedencias,Egipto,1,
+2009,Profesiones,Empleados,31640,
+2009,Profesiones,Estudiantes,26844,
+2009,Profesiones,Técnicos,17883,
+2009,Profesiones,Liberales,16379,
+2009,Profesiones,Jubilados,16109,
+2009,Profesiones,Profesores,11105,
+2009,Profesiones,Obreros,7671,
+2009,Profesiones,Funcionarios,7025,
+2009,Profesiones,Amas de Casa,3574,
+2009,Profesiones,Parados,3393,
+2009,Profesiones,Directivos,1346,
+2009,Profesiones,Artistas,1177,
+2009,Profesiones,Sacerdotes,870,
+2009,Profesiones,Agricultores,444,
+2009,Profesiones,Religiosas,153,
+2009,Profesiones,Marinos,136,
+2009,Profesiones,Deportistas,108,
+2009,Sexos,Hombres,85945,
+2009,Sexos,Mujeres,59932,
+2010,Autonomías,Extranjeros,73653,27.06
+2010,Autonomías,Galicia,34320,12.61
+2010,Autonomías,Madrid,34029,12.5
+2010,Autonomías,Andalucía,24941,9.16
+2010,Autonomías,Cataluña,20668,7.59
+2010,Autonomías,Comunidad Valenciana,17246,6.34
+2010,Autonomías,Castilla León,13163,4.84
+2010,Autonomías,Extranjeros residentes en España,9159,3.37
+2010,Autonomías,Castilla la Mancha,9048,3.32
+2010,Autonomías,Pais Vasco,7199,2.65
+2010,Autonomías,Extremadura,4614,1.7
+2010,Autonomías,Asturias,4315,1.59
+2010,Autonomías,Aragón,4071,1.5
+2010,Autonomías,Canarias,3797,1.4
+2010,Autonomías,Murcia,3415,1.25
+2010,Autonomías,Baleares,2468,0.91
+2010,Autonomías,Cantabria,2124,0.78
+2010,Autonomías,Navarra,2056,0.76
+2010,Autonomías,La Rioja,1011,0.37
+2010,Autonomías,Españoles residentes en el extranjero,500,0.18
+2010,Autonomías,Ceuta,223,0.08
+2010,Autonomías,Melilla,113,0.04
+2010,Caminos,Camino Francés,189212,69.53
+2010,Caminos,Camino Portugués,34147,12.55
+2010,Caminos,Camino del Norte,17954,6.6
+2010,Caminos,Vía de la Plata,14197,5.22
+2010,Caminos,Camino Primitivo,7661,2.82
+2010,Caminos,Camino Inglés,6442,2.37
+2010,Caminos,Otros caminos,1522,0.93
+2010,Edades,30 - 60,158184,58.13
+2010,Edades,< 30,79899,29.36
+2010,Edades,> 60,34052,12.51
+2010,Medios,Pie,237852,87.4
+2010,Medios,Bicicleta,32926,12.1
+2010,Medios,Caballo,1315,0.48
+2010,Medios,Silla de ruedas,42,0.02
+2010,Motivos,Religioso,148964,54.74
+2010,Motivos,Religioso y otros,109380,40.19
+2010,Motivos,No religioso,13791,5.07
+2010,Países,España,188089,69.12
+2010,Países,Alemania,14503,5.33
+2010,Países,Italia,14222,5.23
+2010,Países,Francia,9140,3.36
+2010,Países,Portugal,7786,2.86
+2010,Países,Estados Unidos,3334,1.23
+2010,Países,Irlanda,2296,0.84
+2010,Países,Brasil,2121,0.78
+2010,Países,Holanda,2063,0.76
+2010,Países,Polonia,2040,0.75
+2010,Países,Reino Unido,2031,0.75
+2010,Países,Canadá,1877,0.69
+2010,Países,Austria,1734,0.64
+2010,Países,Belgica,1507,0.55
+2010,Países,Corea,1455,0.53
+2010,Países,México,1444,0.53
+2010,Países,Suecia,1264,0.46
+2010,Países,Australia,1191,0.44
+2010,Países,Suiza,1128,0.41
+2010,Países,Argentina,1125,0.41
+2010,Países,Dinamarca,980,0.36
+2010,Países,Venezuela,865,0.32
+2010,Países,Japón,796,0.29
+2010,Países,Colombia,748,0.27
+2010,Países,Finlandia,742,0.27
+2010,Países,Hungría,715,0.26
+2010,Países,República Checa,666,0.24
+2010,Países,Noruega,609,0.22
+2010,Países,Eslovaquia,587,0.22
+2010,Países,Eslovenia,441,0.16
+2010,Países,Sudáfrica,301,0.11
+2010,Países,Puerto Rico,276,0.1
+2010,Países,Ecuador,274,0.1
+2010,Países,Chile,264,0.1
+2010,Países,Uruguay,243,0.09
+2010,Países,Rumania,240,0.09
+2010,Países,Rusia,236,0.09
+2010,Países,Perú,231,0.08
+2010,Países,Nueva Zelanda,221,0.08
+2010,Países,Andorra,182,0.07
+2010,Países,Lituania,145,0.05
+2010,Países,Estonia,128,0.05
+2010,Países,Bolivia,127,0.05
+2010,Países,Luxemburgo,117,0.04
+2010,Países,Bulgaria,97,0.04
+2010,Países,Israel,96,0.04
+2010,Países,Croacia,86,0.03
+2010,Países,Paraguay,71,0.03
+2010,Países,Rep. Dominicana,69,0.03
+2010,Países,Ucrania,65,0.02
+2010,Países,Grecia,62,0.02
+2010,Países,China,59,0.02
+2010,Países,Filipinas,52,0.02
+2010,Países,Letonia,49,0.02
+2010,Países,Cuba,47,0.02
+2010,Países,El Salvador,47,0.02
+2010,Países,Panamá,43,0.02
+2010,Países,Marruecos,41,0.02
+2010,Países,Costa Rica,39,0.01
+2010,Países,Guatemala,39,0.01
+2010,Países,Rep. de Corea,38,0.01
+2010,Países,Malta,37,0.01
+2010,Países,Taiwán,27,0.01
+2010,Países,Swazilandia,26,0.01
+2010,Países,Nicaragua,24,0.01
+2010,Países,Myanmar,23,0.01
+2010,Países,Albania,21,0.01
+2010,Países,Honduras,20,0.01
+2010,Países,India,20,0.01
+2010,Países,Turquía,20,0.01
+2010,Países,Islas Feroe,18,0.01
+2010,Países,Brunei,18,0.01
+2010,Países,Singapur,18,0.01
+2010,Países,Guyana,17,0.01
+2010,Países,Armenia,16,0.01
+2010,Países,Serbia,16,0.01
+2010,Países,Irán,14,0.01
+2010,Países,Islandia,14,0.01
+2010,Países,Pakistán,14,0.01
+2010,Países,Chipre,12,0.0
+2010,Países,San Marino,12,0.0
+2010,Países,Bielorrusia,11,0.0
+2010,Países,Guinea Ecuatorial,11,0.0
+2010,Países,Malasia,11,0.0
+2010,Países,Líbano,10,0.0
+2010,Países,Madagascar,10,0.0
+2010,Países,Antillas Holandesas,9,0.0
+2010,Países,Dominica,9,0.0
+2010,Países,Camerún,8,0.0
+2010,Países,Corea del norte,8,0.0
+2010,Países,Tailandia,8,0.0
+2010,Países,Cabo Verde,7,0.0
+2010,Países,Gabón,7,0.0
+2010,Países,Georgia,7,0.0
+2010,Países,Indonesia,7,0.0
+2010,Países,Kenya,7,0.0
+2010,Países,Moldavia,7,0.0
+2010,Países,Nigeria,7,0.0
+2010,Países,Vietnam,7,0.0
+2010,Países,Argelia,6,0.0
+2010,Países,Comores,6,0.0
+2010,Países,Jordania,6,0.0
+2010,Países,Timor Oriental,6,0.0
+2010,Países,Liechtensein,5,0.0
+2010,Países,Nepal,5,0.0
+2010,Países,Omán,5,0.0
+2010,Países,Emiratos Árabes Unidos,5,0.0
+2010,Países,Belice,4,0.0
+2010,Países,Congo,4,0.0
+2010,Países,Mónaco,4,0.0
+2010,Países,Mozambique,4,0.0
+2010,Países,Haití,3,0.0
+2010,Países,Macedonia,3,0.0
+2010,Países,Rwanda,3,0.0
+2010,Países,Senegal,3,0.0
+2010,Países,Sudán,3,0.0
+2010,Países,Tayikistán,3,0.0
+2010,Países,Trinidad y Tobago,3,0.0
+2010,Países,Uganda,3,0.0
+2010,Países,Angola,2,0.0
+2010,Países,Bahamas,2,0.0
+2010,Países,Ghana,2,0.0
+2010,Países,Groenlandia,2,0.0
+2010,Países,Mauricio,2,0.0
+2010,Países,Namibia,2,0.0
+2010,Países,Sri Lanka,2,0.0
+2010,Países,Zimbabwe,2,0.0
+2010,Países,Aruba,1,0.0
+2010,Países,Bahrein,1,0.0
+2010,Países,Barbados,1,0.0
+2010,Países,Bosnia,1,0.0
+2010,Países,Costa de Marfil,1,0.0
+2010,Países,Islas Vírgenes,1,0.0
+2010,Países,Kazajistán,1,0.0
+2010,Países,Martinica,1,0.0
+2010,Países,Mongolia,1,0.0
+2010,Países,Siria,1,0.0
+2010,Países,Tanzania,1,0.0
+2010,Países,Togo,1,0.0
+2010,Países,Túnez,1,0.0
+2010,Procedencias,Sarria,67869,24.94
+2010,Procedencias,Cebreiro,22057,8.11
+2010,Procedencias,Tui,18121,6.66
+2010,Procedencias,S. Jean P. Port,17819,6.55
+2010,Procedencias,Roncesvalles,13620,5.0
+2010,Procedencias,Ponferrada,12810,4.71
+2010,Procedencias,León,11677,4.29
+2010,Procedencias,Astorga,7404,2.72
+2010,Procedencias,Ourense,6905,2.54
+2010,Procedencias,Oporto,5694,2.09
+2010,Procedencias,Ferrol,5102,1.87
+2010,Procedencias,Vilafranca,4744,1.74
+2010,Procedencias,Burgos,4205,1.55
+2010,Procedencias,Pamplona,4189,1.54
+2010,Procedencias,Valença do Minho,3931,1.44
+2010,Procedencias,Oviedo - C.P.,3624,1.33
+2010,Procedencias,Le Puy,3280,1.21
+2010,Procedencias,Triacastela,3028,1.11
+2010,Procedencias,Resto Portugal,2984,1.1
+2010,Procedencias,Resto Asturias,2916,1.07
+2010,Procedencias,Lugo - C.P.,2696,0.99
+2010,Procedencias,Irún,2474,0.91
+2010,Procedencias,Sevilla,2386,0.88
+2010,Procedencias,Vilalba,2166,0.8
+2010,Procedencias,Francia,2090,0.77
+2010,Procedencias,Resto C. León,2050,0.75
+2010,Procedencias,Samos,2006,0.74
+2010,Procedencias,Ribadeo,1824,0.67
+2010,Procedencias,Oviedo,1776,0.65
+2010,Procedencias,Finisterra,1406,0.52
+2010,Procedencias,Neda,1315,0.48
+2010,Procedencias,Santander,1279,0.47
+2010,Procedencias,Somport,1115,0.41
+2010,Procedencias,Logroño,972,0.36
+2010,Procedencias,Bilbao,785,0.29
+2010,Procedencias,Holanda,721,0.26
+2010,Procedencias,Lisboa,718,0.26
+2010,Procedencias,Zamora,713,0.26
+2010,Procedencias,Ponte de Lima,709,0.26
+2010,Procedencias,Mondoñedo,704,0.26
+2010,Procedencias,Porriño,661,0.24
+2010,Procedencias,Gijón,644,0.24
+2010,Procedencias,Salamanca,643,0.24
+2010,Procedencias,Avilés,642,0.24
+2010,Procedencias,Madrid - C.F.,640,0.24
+2010,Procedencias,Vigo,640,0.24
+2010,Procedencias,Vega de Valcarce,591,0.22
+2010,Procedencias,Alemania,591,0.22
+2010,Procedencias,Sahagún,586,0.22
+2010,Procedencias,Resto Asturias - C.P.,535,0.2
+2010,Procedencias,Gudiña,466,0.17
+2010,Procedencias,Puebla de Sanabria,436,0.16
+2010,Procedencias,Baamonde,429,0.16
+2010,Procedencias,Jaca,408,0.15
+2010,Procedencias,Abadin,381,0.14
+2010,Procedencias,Muxia,380,0.14
+2010,Procedencias,Resto País Vasco,373,0.14
+2010,Procedencias,Frómista,367,0.13
+2010,Procedencias,Fonsagrada - C.P.,357,0.13
+2010,Procedencias,Laza,326,0.12
+2010,Procedencias,Carrión de los Condes,316,0.12
+2010,Procedencias,Rabanal del Camino,311,0.11
+2010,Procedencias,Resto Cantabria,309,0.11
+2010,Procedencias,Lourenzá,287,0.11
+2010,Procedencias,A Guarda,287,0.11
+2010,Procedencias,Sto. Domingo de la Calzada,284,0.1
+2010,Procedencias,Allariz,279,0.1
+2010,Procedencias,Braga,271,0.1
+2010,Procedencias,Bélgica,262,0.1
+2010,Procedencias,Suiza,252,0.09
+2010,Procedencias,Verín,227,0.08
+2010,Procedencias,Lourdes,225,0.08
+2010,Procedencias,Puente la Reina,225,0.08
+2010,Procedencias,San Sebastián,208,0.08
+2010,Procedencias,Hospital de Orbigo,202,0.07
+2010,Procedencias,Mérida,200,0.07
+2010,Procedencias,Granja de Moreruela,197,0.07
+2010,Procedencias,Resto C. León - V.P.,195,0.07
+2010,Procedencias,Xunqueira de Ambia,189,0.07
+2010,Procedencias,Vezelay,173,0.06
+2010,Procedencias,Chaves-Portugal,172,0.06
+2010,Procedencias,Cataluña,169,0.06
+2010,Procedencias,Arles,168,0.06
+2010,Procedencias,Madrid,168,0.06
+2010,Procedencias,R.Pais Vasco,157,0.06
+2010,Procedencias,Zaragoza,156,0.06
+2010,Procedencias,Vegadeo,147,0.05
+2010,Procedencias,Hendaya,145,0.05
+2010,Procedencias,Molinaseca,145,0.05
+2010,Procedencias,Grandas de Salime - C.P.,144,0.05
+2010,Procedencias,Barcelona,136,0.05
+2010,Procedencias,Valencia,133,0.05
+2010,Procedencias,Resto Andalucia,133,0.05
+2010,Procedencias,Montserrat,133,0.05
+2010,Procedencias,Fonsagrada,132,0.05
+2010,Procedencias,Cadavo,121,0.04
+2010,Procedencias,Estella,117,0.04
+2010,Procedencias,Cáceres,116,0.04
+2010,Procedencias,Murcia,100,0.04
+2010,Procedencias,Navarra,99,0.04
+2010,Procedencias,Monforte de Lemos,99,0.04
+2010,Procedencias,Tineo - C.P.,89,0.03
+2010,Procedencias,Baiona,89,0.03
+2010,Procedencias,Canfranc,87,0.03
+2010,Procedencias,Granada,86,0.03
+2010,Procedencias,Resto Europa,85,0.03
+2010,Procedencias,Resto Galicia,83,0.03
+2010,Procedencias,Grandas de Salime,78,0.03
+2010,Procedencias,Austria,77,0.03
+2010,Procedencias,Resto de Extremadura,77,0.03
+2010,Procedencias,París,72,0.03
+2010,Procedencias,Tineo,70,0.03
+2010,Procedencias,Italia,66,0.02
+2010,Procedencias,Otros,62,0.02
+2010,Procedencias,Castilla La Mancha,61,0.02
+2010,Procedencias,Castilla la Mancha,58,0.02
+2010,Procedencias,Córdoba,56,0.02
+2010,Procedencias,Com. Valenciana,52,0.02
+2010,Procedencias,Nájera,46,0.02
+2010,Procedencias,Cast. la Mancha,45,0.02
+2010,Procedencias,Castrojeriz,45,0.02
+2010,Procedencias,Salas,42,0.02
+2010,Procedencias,Valladolid,40,0.01
+2010,Procedencias,La Rioja,40,0.01
+2010,Procedencias,Roma,38,0.01
+2010,Procedencias,Huelva,34,0.01
+2010,Procedencias,Malaga,33,0.01
+2010,Procedencias,San Juan de Ortega,29,0.01
+2010,Procedencias,Valcarlos,29,0.01
+2010,Procedencias,Reino Unido,25,0.01
+2010,Procedencias,Polonia,24,0.01
+2010,Procedencias,Badajoz,22,0.01
+2010,Procedencias,mirallos,22,0.01
+2010,Procedencias,San Sebastian,21,0.01
+2010,Procedencias,Grado,20,0.01
+2010,Procedencias,Covelo,18,0.01
+2010,Procedencias,Vincios,18,0.01
+2010,Procedencias,La Mesa,17,0.01
+2010,Procedencias,Ortigueira,17,0.01
+2010,Procedencias,La Bañeza,16,0.01
+2010,Procedencias,Benavente,14,0.01
+2010,Procedencias,Dinamarca,13,0.0
+2010,Procedencias,Fonfría,13,0.0
+2010,Procedencias,A Rúa,13,0.0
+2010,Procedencias,Quiroga,13,0.0
+2010,Procedencias,Inglaterra,12,0.0
+2010,Procedencias,Republica Checa,11,0.0
+2010,Procedencias,Rábade,11,0.0
+2010,Procedencias,O Barco de Valdeorras,10,0.0
+2010,Procedencias,Finlandia,8,0.0
+2010,Procedencias,Vilabade,8,0.0
+2010,Procedencias,Egipto,7,0.0
+2010,Procedencias,Las Médulas,7,0.0
+2010,Procedencias,Gonzar,5,0.0
+2010,Procedencias,Guntín,5,0.0
+2010,Procedencias,Hungría,5,0.0
+2010,Procedencias,Guitiriz,4,0.0
+2010,Procedencias,Cangas de Morrazo,4,0.0
+2010,Procedencias,Grecia,3,0.0
+2010,Procedencias,Luxemburgo,3,0.0
+2010,Procedencias,Jerusalem,3,0.0
+2010,Procedencias,Andorra,3,0.0
+2010,Procedencias,Artieda,2,0.0
+2010,Procedencias,Betanzos,2,0.0
+2010,Procedencias,Caldas,2,0.0
+2010,Procedencias,Cea,2,0.0
+2010,Procedencias,Leyre,2,0.0
+2010,Procedencias,Irlanda,2,0.0
+2010,Procedencias,Resto Africa,2,0.0
+2010,Procedencias,El Escamplero,1,0.0
+2010,Procedencias,Gándara,1,0.0
+2010,Procedencias,Lalín,1,0.0
+2010,Procedencias,Paradela,1,0.0
+2010,Procedencias,Peñaseita,1,0.0
+2010,Procedencias,Petín,1,0.0
+2010,Procedencias,Pontedeume,1,0.0
+2010,Procedencias,Silleda,1,0.0
+2010,Procedencias,Sobrado,1,0.0
+2010,Procedencias,Viveiro,1,0.0
+2010,Procedencias,Chantada,1,0.0
+2010,Profesiones,Empleados,62951,23.13
+2010,Profesiones,Estudiantes,50204,18.45
+2010,Profesiones,Tecnicos,32850,12.07
+2010,Profesiones,Liberales,29401,10.8
+2010,Profesiones,Jubilados,25370,9.32
+2010,Profesiones,Profesores,16717,6.14
+2010,Profesiones,Funcionarios,15738,5.78
+2010,Profesiones,Obreros,14012,5.15
+2010,Profesiones,Amas de Casa,10984,4.04
+2010,Profesiones,Parados,6227,2.29
+2010,Profesiones,Directivos,2152,0.79
+2010,Profesiones,Sacerdotes,1663,0.61
+2010,Profesiones,Artistas,1408,0.52
+2010,Profesiones,Agricultores,1011,0.37
+2010,Profesiones,Religiosas,793,0.29
+2010,Profesiones,Marinos,440,0.16
+2010,Profesiones,Deportistas,162,0.06
+2010,Sexos,Hombre,151706,55.75
+2010,Sexos,Mujer,120429,44.25
+2011,Autonomías,Madrid,16946,9.24
+2011,Autonomías,Andalucía,15959,8.7
+2011,Autonomías,Cataluña,14362,7.83
+2011,Autonomías,Comunidad Valenciana,11243,6.13
+2011,Autonomías,Galicia,7002,3.82
+2011,Autonomías,Castilla León,6614,3.61
+2011,Autonomías,Pais Vasco,5662,3.09
+2011,Autonomías,Castilla la Mancha,4736,2.58
+2011,Autonomías,Extremadura,2673,1.46
+2011,Autonomías,Murcia,2383,1.3
+2011,Autonomías,Canarias,2378,1.3
+2011,Autonomías,Aragón,2260,1.23
+2011,Autonomías,Asturias,2044,1.11
+2011,Autonomías,Baleares,1465,0.8
+2011,Autonomías,Navarra,1305,0.71
+2011,Autonomías,Cantabria,935,0.51
+2011,Autonomías,La Rioja,493,0.27
+2011,Autonomías,Otra,284,0.15
+2011,Autonomías,Ceuta,153,0.08
+2011,Autonomías,Melilla,88,0.05
+2011,Caminos,Camino Francés,132652,72.34
+2011,Caminos,Camino Portugués,22062,12.03
+2011,Caminos,Camino del Norte,11729,6.4
+2011,Caminos,Vía de la Plata,8061,4.4
+2011,Caminos,Camino Primitivo,5544,3.02
+2011,Caminos,Camino Inglés,2720,1.48
+2011,Caminos,Otros caminos,396,0.22
+2011,Caminos,Muxía-Finisterre,202,0.11
+2011,Edades,De 30 a 60,105736,57.66
+2011,Edades,Menores de 30,52142,28.44
+2011,Edades,Mayores de 60,25488,13.9
+2011,Medios,Pie,153065,83.48
+2011,Medios,Bicicleta,29949,16.33
+2011,Medios,Caballo,341,0.19
+2011,Medios,Silla de ruedas,11,0.01
+2011,Motivos,Religioso y otros,93147,50.8
+2011,Motivos,Religioso,78969,43.07
+2011,Motivos,No religioso,11250,6.14
+2011,Países,España,97822,53.35
+2011,Países,Alemania,16596,9.05
+2011,Países,Italia,12183,6.64
+2011,Países,Portugal,8649,4.72
+2011,Países,Francia,8166,4.45
+2011,Países,Estados Unidos,3726,2.03
+2011,Países,Irlanda,2677,1.46
+2011,Países,Holanda,2398,1.31
+2011,Países,Reino Unido,2389,1.3
+2011,Países,Canadá,2362,1.29
+2011,Países,Brasil,1983,1.08
+2011,Países,Austria,1921,1.05
+2011,Países,Polonia,1820,0.99
+2011,Países,Corea,1740,0.95
+2011,Países,Belgica,1685,0.92
+2011,Países,Dinamarca,1644,0.9
+2011,Países,Australia,1352,0.74
+2011,Países,Suecia,1262,0.69
+2011,Países,Suiza,1226,0.67
+2011,Países,México,1189,0.65
+2011,Países,República Checa,975,0.53
+2011,Países,Noruega,899,0.49
+2011,Países,Japón,877,0.48
+2011,Países,Hungría,772,0.42
+2011,Países,Argentina,726,0.4
+2011,Países,Finlandia,654,0.36
+2011,Países,Eslovaquia,610,0.33
+2011,Países,Sudáfrica,513,0.28
+2011,Países,Eslovenia,510,0.28
+2011,Países,Venezuela,437,0.24
+2011,Países,Colombia,425,0.23
+2011,Países,Rusia,246,0.13
+2011,Países,Nueva Zelanda,238,0.13
+2011,Países,Rumania,201,0.11
+2011,Países,Chile,190,0.1
+2011,Países,Ecuador,174,0.09
+2011,Países,Uruguay,170,0.09
+2011,Países,Perú,153,0.08
+2011,Países,Israel,131,0.07
+2011,Países,Lituania,114,0.06
+2011,Países,China,112,0.06
+2011,Países,Estonia,86,0.05
+2011,Países,Bulgaria,82,0.04
+2011,Países,Luxemburgo,73,0.04
+2011,Países,Puerto Rico,70,0.04
+2011,Países,Andorra,70,0.04
+2011,Países,Croacia,67,0.04
+2011,Países,Rep. Dominicana,64,0.03
+2011,Países,Taiwán,58,0.03
+2011,Países,Grecia,54,0.03
+2011,Países,Ucrania,48,0.03
+2011,Países,Filipinas,46,0.03
+2011,Países,Costa Rica,44,0.02
+2011,Países,Bolivia,42,0.02
+2011,Países,Cuba,40,0.02
+2011,Países,Guatemala,37,0.02
+2011,Países,Letonia,36,0.02
+2011,Países,Islandia,33,0.02
+2011,Países,Malasia,31,0.02
+2011,Países,Paraguay,31,0.02
+2011,Países,Panamá,29,0.02
+2011,Países,Singapur,29,0.02
+2011,Países,El Salvador,28,0.02
+2011,Países,Malta,23,0.01
+2011,Países,India,22,0.01
+2011,Países,Turquía,20,0.01
+2011,Países,Líbano,17,0.01
+2011,Países,Marruecos,15,0.01
+2011,Países,Nicaragua,14,0.01
+2011,Países,Honduras,13,0.01
+2011,Países,Argelia,12,0.01
+2011,Países,Bielorrusia,12,0.01
+2011,Países,Irán,12,0.01
+2011,Países,Liechtensein,11,0.01
+2011,Países,Indonesia,11,0.01
+2011,Países,Serbia,10,0.01
+2011,Países,Namibia,8,0.0
+2011,Países,Chipre,8,0.0
+2011,Países,Islas Feroe,7,0.0
+2011,Países,Dominica,7,0.0
+2011,Países,Cabo Verde,7,0.0
+2011,Países,Tailandia,7,0.0
+2011,Países,Macedonia,7,0.0
+2011,Países,Moldavia,7,0.0
+2011,Países,Albania,6,0.0
+2011,Países,Vietnam,6,0.0
+2011,Países,Bosnia,5,0.0
+2011,Países,Nigeria,5,0.0
+2011,Países,Libia,5,0.0
+2011,Países,Egipto,4,0.0
+2011,Países,Mozambique,4,0.0
+2011,Países,Camerún,4,0.0
+2011,Países,Angola,4,0.0
+2011,Países,Sri Lanka,3,0.0
+2011,Países,Siria,3,0.0
+2011,Países,Nepal,3,0.0
+2011,Países,Trinidad y Tobago,3,0.0
+2011,Países,Timor Oriental,3,0.0
+2011,Países,Haití,2,0.0
+2011,Países,Armenia,2,0.0
+2011,Países,Seychelles,2,0.0
+2011,Países,Tanzania,2,0.0
+2011,Países,Guinea Ecuatorial,2,0.0
+2011,Países,Emiratos Arabes Unidos,2,0.0
+2011,Países,Zimbabwe,2,0.0
+2011,Países,Pakistán,2,0.0
+2011,Países,Georgia,2,0.0
+2011,Países,Túnez,2,0.0
+2011,Países,Senegal,2,0.0
+2011,Países,Bangladesh,1,0.0
+2011,Países,Mauricio,1,0.0
+2011,Países,Costa de Marfil,1,0.0
+2011,Países,Irak,1,0.0
+2011,Países,Madagascar,1,0.0
+2011,Países,Bhután,1,0.0
+2011,Países,Mali,1,0.0
+2011,Países,Jamaica,1,0.0
+2011,Países,Bermudas,1,0.0
+2011,Países,Antillas Holandesas,1,0.0
+2011,Países,Kenya,1,0.0
+2011,Países,Jordania,1,0.0
+2011,Países,Kazajistán,1,0.0
+2011,Países,Ghana,1,0.0
+2011,Países,Swazilandia,1,0.0
+2011,Países,Afganistán,1,0.0
+2011,Países,Belice,1,0.0
+2011,Procedencias,Sarria,39158,21.36
+2011,Procedencias,S. Jean P. Port,19416,10.59
+2011,Procedencias,León,10662,5.81
+2011,Procedencias,Cebreiro,10168,5.55
+2011,Procedencias,Roncesvalles,9348,5.1
+2011,Procedencias,Ponferrada,8141,4.44
+2011,Procedencias,Tui,7720,4.21
+2011,Procedencias,Oporto,6539,3.57
+2011,Procedencias,Astorga,5955,3.25
+2011,Procedencias,Pamplona,4237,2.31
+2011,Procedencias,Burgos,3926,2.14
+2011,Procedencias,Oviedo - C.P.,3474,1.89
+2011,Procedencias,Le Puy,3263,1.78
+2011,Procedencias,Vilafranca,2931,1.6
+2011,Procedencias,Resto Portugal,2832,1.54
+2011,Procedencias,Valença do Minho,2815,1.54
+2011,Procedencias,Irún,2553,1.39
+2011,Procedencias,Ferrol,2468,1.35
+2011,Procedencias,Sevilla,2308,1.26
+2011,Procedencias,Ourense,2231,1.22
+2011,Procedencias,Francia,2041,1.11
+2011,Procedencias,Triacastela,1818,0.99
+2011,Procedencias,Resto C. León,1520,0.83
+2011,Procedencias,Resto Asturias,1218,0.66
+2011,Procedencias,Lugo - C.P.,1211,0.66
+2011,Procedencias,Samos,1124,0.61
+2011,Procedencias,Ribadeo,1116,0.61
+2011,Procedencias,Logroño,949,0.52
+2011,Procedencias,Santander,934,0.51
+2011,Procedencias,Oviedo,898,0.49
+2011,Procedencias,Somport,879,0.48
+2011,Procedencias,Bilbao,855,0.47
+2011,Procedencias,Ponte de Lima,828,0.45
+2011,Procedencias,Alemania,756,0.41
+2011,Procedencias,Holanda,711,0.39
+2011,Procedencias,Salamanca,669,0.36
+2011,Procedencias,Vilalba,663,0.36
+2011,Procedencias,Gijón,652,0.36
+2011,Procedencias,Lisboa,647,0.35
+2011,Procedencias,Avilés,504,0.27
+2011,Procedencias,Zamora,453,0.25
+2011,Procedencias,Sahagún,440,0.24
+2011,Procedencias,Resto País Vasco,438,0.24
+2011,Procedencias,Madrid - C.F.,395,0.22
+2011,Procedencias,Bélgica,359,0.2
+2011,Procedencias,Resto Asturias - C.P.,349,0.19
+2011,Procedencias,Suiza,345,0.19
+2011,Procedencias,Puebla de Sanabria,332,0.18
+2011,Procedencias,Resto Cantabria,315,0.17
+2011,Procedencias,Jaca,311,0.17
+2011,Procedencias,San Sebastián,311,0.17
+2011,Procedencias,Frómista,278,0.15
+2011,Procedencias,Vega de Valcarce,276,0.15
+2011,Procedencias,Carrión de los Condes,259,0.14
+2011,Procedencias,Braga,255,0.14
+2011,Procedencias,Neda,247,0.13
+2011,Procedencias,Baamonde,243,0.13
+2011,Procedencias,Lourdes,242,0.13
+2011,Procedencias,Gudiña,235,0.13
+2011,Procedencias,Sto. Domingo de la Calzada,203,0.11
+2011,Procedencias,Cataluña,202,0.11
+2011,Procedencias,Granja de Moreruela,198,0.11
+2011,Procedencias,Madrid,196,0.11
+2011,Procedencias,Puente la Reina,194,0.11
+2011,Procedencias,Rabanal del Camino,185,0.1
+2011,Procedencias,Fonsagrada - C.P.,184,0.1
+2011,Procedencias,Porriño,183,0.1
+2011,Procedencias,Mondoñedo,172,0.09
+2011,Procedencias,Vezelay,172,0.09
+2011,Procedencias,Mérida,168,0.09
+2011,Procedencias,Vigo,161,0.09
+2011,Procedencias,Arles,159,0.09
+2011,Procedencias,Hospital de Orbigo,156,0.09
+2011,Procedencias,Chaves-Portugal,149,0.08
+2011,Procedencias,Lourenzá,142,0.08
+2011,Procedencias,Zaragoza,141,0.08
+2011,Procedencias,Navarra,136,0.07
+2011,Procedencias,Hendaya,135,0.07
+2011,Procedencias,Muxia,130,0.07
+2011,Procedencias,Resto C. León - V.P.,128,0.07
+2011,Procedencias,Cáceres,117,0.06
+2011,Procedencias,Abadin,113,0.06
+2011,Procedencias,Laza,113,0.06
+2011,Procedencias,Valencia,110,0.06
+2011,Procedencias,R.Pais Vasco,109,0.06
+2011,Procedencias,Barcelona,107,0.06
+2011,Procedencias,Estella,104,0.06
+2011,Procedencias,Montserrat,104,0.06
+2011,Procedencias,Grandas de Salime - C.P.,103,0.06
+2011,Procedencias,Verín,101,0.06
+2011,Procedencias,Resto Andalucia,97,0.05
+2011,Procedencias,Austria,97,0.05
+2011,Procedencias,Resto de Extremadura,82,0.04
+2011,Procedencias,Xunqueira de Ambia,81,0.04
+2011,Procedencias,Tineo - C.P.,80,0.04
+2011,Procedencias,Finisterra,72,0.04
+2011,Procedencias,Grandas de Salime,70,0.04
+2011,Procedencias,Canfranc,69,0.04
+2011,Procedencias,Molinaseca,68,0.04
+2011,Procedencias,París,66,0.04
+2011,Procedencias,Resto Europa,64,0.03
+2011,Procedencias,Granada,63,0.03
+2011,Procedencias,Italia,61,0.03
+2011,Procedencias,Fonsagrada,59,0.03
+2011,Procedencias,Rábade,58,0.03
+2011,Procedencias,Castilla la Mancha,54,0.03
+2011,Procedencias,Cast. la Mancha,54,0.03
+2011,Procedencias,Castilla La Mancha,53,0.03
+2011,Procedencias,Com. Valenciana,51,0.03
+2011,Procedencias,La Rioja,50,0.03
+2011,Procedencias,Allariz,49,0.03
+2011,Procedencias,Cadavo,48,0.03
+2011,Procedencias,Valladolid,46,0.03
+2011,Procedencias,Malaga,43,0.02
+2011,Procedencias,Tineo,42,0.02
+2011,Procedencias,Povoa de Varzim,41,0.02
+2011,Procedencias,Huelva,41,0.02
+2011,Procedencias,San Sebastian,40,0.02
+2011,Procedencias,Fonfría,39,0.02
+2011,Procedencias,Nájera,38,0.02
+2011,Procedencias,Salas,38,0.02
+2011,Procedencias,Benavente,37,0.02
+2011,Procedencias,Roma,34,0.02
+2011,Procedencias,Córdoba,32,0.02
+2011,Procedencias,La Mesa,30,0.02
+2011,Procedencias,Castrojeriz,28,0.02
+2011,Procedencias,A Guarda,28,0.02
+2011,Procedencias,Badajoz,27,0.01
+2011,Procedencias,Murcia,26,0.01
+2011,Procedencias,Ponferrada. C.Inv.,23,0.01
+2011,Procedencias,Vegadeo,20,0.01
+2011,Procedencias,Polonia,19,0.01
+2011,Procedencias,Grado,14,0.01
+2011,Procedencias,Reino Unido,13,0.01
+2011,Procedencias,Baiona,13,0.01
+2011,Procedencias,Vilabade,12,0.01
+2011,Procedencias,La Bañeza,12,0.01
+2011,Procedencias,Republica Checa,11,0.01
+2011,Procedencias,Resto Galicia,11,0.01
+2011,Procedencias,A Rúa,10,0.01
+2011,Procedencias,Luxemburgo,8,0.0
+2011,Procedencias,Dinamarca,8,0.0
+2011,Procedencias,San Juan de Ortega,8,0.0
+2011,Procedencias,Viveiro,6,0.0
+2011,Procedencias,Quiroga,6,0.0
+2011,Procedencias,Monforte de Lemos,3,0.0
+2011,Procedencias,Finlandia,3,0.0
+2011,Procedencias,Ortigueira,3,0.0
+2011,Procedencias,Hungría,3,0.0
+2011,Procedencias,Inglaterra,3,0.0
+2011,Procedencias,Irlanda C. Ing,1,0.0
+2011,Procedencias,Valcarlos,1,0.0
+2011,Procedencias,Grecia,1,0.0
+2011,Procedencias,Gonzar,1,0.0
+2011,Procedencias,Reino Unido C.Ing,1,0.0
+2011,Procedencias,Andorra,1,0.0
+2011,Profesiones,Empleados,43596,23.78
+2011,Profesiones,Estudiantes,31839,17.36
+2011,Profesiones,Tecnicos,25082,13.68
+2011,Profesiones,Jubilados,20399,11.12
+2011,Profesiones,Liberales,18862,10.29
+2011,Profesiones,Profesores,13886,7.57
+2011,Profesiones,Funcionarios,9434,5.14
+2011,Profesiones,Obreros,6861,3.74
+2011,Profesiones,Parados,4230,2.31
+2011,Profesiones,Amas de Casa,4040,2.2
+2011,Profesiones,Artistas,1529,0.83
+2011,Profesiones,Directivos,1475,0.8
+2011,Profesiones,Sacerdotes,827,0.45
+2011,Profesiones,Agricultores,563,0.31
+2011,Profesiones,Religiosas,362,0.2
+2011,Profesiones,Marinos,232,0.13
+2011,Profesiones,Deportistas,119,0.06
+2011,Profesiones,Oikoten,30,0.02
+2011,Sexos,Hombre,105831,57.72
+2011,Sexos,Mujer,77535,42.28
+2012,Autonomías,Madrid,17660,9.17
+2012,Autonomías,Andalucía,14592,7.58
+2012,Autonomías,Cataluña,12763,6.63
+2012,Autonomías,Comunidad Valenciana,10674,5.55
+2012,Autonomías,Galicia,7263,3.77
+2012,Autonomías,Castilla León,6917,3.59
+2012,Autonomías,País Vasco,4865,2.53
+2012,Autonomías,Castilla la Mancha,4588,2.38
+2012,Autonomías,Extremadura,2463,1.28
+2012,Autonomías,Murcia,2359,1.23
+2012,Autonomías,Canarias,2272,1.18
+2012,Autonomías,Aragón,2197,1.14
+2012,Autonomías,Asturias,2122,1.1
+2012,Autonomías,Navarra,1347,0.7
+2012,Autonomías,Baleares,1209,0.63
+2012,Autonomías,Cantabria,946,0.49
+2012,Autonomías,La Rioja,519,0.27
+2012,Autonomías,Otra,297,0.15
+2012,Autonomías,Ceuta,151,0.08
+2012,Autonomías,Melilla,70,0.04
+2012,Caminos,Camino Francés,134979,70.12
+2012,Caminos,Camino Portugués,25628,13.31
+2012,Caminos,Camino del Norte,12919,6.71
+2012,Caminos,Vía de la Plata,8163,4.24
+2012,Caminos,Camino Primitivo,6349,3.3
+2012,Caminos,Camino Inglés,3577,1.86
+2012,Caminos,Otros caminos,873,0.46
+2012,Edades,30 - 60,109310,56.79
+2012,Edades,< 30,54731,28.43
+2012,Edades,> 60,28447,14.78
+2012,Medios,Pie,164778,85.6
+2012,Medios,Bicicleta,27407,14.24
+2012,Medios,Caballo,281,0.15
+2012,Medios,Silla de ruedas,22,0.01
+2012,Motivos,Religioso y otros,101171,52.56
+2012,Motivos,Religioso,79490,41.3
+2012,Motivos,No religioso,11827,6.14
+2012,Países,España,95275,49.5
+2012,Países,Alemania,15620,8.11
+2012,Países,Italia,12404,6.44
+2012,Países,Portugal,10329,5.37
+2012,Países,Francia,8121,4.22
+2012,Países,Estados Unidos,7071,3.67
+2012,Países,Irlanda,3844,2.0
+2012,Países,Reino Unido,3758,1.95
+2012,Países,Holanda,3015,1.57
+2012,Países,Canadá,2904,1.51
+2012,Países,Corea,2493,1.3
+2012,Países,Polonia,2307,1.2
+2012,Países,Brasil,2229,1.16
+2012,Países,Belgica,1955,1.02
+2012,Países,Australia,1885,0.98
+2012,Países,Austria,1772,0.92
+2012,Países,Dinamarca,1682,0.87
+2012,Países,Suiza,1308,0.68
+2012,Países,Suecia,1275,0.66
+2012,Países,México,1047,0.54
+2012,Países,Noruega,969,0.5
+2012,Países,Hungría,885,0.46
+2012,Países,Japón,860,0.45
+2012,Países,República Checa,832,0.43
+2012,Países,Argentina,822,0.43
+2012,Países,Finlandia,720,0.37
+2012,Países,Sudáfrica,711,0.37
+2012,Países,Eslovaquia,636,0.33
+2012,Países,Rusia,503,0.26
+2012,Países,Colombia,456,0.24
+2012,Países,Venezuela,444,0.23
+2012,Países,Nueva Zelanda,377,0.2
+2012,Países,Eslovenia,373,0.19
+2012,Países,Rumania,281,0.15
+2012,Países,Bulgaria,211,0.11
+2012,Países,China,186,0.1
+2012,Países,Ecuador,183,0.1
+2012,Países,Chile,178,0.09
+2012,Países,Lituania,169,0.09
+2012,Países,Uruguay,165,0.09
+2012,Países,Perú,162,0.08
+2012,Países,Israel,160,0.08
+2012,Países,Filipinas,127,0.07
+2012,Países,Puerto Rico,121,0.06
+2012,Países,Estonia,120,0.06
+2012,Países,Andorra,108,0.06
+2012,Países,Malta,106,0.06
+2012,Países,Luxemburgo,105,0.05
+2012,Países,Ucrania,91,0.05
+2012,Países,Croacia,71,0.04
+2012,Países,Letonia,60,0.03
+2012,Países,Grecia,59,0.03
+2012,Países,Taiwán,58,0.03
+2012,Países,Rep. Dominicana,56,0.03
+2012,Países,Islandia,55,0.03
+2012,Países,Costa Rica,54,0.03
+2012,Países,Bolivia,54,0.03
+2012,Países,Paraguay,49,0.03
+2012,Países,Singapur,46,0.02
+2012,Países,Cuba,44,0.02
+2012,Países,India,38,0.02
+2012,Países,Malasia,36,0.02
+2012,Países,Líbano,33,0.02
+2012,Países,El Salvador,33,0.02
+2012,Países,Guatemala,30,0.02
+2012,Países,Panamá,26,0.01
+2012,Países,Turquía,21,0.01
+2012,Países,Marruecos,21,0.01
+2012,Países,Nicaragua,19,0.01
+2012,Países,Honduras,17,0.01
+2012,Países,Serbia,16,0.01
+2012,Países,Bielorrusia,12,0.01
+2012,Países,Irán,11,0.01
+2012,Países,Bosnia,11,0.01
+2012,Países,Angola,11,0.01
+2012,Países,Guinea Ecuatorial,8,0.0
+2012,Países,Islas Feroe,8,0.0
+2012,Países,Emiratos Arabes Unidos,8,0.0
+2012,Países,Indonesia,8,0.0
+2012,Países,Argelia,8,0.0
+2012,Países,Tailandia,8,0.0
+2012,Países,Vietnam,7,0.0
+2012,Países,Nigeria,6,0.0
+2012,Países,Egipto,6,0.0
+2012,Países,Macedonia,6,0.0
+2012,Países,Armenia,6,0.0
+2012,Países,Liechtensein,6,0.0
+2012,Países,Moldavia,5,0.0
+2012,Países,Arabia Saudita,5,0.0
+2012,Países,Albania,5,0.0
+2012,Países,Mozambique,5,0.0
+2012,Países,Namibia,5,0.0
+2012,Países,Zimbabwe,4,0.0
+2012,Países,Kenya,4,0.0
+2012,Países,Siria,4,0.0
+2012,Países,Senegal,4,0.0
+2012,Países,Camerún,4,0.0
+2012,Países,Mauritania,3,0.0
+2012,Países,Congo,3,0.0
+2012,Países,Georgia,3,0.0
+2012,Países,Pakistán,3,0.0
+2012,Países,Ghana,3,0.0
+2012,Países,Groenlandia,3,0.0
+2012,Países,Trinidad y Tobago,3,0.0
+2012,Países,Irak,2,0.0
+2012,Países,Chipre,2,0.0
+2012,Países,Antigua y Barbuda,2,0.0
+2012,Países,Mali,2,0.0
+2012,Países,Kazajistán,2,0.0
+2012,Países,Túnez,2,0.0
+2012,Países,Libia,2,0.0
+2012,Países,Sri Lanka,2,0.0
+2012,Países,Jordania,2,0.0
+2012,Países,Togo,2,0.0
+2012,Países,Guyana,2,0.0
+2012,Países,Santo Tomé y Príncipe,2,0.0
+2012,Países,Timor Oriental,1,0.0
+2012,Países,Etiopía,1,0.0
+2012,Países,Cabo Verde,1,0.0
+2012,Países,Chad,1,0.0
+2012,Países,Camboya,1,0.0
+2012,Países,Haití,1,0.0
+2012,Países,Tanzania,1,0.0
+2012,Países,Islas Caimán,1,0.0
+2012,Países,Jamaica,1,0.0
+2012,Países,Benin,1,0.0
+2012,Países,Eritrea,1,0.0
+2012,Países,Bermudas,1,0.0
+2012,Países,Samoa Occidental,1,0.0
+2012,Países,Bahamas,1,0.0
+2012,Países,Costa de Marfil,1,0.0
+2012,Países,Burkina Faso,1,0.0
+2012,Países,Nepal,1,0.0
+2012,Procedencias,Sarria,40734,21.16
+2012,Procedencias,S. Jean Pied de Port,22214,11.54
+2012,Procedencias,León,10406,5.41
+2012,Procedencias,Cebreiro,10315,5.36
+2012,Procedencias,Roncesvalles,8468,4.4
+2012,Procedencias,Tui,8436,4.38
+2012,Procedencias,Ponferrada,7765,4.03
+2012,Procedencias,Oporto,7641,3.97
+2012,Procedencias,Astorga,5666,2.94
+2012,Procedencias,Pamplona,4172,2.17
+2012,Procedencias,Oviedo – Camino Primitivo,3956,2.06
+2012,Procedencias,Burgos,3864,2.01
+2012,Procedencias,Le Puy,3433,1.78
+2012,Procedencias,Ferrol,3374,1.75
+2012,Procedencias,Irún,3142,1.63
+2012,Procedencias,Valença do Minho,3097,1.61
+2012,Procedencias,Vilafranca,2667,1.39
+2012,Procedencias,Resto Portugal,2660,1.38
+2012,Procedencias,Sevilla,2287,1.19
+2012,Procedencias,Ourense,2277,1.18
+2012,Procedencias,Francia – Camino Francés,2130,1.11
+2012,Procedencias,Triacastela,2024,1.05
+2012,Procedencias,Lugo,1565,0.81
+2012,Procedencias,Resto Castilla León – Camino Francés,1358,0.71
+2012,Procedencias,Samos,1300,0.68
+2012,Procedencias,Resto Asturias – Camino Norte,1189,0.62
+2012,Procedencias,Santander,1134,0.59
+2012,Procedencias,Ribadeo,1094,0.57
+2012,Procedencias,Lisboa,977,0.51
+2012,Procedencias,Logroño,941,0.49
+2012,Procedencias,Bilbao,905,0.47
+2012,Procedencias,Ponte de Lima,901,0.47
+2012,Procedencias,Vilalba,845,0.44
+2012,Procedencias,Holanda,786,0.41
+2012,Procedencias,Gijón,731,0.38
+2012,Procedencias,Oviedo – Camino Norte,699,0.36
+2012,Procedencias,Somport,664,0.34
+2012,Procedencias,Alemania,603,0.31
+2012,Procedencias,Avilés,552,0.29
+2012,Procedencias,Salamanca,515,0.27
+2012,Procedencias,Madrid – Camino Francés,481,0.25
+2012,Procedencias,Zamora,459,0.24
+2012,Procedencias,Resto País Vasco – Camino del Norte,430,0.22
+2012,Procedencias,Sahagún,426,0.22
+2012,Procedencias,Mondoñedo,374,0.19
+2012,Procedencias,Bélgica,372,0.19
+2012,Procedencias,Puebla de Sanabria,371,0.19
+2012,Procedencias,"Rates, S. Pedro",343,0.18
+2012,Procedencias,San Sebastián,335,0.17
+2012,Procedencias,Braga,333,0.17
+2012,Procedencias,Resto Asturias – Camino Primitivo,324,0.17
+2012,Procedencias,Fonsagrada,322,0.17
+2012,Procedencias,Vega de Valcarce,319,0.17
+2012,Procedencias,Baamonde,305,0.16
+2012,Procedencias,Resto Cantabria,298,0.15
+2012,Procedencias,Jaca,295,0.15
+2012,Procedencias,Chaves-Portugal,290,0.15
+2012,Procedencias,Lourdes,279,0.14
+2012,Procedencias,Suiza,277,0.14
+2012,Procedencias,Muxia,273,0.14
+2012,Procedencias,Frómista,261,0.14
+2012,Procedencias,Barcelos,245,0.13
+2012,Procedencias,Gudiña,227,0.12
+2012,Procedencias,Neda,199,0.1
+2012,Procedencias,A Guarda,198,0.1
+2012,Procedencias,Porriño,197,0.1
+2012,Procedencias,Sto. Domingo de la Calzada,191,0.1
+2012,Procedencias,Cataluña,185,0.1
+2012,Procedencias,Vezelay,179,0.09
+2012,Procedencias,Carrión de los Condes,176,0.09
+2012,Procedencias,Grandas de Salime,173,0.09
+2012,Procedencias,Puente la Reina,169,0.09
+2012,Procedencias,Lourenzá,163,0.08
+2012,Procedencias,Arles,158,0.08
+2012,Procedencias,Mérida,157,0.08
+2012,Procedencias,Resto Andalucía,154,0.08
+2012,Procedencias,Rabanal del Camino,152,0.08
+2012,Procedencias,Resto Castilla León – Vía de la Plata,146,0.08
+2012,Procedencias,Montserrat,145,0.08
+2012,Procedencias,Finisterra,144,0.07
+2012,Procedencias,Allariz,143,0.07
+2012,Procedencias,Xunqueira de Ambía,141,0.07
+2012,Procedencias,Granja de Moreruela,140,0.07
+2012,Procedencias,Hendaya,137,0.07
+2012,Procedencias,Laza,130,0.07
+2012,Procedencias,Madrid – Vía de la Plata,125,0.06
+2012,Procedencias,Tineo,125,0.06
+2012,Procedencias,Hospital de Orbigo,122,0.06
+2012,Procedencias,Valencia,120,0.06
+2012,Procedencias,Abadin,117,0.06
+2012,Procedencias,Navarra,112,0.06
+2012,Procedencias,Viana do Castelo,111,0.06
+2012,Procedencias,Austria,110,0.06
+2012,Procedencias,Estella,110,0.06
+2012,Procedencias,Fátima,104,0.05
+2012,Procedencias,Zaragoza,102,0.05
+2012,Procedencias,Cáceres,101,0.05
+2012,Procedencias,Verín,96,0.05
+2012,Procedencias,Baiona,94,0.05
+2012,Procedencias,Barcelona,92,0.05
+2012,Procedencias,Cádavo,91,0.05
+2012,Procedencias,Resto País Vasco – Camino Francés,89,0.05
+2012,Procedencias,Vigo,87,0.05
+2012,Procedencias,Resto de Extremadura,86,0.04
+2012,Procedencias,Comunidad Valenciana – Camino,79,0.04
+2012,Procedencias,Tineo – Camino Primitivo,77,0.04
+2012,Procedencias,La Rioja,72,0.04
+2012,Procedencias,París,71,0.04
+2012,Procedencias,Italia,69,0.04
+2012,Procedencias,Canfranc,62,0.03
+2012,Procedencias,Castilla la Mancha – Otros Caminos,62,0.03
+2012,Procedencias,Guimaraes,61,0.03
+2012,Procedencias,Molinaseca,56,0.03
+2012,Procedencias,Monforte de Lemos,56,0.03
+2012,Procedencias,Povoa de Varzim,54,0.03
+2012,Procedencias,Granada,54,0.03
+2012,Procedencias,Ponferrada – Camino de Invierno,47,0.02
+2012,Procedencias,Coimbra,47,0.02
+2012,Procedencias,Castilla La Mancha – Vía de la Plata,46,0.02
+2012,Procedencias,Comunidad Valenciana – Otros,44,0.02
+2012,Procedencias,Castilla la Mancha – Camino Francés,43,0.02
+2012,Procedencias,Huelva,43,0.02
+2012,Procedencias,Nájera,40,0.02
+2012,Procedencias,Benavente,37,0.02
+2012,Procedencias,Badajoz,35,0.02
+2012,Procedencias,Córdoba,33,0.02
+2012,Procedencias,Polonia,32,0.02
+2012,Procedencias,Málaga,32,0.02
+2012,Procedencias,Roma,31,0.02
+2012,Procedencias,Resto Europa,28,0.01
+2012,Procedencias,Valladolid,28,0.01
+2012,Procedencias,Castrojeriz,28,0.01
+2012,Procedencias,Vegadeo,25,0.01
+2012,Procedencias,Las Médulas,24,0.01
+2012,Procedencias,Murcia,24,0.01
+2012,Procedencias,Fonfría,24,0.01
+2012,Procedencias,Reino Unido,22,0.01
+2012,Procedencias,La Mesa,19,0.01
+2012,Procedencias,Republica Checa,19,0.01
+2012,Procedencias,Guitiriz,18,0.01
+2012,Procedencias,Quiroga,14,0.01
+2012,Procedencias,Eslovaquia,13,0.01
+2012,Procedencias,San Juan de Ortega,13,0.01
+2012,Procedencias,Salas,13,0.01
+2012,Procedencias,Esposende,12,0.01
+2012,Procedencias,Faro,11,0.01
+2012,Procedencias,Viseu,11,0.01
+2012,Procedencias,La Bañeza,10,0.01
+2012,Procedencias,Grado,10,0.01
+2012,Procedencias,Irlanda – Camino Francés,9,0.0
+2012,Procedencias,Hungría,8,0.0
+2012,Procedencias,Dinamarca,6,0.0
+2012,Procedencias,Finlandia,6,0.0
+2012,Procedencias,Resto Galicia,6,0.0
+2012,Procedencias,Aveiro,4,0.0
+2012,Procedencias,Valcarlos,4,0.0
+2012,Procedencias,Luxemburgo,4,0.0
+2012,Procedencias,Vincios,4,0.0
+2012,Procedencias,Jerusalem,3,0.0
+2012,Procedencias,Peñaseita,3,0.0
+2012,Procedencias,Rábade,3,0.0
+2012,Procedencias,El Escamplero,3,0.0
+2012,Procedencias,Leyre,2,0.0
+2012,Procedencias,Vilabade,2,0.0
+2012,Procedencias,Reino Unido – Camino Francés,1,0.0
+2012,Procedencias,Pontedeume,1,0.0
+2012,Procedencias,Reino Unido – Camino Inglés,1,0.0
+2012,Procedencias,Gándara,1,0.0
+2012,Procedencias,Mirallos,1,0.0
+2012,Procedencias,O Barco de Valdeorras,1,0.0
+2012,Procedencias,Irlanda – Camino Inglés,1,0.0
+2012,Procedencias,Ortigueira,1,0.0
+2012,Procedencias,Egipto,1,0.0
+2012,Procedencias,A Rúa,1,0.0
+2012,Procedencias,Andorra,1,0.0
+2012,Profesiones,Empleados,43069,22.37
+2012,Profesiones,Estudiantes,34747,18.05
+2012,Profesiones,Técnicos,24754,12.86
+2012,Profesiones,Jubilados,22094,11.48
+2012,Profesiones,Liberales,21779,11.31
+2012,Profesiones,Profesores,14400,7.48
+2012,Profesiones,Funcionarios,8751,4.55
+2012,Profesiones,Obreros,7285,3.79
+2012,Profesiones,Parados,5168,2.68
+2012,Profesiones,Amas de Casa,4368,2.27
+2012,Profesiones,Directivos,1818,0.94
+2012,Profesiones,Artistas,1471,0.76
+2012,Profesiones,Sacerdotes,1159,0.6
+2012,Profesiones,Agricultores,631,0.33
+2012,Profesiones,Religiosas,477,0.25
+2012,Profesiones,Marinos,350,0.18
+2012,Profesiones,Deportistas,167,0.09
+2012,Sexos,Hombre,108809,56.53
+2012,Sexos,Mujer,83679,43.47
+2013,Autonomías,Madrid,20098,9.31
+2013,Autonomías,Andalucía,17880,8.28
+2013,Autonomías,Cataluña,12258,5.68
+2013,Autonomías,Comunidad Valenciana,11908,5.52
+2013,Autonomías,Galicia,7929,3.67
+2013,Autonomías,Castilla León,7584,3.51
+2013,Autonomías,Castilla la Mancha,5667,2.63
+2013,Autonomías,Pais Vasco,5135,2.38
+2013,Autonomías,Extremadura,3245,1.5
+2013,Autonomías,Murcia,2788,1.29
+2013,Autonomías,Canarias,2458,1.14
+2013,Autonomías,Asturias,2115,0.98
+2013,Autonomías,Aragón,2060,0.95
+2013,Autonomías,Baleares,1338,0.62
+2013,Autonomías,Navarra,1267,0.59
+2013,Autonomías,Cantabria,971,0.45
+2013,Autonomías,La Rioja,598,0.28
+2013,Autonomías,Residentes en el extranjero,312,0.14
+2013,Autonomías,Ceuta,158,0.07
+2013,Autonomías,Melilla,122,0.06
+2013,Caminos,Camino Francés,151761,70.3
+2013,Caminos,Camino Portugués,29550,13.69
+2013,Caminos,Camino del Norte,13393,6.2
+2013,Caminos,Vía de la Plata,9016,4.18
+2013,Caminos,Camino Primitivo,6854,3.17
+2013,Caminos,Camino Inglés,4404,2.04
+2013,Caminos,Muxía-Finisterre,457,0.21
+2013,Caminos,Otros caminos,444,0.21
+2013,Edades,30 - 60,121305,56.19
+2013,Edades,< 30,61114,28.31
+2013,Edades,> 60,33461,15.5
+2013,Medios,Pie,188191,87.17
+2013,Medios,Bicicleta,26646,12.34
+2013,Medios,Caballo,977,0.45
+2013,Medios,Silla de ruedas,66,0.03
+2013,Motivos,Religioso y otros,117785,54.56
+2013,Motivos,Religioso,86291,39.97
+2013,Motivos,No religioso,11804,5.47
+2013,Países,España,105891,49.05
+2013,Países,Alemania,16203,7.51
+2013,Países,Italia,15621,7.24
+2013,Países,Portugal,10698,4.96
+2013,Países,Estados Unidos,10125,4.69
+2013,Países,Francia,8305,3.85
+2013,Países,Irlanda,5012,2.32
+2013,Países,Reino Unido,4207,1.95
+2013,Países,Canadá,3373,1.56
+2013,Países,Australia,3098,1.44
+2013,Países,Holanda,2890,1.34
+2013,Países,Corea,2774,1.28
+2013,Países,Polonia,2515,1.16
+2013,Países,Brasil,2431,1.13
+2013,Países,Belgica,1857,0.86
+2013,Países,Dinamarca,1757,0.81
+2013,Países,Austria,1711,0.79
+2013,Países,Suiza,1276,0.59
+2013,Países,México,1173,0.54
+2013,Países,Argentina,1090,0.5
+2013,Países,Suecia,1056,0.49
+2013,Países,Hungría,954,0.44
+2013,Países,Japón,840,0.39
+2013,Países,Noruega,839,0.39
+2013,Países,República Checa,769,0.36
+2013,Países,Venezuela,734,0.34
+2013,Países,Sudáfrica,727,0.34
+2013,Países,Finlandia,709,0.33
+2013,Países,Colombia,680,0.31
+2013,Países,Eslovaquia,560,0.26
+2013,Países,Rusia,526,0.24
+2013,Países,Nueva Zelanda,520,0.24
+2013,Países,China,431,0.2
+2013,Países,Eslovenia,367,0.17
+2013,Países,Bulgaria,295,0.14
+2013,Países,Ecuador,292,0.14
+2013,Países,Rumania,262,0.12
+2013,Países,Lituania,255,0.12
+2013,Países,Uruguay,218,0.1
+2013,Países,Chile,208,0.1
+2013,Países,Perú,174,0.08
+2013,Países,Ucrania,143,0.07
+2013,Países,Filipinas,142,0.07
+2013,Países,Israel,141,0.07
+2013,Países,Puerto Rico,120,0.06
+2013,Países,Estonia,115,0.05
+2013,Países,Malta,108,0.05
+2013,Países,Singapur,100,0.05
+2013,Países,Croacia,100,0.05
+2013,Países,Andorra,99,0.05
+2013,Países,Taiwán,88,0.04
+2013,Países,Luxemburgo,84,0.04
+2013,Países,Líbano,74,0.03
+2013,Países,Letonia,70,0.03
+2013,Países,Grecia,63,0.03
+2013,Países,Bolivia,60,0.03
+2013,Países,Guatemala,58,0.03
+2013,Países,Islandia,58,0.03
+2013,Países,Costa Rica,52,0.02
+2013,Países,Paraguay,49,0.02
+2013,Países,Cuba,47,0.02
+2013,Países,Rep. Dominicana,43,0.02
+2013,Países,India,43,0.02
+2013,Países,El Salvador,41,0.02
+2013,Países,Malasia,39,0.02
+2013,Países,Panamá,32,0.01
+2013,Países,Turquía,24,0.01
+2013,Países,Islas Feroe,23,0.01
+2013,Países,Bielorrusia,23,0.01
+2013,Países,Nicaragua,19,0.01
+2013,Países,Albania,18,0.01
+2013,Países,Serbia,18,0.01
+2013,Países,Marruecos,18,0.01
+2013,Países,Jordania,18,0.01
+2013,Países,Indonesia,15,0.01
+2013,Países,Irán,14,0.01
+2013,Países,Moldavia,13,0.01
+2013,Países,Emiratos Arabes Unidos,13,0.01
+2013,Países,Tailandia,13,0.01
+2013,Países,Honduras,13,0.01
+2013,Países,Bosnia,12,0.01
+2013,Países,Chipre,10,0.0
+2013,Países,Vietnam,9,0.0
+2013,Países,Angola,9,0.0
+2013,Países,Pakistán,9,0.0
+2013,Países,Armenia,9,0.0
+2013,Países,Kazajistán,9,0.0
+2013,Países,Nigeria,8,0.0
+2013,Países,Argelia,8,0.0
+2013,Países,Namibia,8,0.0
+2013,Países,Mauritania,7,0.0
+2013,Países,Camerún,7,0.0
+2013,Países,Liechtensein,6,0.0
+2013,Países,Egipto,6,0.0
+2013,Países,Sri Lanka,6,0.0
+2013,Países,Congo,6,0.0
+2013,Países,Bangladesh,5,0.0
+2013,Países,Senegal,4,0.0
+2013,Países,Guyana,4,0.0
+2013,Países,Macedonia,4,0.0
+2013,Países,Dominica,4,0.0
+2013,Países,Belice,3,0.0
+2013,Países,Zimbabwe,3,0.0
+2013,Países,Jamaica,3,0.0
+2013,Países,Uganda,3,0.0
+2013,Países,Comores,3,0.0
+2013,Países,Tuvalu,3,0.0
+2013,Países,Túnez,3,0.0
+2013,Países,Qatar,3,0.0
+2013,Países,Georgia,3,0.0
+2013,Países,Kuwait,3,0.0
+2013,Países,Omán,3,0.0
+2013,Países,Libia,3,0.0
+2013,Países,Kenya,3,0.0
+2013,Países,Madagascar,3,0.0
+2013,Países,Cabo Verde,3,0.0
+2013,Países,Guinea,2,0.0
+2013,Países,Trinidad y Tobago,2,0.0
+2013,Países,I. Reunión,2,0.0
+2013,Países,Ghana,2,0.0
+2013,Países,Tanzania,2,0.0
+2013,Países,Benin,2,0.0
+2013,Países,Siria,2,0.0
+2013,Países,Mongolia,2,0.0
+2013,Países,Mónaco,2,0.0
+2013,Países,Groenlandia,2,0.0
+2013,Países,Mauricio,2,0.0
+2013,Países,Laos,1,0.0
+2013,Países,Irak,1,0.0
+2013,Países,Bermudas,1,0.0
+2013,Países,Aruba,1,0.0
+2013,Países,Etiopía,1,0.0
+2013,Países,Urbekistán,1,0.0
+2013,Países,Eritrea,1,0.0
+2013,Países,Guam,1,0.0
+2013,Países,Santa Lucía,1,0.0
+2013,Países,Myanmar,1,0.0
+2013,Países,Martinica,1,0.0
+2013,Países,Brunei,1,0.0
+2013,Procedencias,S. Jean P. Port,26569,12.31
+2013,Procedencias,León,10739,4.97
+2013,Procedencias,Cebreiro,10722,4.97
+2013,Procedencias,Tui,9394,4.35
+2013,Procedencias,Oporto,8859,4.1
+2013,Procedencias,Ponferrada,8365,3.87
+2013,Procedencias,Roncesvalles,8268,3.83
+2013,Procedencias,Astorga,6053,2.8
+2013,Procedencias,Valença do Minho,4380,2.03
+2013,Procedencias,Pamplona,4321,2.0
+2013,Procedencias,Ferrol,4286,1.99
+2013,Procedencias,Oviedo - C.P.,4156,1.93
+2013,Procedencias,Burgos,3613,1.67
+2013,Procedencias,Irún,3389,1.57
+2013,Procedencias,Le Puy,3364,1.56
+2013,Procedencias,Ourense,3221,1.49
+2013,Procedencias,Vilafranca,2735,1.27
+2013,Procedencias,Sevilla,2292,1.06
+2013,Procedencias,Triacastela,1957,0.91
+2013,Procedencias,Francia - C.F.,1955,0.91
+2013,Procedencias,Lugo - C.P.,1704,0.79
+2013,Procedencias,Resto Portugal,1602,0.74
+2013,Procedencias,Resto C. León C.F.,1422,0.66
+2013,Procedencias,Resto Asturias - C.N,1261,0.58
+2013,Procedencias,Ribadeo,1251,0.58
+2013,Procedencias,Samos,1180,0.55
+2013,Procedencias,Lisboa,1067,0.49
+2013,Procedencias,Santander,1023,0.47
+2013,Procedencias,Ponte de Lima,966,0.45
+2013,Procedencias,Bilbao,918,0.43
+2013,Procedencias,Logroño,891,0.41
+2013,Procedencias,Vilalba,848,0.39
+2013,Procedencias,Oviedo - C.N.,807,0.37
+2013,Procedencias,Holanda,723,0.33
+2013,Procedencias,Gijón,718,0.33
+2013,Procedencias,"Rates, S. Pedro",635,0.29
+2013,Procedencias,Alemania,617,0.29
+2013,Procedencias,Madrid - C.F.,571,0.26
+2013,Procedencias,Salamanca,567,0.26
+2013,Procedencias,Somport,558,0.26
+2013,Procedencias,Barcelos,544,0.25
+2013,Procedencias,Avilés,505,0.23
+2013,Procedencias,Mondoñedo,485,0.22
+2013,Procedencias,Porriño,442,0.2
+2013,Procedencias,Sahagún,428,0.2
+2013,Procedencias,Zamora,422,0.2
+2013,Procedencias,San Sebastián,403,0.19
+2013,Procedencias,Braga,399,0.18
+2013,Procedencias,Bélgica,386,0.18
+2013,Procedencias,Chaves-Portugal,368,0.17
+2013,Procedencias,Resto País Vasco - C.N.,362,0.17
+2013,Procedencias,Puebla de Sanabria,335,0.16
+2013,Procedencias,Baamonde,327,0.15
+2013,Procedencias,Resto Cantabria,309,0.14
+2013,Procedencias,Resto Asturias - C.P.,309,0.14
+2013,Procedencias,Lourdes,295,0.14
+2013,Procedencias,Vega de Valcarce,273,0.13
+2013,Procedencias,Suiza,269,0.12
+2013,Procedencias,Muxia,265,0.12
+2013,Procedencias,Fonsagrada - C.P.,242,0.11
+2013,Procedencias,Gudiña,237,0.11
+2013,Procedencias,Frómista,229,0.11
+2013,Procedencias,Jaca,219,0.1
+2013,Procedencias,Baiona,202,0.09
+2013,Procedencias,Carrión de los Condes,192,0.09
+2013,Procedencias,Francia - C.N,192,0.09
+2013,Procedencias,Finisterra,189,0.09
+2013,Procedencias,Hendaya,187,0.09
+2013,Procedencias,Puente la Reina,187,0.09
+2013,Procedencias,Cataluña - C.F.,182,0.08
+2013,Procedencias,Guimaraes,178,0.08
+2013,Procedencias,Grandas de Salime - C.P.,177,0.08
+2013,Procedencias,Vezelay,176,0.08
+2013,Procedencias,Vigo,176,0.08
+2013,Procedencias,Granja de Moreruela,175,0.08
+2013,Procedencias,R.Pais Vasco C.F.,169,0.08
+2013,Procedencias,Lourenzá,168,0.08
+2013,Procedencias,Viana do Castelo,161,0.07
+2013,Procedencias,Sto. Domingo de la Calzada,158,0.07
+2013,Procedencias,Hospital de Orbigo,157,0.07
+2013,Procedencias,Resto Andalucia,152,0.07
+2013,Procedencias,Rabanal del Camino,152,0.07
+2013,Procedencias,Resto C. León - V.P.,149,0.07
+2013,Procedencias,Arles,145,0.07
+2013,Procedencias,Laza,144,0.07
+2013,Procedencias,Mérida,144,0.07
+2013,Procedencias,Valencia O.C.,143,0.07
+2013,Procedencias,Zaragoza,129,0.06
+2013,Procedencias,Cáceres,129,0.06
+2013,Procedencias,Navarra,129,0.06
+2013,Procedencias,Coimbra,123,0.06
+2013,Procedencias,Montserrat,122,0.06
+2013,Procedencias,Tineo - C.P.,117,0.05
+2013,Procedencias,Abadin,114,0.05
+2013,Procedencias,Madrid - V.P.,112,0.05
+2013,Procedencias,Neda,107,0.05
+2013,Procedencias,Fatima,102,0.05
+2013,Procedencias,Resto de Extremadura,97,0.04
+2013,Procedencias,Canfranc,97,0.04
+2013,Procedencias,A Guarda,94,0.04
+2013,Procedencias,Barcelona,92,0.04
+2013,Procedencias,Verín,87,0.04
+2013,Procedencias,Cadavo,87,0.04
+2013,Procedencias,Molinaseca,87,0.04
+2013,Procedencias,París,84,0.04
+2013,Procedencias,Austria,82,0.04
+2013,Procedencias,Povoa de Varzim,75,0.03
+2013,Procedencias,Com. Valenciana - C.F.,74,0.03
+2013,Procedencias,Estella,73,0.03
+2013,Procedencias,Ponferrada. C.Inv.,72,0.03
+2013,Procedencias,Com. Valenciana - O.C.,68,0.03
+2013,Procedencias,La Rioja,68,0.03
+2013,Procedencias,Granada,67,0.03
+2013,Procedencias,Resto Europa,67,0.03
+2013,Procedencias,Cast. la Mancha - C.F.,65,0.03
+2013,Procedencias,Xunqueira de Ambia,65,0.03
+2013,Procedencias,Viseu,63,0.03
+2013,Procedencias,Fonfría,53,0.02
+2013,Procedencias,Italia,51,0.02
+2013,Procedencias,Monforte de Lemos,49,0.02
+2013,Procedencias,Castilla la Mancha otros,44,0.02
+2013,Procedencias,Salas,43,0.02
+2013,Procedencias,Castilla La Mancha VP,41,0.02
+2013,Procedencias,Malaga,40,0.02
+2013,Procedencias,Esposende,38,0.02
+2013,Procedencias,Allariz,38,0.02
+2013,Procedencias,Rábade,37,0.02
+2013,Procedencias,Huelva,35,0.02
+2013,Procedencias,Roma,30,0.01
+2013,Procedencias,Aveiro,29,0.01
+2013,Procedencias,Polonia,29,0.01
+2013,Procedencias,Castrojeriz,28,0.01
+2013,Procedencias,Valladolid,26,0.01
+2013,Procedencias,Córdoba,26,0.01
+2013,Procedencias,Benavente,24,0.01
+2013,Procedencias,Cruz de Ferro,22,0.01
+2013,Procedencias,Cataluña - O.C.,22,0.01
+2013,Procedencias,Nájera,22,0.01
+2013,Procedencias,Reino Unido C.F.,20,0.01
+2013,Procedencias,Faro,17,0.01
+2013,Procedencias,Grado,16,0.01
+2013,Procedencias,La Mesa,16,0.01
+2013,Procedencias,A Rúa,15,0.01
+2013,Procedencias,Irlanda C.F.,14,0.01
+2013,Procedencias,Murcia,13,0.01
+2013,Procedencias,Republica Checa,13,0.01
+2013,Procedencias,Badajoz,13,0.01
+2013,Procedencias,Valcarlos,8,0.0
+2013,Procedencias,San Juan de Ortega,7,0.0
+2013,Procedencias,Hungría,7,0.0
+2013,Procedencias,La Bañeza,6,0.0
+2013,Procedencias,Luxemburgo,6,0.0
+2013,Procedencias,Inglaterra C.F.,6,0.0
+2013,Procedencias,Reino Unido C.Ing,6,0.0
+2013,Procedencias,O Barco de Valdeorras,5,0.0
+2013,Procedencias,Resto Galicia,5,0.0
+2013,Procedencias,Dinamarca,5,0.0
+2013,Procedencias,Andorra,4,0.0
+2013,Procedencias,Chantada,4,0.0
+2013,Procedencias,Rusia,3,0.0
+2013,Procedencias,Resto Africa,3,0.0
+2013,Procedencias,Finlandia,3,0.0
+2013,Procedencias,Vincios,3,0.0
+2013,Procedencias,Eslovaquia,3,0.0
+2013,Procedencias,Guntín,3,0.0
+2013,Procedencias,Quiroga,3,0.0
+2013,Procedencias,Paradela,3,0.0
+2013,Procedencias,Borres,3,0.0
+2013,Procedencias,Corredoiras,2,0.0
+2013,Procedencias,Ventas de Narón,2,0.0
+2013,Procedencias,Betanzos,2,0.0
+2013,Procedencias,Egipto,2,0.0
+2013,Procedencias,Jerusalem,2,0.0
+2013,Procedencias,Sobrado dos Monxes,2,0.0
+2013,Procedencias,Sobrado,2,0.0
+2013,Procedencias,Ortigueira,2,0.0
+2013,Procedencias,Vegadeo,2,0.0
+2013,Procedencias,Vilabade,2,0.0
+2013,Procedencias,Cea,1,0.0
+2013,Procedencias,Leyre,1,0.0
+2013,Procedencias,Guitiriz,1,0.0
+2013,Procedencias,Peñaseita,1,0.0
+2013,Procedencias,Pardellas,1,0.0
+2013,Procedencias,Las Médulas,1,0.0
+2013,Procedencias,Irlanda C. Ing,1,0.0
+2013,Procedencias,Viveiro,1,0.0
+2013,Procedencias,Gonzar,1,0.0
+2013,Procedencias,Covelo,1,0.0
+2013,Profesiones,Empleados,48615,22.52
+2013,Profesiones,Estudiantes,40360,18.7
+2013,Profesiones,Jubilados,25712,11.91
+2013,Profesiones,Liberales,24952,11.56
+2013,Profesiones,Tecnicos,24372,11.29
+2013,Profesiones,Profesores,15669,7.26
+2013,Profesiones,Funcionarios,10144,4.7
+2013,Profesiones,Obreros,7621,3.53
+2013,Profesiones,Parados,5508,2.55
+2013,Profesiones,Amas de Casa,4893,2.27
+2013,Profesiones,Directivos,2777,1.29
+2013,Profesiones,Artistas,2083,0.96
+2013,Profesiones,Sacerdotes,1327,0.61
+2013,Profesiones,Agricultores,780,0.36
+2013,Profesiones,Religiosas,504,0.23
+2013,Profesiones,Marinos,319,0.15
+2013,Profesiones,Deportistas,244,0.11
+2013,Sexos,Hombre,117872,54.6
+2013,Sexos,Mujer,98008,45.4
+2014,Autonomías,Madrid,22097,9.29
+2014,Autonomías,Andalucía,20258,8.51
+2014,Autonomías,Cataluña,13306,5.59
+2014,Autonomías,Comunidad Valenciana,13058,5.49
+2014,Autonomías,Galicia,7877,3.31
+2014,Autonomías,Castilla León,7427,3.12
+2014,Autonomías,Castilla la Mancha,6032,2.53
+2014,Autonomías,Pais Vasco,4935,2.07
+2014,Autonomías,Extremadura,3066,1.29
+2014,Autonomías,Murcia,3044,1.28
+2014,Autonomías,Canarias,2801,1.18
+2014,Autonomías,Asturias,2336,0.98
+2014,Autonomías,Aragón,2141,0.9
+2014,Autonomías,Baleares,1371,0.58
+2014,Autonomías,Navarra,1347,0.57
+2014,Autonomías,Cantabria,1031,0.43
+2014,Autonomías,Otra,684,0.29
+2014,Autonomías,La Rioja,553,0.23
+2014,Autonomías,Ceuta,191,0.08
+2014,Autonomías,Melilla,99,0.04
+2014,Caminos,Frances-Camino de,162055,68.1
+2014,Caminos,Portugues-Camino,35501,14.92
+2014,Caminos,Norte-Camino de,15089,6.34
+2014,Caminos,Via de la Plata,8491,3.57
+2014,Caminos,Primitivo-Camino,8275,3.48
+2014,Caminos,Ingles-Camino,7200,3.03
+2014,Caminos,Muxia-Finisterre,652,0.27
+2014,Caminos,Otros caminos,586,0.25
+2014,Caminos,Camino de Invierno,131,0.06
+2014,Edades,30 - 60,131817,55.39
+2014,Edades,< 30,67374,28.31
+2014,Edades,> 60,38792,16.3
+2014,Medios,Pie,211033,88.68
+2014,Medios,Bicicleta,25332,10.64
+2014,Medios,Caballo,1520,0.64
+2014,Medios,Silla de ruedas,98,0.04
+2014,Motivos,Religioso y otros,120474,50.62
+2014,Motivos,Religioso,101042,42.46
+2014,Motivos,No religioso,16467,6.92
+2014,Países,España,113655,47.76
+2014,Países,Italia,20254,8.51
+2014,Países,Alemania,16348,6.87
+2014,Países,Portugal,11663,4.9
+2014,Países,Estados Unidos,11578,4.87
+2014,Países,Francia,9348,3.93
+2014,Países,Irlanda,5022,2.11
+2014,Países,Reino Unido,4396,1.85
+2014,Países,Corea,3842,1.61
+2014,Países,Australia,3792,1.59
+2014,Países,Canadá,3576,1.5
+2014,Países,Holanda,3459,1.45
+2014,Países,Brasil,3272,1.37
+2014,Países,Polonia,2964,1.25
+2014,Países,Belgica,1834,0.77
+2014,Países,Dinamarca,1741,0.73
+2014,Países,México,1654,0.7
+2014,Países,Austria,1599,0.67
+2014,Países,Suiza,1386,0.58
+2014,Países,Argentina,1168,0.49
+2014,Países,Japón,1095,0.46
+2014,Países,Hungría,1087,0.46
+2014,Países,Suecia,1043,0.44
+2014,Países,Noruega,805,0.34
+2014,Países,República Checa,760,0.32
+2014,Países,Rusia,742,0.31
+2014,Países,Colombia,693,0.29
+2014,Países,Finlandia,680,0.29
+2014,Países,Sudáfrica,650,0.27
+2014,Países,Nueva Zelanda,642,0.27
+2014,Países,Eslovaquia,608,0.26
+2014,Países,Venezuela,551,0.23
+2014,Países,China,510,0.21
+2014,Países,Eslovenia,506,0.21
+2014,Países,Lituania,405,0.17
+2014,Países,Bulgaria,368,0.15
+2014,Países,Rumania,293,0.12
+2014,Países,Ecuador,285,0.12
+2014,Países,Uruguay,281,0.12
+2014,Países,Puerto Rico,219,0.09
+2014,Países,Chile,211,0.09
+2014,Países,Israel,184,0.08
+2014,Países,Perú,180,0.08
+2014,Países,Filipinas,173,0.07
+2014,Países,Ucrania,169,0.07
+2014,Países,Malta,158,0.07
+2014,Países,Estonia,157,0.07
+2014,Países,Croacia,140,0.06
+2014,Países,Luxemburgo,125,0.05
+2014,Países,Islandia,112,0.05
+2014,Países,Letonia,104,0.04
+2014,Países,Taiwán,97,0.04
+2014,Países,Costa Rica,96,0.04
+2014,Países,Grecia,93,0.04
+2014,Países,Singapur,92,0.04
+2014,Países,Andorra,75,0.03
+2014,Países,Bolivia,63,0.03
+2014,Países,Cuba,58,0.02
+2014,Países,Rep. Dominicana,58,0.02
+2014,Países,Líbano,58,0.02
+2014,Países,India,52,0.02
+2014,Países,Paraguay,52,0.02
+2014,Países,Guatemala,46,0.02
+2014,Países,Malasia,45,0.02
+2014,Países,Bielorrusia,36,0.02
+2014,Países,Turquía,35,0.01
+2014,Países,El Salvador,33,0.01
+2014,Países,Indonesia,31,0.01
+2014,Países,Honduras,29,0.01
+2014,Países,Marruecos,27,0.01
+2014,Países,Serbia,25,0.01
+2014,Países,Armenia,25,0.01
+2014,Países,Islas Feroe,23,0.01
+2014,Países,Irán,22,0.01
+2014,Países,Vietnam,20,0.01
+2014,Países,Albania,18,0.01
+2014,Países,Panamá,17,0.01
+2014,Países,Moldavia,15,0.01
+2014,Países,Namibia,15,0.01
+2014,Países,Pakistán,15,0.01
+2014,Países,Nicaragua,14,0.01
+2014,Países,Argelia,13,0.01
+2014,Países,Chipre,12,0.01
+2014,Países,Mozambique,11,0.0
+2014,Países,Rwanda,9,0.0
+2014,Países,San Marino,9,0.0
+2014,Países,Bosnia,8,0.0
+2014,Países,Angola,7,0.0
+2014,Países,Haití,7,0.0
+2014,Países,Tailandia,7,0.0
+2014,Países,Cabo Verde,7,0.0
+2014,Países,Camerún,6,0.0
+2014,Países,Kazajistán,6,0.0
+2014,Países,Georgia,6,0.0
+2014,Países,Jordania,6,0.0
+2014,Países,Kenya,5,0.0
+2014,Países,Etiopía,5,0.0
+2014,Países,Siria,5,0.0
+2014,Países,Costa de Marfil,5,0.0
+2014,Países,Uganda,4,0.0
+2014,Países,Mongolia,4,0.0
+2014,Países,Emiratos Arabes Unidos,4,0.0
+2014,Países,Jamaica,4,0.0
+2014,Países,Congo,4,0.0
+2014,Países,Antillas Holandesas,4,0.0
+2014,Países,Mauritania,3,0.0
+2014,Países,Mauricio,3,0.0
+2014,Países,Macedonia,3,0.0
+2014,Países,Senegal,3,0.0
+2014,Países,Liechtensein,3,0.0
+2014,Países,Túnez,3,0.0
+2014,Países,Montenegro,2,0.0
+2014,Países,Timor Oriental,2,0.0
+2014,Países,Camboya,2,0.0
+2014,Países,Papúa - Nueva Guinea,2,0.0
+2014,Países,Mónaco,2,0.0
+2014,Países,Egipto,2,0.0
+2014,Países,Benin,2,0.0
+2014,Países,Vanuatu,1,0.0
+2014,Países,Laos,1,0.0
+2014,Países,Urbekistán,1,0.0
+2014,Países,Bangladesh,1,0.0
+2014,Países,Nigeria,1,0.0
+2014,Países,Somalia,1,0.0
+2014,Países,Samoa Occidental,1,0.0
+2014,Países,Sri Lanka,1,0.0
+2014,Países,Maldivas,1,0.0
+2014,Países,Guinea Ecuatorial,1,0.0
+2014,Países,Zimbabwe,1,0.0
+2014,Países,Tanzania,1,0.0
+2014,Países,Fiji,1,0.0
+2014,Países,Aruba,1,0.0
+2014,Países,Bahamas,1,0.0
+2014,Países,Groenlandia,1,0.0
+2014,Países,Santo Tomé y Príncipe,1,0.0
+2014,Países,Arabia Saudita,1,0.0
+2014,Países,Irak,1,0.0
+2014,Países,Azerbaiyán,1,0.0
+2014,Procedencias,Sarria,58575,24.61
+2014,Procedencias,S. Jean P. Port,29357,12.34
+2014,Procedencias,Tui,11577,4.86
+2014,Procedencias,León,11411,4.79
+2014,Procedencias,Oporto,10641,4.47
+2014,Procedencias,Cebreiro,10261,4.31
+2014,Procedencias,Ponferrada,7980,3.35
+2014,Procedencias,Roncesvalles,7849,3.3
+2014,Procedencias,Ferrol,6823,2.87
+2014,Procedencias,Astorga,5810,2.44
+2014,Procedencias,Oviedo - C.P.,4919,2.07
+2014,Procedencias,Pamplona,4574,1.92
+2014,Procedencias,Valença do Minho,4553,1.91
+2014,Procedencias,Irún,3828,1.61
+2014,Procedencias,Burgos,3739,1.57
+2014,Procedencias,Le Puy,3625,1.52
+2014,Procedencias,Ourense,2814,1.18
+2014,Procedencias,Vilafranca,2555,1.07
+2014,Procedencias,Francia - C.F.,2447,1.03
+2014,Procedencias,Resto Portugal,2246,0.94
+2014,Procedencias,Lugo - C.P.,2201,0.92
+2014,Procedencias,Sevilla,2132,0.9
+2014,Procedencias,Triacastela,1919,0.81
+2014,Procedencias,Resto Asturias - C.N,1793,0.75
+2014,Procedencias,Samos,1685,0.71
+2014,Procedencias,Resto C. León C.F.,1654,0.7
+2014,Procedencias,Lisboa,1435,0.6
+2014,Procedencias,Ribadeo,1401,0.59
+2014,Procedencias,Vilalba,1341,0.56
+2014,Procedencias,Ponte de Lima,1315,0.55
+2014,Procedencias,Santander,1057,0.44
+2014,Procedencias,Bilbao,1029,0.43
+2014,Procedencias,Logroño,881,0.37
+2014,Procedencias,Gijón,808,0.34
+2014,Procedencias,Holanda,683,0.29
+2014,Procedencias,Avilés,629,0.26
+2014,Procedencias,Oviedo - C.N.,619,0.26
+2014,Procedencias,Alemania,618,0.26
+2014,Procedencias,Somport,605,0.25
+2014,Procedencias,Porriño,594,0.25
+2014,Procedencias,Braga,565,0.24
+2014,Procedencias,Barcelos,542,0.23
+2014,Procedencias,"Rates, S. Pedro",531,0.22
+2014,Procedencias,San Sebastián,513,0.22
+2014,Procedencias,Salamanca,506,0.21
+2014,Procedencias,Madrid - C.F.,485,0.2
+2014,Procedencias,Sahagún,389,0.16
+2014,Procedencias,Zamora,379,0.16
+2014,Procedencias,Finisterra,363,0.15
+2014,Procedencias,Resto Cantabria,362,0.15
+2014,Procedencias,Resto Asturias - C.P.,358,0.15
+2014,Procedencias,Resto País Vasco - C.N.,333,0.14
+2014,Procedencias,Chaves-Portugal,328,0.14
+2014,Procedencias,Neda,327,0.14
+2014,Procedencias,Baamonde,324,0.14
+2014,Procedencias,Lourdes,322,0.14
+2014,Procedencias,Bélgica,317,0.13
+2014,Procedencias,Muxia,289,0.12
+2014,Procedencias,Fonsagrada - C.P.,287,0.12
+2014,Procedencias,Guimaraes,282,0.12
+2014,Procedencias,Vigo,274,0.12
+2014,Procedencias,Puebla de Sanabria,254,0.11
+2014,Procedencias,Resto Andalucia,245,0.1
+2014,Procedencias,Jaca,245,0.1
+2014,Procedencias,Resto Europa,241,0.1
+2014,Procedencias,Vega de Valcarce,239,0.1
+2014,Procedencias,Laza,235,0.1
+2014,Procedencias,Hendaya,232,0.1
+2014,Procedencias,Francia - C.N,220,0.09
+2014,Procedencias,Arles,220,0.09
+2014,Procedencias,Suiza,211,0.09
+2014,Procedencias,Mondoñedo,209,0.09
+2014,Procedencias,Cataluña - C.F.,187,0.08
+2014,Procedencias,Viana do Castelo,184,0.08
+2014,Procedencias,Frómista,179,0.08
+2014,Procedencias,Gudiña,175,0.07
+2014,Procedencias,Sto. Domingo de la Calzada,168,0.07
+2014,Procedencias,Verín,163,0.07
+2014,Procedencias,Vezelay,162,0.07
+2014,Procedencias,Granja de Moreruela,161,0.07
+2014,Procedencias,Coimbra,157,0.07
+2014,Procedencias,Nájera,156,0.07
+2014,Procedencias,Resto Galicia,156,0.07
+2014,Procedencias,Carrión de los Condes,152,0.06
+2014,Procedencias,A Guarda,151,0.06
+2014,Procedencias,Abadin,150,0.06
+2014,Procedencias,Puente la Reina,149,0.06
+2014,Procedencias,Com. Valenciana - C.F.,146,0.06
+2014,Procedencias,Madrid - V.P.,144,0.06
+2014,Procedencias,Fatima,134,0.06
+2014,Procedencias,Valencia O.C.,134,0.06
+2014,Procedencias,Grandas de Salime - C.P.,133,0.06
+2014,Procedencias,Tineo - C.P.,131,0.06
+2014,Procedencias,París,130,0.05
+2014,Procedencias,Rabanal del Camino,126,0.05
+2014,Procedencias,R.Pais Vasco C.F.,124,0.05
+2014,Procedencias,Zaragoza,123,0.05
+2014,Procedencias,Cruz de Ferro,122,0.05
+2014,Procedencias,Resto C. León - V.P.,121,0.05
+2014,Procedencias,Mérida,119,0.05
+2014,Procedencias,Navarra,118,0.05
+2014,Procedencias,Cadavo,116,0.05
+2014,Procedencias,Molinaseca,115,0.05
+2014,Procedencias,Com. Valenciana - O.C.,112,0.05
+2014,Procedencias,Austria,110,0.05
+2014,Procedencias,Xunqueira de Ambia,110,0.05
+2014,Procedencias,Montserrat,106,0.04
+2014,Procedencias,Cast. la Mancha - C.F.,105,0.04
+2014,Procedencias,Barcelona,105,0.04
+2014,Procedencias,Hospital de Orbigo,104,0.04
+2014,Procedencias,Castilla la Mancha otros,103,0.04
+2014,Procedencias,Lourenzá,97,0.04
+2014,Procedencias,Cáceres,93,0.04
+2014,Procedencias,Resto de Extremadura,88,0.04
+2014,Procedencias,Baiona,86,0.04
+2014,Procedencias,Allariz,85,0.04
+2014,Procedencias,Salas,82,0.03
+2014,Procedencias,Italia,76,0.03
+2014,Procedencias,Estella,73,0.03
+2014,Procedencias,Granada,70,0.03
+2014,Procedencias,Viseu,70,0.03
+2014,Procedencias,Castilla La Mancha VP,67,0.03
+2014,Procedencias,Ponferrada. C.Inv.,61,0.03
+2014,Procedencias,Povoa de Varzim,60,0.03
+2014,Procedencias,Cataluña - O.C.,58,0.02
+2014,Procedencias,Canfranc,50,0.02
+2014,Procedencias,Pontedeume,42,0.02
+2014,Procedencias,La Rioja,41,0.02
+2014,Procedencias,Aveiro,39,0.02
+2014,Procedencias,Córdoba,37,0.02
+2014,Procedencias,Faro,37,0.02
+2014,Procedencias,Rábade,37,0.02
+2014,Procedencias,Roma,35,0.01
+2014,Procedencias,Huelva,34,0.01
+2014,Procedencias,Monforte de Lemos,33,0.01
+2014,Procedencias,Castrojeriz,32,0.01
+2014,Procedencias,Malaga,30,0.01
+2014,Procedencias,Polonia,30,0.01
+2014,Procedencias,XFonsagrada,28,0.01
+2014,Procedencias,Badajoz,25,0.01
+2014,Procedencias,Benavente,25,0.01
+2014,Procedencias,XSan Sebastian,25,0.01
+2014,Procedencias,Reino Unido C.F.,24,0.01
+2014,Procedencias,Esposende,24,0.01
+2014,Procedencias,Murcia,22,0.01
+2014,Procedencias,Grado,20,0.01
+2014,Procedencias,Valladolid,20,0.01
+2014,Procedencias,A Rúa,17,0.01
+2014,Procedencias,San Juan de Ortega,16,0.01
+2014,Procedencias,Fonfría,16,0.01
+2014,Procedencias,XGrandas de Salime,15,0.01
+2014,Procedencias,Resto Africa,14,0.01
+2014,Procedencias,Eslovaquia,13,0.01
+2014,Procedencias,La Bañeza,13,0.01
+2014,Procedencias,Republica Checa,13,0.01
+2014,Procedencias,La Mesa,13,0.01
+2014,Procedencias,Irlanda C.F.,12,0.01
+2014,Procedencias,Quiroga,11,0.0
+2014,Procedencias,Luxemburgo,9,0.0
+2014,Procedencias,Hungría,8,0.0
+2014,Procedencias,Las Médulas,6,0.0
+2014,Procedencias,Andorra,6,0.0
+2014,Procedencias,Paradela,6,0.0
+2014,Procedencias,Vilabade,6,0.0
+2014,Procedencias,Dinamarca,6,0.0
+2014,Procedencias,Vegadeo,6,0.0
+2014,Procedencias,Betanzos,5,0.0
+2014,Procedencias,XLa Rioja,5,0.0
+2014,Procedencias,Viveiro,4,0.0
+2014,Procedencias,Guntín,3,0.0
+2014,Procedencias,XTineo,3,0.0
+2014,Procedencias,Petín,3,0.0
+2014,Procedencias,Valcarlos,3,0.0
+2014,Procedencias,Finlandia,3,0.0
+2014,Procedencias,Covelo,3,0.0
+2014,Procedencias,Leyre,3,0.0
+2014,Procedencias,Chantada,2,0.0
+2014,Procedencias,Guitiriz,2,0.0
+2014,Procedencias,Ventas de Narón,2,0.0
+2014,Procedencias,Jerusalem,2,0.0
+2014,Procedencias,Artieda,1,0.0
+2014,Procedencias,Irlanda C. Ing,1,0.0
+2014,Procedencias,Reino Unido C.Ing,1,0.0
+2014,Procedencias,Peñaseita,1,0.0
+2014,Procedencias,Corredoiras,1,0.0
+2014,Procedencias,Mella,1,0.0
+2014,Procedencias,Vincios,1,0.0
+2014,Procedencias,mirallos,1,0.0
+2014,Procedencias,Pardellas,1,0.0
+2014,Procedencias,Ortigueira,1,0.0
+2014,Procedencias,Borres,1,0.0
+2014,Procedencias,Cea,1,0.0
+2014,Procedencias,Grecia,1,0.0
+2014,Procedencias,Gándara,1,0.0
+2014,Procedencias,Rusia,1,0.0
+2014,Procedencias,Gonzar,1,0.0
+2014,Profesiones,Empleados,55075,23.14
+2014,Profesiones,Estudiantes,45238,19.01
+2014,Profesiones,Jubilados,29528,12.41
+2014,Profesiones,Liberales,27899,11.72
+2014,Profesiones,Tecnicos,26403,11.09
+2014,Profesiones,Profesores,17350,7.29
+2014,Profesiones,Funcionarios,11851,4.98
+2014,Profesiones,Amas de Casa,5228,2.2
+2014,Profesiones,Parados,5007,2.1
+2014,Profesiones,Directivos,4624,1.94
+2014,Profesiones,Obreros,3805,1.6
+2014,Profesiones,Artistas,2190,0.92
+2014,Profesiones,Sacerdotes,1387,0.58
+2014,Profesiones,Religiosas,1104,0.46
+2014,Profesiones,Agricultores,792,0.33
+2014,Profesiones,Marinos,302,0.13
+2014,Profesiones,Deportistas,155,0.07
+2014,Profesiones,Oikoten,45,0.02
+2014,Sexos,Hombre,128554,54.02
+2014,Sexos,Mujer,109429,45.98
+2015,Autonomías,Madrid,23826,9.08
+2015,Autonomías,Andalucía,22877,8.71
+2015,Autonomías,Cataluña,14107,5.37
+2015,Autonomías,Comunidad Valenciana,14096,5.37
+2015,Autonomías,Galicia,8662,3.3
+2015,Autonomías,Castilla León,7317,2.79
+2015,Autonomías,Castilla la Mancha,5949,2.27
+2015,Autonomías,Pais Vasco,4747,1.81
+2015,Autonomías,Extremadura,3673,1.4
+2015,Autonomías,Murcia,3617,1.38
+2015,Autonomías,Canarias,3488,1.33
+2015,Autonomías,Aragón,2639,1.01
+2015,Autonomías,Asturias,2155,0.82
+2015,Autonomías,Baleares,1706,0.65
+2015,Autonomías,Navarra,1197,0.46
+2015,Autonomías,Cantabria,1035,0.39
+2015,Autonomías,La Rioja,564,0.21
+2015,Autonomías,Otra,471,0.18
+2015,Autonomías,Ceuta,157,0.06
+2015,Autonomías,Melilla,137,0.05
+2015,Caminos,Frances-Camino de,172243,65.61
+2015,Caminos,Portugues-Camino,43151,16.44
+2015,Caminos,Norte-Camino de,15828,6.03
+2015,Caminos,Primitivo-Camino,11473,4.37
+2015,Caminos,Ingles-Camino,9247,3.52
+2015,Caminos,Via de la Plata,9221,3.51
+2015,Caminos,Muxia-Finisterre,758,0.29
+2015,Caminos,Otros caminos,359,0.14
+2015,Caminos,Camino de Invierno,222,0.08
+2015,Edades,30 - 60,144060,54.88
+2015,Edades,< 30,74714,28.46
+2015,Edades,> 60,43742,16.66
+2015,Medios,Pie,236773,90.19
+2015,Medios,Bicicleta,25346,9.66
+2015,Medios,Caballo,326,0.12
+2015,Medios,Silla de ruedas,71,0.03
+2015,Motivos,Religioso y otros,141993,54.09
+2015,Motivos,Religioso,99705,37.98
+2015,Motivos,No religioso,20818,7.93
+2015,Países,España,122420,46.63
+2015,Países,Italia,22151,8.44
+2015,Países,Alemania,18873,7.19
+2015,Países,Estados Unidos,13670,5.21
+2015,Países,Portugal,12481,4.75
+2015,Países,Francia,9916,3.78
+2015,Países,Reino Unido,5417,2.06
+2015,Países,Irlanda,5367,2.04
+2015,Países,Canadá,4201,1.6
+2015,Países,Corea,4073,1.55
+2015,Países,Brasil,3938,1.5
+2015,Países,Australia,3856,1.47
+2015,Países,Polonia,3782,1.44
+2015,Países,Holanda,3501,1.33
+2015,Países,Dinamarca,2163,0.82
+2015,Países,Belgica,2103,0.8
+2015,Países,México,1768,0.67
+2015,Países,Austria,1607,0.61
+2015,Países,Argentina,1530,0.58
+2015,Países,Suiza,1446,0.55
+2015,Países,Japón,1197,0.46
+2015,Países,Hungría,1158,0.44
+2015,Países,República Checa,1145,0.44
+2015,Países,Suecia,1093,0.42
+2015,Países,Finlandia,898,0.34
+2015,Países,Rusia,874,0.33
+2015,Países,Colombia,823,0.31
+2015,Países,Sudáfrica,808,0.31
+2015,Países,Noruega,800,0.3
+2015,Países,China,706,0.27
+2015,Países,Nueva Zelanda,692,0.26
+2015,Países,Eslovaquia,646,0.25
+2015,Países,Venezuela,609,0.23
+2015,Países,Lituania,586,0.22
+2015,Países,Bulgaria,464,0.18
+2015,Países,Eslovenia,413,0.16
+2015,Países,Rumania,379,0.14
+2015,Países,Uruguay,330,0.13
+2015,Países,Chile,282,0.11
+2015,Países,Ecuador,274,0.1
+2015,Países,Israel,248,0.09
+2015,Países,Puerto Rico,247,0.09
+2015,Países,Filipinas,236,0.09
+2015,Países,Estonia,230,0.09
+2015,Países,Islandia,199,0.08
+2015,Países,Croacia,182,0.07
+2015,Países,Perú,181,0.07
+2015,Países,Letonia,176,0.07
+2015,Países,Taiwán,176,0.07
+2015,Países,Malta,172,0.07
+2015,Países,Ucrania,159,0.06
+2015,Países,Andorra,128,0.05
+2015,Países,Singapur,116,0.04
+2015,Países,Luxemburgo,99,0.04
+2015,Países,Costa Rica,95,0.04
+2015,Países,Malasia,90,0.03
+2015,Países,Rep. Dominicana,78,0.03
+2015,Países,India,78,0.03
+2015,Países,Bielorrusia,75,0.03
+2015,Países,Grecia,74,0.03
+2015,Países,Paraguay,64,0.02
+2015,Países,Guatemala,61,0.02
+2015,Países,Líbano,60,0.02
+2015,Países,Bolivia,58,0.02
+2015,Países,Cuba,55,0.02
+2015,Países,Armenia,53,0.02
+2015,Países,Indonesia,48,0.02
+2015,Países,El Salvador,40,0.02
+2015,Países,Panamá,36,0.01
+2015,Países,Argelia,36,0.01
+2015,Países,Honduras,35,0.01
+2015,Países,Jordania,32,0.01
+2015,Países,Moldavia,28,0.01
+2015,Países,Turquía,27,0.01
+2015,Países,Albania,24,0.01
+2015,Países,Chipre,22,0.01
+2015,Países,Marruecos,22,0.01
+2015,Países,Serbia,19,0.01
+2015,Países,Nicaragua,16,0.01
+2015,Países,Irán,15,0.01
+2015,Países,Camerún,13,0.0
+2015,Países,Tailandia,13,0.0
+2015,Países,Islas Feroe,13,0.0
+2015,Países,Angola,12,0.0
+2015,Países,Botswana,12,0.0
+2015,Países,Vietnam,9,0.0
+2015,Países,Sri Lanka,9,0.0
+2015,Países,Siria,9,0.0
+2015,Países,Namibia,9,0.0
+2015,Países,San Marino,8,0.0
+2015,Países,Mauricio,8,0.0
+2015,Países,Georgia,6,0.0
+2015,Países,Trinidad y Tobago,6,0.0
+2015,Países,Haití,6,0.0
+2015,Países,Palestina,6,0.0
+2015,Países,Liechtensein,5,0.0
+2015,Países,Dominica,5,0.0
+2015,Países,Egipto,5,0.0
+2015,Países,Jamaica,5,0.0
+2015,Países,Kenya,5,0.0
+2015,Países,Nigeria,5,0.0
+2015,Países,Kazajistán,4,0.0
+2015,Países,Zambia,4,0.0
+2015,Países,Mozambique,4,0.0
+2015,Países,Bosnia,4,0.0
+2015,Países,Azerbaiyán,4,0.0
+2015,Países,Bermudas,4,0.0
+2015,Países,Mongolia,4,0.0
+2015,Países,Túnez,4,0.0
+2015,Países,Cabo Verde,4,0.0
+2015,Países,Irak,3,0.0
+2015,Países,Groenlandia,3,0.0
+2015,Países,Macedonia,3,0.0
+2015,Países,Sudán,3,0.0
+2015,Países,Arabia Saudita,3,0.0
+2015,Países,Yugoslavia,3,0.0
+2015,Países,Emiratos Arabes Unidos,3,0.0
+2015,Países,Mónaco,3,0.0
+2015,Países,Nepal,3,0.0
+2015,Países,Guinea,3,0.0
+2015,Países,Senegal,3,0.0
+2015,Países,Guam,3,0.0
+2015,Países,Congo,2,0.0
+2015,Países,Antigua y Barbuda,2,0.0
+2015,Países,Surinam,2,0.0
+2015,Países,Togo,2,0.0
+2015,Países,Brunei,2,0.0
+2015,Países,Kirguistán,2,0.0
+2015,Países,Montenegro,2,0.0
+2015,Países,Martinica,2,0.0
+2015,Países,Rwanda,2,0.0
+2015,Países,Tanzania,2,0.0
+2015,Países,Papúa - Nueva Guinea,1,0.0
+2015,Países,Uganda,1,0.0
+2015,Países,Mali,1,0.0
+2015,Países,Ghana,1,0.0
+2015,Países,Guyana,1,0.0
+2015,Países,Mauritania,1,0.0
+2015,Países,Lesotho,1,0.0
+2015,Países,Aruba,1,0.0
+2015,Países,Bahamas,1,0.0
+2015,Países,Etiopía,1,0.0
+2015,Países,Zimbabwe,1,0.0
+2015,Países,Nueva Caledonia,1,0.0
+2015,Países,Afganistán,1,0.0
+2015,Países,I. Reunión,1,0.0
+2015,Países,Kuwait,1,0.0
+2015,Países,Gabón,1,0.0
+2015,Países,Myanmar,1,0.0
+2015,Países,Guinea Ecuatorial,1,0.0
+2015,Países,Benin,1,0.0
+2015,Países,Urbekistán,1,0.0
+2015,Procedencias,Sarria,67419,25.68
+2015,Procedencias,S. Jean P. Port,31058,11.83
+2015,Procedencias,Tui,13800,5.26
+2015,Procedencias,Oporto,13201,5.03
+2015,Procedencias,León,11496,4.38
+2015,Procedencias,Cebreiro,10354,3.94
+2015,Procedencias,Ferrol,8685,3.31
+2015,Procedencias,Ponferrada,8402,3.2
+2015,Procedencias,Roncesvalles,7419,2.83
+2015,Procedencias,Oviedo - C.P.,6412,2.44
+2015,Procedencias,Astorga,6034,2.3
+2015,Procedencias,Valença do Minho,5706,2.17
+2015,Procedencias,Pamplona,4640,1.77
+2015,Procedencias,Irún,4175,1.59
+2015,Procedencias,Burgos,3616,1.38
+2015,Procedencias,Le Puy,3578,1.36
+2015,Procedencias,Lugo - C.P.,3071,1.17
+2015,Procedencias,Ourense,2853,1.09
+2015,Procedencias,Vilafranca,2553,0.97
+2015,Procedencias,Sevilla,2290,0.87
+2015,Procedencias,Triacastela,2215,0.84
+2015,Procedencias,Francia - C.F.,2144,0.82
+2015,Procedencias,Resto Portugal,2141,0.82
+2015,Procedencias,Lisboa,2059,0.78
+2015,Procedencias,Resto Asturias - C.N,1746,0.67
+2015,Procedencias,Ponte de Lima,1564,0.6
+2015,Procedencias,Samos,1508,0.57
+2015,Procedencias,Resto C. León C.F.,1430,0.54
+2015,Procedencias,Ribadeo,1415,0.54
+2015,Procedencias,Bilbao,1230,0.47
+2015,Procedencias,Santander,1154,0.44
+2015,Procedencias,Vilalba,1061,0.4
+2015,Procedencias,Gijón,938,0.36
+2015,Procedencias,Logroño,882,0.34
+2015,Procedencias,"Rates, S. Pedro",765,0.29
+2015,Procedencias,San Sebastián,630,0.24
+2015,Procedencias,Barcelos,609,0.23
+2015,Procedencias,Alemania,607,0.23
+2015,Procedencias,Fonsagrada - C.P.,596,0.23
+2015,Procedencias,Holanda,578,0.22
+2015,Procedencias,Salamanca,559,0.21
+2015,Procedencias,Avilés,558,0.21
+2015,Procedencias,Neda,547,0.21
+2015,Procedencias,Somport,524,0.2
+2015,Procedencias,Resto Asturias - C.P.,517,0.2
+2015,Procedencias,Madrid - C.F.,516,0.2
+2015,Procedencias,Braga,505,0.19
+2015,Procedencias,Porriño,469,0.18
+2015,Procedencias,Mondoñedo,461,0.18
+2015,Procedencias,Puebla de Sanabria,454,0.17
+2015,Procedencias,Oviedo - C.N.,453,0.17
+2015,Procedencias,Vigo,440,0.17
+2015,Procedencias,Zamora,427,0.16
+2015,Procedencias,Resto Europa,412,0.16
+2015,Procedencias,Muxia,405,0.15
+2015,Procedencias,Sahagún,400,0.15
+2015,Procedencias,Baiona,378,0.14
+2015,Procedencias,Resto País Vasco - C.N.,378,0.14
+2015,Procedencias,Finisterra,353,0.13
+2015,Procedencias,Baamonde,337,0.13
+2015,Procedencias,Grandas de Salime - C.P.,328,0.12
+2015,Procedencias,Lourdes,327,0.12
+2015,Procedencias,Chaves-Portugal,322,0.12
+2015,Procedencias,Abadin,313,0.12
+2015,Procedencias,Guimaraes,310,0.12
+2015,Procedencias,Bélgica,294,0.11
+2015,Procedencias,Francia - C.N,289,0.11
+2015,Procedencias,Resto Cantabria,287,0.11
+2015,Procedencias,Suiza,270,0.1
+2015,Procedencias,A Guarda,257,0.1
+2015,Procedencias,Coimbra,256,0.1
+2015,Procedencias,Resto Andalucia,248,0.09
+2015,Procedencias,Resto C. León - V.P.,228,0.09
+2015,Procedencias,Viana do Castelo,227,0.09
+2015,Procedencias,Hendaya,223,0.08
+2015,Procedencias,Cruz de Ferro,216,0.08
+2015,Procedencias,Vezelay,216,0.08
+2015,Procedencias,Arles,200,0.08
+2015,Procedencias,Cadavo,192,0.07
+2015,Procedencias,Laza,190,0.07
+2015,Procedencias,Cataluña - C.F.,187,0.08
+2015,Procedencias,Frómista,179,0.08
+2015,Procedencias,Fatima,176,0.07
+2015,Procedencias,Gudiña,175,0.07
+2015,Procedencias,Sto. Domingo de la Calzada,168,0.07
+2015,Procedencias,Vega de Valcarce,168,0.06
+2015,Procedencias,Verín,163,0.07
+2015,Procedencias,Granja de Moreruela,161,0.07
+2015,Procedencias,Xunqueira de Ambia,160,0.06
+2015,Procedencias,Allariz,159,0.06
+2015,Procedencias,Nájera,156,0.07
+2015,Procedencias,Resto Galicia,156,0.07
+2015,Procedencias,Carrión de los Condes,152,0.06
+2015,Procedencias,Lourenzá,151,0.06
+2015,Procedencias,Puente la Reina,149,0.06
+2015,Procedencias,Com. Valenciana - C.F.,146,0.06
+2015,Procedencias,Tineo - C.P.,146,0.06
+2015,Procedencias,Hospital de Orbigo,145,0.06
+2015,Procedencias,Madrid - V.P.,144,0.06
+2015,Procedencias,Rabanal del Camino,144,0.05
+2015,Procedencias,Jaca,140,0.05
+2015,Procedencias,Com. Valenciana - O.C.,139,0.05
+2015,Procedencias,Barcelona,137,0.05
+2015,Procedencias,Valencia O.C.,134,0.06
+2015,Procedencias,Mérida,134,0.05
+2015,Procedencias,París,130,0.05
+2015,Procedencias,Cáceres,125,0.05
+2015,Procedencias,R.Pais Vasco C.F.,124,0.05
+2015,Procedencias,Zaragoza,123,0.05
+2015,Procedencias,Navarra,118,0.05
+2015,Procedencias,Ponferrada. C.Inv.,117,0.04
+2015,Procedencias,Molinaseca,115,0.05
+2015,Procedencias,Montserrat,113,0.04
+2015,Procedencias,Austria,110,0.05
+2015,Procedencias,Resto de Extremadura,102,0.04
+2015,Procedencias,Povoa de Varzim,98,0.04
+2015,Procedencias,Castrojeriz,97,0.04
+2015,Procedencias,Granada,94,0.04
+2015,Procedencias,Estella,91,0.03
+2015,Procedencias,Salas,89,0.03
+2015,Procedencias,Italia,76,0.03
+2015,Procedencias,Malaga,75,0.03
+2015,Procedencias,Esposende,74,0.03
+2015,Procedencias,Cast. la Mancha - C.F.,65,0.02
+2015,Procedencias,Viseu,56,0.02
+2015,Procedencias,Vilabade,56,0.02
+2015,Procedencias,Castilla La Mancha VP,50,0.02
+2015,Procedencias,Canfranc,49,0.02
+2015,Procedencias,Monforte de Lemos,48,0.02
+2015,Procedencias,Castilla la Mancha otros,45,0.02
+2015,Procedencias,Polonia,42,0.02
+2015,Procedencias,Valladolid,41,0.02
+2015,Procedencias,Huelva,37,0.01
+2015,Procedencias,Faro,36,0.01
+2015,Procedencias,Grado,36,0.01
+2015,Procedencias,Córdoba,34,0.01
+2015,Procedencias,Cataluña - O.C.,33,0.01
+2015,Procedencias,Badajoz,31,0.01
+2015,Procedencias,Roma,31,0.01
+2015,Procedencias,Reino Unido C.F.,22,0.01
+2015,Procedencias,La Rioja,22,0.01
+2015,Procedencias,La Mesa,22,0.01
+2015,Procedencias,Chantada,22,0.01
+2015,Procedencias,Benavente,21,0.01
+2015,Procedencias,Aveiro,20,0.01
+2015,Procedencias,San Juan de Ortega,20,0.01
+2015,Procedencias,Republica Checa,19,0.01
+2015,Procedencias,Murcia,17,0.01
+2015,Procedencias,Fonfría,15,0.01
+2015,Procedencias,Quiroga,14,0.01
+2015,Procedencias,Dinamarca,10,0.0
+2015,Procedencias,A Rúa,8,0.0
+2015,Procedencias,Luxemburgo,8,0.0
+2015,Procedencias,O Barco de Valdeorras,7,0.0
+2015,Procedencias,Eslovaquia,5,0.0
+2015,Procedencias,Vegadeo,5,0.0
+2015,Procedencias,Hungría,5,0.0
+2015,Procedencias,Irlanda C.F.,4,0.0
+2015,Procedencias,Valcarlos,4,0.0
+2015,Procedencias,Guntín,4,0.0
+2015,Procedencias,Borres,4,0.0
+2015,Procedencias,Andorra,4,0.0
+2015,Procedencias,Puente de Domingo Flórez,4,0.0
+2015,Procedencias,Leyre,4,0.0
+2015,Procedencias,Sobrado,4,0.0
+2015,Procedencias,Reino Unido C.Ing,3,0.0
+2015,Procedencias,La Bañeza,3,0.0
+2015,Procedencias,Betanzos,3,0.0
+2015,Procedencias,Lalín,3,0.0
+2015,Procedencias,Irlanda C. Ing,2,0.0
+2015,Procedencias,Rusia,2,0.0
+2015,Procedencias,Covelo,2,0.0
+2015,Procedencias,Las Médulas,2,0.0
+2015,Procedencias,Pontedeume,2,0.0
+2015,Procedencias,Vincios,2,0.0
+2015,Procedencias,mirallos,2,0.0
+2015,Procedencias,Inglaterra C.F.,2,0.0
+2015,Procedencias,Petín,1,0.0
+2015,Procedencias,Viveiro,1,0.0
+2015,Procedencias,Paradela,1,0.0
+2015,Procedencias,Artieda,1,0.0
+2015,Procedencias,Sobrado dos Monxes,1,0.0
+2015,Procedencias,Pardellas,1,0.0
+2015,Procedencias,Peñaseita,1,0.0
+2015,Procedencias,Finlandia,1,0.0
+2015,Procedencias,Gándara,1,0.0
+2015,Profesiones,Empleados,56501,21.52
+2015,Profesiones,Estudiantes,50498,19.24
+2015,Profesiones,Liberales,35757,13.62
+2015,Profesiones,Jubilados,32804,12.5
+2015,Profesiones,Tecnicos,30594,11.65
+2015,Profesiones,Profesores,18164,6.92
+2015,Profesiones,Funcionarios,13107,4.99
+2015,Profesiones,Amas de Casa,5639,2.15
+2015,Profesiones,Parados,5266,2.01
+2015,Profesiones,Directivos,4213,1.6
+2015,Profesiones,Obreros,3558,1.36
+2015,Profesiones,Artistas,2557,0.97
+2015,Profesiones,Sacerdotes,1419,0.54
+2015,Profesiones,Religiosas,1053,0.4
+2015,Profesiones,Agricultores,860,0.33
+2015,Profesiones,Deportistas,274,0.1
+2015,Profesiones,Marinos,239,0.09
+2015,Profesiones,Oikoten,13,0.0
+2015,Sexos,Hombre,138962,52.93
+2015,Sexos,Mujer,123554,47.07
+2016,Autonomías,Andalucía,24952,8.98
+2016,Autonomías,Madrid,23034,8.29
+2016,Autonomías,Comunidad Valenciana,14564,5.24
+2016,Autonomías,Cataluña,13354,4.81
+2016,Autonomías,Galicia,8414,3.03
+2016,Autonomías,Castilla León,7265,2.61
+2016,Autonomías,Castilla la Mancha,6578,2.37
+2016,Autonomías,Pais Vasco,4461,1.61
+2016,Autonomías,Murcia,3765,1.36
+2016,Autonomías,Canarias,3737,1.34
+2016,Autonomías,Extremadura,3592,1.29
+2016,Autonomías,Aragón,2751,0.99
+2016,Autonomías,Asturias,2582,0.93
+2016,Autonomías,Baleares,1775,0.64
+2016,Autonomías,Navarra,1133,0.41
+2016,Autonomías,Cantabria,1008,0.36
+2016,Autonomías,La Rioja,500,0.18
+2016,Autonomías,Residentes en el extranjero,408,0.15
+2016,Autonomías,Ceuta,233,0.08
+2016,Autonomías,Melilla,124,0.04
+2016,Caminos,Camino Francés,176075,63.37
+2016,Caminos,Camino Portugués,49538,17.83
+2016,Caminos,Camino del Norte,17289,6.22
+2016,Caminos,Camino Primitivo,12089,4.35
+2016,Caminos,Camino Inglés,9703,3.49
+2016,Caminos,Vía de la Plata,9067,3.26
+2016,Caminos,Camino Portugués de la Costa,2600,0.94
+2016,Caminos,Muxia-Finisterre,770,0.28
+2016,Caminos,Otros caminos,436,0.16
+2016,Caminos,Camino de Invierno,287,0.1
+2016,Edades,30 - 60,153153,55.12
+2016,Edades,< 30,75460,27.16
+2016,Edades,> 60,49241,17.72
+2016,Medios,Pie,254025,91.42
+2016,Medios,Bicicleta,23347,8.4
+2016,Medios,Caballo,342,0.12
+2016,Medios,Silla de ruedas,125,0.04
+2016,Medios,Vela,15,0.01
+2016,Motivos,Religioso y otros,132660,47.74
+2016,Motivos,Religioso,122973,44.26
+2016,Motivos,No religioso,22221,8.0
+2016,Países,España,124230,44.71
+2016,Países,Italia,23944,8.62
+2016,Países,Alemania,21220,7.64
+2016,Países,Estados Unidos,15236,5.48
+2016,Países,Portugal,13245,4.77
+2016,Países,Francia,8868,3.19
+2016,Países,Irlanda,6537,2.35
+2016,Países,Reino Unido,6050,2.18
+2016,Países,Corea,4534,1.63
+2016,Países,Australia,4441,1.6
+2016,Países,Brasil,4365,1.57
+2016,Países,Canadá,4354,1.57
+2016,Países,Polonia,3919,1.41
+2016,Países,Holanda,3656,1.32
+2016,Países,Dinamarca,2594,0.93
+2016,Países,México,2333,0.84
+2016,Países,Belgica,2123,0.76
+2016,Países,Argentina,2062,0.74
+2016,Países,Austria,1661,0.6
+2016,Países,Japón,1459,0.53
+2016,Países,Suiza,1452,0.52
+2016,Países,Colombia,1407,0.51
+2016,Países,República Checa,1347,0.48
+2016,Países,Suecia,1314,0.47
+2016,Países,Hungría,1139,0.41
+2016,Países,Rusia,876,0.32
+2016,Países,Finlandia,868,0.31
+2016,Países,China,831,0.3
+2016,Países,Noruega,787,0.28
+2016,Países,Nueva Zelanda,778,0.28
+2016,Países,Eslovaquia,729,0.26
+2016,Países,Venezuela,714,0.26
+2016,Países,Sudáfrica,699,0.25
+2016,Países,Lituania,657,0.24
+2016,Países,Eslovenia,486,0.17
+2016,Países,Rumania,473,0.17
+2016,Países,Chile,466,0.17
+2016,Países,Bulgaria,429,0.15
+2016,Países,Uruguay,410,0.15
+2016,Países,Filipinas,342,0.12
+2016,Países,Taiwán,339,0.12
+2016,Países,Ecuador,314,0.11
+2016,Países,Israel,302,0.11
+2016,Países,Estonia,297,0.11
+2016,Países,Croacia,295,0.11
+2016,Países,Puerto Rico,260,0.09
+2016,Países,Ucrania,236,0.08
+2016,Países,Perú,227,0.08
+2016,Países,Letonia,168,0.06
+2016,Países,Singapur,162,0.06
+2016,Países,Costa Rica,143,0.05
+2016,Países,Andorra,137,0.05
+2016,Países,Malta,132,0.05
+2016,Países,Islandia,111,0.04
+2016,Países,Panamá,107,0.04
+2016,Países,Malasia,103,0.04
+2016,Países,Grecia,96,0.03
+2016,Países,Luxemburgo,88,0.03
+2016,Países,Paraguay,79,0.03
+2016,Países,El Salvador,75,0.03
+2016,Países,Bolivia,75,0.03
+2016,Países,Guatemala,74,0.03
+2016,Países,Rep. Dominicana,61,0.02
+2016,Países,Bielorrusia,61,0.02
+2016,Países,Cuba,60,0.02
+2016,Países,Turquía,55,0.02
+2016,Países,India,54,0.02
+2016,Países,Indonesia,53,0.02
+2016,Países,Chipre,41,0.01
+2016,Países,Líbano,39,0.01
+2016,Países,Armenia,37,0.01
+2016,Países,Nicaragua,36,0.01
+2016,Países,Honduras,34,0.01
+2016,Países,Serbia,30,0.01
+2016,Países,Marruecos,26,0.01
+2016,Países,Maldivas,26,0.01
+2016,Países,Jordania,25,0.01
+2016,Países,Egipto,24,0.01
+2016,Países,Namibia,23,0.01
+2016,Países,Moldavia,23,0.01
+2016,Países,Pakistán,23,0.01
+2016,Países,Albania,21,0.01
+2016,Países,Tailandia,16,0.01
+2016,Países,Emiratos Arabes Unidos,12,0.0
+2016,Países,Túnez,11,0.0
+2016,Países,Islas Feroe,10,0.0
+2016,Países,Irán,10,0.0
+2016,Países,Nigeria,9,0.0
+2016,Países,Siria,8,0.0
+2016,Países,Angola,8,0.0
+2016,Países,Sri Lanka,8,0.0
+2016,Países,Bosnia,8,0.0
+2016,Países,Macedonia,7,0.0
+2016,Países,Guinea Ecuatorial,7,0.0
+2016,Países,Kazajistán,7,0.0
+2016,Países,Mauricio,7,0.0
+2016,Países,Kuwait,6,0.0
+2016,Países,Trinidad y Tobago,6,0.0
+2016,Países,Kenya,6,0.0
+2016,Países,Botswana,5,0.0
+2016,Países,Zimbabwe,5,0.0
+2016,Países,Bermudas,5,0.0
+2016,Países,Argelia,5,0.0
+2016,Países,San Marino,5,0.0
+2016,Países,Cabo Verde,4,0.0
+2016,Países,Haití,4,0.0
+2016,Países,Camerún,4,0.0
+2016,Países,Palestina,3,0.0
+2016,Países,Arabia Saudita,3,0.0
+2016,Países,Nepal,3,0.0
+2016,Países,Aruba,3,0.0
+2016,Países,Mónaco,3,0.0
+2016,Países,Mozambique,3,0.0
+2016,Países,Vietnam,3,0.0
+2016,Países,Jamaica,2,0.0
+2016,Países,Azerbaiyán,2,0.0
+2016,Países,Eritrea,2,0.0
+2016,Países,Madagascar,2,0.0
+2016,Países,Georgia,2,0.0
+2016,Países,Granada,2,0.0
+2016,Países,Mali,2,0.0
+2016,Países,Mongolia,2,0.0
+2016,Países,Liechtensein,2,0.0
+2016,Países,Burkina Faso,2,0.0
+2016,Países,Ghana,2,0.0
+2016,Países,Guyana,1,0.0
+2016,Países,Kirguistán,1,0.0
+2016,Países,Montenegro,1,0.0
+2016,Países,Irak,1,0.0
+2016,Países,Groenlandia,1,0.0
+2016,Países,Sierra Leona,1,0.0
+2016,Países,Antillas Holandesas,1,0.0
+2016,Países,Senegal,1,0.0
+2016,Países,Urbekistán,1,0.0
+2016,Países,Costa de Marfil,1,0.0
+2016,Países,Bangladesh,1,0.0
+2016,Países,Tanzania,1,0.0
+2016,Países,Timor Oriental,1,0.0
+2016,Países,Barbados,1,0.0
+2016,Países,Rwanda,1,0.0
+2016,Países,Afganistán,1,0.0
+2016,Países,Nueva Caledonia,1,0.0
+2016,Países,Uganda,1,0.0
+2016,Países,Omán,1,0.0
+2016,Países,Tonga,1,0.0
+2016,Países,Etiopía,1,0.0
+2016,Procedencias,Sarria,71766,25.83
+2016,Procedencias,S. Jean P. Port,33656,12.11
+2016,Procedencias,Oporto,17726,6.38
+2016,Procedencias,Tui,15158,5.46
+2016,Procedencias,León,12022,4.33
+2016,Procedencias,Cebreiro,9856,3.55
+2016,Procedencias,Ferrol,9478,3.41
+2016,Procedencias,Ponferrada,8195,2.95
+2016,Procedencias,Oviedo - C.P.,7227,2.6
+2016,Procedencias,Valença do Minho,6773,2.44
+2016,Procedencias,Roncesvalles,6746,2.43
+2016,Procedencias,Astorga,5430,1.95
+2016,Procedencias,Irún,4763,1.71
+2016,Procedencias,Pamplona,4374,1.57
+2016,Procedencias,Le Puy,3396,1.22
+2016,Procedencias,Burgos,3394,1.22
+2016,Procedencias,Ourense,3163,1.14
+2016,Procedencias,Lugo - C.P.,3138,1.13
+2016,Procedencias,Vilafranca,2500,0.9
+2016,Procedencias,Lisboa,2357,0.85
+2016,Procedencias,Sevilla,2329,0.84
+2016,Procedencias,Resto Portugal,2253,0.81
+2016,Procedencias,Francia - C.F.,1914,0.69
+2016,Procedencias,Triacastela,1899,0.68
+2016,Procedencias,Ponte de Lima,1880,0.68
+2016,Procedencias,Ribadeo,1551,0.56
+2016,Procedencias,Samos,1512,0.54
+2016,Procedencias,Bilbao,1469,0.53
+2016,Procedencias,Resto Asturias - C.N,1467,0.53
+2016,Procedencias,Vilalba,1445,0.52
+2016,Procedencias,Resto C. León C.F.,1263,0.45
+2016,Procedencias,Santander,1155,0.42
+2016,Procedencias,Gijón,1058,0.38
+2016,Procedencias,Vigo,967,0.35
+2016,Procedencias,Porriño,897,0.32
+2016,Procedencias,San Sebastián,816,0.29
+2016,Procedencias,Logroño,802,0.29
+2016,Procedencias,Barcelos,738,0.27
+2016,Procedencias,Fonsagrada - C.P.,677,0.24
+2016,Procedencias,Avilés,662,0.24
+2016,Procedencias,Alemania,592,0.21
+2016,Procedencias,Holanda,551,0.2
+2016,Procedencias,Baiona,545,0.2
+2016,Procedencias,Madrid - C.F.,509,0.18
+2016,Procedencias,Braga,506,0.18
+2016,Procedencias,Muxia,498,0.18
+2016,Procedencias,"Rates, S. Pedro",494,0.18
+2016,Procedencias,Somport,482,0.17
+2016,Procedencias,Baamonde,452,0.16
+2016,Procedencias,Viana do Castelo,439,0.16
+2016,Procedencias,Zamora,437,0.16
+2016,Procedencias,Salamanca,413,0.15
+2016,Procedencias,Sahagún,405,0.15
+2016,Procedencias,Oviedo - C.N.,375,0.13
+2016,Procedencias,Resto Cantabria,370,0.13
+2016,Procedencias,A Guarda,352,0.13
+2016,Procedencias,Vega de Valcarce,341,0.12
+2016,Procedencias,Resto Asturias - C.P.,319,0.11
+2016,Procedencias,Lourdes,314,0.11
+2016,Procedencias,Francia - C.N,313,0.11
+2016,Procedencias,Bélgica,304,0.11
+2016,Procedencias,Resto País Vasco - C.N.,296,0.11
+2016,Procedencias,Hendaya,281,0.1
+2016,Procedencias,Puebla de Sanabria,279,0.1
+2016,Procedencias,Finisterra,272,0.1
+2016,Procedencias,Resto Europa,271,0.1
+2016,Procedencias,Coimbra,270,0.1
+2016,Procedencias,Abadin,269,0.1
+2016,Procedencias,Mondoñedo,265,0.1
+2016,Procedencias,Chaves-Portugal,265,0.1
+2016,Procedencias,Resto Andalucia,258,0.09
+2016,Procedencias,Rabanal del Camino,244,0.09
+2016,Procedencias,Grandas de Salime - C.P.,227,0.08
+2016,Procedencias,Cadavo,224,0.08
+2016,Procedencias,Laza,224,0.08
+2016,Procedencias,Neda,216,0.08
+2016,Procedencias,Resto C. León - V.P.,216,0.08
+2016,Procedencias,Suiza,203,0.07
+2016,Procedencias,Vezelay,194,0.07
+2016,Procedencias,Lourenzá,186,0.07
+2016,Procedencias,Jaca,177,0.06
+2016,Procedencias,Frómista,177,0.06
+2016,Procedencias,Guimaraes,176,0.06
+2016,Procedencias,Resto de Extremadura,173,0.06
+2016,Procedencias,Hospital de Orbigo,173,0.06
+2016,Procedencias,Carrión de los Condes,168,0.06
+2016,Procedencias,Cataluña - C.F.,162,0.06
+2016,Procedencias,Povoa de Varzim,160,0.06
+2016,Procedencias,Puente la Reina,158,0.06
+2016,Procedencias,Granja de Moreruela,157,0.06
+2016,Procedencias,Fatima,156,0.06
+2016,Procedencias,Allariz,147,0.05
+2016,Procedencias,París,141,0.05
+2016,Procedencias,Ponferrada. C.Inv.,140,0.05
+2016,Procedencias,Esposende,137,0.05
+2016,Procedencias,Gudiña,135,0.05
+2016,Procedencias,Montserrat,129,0.05
+2016,Procedencias,Sto. Domingo de la Calzada,126,0.05
+2016,Procedencias,Madrid - V.P.,126,0.05
+2016,Procedencias,Navarra,124,0.04
+2016,Procedencias,Com. Valenciana - O.C.,123,0.04
+2016,Procedencias,Tineo - C.P.,121,0.04
+2016,Procedencias,Mérida,120,0.04
+2016,Procedencias,Xunqueira de Ambia,113,0.04
+2016,Procedencias,Verín,112,0.04
+2016,Procedencias,Monforte de Lemos,112,0.04
+2016,Procedencias,Castilla la Mancha otros,110,0.04
+2016,Procedencias,Arles,107,0.04
+2016,Procedencias,Com. Valenciana - C.F.,106,0.04
+2016,Procedencias,Cruz de Ferro,105,0.04
+2016,Procedencias,Molinaseca,104,0.04
+2016,Procedencias,Zaragoza,97,0.03
+2016,Procedencias,Estella,97,0.03
+2016,Procedencias,Salas,89,0.03
+2016,Procedencias,Valencia O.C.,87,0.03
+2016,Procedencias,Austria,85,0.03
+2016,Procedencias,Cáceres,82,0.03
+2016,Procedencias,Barcelona,81,0.03
+2016,Procedencias,R.Pais Vasco C.F.,74,0.03
+2016,Procedencias,Resto Galicia,66,0.02
+2016,Procedencias,Rábade,64,0.02
+2016,Procedencias,Italia,63,0.02
+2016,Procedencias,Malaga,63,0.02
+2016,Procedencias,Viseu,62,0.02
+2016,Procedencias,Nájera,59,0.02
+2016,Procedencias,Cast. la Mancha - C.F.,58,0.02
+2016,Procedencias,Granada,57,0.02
+2016,Procedencias,Castrojeriz,55,0.02
+2016,Procedencias,Huelva,50,0.02
+2016,Procedencias,Castilla La Mancha VP,45,0.02
+2016,Procedencias,Roma,41,0.01
+2016,Procedencias,Canfranc,40,0.01
+2016,Procedencias,La Rioja,40,0.01
+2016,Procedencias,Cataluña - O.C.,36,0.01
+2016,Procedencias,Polonia,33,0.01
+2016,Procedencias,Grado,32,0.01
+2016,Procedencias,Aragón,31,0.01
+2016,Procedencias,Resto de Galicia,30,0.01
+2016,Procedencias,Valladolid,30,0.01
+2016,Procedencias,Córdoba,27,0.01
+2016,Procedencias,Faro,27,0.01
+2016,Procedencias,Bayonne,27,0.01
+2016,Procedencias,Aveiro,26,0.01
+2016,Procedencias,Reino Unido C.F.,23,0.01
+2016,Procedencias,Benavente,22,0.01
+2016,Procedencias,Fonfría,22,0.01
+2016,Procedencias,San Juan de Ortega,20,0.01
+2016,Procedencias,La Mesa,17,0.01
+2016,Procedencias,Badajoz,17,0.01
+2016,Procedencias,Quiroga,17,0.01
+2016,Procedencias,Republica Checa,15,0.01
+2016,Procedencias,Murcia,14,0.01
+2016,Procedencias,Vilabade,12,0.0
+2016,Procedencias,Irlanda C.F.,10,0.0
+2016,Procedencias,Dinamarca,9,0.0
+2016,Procedencias,Chantada,6,0.0
+2016,Procedencias,Hungría,5,0.0
+2016,Procedencias,Vincios,5,0.0
+2016,Procedencias,Leyre,5,0.0
+2016,Procedencias,Luxemburgo,5,0.0
+2016,Procedencias,Borres,5,0.0
+2016,Procedencias,Jaén,4,0.0
+2016,Procedencias,O Barco de Valdeorras,4,0.0
+2016,Procedencias,Reino Unido C.Ing,4,0.0
+2016,Procedencias,Covelo,4,0.0
+2016,Procedencias,Irlanda C. Ing,3,0.0
+2016,Procedencias,Vegadeo,3,0.0
+2016,Procedencias,A Rúa,3,0.0
+2016,Procedencias,R. Castilla León C.Inv,3,0.0
+2016,Procedencias,Inglaterra C.F.,2,0.0
+2016,Procedencias,Viveiro,2,0.0
+2016,Procedencias,Finlandia,2,0.0
+2016,Procedencias,Andorra,2,0.0
+2016,Procedencias,Valcarlos,2,0.0
+2016,Procedencias,Resto Africa,2,0.0
+2016,Procedencias,Egipto,2,0.0
+2016,Procedencias,Eslovaquia,2,0.0
+2016,Procedencias,Las Médulas,2,0.0
+2016,Procedencias,Ortigueira,2,0.0
+2016,Procedencias,Australia,1,0.0
+2016,Procedencias,Grecia,1,0.0
+2016,Procedencias,Artieda,1,0.0
+2016,Procedencias,Peñaseita,1,0.0
+2016,Procedencias,La Bañeza,1,0.0
+2016,Profesiones,Empleados,57740,20.78
+2016,Profesiones,Estudiantes,49889,17.96
+2016,Profesiones,Liberales,41760,15.03
+2016,Profesiones,Jubilados,35815,12.89
+2016,Profesiones,Tecnicos,34249,12.33
+2016,Profesiones,Profesores,18922,6.81
+2016,Profesiones,Funcionarios,15757,5.67
+2016,Profesiones,Amas de Casa,5859,2.11
+2016,Profesiones,Parados,4566,1.64
+2016,Profesiones,Directivos,3699,1.33
+2016,Profesiones,Obreros,3367,1.21
+2016,Profesiones,Artistas,2532,0.91
+2016,Profesiones,Sacerdotes,1301,0.47
+2016,Profesiones,Agricultores,909,0.33
+2016,Profesiones,Religiosas/os,879,0.32
+2016,Profesiones,Marinos,344,0.12
+2016,Profesiones,Deportistas,266,0.1
+2016,Sexos,Hombre,144034,51.84
+2016,Sexos,Mujer,133820,48.16
+2017,Autonomías,Andalucía,27471,9.13
+2017,Autonomías,Madrid,24983,8.3
+2017,Autonomías,Comunidad Valenciana,15926,5.29
+2017,Autonomías,Cataluña,13604,4.52
+2017,Autonomías,Galicia,9166,3.04
+2017,Autonomías,Castilla la Mancha,7133,2.37
+2017,Autonomías,Castilla León,7065,2.35
+2017,Autonomías,Pais Vasco,4542,1.51
+2017,Autonomías,Extremadura,4238,1.41
+2017,Autonomías,Canarias,4057,1.35
+2017,Autonomías,Murcia,3625,1.2
+2017,Autonomías,Aragón,2709,0.9
+2017,Autonomías,Asturias,2678,0.89
+2017,Autonomías,Baleares,1869,0.62
+2017,Autonomías,Navarra,1184,0.39
+2017,Autonomías,Cantabria,828,0.28
+2017,Autonomías,La Rioja,743,0.25
+2017,Autonomías,Residentes Extranjero,389,0.13
+2017,Autonomías,Ceuta,165,0.05
+2017,Autonomías,Melilla,103,0.03
+2017,Caminos,Camino Francés,180737,60.04
+2017,Caminos,Camino Portugués,59233,19.68
+2017,Caminos,Camino del Norte,17836,5.92
+2017,Caminos,Camino Primitivo,13685,4.55
+2017,Caminos,Camino Inglés,11321,3.76
+2017,Caminos,Via de la Plata,9138,3.04
+2017,Caminos,Camino Portugues de la costa,7329,2.43
+2017,Caminos,Muxia-Finisterre,665,0.22
+2017,Caminos,Camino de Invierno,555,0.18
+2017,Caminos,Otros caminos,537,0.18
+2017,Edades,30 - 60,164625,54.69
+2017,Edades,< 30,84064,27.92
+2017,Edades,> 60,52347,17.39
+2017,Medios,Pie,278490,92.51
+2017,Medios,Bicicleta,21933,7.29
+2017,Medios,Caballo,417,0.14
+2017,Medios,Vela,153,0.05
+2017,Medios,Silla de ruedas,43,0.01
+2017,Motivos,Religioso y otros,142662,47.39
+2017,Motivos,Religioso,130831,43.46
+2017,Motivos,No religioso,27543,9.15
+2017,Países,España,132479,44.01
+2017,Países,Italia,27073,8.99
+2017,Países,Alemania,23227,7.72
+2017,Países,Estados Unidos,17522,5.82
+2017,Países,Portugal,12940,4.3
+2017,Países,Francia,8835,2.93
+2017,Países,Irlanda,6643,2.21
+2017,Países,Reino Unido,5768,1.92
+2017,Países,Brasil,5113,1.7
+2017,Países,Corea,5106,1.7
+2017,Países,Polonia,5072,1.68
+2017,Países,Australia,4890,1.62
+2017,Países,Canadá,4612,1.53
+2017,Países,Holanda,3520,1.17
+2017,Países,México,3111,1.03
+2017,Países,Argentina,2617,0.87
+2017,Países,Dinamarca,2273,0.76
+2017,Países,Belgica,2069,0.69
+2017,Países,República Checa,1868,0.62
+2017,Países,Colombia,1752,0.58
+2017,Países,Austria,1657,0.55
+2017,Países,Suiza,1611,0.54
+2017,Países,Rusia,1540,0.51
+2017,Países,Japón,1474,0.49
+2017,Países,Suecia,1342,0.45
+2017,Países,Hungría,1216,0.4
+2017,Países,Sudáfrica,1065,0.35
+2017,Países,China,1045,0.35
+2017,Países,Nueva Zelanda,843,0.28
+2017,Países,Eslovaquia,823,0.27
+2017,Países,Finlandia,769,0.26
+2017,Países,Venezuela,726,0.24
+2017,Países,Noruega,699,0.23
+2017,Países,Lituania,675,0.22
+2017,Países,Taiwán,649,0.22
+2017,Países,Eslovenia,624,0.21
+2017,Países,Rumania,597,0.2
+2017,Países,Bulgaria,475,0.16
+2017,Países,Uruguay,456,0.15
+2017,Países,Ucrania,440,0.15
+2017,Países,Chile,418,0.14
+2017,Países,Ecuador,415,0.14
+2017,Países,Filipinas,410,0.14
+2017,Países,Puerto Rico,372,0.12
+2017,Países,Croacia,354,0.12
+2017,Países,Israel,280,0.09
+2017,Países,Letonia,278,0.09
+2017,Países,Perú,255,0.08
+2017,Países,Estonia,220,0.07
+2017,Países,Malta,215,0.07
+2017,Países,Costa Rica,212,0.07
+2017,Países,Singapur,160,0.05
+2017,Países,Islandia,159,0.05
+2017,Países,Paraguay,123,0.04
+2017,Países,Guatemala,102,0.03
+2017,Países,Malasia,100,0.03
+2017,Países,Andorra,98,0.03
+2017,Países,Luxemburgo,94,0.03
+2017,Países,Indonesia,86,0.03
+2017,Países,India,86,0.03
+2017,Países,Rep. Dominicana,86,0.03
+2017,Países,Bolivia,86,0.03
+2017,Países,Grecia,80,0.03
+2017,Países,Turquía,73,0.02
+2017,Países,Panamá,72,0.02
+2017,Países,Bielorrusia,70,0.02
+2017,Países,Cuba,61,0.02
+2017,Países,Líbano,61,0.02
+2017,Países,El Salvador,57,0.02
+2017,Países,Honduras,52,0.02
+2017,Países,Armenia,37,0.01
+2017,Países,Egipto,36,0.01
+2017,Países,Marruecos,35,0.01
+2017,Países,Nicaragua,31,0.01
+2017,Países,Albania,29,0.01
+2017,Países,Moldavia,28,0.01
+2017,Países,Serbia,28,0.01
+2017,Países,Namibia,28,0.01
+2017,Países,Emiratos Arabes Unidos,27,0.01
+2017,Países,Chipre,24,0.01
+2017,Países,Camerún,23,0.01
+2017,Países,San Marino,20,0.01
+2017,Países,Tailandia,20,0.01
+2017,Países,Jordania,19,0.01
+2017,Países,Georgia,17,0.01
+2017,Países,Sri Lanka,17,0.01
+2017,Países,Bosnia,15,0.0
+2017,Países,Irán,13,0.0
+2017,Países,Siria,11,0.0
+2017,Países,Kazajistán,10,0.0
+2017,Países,Zimbabwe,9,0.0
+2017,Países,Nigeria,8,0.0
+2017,Países,Arabia Saudita,8,0.0
+2017,Países,Vietnam,8,0.0
+2017,Países,Macedonia,8,0.0
+2017,Países,Kuwait,7,0.0
+2017,Países,Kenya,7,0.0
+2017,Países,Costa de Marfil,7,0.0
+2017,Países,Mongolia,7,0.0
+2017,Países,Trinidad y Tobago,7,0.0
+2017,Países,Bermudas,6,0.0
+2017,Países,Mauricio,6,0.0
+2017,Países,Mauritania,6,0.0
+2017,Países,Pakistán,5,0.0
+2017,Países,Cabo Verde,5,0.0
+2017,Países,Argelia,5,0.0
+2017,Países,Barbados,5,0.0
+2017,Países,Guinea Ecuatorial,5,0.0
+2017,Países,Mozambique,5,0.0
+2017,Países,Nepal,5,0.0
+2017,Países,Palestina,4,0.0
+2017,Países,Angola,4,0.0
+2017,Países,Islas Feroe,4,0.0
+2017,Países,Congo,4,0.0
+2017,Países,Liechtensein,4,0.0
+2017,Países,Togo,3,0.0
+2017,Países,Belice,3,0.0
+2017,Países,Omán,3,0.0
+2017,Países,Túnez,3,0.0
+2017,Países,Bahrein,3,0.0
+2017,Países,Afganistán,3,0.0
+2017,Países,Etiopía,3,0.0
+2017,Países,Comores,2,0.0
+2017,Países,Haití,2,0.0
+2017,Países,Guinea,2,0.0
+2017,Países,Urbekistán,2,0.0
+2017,Países,Rwanda,2,0.0
+2017,Países,Tanzania,2,0.0
+2017,Países,Nueva Caledonia,2,0.0
+2017,Países,Madagascar,2,0.0
+2017,Países,Antigua y Barbuda,2,0.0
+2017,Países,Montenegro,1,0.0
+2017,Países,Ghana,1,0.0
+2017,Países,Aruba,1,0.0
+2017,Países,Gambia,1,0.0
+2017,Países,Brunei,1,0.0
+2017,Países,Zambia,1,0.0
+2017,Países,Malawi,1,0.0
+2017,Países,Mónaco,1,0.0
+2017,Países,Mali,1,0.0
+2017,Países,Myanmar,1,0.0
+2017,Países,Gabón,1,0.0
+2017,Países,Guinea - Bissau,1,0.0
+2017,Países,Uganda,1,0.0
+2017,Países,Kirguistán,1,0.0
+2017,Países,Antillas Holandesas,1,0.0
+2017,Países,Martinica,1,0.0
+2017,Países,Tonga,1,0.0
+2017,Países,Burkina Faso,1,0.0
+2017,Países,Guayana Francesa,1,0.0
+2017,Países,Fiji,1,0.0
+2017,Países,Groenlandia,1,0.0
+2017,Países,Benin,1,0.0
+2017,Países,Azerbaiyán,1,0.0
+2017,Países,Papúa - Nueva Guinea,1,0.0
+2017,Países,Bangladesh,1,0.0
+2017,Países,Kosovo,1,0.0
+2017,Países,Islas Caimán,1,0.0
+2017,Países,Guadalupe,1,0.0
+2017,Países,Níger,1,0.0
+2017,Procedencias,Sarria,79717,26.48
+2017,Procedencias,S. Jean P. Port,33177,11.02
+2017,Procedencias,Oporto,22335,7.42
+2017,Procedencias,Tui,20139,6.69
+2017,Procedencias,León,11614,3.86
+2017,Procedencias,Ferrol,10822,3.59
+2017,Procedencias,Cebreiro,10130,3.37
+2017,Procedencias,Oviedo - C.P.,7903,2.63
+2017,Procedencias,Ponferrada,7656,2.54
+2017,Procedencias,Valença do Minho,6982,2.32
+2017,Procedencias,Roncesvalles,6102,2.03
+2017,Procedencias,Astorga,5213,1.73
+2017,Procedencias,Irún,5082,1.69
+2017,Procedencias,Pamplona,3870,1.29
+2017,Procedencias,Lugo - C.P.,3720,1.24
+2017,Procedencias,Ourense,3573,1.19
+2017,Procedencias,Le Puy,3134,1.04
+2017,Procedencias,Burgos,2932,0.97
+2017,Procedencias,Triacastela,2874,0.95
+2017,Procedencias,Oporto Costa,2634,0.87
+2017,Procedencias,Lisboa,2474,0.82
+2017,Procedencias,Vilafranca,2342,0.78
+2017,Procedencias,Sevilla,2195,0.73
+2017,Procedencias,Ponte de Lima,1870,0.62
+2017,Procedencias,Resto Asturias - C.N,1750,0.58
+2017,Procedencias,Ribadeo,1602,0.53
+2017,Procedencias,Francia - C.F.,1570,0.52
+2017,Procedencias,Resto Portugal,1558,0.52
+2017,Procedencias,Vigo,1477,0.49
+2017,Procedencias,Samos,1386,0.46
+2017,Procedencias,Resto C. León C.F.,1291,0.43
+2017,Procedencias,Bilbao,1282,0.43
+2017,Procedencias,Santander,1139,0.38
+2017,Procedencias,Porriño,1121,0.37
+2017,Procedencias,Gijón,1048,0.35
+2017,Procedencias,Vilalba,1036,0.34
+2017,Procedencias,Logroño,786,0.26
+2017,Procedencias,Baiona,739,0.25
+2017,Procedencias,Barcelos,721,0.24
+2017,Procedencias,San Sebastián,719,0.24
+2017,Procedencias,Alemania,644,0.21
+2017,Procedencias,Avilés,634,0.21
+2017,Procedencias,Viana do Castelo,622,0.21
+2017,Procedencias,Madrid - C.F.,619,0.21
+2017,Procedencias,Fonsagrada - C.P.,607,0.2
+2017,Procedencias,Braga,561,0.19
+2017,Procedencias,Abadin,543,0.18
+2017,Procedencias,Baamonde,511,0.17
+2017,Procedencias,"Rates, S. Pedro",458,0.15
+2017,Procedencias,Holanda,457,0.15
+2017,Procedencias,A Guarda,455,0.15
+2017,Procedencias,Salamanca,446,0.15
+2017,Procedencias,Zamora,429,0.14
+2017,Procedencias,Somport,396,0.13
+2017,Procedencias,Mondoñedo,396,0.13
+2017,Procedencias,Resto Asturias - C.P.,393,0.13
+2017,Procedencias,Oviedo - C.N.,388,0.13
+2017,Procedencias,Resto Cantabria,369,0.12
+2017,Procedencias,Sahagún,364,0.12
+2017,Procedencias,Neda,360,0.12
+2017,Procedencias,Muxia,344,0.11
+2017,Procedencias,Francia - C.N,336,0.11
+2017,Procedencias,Lourdes,333,0.11
+2017,Procedencias,Ponferrada. C.Inv.,329,0.11
+2017,Procedencias,Resto País Vasco - C.N.,324,0.11
+2017,Procedencias,Fatima,322,0.11
+2017,Procedencias,Vega de Valcarce,294,0.1
+2017,Procedencias,Cadavo,283,0.09
+2017,Procedencias,Finisterra,283,0.09
+2017,Procedencias,Caminha,283,0.09
+2017,Procedencias,Lisboa Costa,277,0.09
+2017,Procedencias,Oia,268,0.09
+2017,Procedencias,Castilla la Mancha otros,118,0.04
+2017,Procedencias,Resto de Galicia,117,0.04
+2017,Procedencias,París,117,0.04
+2017,Procedencias,Navarra,113,0.04
+2017,Procedencias,Valencia O.C.,110,0.04
+2017,Procedencias,Mérida,110,0.04
+2017,Procedencias,Cataluña - C.F.,104,0.03
+2017,Procedencias,Lourenzá,103,0.03
+2017,Procedencias,Resto Galicia,102,0.03
+2017,Procedencias,Esposende,101,0.03
+2017,Procedencias,R.Pais Vasco C.F.,92,0.03
+2017,Procedencias,Canfranc,86,0.03
+2017,Procedencias,Viseu,86,0.03
+2017,Procedencias,Estella,77,0.03
+2017,Procedencias,Montserrat,77,0.03
+2017,Procedencias,Verín,76,0.03
+2017,Procedencias,Molinaseca,75,0.02
+2017,Procedencias,Cáceres,69,0.02
+2017,Procedencias,Austria,68,0.02
+2017,Procedencias,Madrid - V.P.,67,0.02
+2017,Procedencias,Resto de Portugal,66,0.02
+2017,Procedencias,Italia,62,0.02
+2017,Procedencias,Resto de Extremadura,61,0.02
+2017,Procedencias,Zaragoza,59,0.02
+2017,Procedencias,Castilla La Mancha VP,55,0.02
+2017,Procedencias,Nájera,55,0.02
+2017,Procedencias,Aragón,53,0.02
+2017,Procedencias,Granada,52,0.02
+2017,Procedencias,Cataluña - O.C.,47,0.02
+2017,Procedencias,Barcelona,45,0.01
+2017,Procedencias,Polonia,44,0.01
+2017,Procedencias,Com. Valenciana - C.F.,43,0.01
+2017,Procedencias,Faro,42,0.01
+2017,Procedencias,Fonfría,41,0.01
+2017,Procedencias,Roma,40,0.01
+2017,Procedencias,Biarritz,40,0.01
+2017,Procedencias,Lires,38,0.01
+2017,Procedencias,Grado,38,0.01
+2017,Procedencias,Malaga,37,0.01
+2017,Procedencias,Cruz de Ferro,36,0.01
+2017,Procedencias,Castrojeriz,33,0.01
+2017,Procedencias,La Mesa,33,0.01
+2017,Procedencias,Valladolid,32,0.01
+2017,Procedencias,Huelva,30,0.01
+2017,Procedencias,Resto C. León,29,0.01
+2017,Procedencias,Cast. la Mancha - C.F.,27,0.01
+2017,Procedencias,Coimbra Costa,27,0.01
+2017,Procedencias,Aveiro,27,0.01
+2017,Procedencias,La Rioja,26,0.01
+2017,Procedencias,Valcarlos,25,0.01
+2017,Procedencias,R. Castilla León C.Inv,23,0.01
+2017,Procedencias,Badajoz,21,0.01
+2017,Procedencias,Republica Checa,20,0.01
+2017,Procedencias,Reino Unido C.F.,19,0.01
+2017,Procedencias,Córdoba,19,0.01
+2017,Procedencias,Murcia,19,0.01
+2017,Procedencias,Rábade,15,0.0
+2017,Procedencias,Xinzo de Limia,15,0.0
+2017,Procedencias,Benavente,15,0.0
+2017,Procedencias,Luxemburgo,14,0.0
+2017,Procedencias,Chantada,11,0.0
+2017,Procedencias,San Juan de Ortega,11,0.0
+2017,Procedencias,Reino Unido C.Ing,10,0.0
+2017,Procedencias,Quiroga,10,0.0
+2017,Procedencias,Viveiro,9,0.0
+2017,Procedencias,Dinamarca,8,0.0
+2017,Procedencias,Vegadeo,8,0.0
+2017,Procedencias,Vincios,8,0.0
+2017,Procedencias,Inglaterra C.F.,7,0.0
+2017,Procedencias,Covelo,7,0.0
+2017,Procedencias,Irlanda C. Ing,6,0.0
+2017,Procedencias,O Barco de Valdeorras,6,0.0
+2017,Procedencias,Peñaseita,6,0.0
+2017,Procedencias,Vilabade,6,0.0
+2017,Procedencias,Hungría,5,0.0
+2017,Procedencias,A Rúa,5,0.0
+2017,Procedencias,Resto Europa C. Ing.,5,0.0
+2017,Procedencias,Jaén,4,0.0
+2017,Procedencias,Finlandia,4,0.0
+2017,Procedencias,Andorra,4,0.0
+2017,Procedencias,Gándara,3,0.0
+2017,Procedencias,La Bañeza,3,0.0
+2017,Procedencias,Borres,3,0.0
+2017,Procedencias,Leyre,3,0.0
+2017,Procedencias,Las Médulas,2,0.0
+2017,Procedencias,El Escamplero,2,0.0
+2017,Procedencias,Ventas de Narón,2,0.0
+2017,Procedencias,Grecia,1,0.0
+2017,Procedencias,Artieda,1,0.0
+2017,Procedencias,Rusia,1,0.0
+2017,Profesiones,Empleados,77224,25.65
+2017,Profesiones,Estudiantes,56478,18.76
+2017,Profesiones,Jubilados,37894,12.59
+2017,Profesiones,Liberales,33139,11.01
+2017,Profesiones,Tecnicos,32099,10.66
+2017,Profesiones,Profesores,20632,6.85
+2017,Profesiones,Funcionarios,18048,6.0
+2017,Profesiones,Amas de Casa,5856,1.95
+2017,Profesiones,Directivos,4690,1.56
+2017,Profesiones,Parados,4317,1.43
+2017,Profesiones,Obreros,3700,1.23
+2017,Profesiones,Artistas,2845,0.95
+2017,Profesiones,Sacerdotes,1337,0.44
+2017,Profesiones,Religiosas/os,1144,0.38
+2017,Profesiones,Agricultores,954,0.32
+2017,Profesiones,Deportistas,355,0.12
+2017,Profesiones,Marinos,324,0.11
+2017,Sexos,Hombre,153169,50.88
+2017,Sexos,Mujer,147867,49.12
+2018,Autonomías,Andalucía,30833,9.42
+2018,Autonomías,Madrid,28680,8.76
+2018,Autonomías,Comunidad Valenciana,17243,5.27
+2018,Autonomías,Cataluña,13626,4.16
+2018,Autonomías,Galicia,8780,2.68
+2018,Autonomías,Castilla la Mancha,7722,2.36
+2018,Autonomías,Castilla León,7264,2.22
+2018,Autonomías,Canarias,5330,1.63
+2018,Autonomías,Pais Vasco,4619,1.41
+2018,Autonomías,Murcia,4389,1.34
+2018,Autonomías,Extremadura,4146,1.27
+2018,Autonomías,Aragón,2970,0.91
+2018,Autonomías,Asturias,2881,0.88
+2018,Autonomías,Baleares,2117,0.65
+2018,Autonomías,Navarra,1230,0.38
+2018,Autonomías,Cantabria,887,0.27
+2018,Autonomías,La Rioja,596,0.18
+2018,Autonomías,Residentes Extranjero,490,0.15
+2018,Autonomías,Ceuta,199,0.06
+2018,Autonomías,Melilla,135,0.04
+2018,Caminos,Camino Francés,186199,56.88
+2018,Caminos,Camino Portugués,67822,20.72
+2018,Caminos,Camino del Norte,19040,5.82
+2018,Caminos,Camino Primitivo,15038,4.59
+2018,Caminos,Camino Inglés,14150,4.32
+2018,Caminos,Camino Portugues de la Costa,13841,4.23
+2018,Caminos,Via de la Plata,9127,2.79
+2018,Caminos,Muxia-Finisterre,1131,0.35
+2018,Caminos,Camino de Invierno,703,0.21
+2018,Caminos,Otros caminos,326,0.1
+2018,Edades,30 - 60,179450,54.81
+2018,Edades,< 30,87843,26.83
+2018,Edades,> 60,60085,18.35
+2018,Medios,Pie,306064,93.49
+2018,Medios,Bicicleta,20787,6.35
+2018,Medios,Caballo,318,0.1
+2018,Medios,Vela,130,0.04
+2018,Medios,Silla de ruedas,79,0.02
+2018,Motivos,Religioso y otros,156720,47.87
+2018,Motivos,Religioso,140037,42.78
+2018,Motivos,No religioso,30621,9.35
+2018,Países,España,144141,44.03
+2018,Países,Italia,27009,8.25
+2018,Países,Alemania,25296,7.73
+2018,Países,Estados Unidos,18582,5.68
+2018,Países,Portugal,14413,4.4
+2018,Países,Francia,8775,2.68
+2018,Países,Reino Unido,7624,2.33
+2018,Países,Irlanda,7548,2.31
+2018,Países,Corea,5665,1.73
+2018,Países,Brasil,5601,1.71
+2018,Países,Australia,5220,1.59
+2018,Países,Canadá,5027,1.54
+2018,Países,Polonia,4785,1.46
+2018,Países,Holanda,3670,1.12
+2018,Países,México,3578,1.09
+2018,Países,Argentina,2907,0.89
+2018,Países,Dinamarca,2500,0.76
+2018,Países,República Checa,2256,0.69
+2018,Países,Belgica,2135,0.65
+2018,Países,Austria,2102,0.64
+2018,Países,Colombia,2070,0.63
+2018,Países,Rusia,1905,0.58
+2018,Países,Suiza,1615,0.49
+2018,Países,Sudáfrica,1543,0.47
+2018,Países,Japón,1477,0.45
+2018,Países,Suecia,1330,0.41
+2018,Países,Hungría,1275,0.39
+2018,Países,China,1111,0.34
+2018,Países,Eslovaquia,1075,0.33
+2018,Países,Taiwán,1024,0.31
+2018,Países,Nueva Zelanda,933,0.28
+2018,Países,Venezuela,905,0.28
+2018,Países,Finlandia,872,0.27
+2018,Países,Rumania,739,0.23
+2018,Países,Lituania,726,0.22
+2018,Países,Eslovenia,708,0.22
+2018,Países,Noruega,587,0.18
+2018,Países,Bulgaria,580,0.18
+2018,Países,Uruguay,575,0.18
+2018,Países,Ucrania,575,0.18
+2018,Países,Croacia,466,0.14
+2018,Países,Chile,457,0.14
+2018,Países,Ecuador,457,0.14
+2018,Países,Filipinas,435,0.13
+2018,Países,Israel,349,0.11
+2018,Países,Perú,343,0.1
+2018,Países,Puerto Rico,326,0.1
+2018,Países,Singapur,314,0.1
+2018,Países,Costa Rica,255,0.08
+2018,Países,Letonia,241,0.07
+2018,Países,Estonia,236,0.07
+2018,Países,Malta,185,0.06
+2018,Países,Andorra,138,0.04
+2018,Países,Malasia,133,0.04
+2018,Países,Indonesia,125,0.04
+2018,Países,Guatemala,122,0.04
+2018,Países,Islandia,119,0.04
+2018,Países,Rep. Dominicana,119,0.04
+2018,Países,Paraguay,114,0.03
+2018,Países,Luxemburgo,107,0.03
+2018,Países,Bolivia,105,0.03
+2018,Países,Grecia,103,0.03
+2018,Países,Bielorrusia,101,0.03
+2018,Países,India,100,0.03
+2018,Países,Cuba,95,0.03
+2018,Países,El Salvador,70,0.02
+2018,Países,Honduras,67,0.02
+2018,Países,Líbano,66,0.02
+2018,Países,Turquía,60,0.02
+2018,Países,Jordania,53,0.02
+2018,Países,Panamá,53,0.02
+2018,Países,Marruecos,49,0.01
+2018,Países,Namibia,44,0.01
+2018,Países,Egipto,39,0.01
+2018,Países,Armenia,37,0.01
+2018,Países,Nicaragua,33,0.01
+2018,Países,Emiratos Arabes Unidos,31,0.01
+2018,Países,Moldavia,31,0.01
+2018,Países,Dominica,30,0.01
+2018,Países,Albania,28,0.01
+2018,Países,Tailandia,28,0.01
+2018,Países,Camerún,26,0.01
+2018,Países,Maldivas,25,0.01
+2018,Países,Omán,24,0.01
+2018,Países,Chipre,24,0.01
+2018,Países,Vietnam,23,0.01
+2018,Países,Kazajistán,19,0.01
+2018,Países,Serbia,19,0.01
+2018,Países,Sudán,19,0.01
+2018,Países,Tuvalu,19,0.01
+2018,Países,Islas Feroe,17,0.01
+2018,Países,Irán,15,0.0
+2018,Países,Pakistán,15,0.0
+2018,Países,San Marino,15,0.0
+2018,Países,Arabia Saudita,15,0.0
+2018,Países,Georgia,13,0.0
+2018,Países,Kenya,12,0.0
+2018,Países,Nigeria,12,0.0
+2018,Países,Palestina,11,0.0
+2018,Países,Qatar,11,0.0
+2018,Países,Trinidad y Tobago,10,0.0
+2018,Países,Swazilandia,10,0.0
+2018,Países,Montenegro,9,0.0
+2018,Países,Haití,9,0.0
+2018,Países,Bosnia,9,0.0
+2018,Países,Afganistán,9,0.0
+2018,Países,Congo,9,0.0
+2018,Países,Siria,9,0.0
+2018,Países,Guinea,8,0.0
+2018,Países,Libia,8,0.0
+2018,Países,Zimbabwe,8,0.0
+2018,Países,Cabo Verde,8,0.0
+2018,Países,Tanzania,8,0.0
+2018,Países,Angola,7,0.0
+2018,Países,Sri Lanka,7,0.0
+2018,Países,Túnez,7,0.0
+2018,Países,Kosovo,7,0.0
+2018,Países,Rep. Centroafricana,7,0.0
+2018,Países,Costa de Marfil,7,0.0
+2018,Países,Senegal,6,0.0
+2018,Países,Bermudas,6,0.0
+2018,Países,Mauritania,6,0.0
+2018,Países,Etiopía,6,0.0
+2018,Países,Guinea Ecuatorial,6,0.0
+2018,Países,Bahrein,6,0.0
+2018,Países,Antillas Holandesas,6,0.0
+2018,Países,Belice,5,0.0
+2018,Países,Burundi,5,0.0
+2018,Países,Togo,5,0.0
+2018,Países,Liechtensein,5,0.0
+2018,Países,Uganda,5,0.0
+2018,Países,Urbekistán,5,0.0
+2018,Países,Somalia,4,0.0
+2018,Países,Timor Oriental,4,0.0
+2018,Países,Argelia,4,0.0
+2018,Países,Mozambique,4,0.0
+2018,Países,Eritrea,4,0.0
+2018,Países,Macedonia,4,0.0
+2018,Países,Zambia,3,0.0
+2018,Países,Palau,3,0.0
+2018,Países,Brunei,3,0.0
+2018,Países,Lesotho,3,0.0
+2018,Países,Gambia,3,0.0
+2018,Países,Kuwait,3,0.0
+2018,Países,Nueva Caledonia,3,0.0
+2018,Países,Mongolia,3,0.0
+2018,Países,Ghana,3,0.0
+2018,Países,Mauricio,2,0.0
+2018,Países,Surinam,2,0.0
+2018,Países,Azerbaiyán,2,0.0
+2018,Países,Malawi,2,0.0
+2018,Países,Burkina Faso,2,0.0
+2018,Países,Nepal,2,0.0
+2018,Países,Camboya,2,0.0
+2018,Países,Irak,2,0.0
+2018,Países,Granada,2,0.0
+2018,Países,Jamaica,2,0.0
+2018,Países,Groenlandia,2,0.0
+2018,Países,Madagascar,2,0.0
+2018,Países,Barbados,1,0.0
+2018,Países,Micronesia,1,0.0
+2018,Países,Samoa Occidental,1,0.0
+2018,Países,Tayikistán,1,0.0
+2018,Países,Rwanda,1,0.0
+2018,Países,Sierra Leona,1,0.0
+2018,Países,Laos,1,0.0
+2018,Países,Chad,1,0.0
+2018,Países,I. Reunión,1,0.0
+2018,Países,Zaire,1,0.0
+2018,Países,Kirguistán,1,0.0
+2018,Países,Aruba,1,0.0
+2018,Países,Antigua y Barbuda,1,0.0
+2018,Países,Comores,1,0.0
+2018,Países,Guyana,1,0.0
+2018,Países,Fiji,1,0.0
+2018,Países,Islas Caimán,1,0.0
+2018,Países,Mali,1,0.0
+2018,Procedencias,Sarria,88509,27.04
+2018,Procedencias,S. Jean P. Port,32899,10.05
+2018,Procedencias,Oporto,26839,8.2
+2018,Procedencias,Tui,21308,6.51
+2018,Procedencias,Ferrol,13335,4.07
+2018,Procedencias,León,10915,3.33
+2018,Procedencias,Cebreiro,9189,2.81
+2018,Procedencias,Oviedo - C.P.,8799,2.69
+2018,Procedencias,Valença do Minho,8726,2.67
+2018,Procedencias,Ponferrada,7209,2.2
+2018,Procedencias,Oporto Costa,6148,1.88
+2018,Procedencias,Roncesvalles,5541,1.69
+2018,Procedencias,Irún,5394,1.65
+2018,Procedencias,Astorga,4906,1.5
+2018,Procedencias,Lugo - C.P.,4059,1.24
+2018,Procedencias,Ourense,3763,1.15
+2018,Procedencias,Pamplona,3482,1.06
+2018,Procedencias,Le Puy,3028,0.92
+2018,Procedencias,Burgos,3003,0.92
+2018,Procedencias,Triacastela,2540,0.78
+2018,Procedencias,Lisboa,2518,0.77
+2018,Procedencias,Vilafranca,2462,0.75
+2018,Procedencias,Vigo,2304,0.7
+2018,Procedencias,Sevilla,2017,0.62
+2018,Procedencias,Resto Portugal,2017,0.62
+2018,Procedencias,Ponte de Lima,1863,0.57
+2018,Procedencias,Porriño,1812,0.55
+2018,Procedencias,Francia - C.F.,1572,0.48
+2018,Procedencias,Baiona,1568,0.48
+2018,Procedencias,Ribadeo,1560,0.48
+2018,Procedencias,Resto Asturias - C.N,1531,0.47
+2018,Procedencias,Vilalba,1317,0.4
+2018,Procedencias,Bilbao,1292,0.39
+2018,Procedencias,Samos,1292,0.39
+2018,Procedencias,Santander,1179,0.36
+2018,Procedencias,Resto C. León C.F.,1129,0.34
+2018,Procedencias,Gijón,1094,0.33
+2018,Procedencias,Barcelos,936,0.29
+2018,Procedencias,San Sebastián,925,0.28
+2018,Procedencias,A Guarda,800,0.24
+2018,Procedencias,Fonsagrada - C.P.,762,0.23
+2018,Procedencias,Avilés,757,0.23
+2018,Procedencias,Ferreiros,731,0.22
+2018,Procedencias,Madrid - C.F.,727,0.22
+2018,Procedencias,Logroño,690,0.21
+2018,Procedencias,Viana do Castelo,646,0.2
+2018,Procedencias,Baamonde,643,0.2
+2018,Procedencias,Braga,594,0.18
+2018,Procedencias,Muxia,554,0.17
+2018,Procedencias,Lisboa Costa,527,0.16
+2018,Procedencias,Alemania,504,0.15
+2018,Procedencias,Finisterra,504,0.15
+2018,Procedencias,Neda,479,0.15
+2018,Procedencias,Caminha,457,0.14
+2018,Procedencias,Somport,404,0.12
+2018,Procedencias,Abadin,397,0.12
+2018,Procedencias,Holanda,396,0.12
+2018,Procedencias,Lourdes,391,0.12
+2018,Procedencias,Grandas de Salime - C.P.,385,0.12
+2018,Procedencias,Salamanca,374,0.11
+2018,Procedencias,Oia,373,0.11
+2018,Procedencias,Puebla de Sanabria,365,0.11
+2018,Procedencias,Luarca,365,0.11
+2018,Procedencias,Mondoñedo,351,0.11
+2018,Procedencias,Cruz de Ferro,351,0.11
+2018,Procedencias,Resto País Vasco - C.N.,345,0.11
+2018,Procedencias,Zamora,345,0.11
+2018,Procedencias,Ponferrada. C.Inv.,342,0.1
+2018,Procedencias,Resto Cantabria,332,0.1
+2018,Procedencias,Resto Asturias - C.P.,329,0.1
+2018,Procedencias,"Rates, S. Pedro",327,0.1
+2018,Procedencias,Bayonne,322,0.1
+2018,Procedencias,Sahagún,316,0.1
+2018,Procedencias,Xunqueira de Ambia,306,0.09
+2018,Procedencias,Resto de Portugal,300,0.09
+2018,Procedencias,Povoa de Varzim,285,0.09
+2018,Procedencias,Barbadelo,271,0.08
+2018,Procedencias,A Coruña,270,0.08
+2018,Procedencias,Resto Andalucia,267,0.08
+2018,Procedencias,Cadavo,265,0.08
+2018,Procedencias,Hendaya,251,0.08
+2018,Procedencias,Bélgica,248,0.08
+2018,Procedencias,Fatima,248,0.08
+2018,Procedencias,Coimbra,236,0.07
+2018,Procedencias,Gudiña,224,0.07
+2018,Procedencias,Francia - C.N,224,0.07
+2018,Procedencias,Suiza,217,0.07
+2018,Procedencias,Lourenzá,213,0.07
+2018,Procedencias,Chaves-Portugal,212,0.06
+2018,Procedencias,Oviedo - C.N.,208,0.06
+2018,Procedencias,Vila do Conde,205,0.06
+2018,Procedencias,Resto Europa,202,0.06
+2018,Procedencias,Puente la Reina,184,0.06
+2018,Procedencias,Esposende,183,0.06
+2018,Procedencias,Carrión de los Condes,180,0.05
+2018,Procedencias,Sto. Domingo de la Calzada,171,0.05
+2018,Procedencias,Arles,164,0.05
+2018,Procedencias,Vezelay,163,0.05
+2018,Procedencias,Frómista,154,0.05
+2018,Procedencias,Rabanal del Camino,154,0.05
+2018,Procedencias,Laza,149,0.05
+2018,Procedencias,Tineo - C.P.,148,0.05
+2018,Procedencias,Castroverde,141,0.04
+2018,Procedencias,Resto C. León - V.P.,140,0.04
+2018,Procedencias,Allariz,134,0.04
+2018,Procedencias,Vega de Valcarce,133,0.04
+2018,Procedencias,Granja de Moreruela,131,0.04
+2018,Procedencias,Hospital de Orbigo,130,0.04
+2018,Procedencias,París,125,0.04
+2018,Procedencias,Resto de Galicia,120,0.04
+2018,Procedencias,Jaca,116,0.04
+2018,Procedencias,Resto de Europa,115,0.04
+2018,Procedencias,Guimaraes,109,0.03
+2018,Procedencias,Barcelona,107,0.03
+2018,Procedencias,Quiroga,102,0.03
+2018,Procedencias,Vegadeo,102,0.03
+2018,Procedencias,Chantada,102,0.03
+2018,Procedencias,Navarra,99,0.03
+2018,Procedencias,Cataluña - C.F.,98,0.03
+2018,Procedencias,Mérida,91,0.03
+2018,Procedencias,Valencia O.C.,89,0.03
+2018,Procedencias,Rábade,88,0.03
+2018,Procedencias,Com. Valenciana - C.F.,85,0.03
+2018,Procedencias,Monforte de Lemos,82,0.03
+2018,Procedencias,Austria,81,0.02
+2018,Procedencias,Com. Valenciana - O.C.,78,0.02
+2018,Procedencias,Resto de Extremadura,74,0.02
+2018,Procedencias,Lires,73,0.02
+2018,Procedencias,Montserrat,73,0.02
+2018,Procedencias,R.Pais Vasco C.F.,72,0.02
+2018,Procedencias,Aveiro,68,0.02
+2018,Procedencias,Molinaseca,67,0.02
+2018,Procedencias,Zaragoza,64,0.02
+2018,Procedencias,Castilla la Mancha otros,62,0.02
+2018,Procedencias,Estella,61,0.02
+2018,Procedencias,Cáceres,61,0.02
+2018,Procedencias,La Rioja,60,0.02
+2018,Procedencias,Salas,59,0.02
+2018,Procedencias,Italia,58,0.02
+2018,Procedencias,Cast. la Mancha - C.F.,57,0.02
+2018,Procedencias,Xinzo de Limia,57,0.02
+2018,Procedencias,Malaga,51,0.02
+2018,Procedencias,Nájera,49,0.01
+2018,Procedencias,Viseu,48,0.01
+2018,Procedencias,Castrojeriz,47,0.01
+2018,Procedencias,Fonfría,45,0.01
+2018,Procedencias,Coimbra Costa,45,0.01
+2018,Procedencias,Faro,45,0.01
+2018,Procedencias,Resto Galicia,44,0.01
+2018,Procedencias,La Mesa,40,0.01
+2018,Procedencias,Granada,40,0.01
+2018,Procedencias,Luxemburgo,38,0.01
+2018,Procedencias,Cataluña - O.C.,38,0.01
+2018,Procedencias,Castilla La Mancha VP,38,0.01
+2018,Procedencias,Madrid - V.P.,37,0.01
+2018,Procedencias,Irlanda C. Ing,37,0.01
+2018,Procedencias,Córdoba,37,0.01
+2018,Procedencias,Aragón,37,0.01
+2018,Procedencias,Roma,36,0.01
+2018,Procedencias,Verín,35,0.01
+2018,Procedencias,Biarritz,31,0.01
+2018,Procedencias,Grado,30,0.01
+2018,Procedencias,Canfranc,29,0.01
+2018,Procedencias,San Juan de Ortega,27,0.01
+2018,Procedencias,Republica Checa,27,0.01
+2018,Procedencias,Reino Unido C.Ing,22,0.01
+2018,Procedencias,Polonia,22,0.01
+2018,Procedencias,Benavente,21,0.01
+2018,Procedencias,Huelva,21,0.01
+2018,Procedencias,Badajoz,19,0.01
+2018,Procedencias,A Rúa,19,0.01
+2018,Procedencias,Resto C. León,18,0.01
+2018,Procedencias,R. Castilla León C.Inv,16,0.0
+2018,Procedencias,Murcia,15,0.0
+2018,Procedencias,Valcarlos,13,0.0
+2018,Procedencias,Reino Unido C.F.,13,0.0
+2018,Procedencias,Valladolid,13,0.0
+2018,Procedencias,Jaén,10,0.0
+2018,Procedencias,Puente de Domingo Flórez,8,0.0
+2018,Procedencias,Resto Europa C. Ing.,7,0.0
+2018,Procedencias,Vilabade,7,0.0
+2018,Procedencias,Inglaterra C.F.,7,0.0
+2018,Procedencias,Peñaseita,7,0.0
+2018,Procedencias,O Barco de Valdeorras,7,0.0
+2018,Procedencias,Las Médulas,7,0.0
+2018,Procedencias,Irlanda C.F.,6,0.0
+2018,Procedencias,Vincios,6,0.0
+2018,Procedencias,Resto Africa,4,0.0
+2018,Procedencias,Dinamarca,4,0.0
+2018,Procedencias,Viveiro,4,0.0
+2018,Procedencias,Borres,4,0.0
+2018,Procedencias,Hungría,3,0.0
+2018,Procedencias,Finlandia,3,0.0
+2018,Procedencias,Suecia,3,0.0
+2018,Procedencias,Egipto,2,0.0
+2018,Procedencias,Gándara,2,0.0
+2018,Procedencias,Grecia,2,0.0
+2018,Procedencias,Covelo,2,0.0
+2018,Procedencias,Australia,1,0.0
+2018,Procedencias,Noruega,1,0.0
+2018,Procedencias,Rusia,1,0.0
+2018,Procedencias,Artieda,1,0.0
+2018,Procedencias,El Escamplero,1,0.0
+2018,Procedencias,Leyre,1,0.0
+2018,Procedencias,Murcia V.P.,1,0.0
+2018,Procedencias,Lalín,1,0.0
+2018,Procedencias,Jerusalem,1,0.0
+2018,Procedencias,La Bañeza,1,0.0
+2018,Profesiones,Empleados,84611,25.85
+2018,Profesiones,Estudiantes,58674,17.92
+2018,Profesiones,Jubilados,42752,13.06
+2018,Profesiones,Liberales,40785,12.46
+2018,Profesiones,Tecnicos,30885,9.43
+2018,Profesiones,Profesores,22724,6.94
+2018,Profesiones,Funcionarios,18950,5.79
+2018,Profesiones,Amas de Casa,6796,2.08
+2018,Profesiones,Directivos,5267,1.61
+2018,Profesiones,Parados,4400,1.34
+2018,Profesiones,Obreros,4005,1.22
+2018,Profesiones,Artistas,2976,0.91
+2018,Profesiones,Religiosas/os,1352,0.41
+2018,Profesiones,Sacerdotes,1315,0.4
+2018,Profesiones,Agricultores,1064,0.33
+2018,Profesiones,Marinos,444,0.14
+2018,Profesiones,Deportistas,378,0.12
+2018,Sexos,Mujer,164836,50.35
+2018,Sexos,Hombre,162542,49.65
+2019,Autonomías,Andalucía,33155,22.76
+2019,Autonomías,Madrid,27683,19.01
+2019,Autonomías,Comunidad Valenciana,17830,12.24
+2019,Autonomías,Cataluña,13183,9.05
+2019,Autonomías,Galicia,8309,5.7
+2019,Autonomías,Castilla la Mancha,7855,5.39
+2019,Autonomías,Castilla León,6918,4.75
+2019,Autonomías,Canarias,5435,3.73
+2019,Autonomías,Extremadura,4846,3.33
+2019,Autonomías,Murcia,4618,3.17
+2019,Autonomías,País Vasco,4523,3.11
+2019,Autonomías,Aragón,2891,1.98
+2019,Autonomías,Asturias,2817,1.93
+2019,Autonomías,Baleares,2005,1.38
+2019,Autonomías,Navarra,1128,0.77
+2019,Autonomías,Cantabria,1044,0.72
+2019,Autonomías,La Rioja,629,0.43
+2019,Autonomías,Residentes Extranjero,465,0.32
+2019,Autonomías,Ceuta,188,0.13
+2019,Autonomías,Melilla,137,0.09
 2019,Caminos,Frances-Camino de,189937,54.65
-2019,Caminos,Sarria,96124,27.66
 2019,Caminos,Portugués-Camino,72357,20.82
-2019,Caminos,S. Jean P. Port,33197,9.55
-2019,Caminos,Oporto,27924,8.03
-2019,Caminos,Tui,22814,6.56
 2019,Caminos,Costa Camino Portugués,22292,6.41
 2019,Caminos,Norte-Camino de,19019,5.47
 2019,Caminos,Inglés-Camino,15780,4.54
 2019,Caminos,Primitivo-Camino,15715,4.52
-2019,Caminos,Ferrol,15097,4.34
-2019,Caminos,Oporto Costa,11421,3.29
-2019,Caminos,León,10505,3.02
-2019,Caminos,Valença do Minho,10490,3.02
-2019,Caminos,Oviedo - C.P.,9531,2.74
 2019,Caminos,Vía de la Plata,9201,2.65
-2019,Caminos,Cebreiro,8367,2.41
-2019,Caminos,Ponferrada,6804,1.96
-2019,Caminos,Irún,5580,1.61
-2019,Caminos,Roncesvalles,4920,1.42
-2019,Caminos,Astorga,4513,1.3
-2019,Caminos,Lugo - C.P.,4165,1.2
-2019,Caminos,Ourense,4163,1.2
-2019,Caminos,Le Puy,3180,0.91
-2019,Caminos,Pamplona,3039,0.87
-2019,Caminos,Lisboa,2651,0.76
-2019,Caminos,Vigo,2638,0.76
-2019,Caminos,Triacastela,2637,0.76
 2019,Caminos,Muxía-Finisterre,1548,0.45
 2019,Caminos,Invierno de Camino,1035,0.3
 2019,Caminos,Otros caminos,694,0.2
+2019,Edades,30-60,189505,54.52
 2019,Edades,<30,92970,26.75
 2019,Edades,>60,65103,18.73
 2019,Medios,Pie,327281,94.16
@@ -67,52 +5339,36 @@ jahr,tabelle,name,wert,prozent
 2019,Motivos,Religioso,140110,40.31
 2019,Motivos,No religioso,38154,10.98
 2019,Países,España,146350,42.11
-2019,Países,Andalucía,33155,22.76
 2019,Países,Italia,28749,8.27
-2019,Países,Madrid,27683,19.01
 2019,Países,Alemania,26167,7.53
 2019,Países,Estados Unidos,20652,5.94
-2019,Países,Comunidad Valenciana,17830,12.24
 2019,Países,Portugal,17450,5.02
-2019,Países,Cataluña,13183,9.05
 2019,Países,Francia,9248,2.66
 2019,Países,Reino Unido,9132,2.63
-2019,Países,Galicia,8309,5.7
 2019,Países,Corea,8224,2.37
-2019,Países,Castilla la Mancha,7855,5.39
-2019,Países,Castilla León,6918,4.75
 2019,Países,Irlanda,6826,1.96
 2019,Países,Brasil,6025,1.73
-2019,Países,Canarias,5435,3.73
 2019,Países,Australia,5301,1.53
 2019,Países,Canadá,5279,1.52
 2019,Países,Polonia,4874,1.4
-2019,Países,Extremadura,4846,3.33
-2019,Países,Murcia,4618,3.17
-2019,Países,País Vasco,4523,3.11
 2019,Países,Holanda,4195,1.21
 2019,Países,México,4091,1.18
 2019,Países,Argentina,2954,0.85
-2019,Países,Aragón,2891,1.98
-2019,Países,Asturias,2817,1.93
 2019,Países,Dinamarca,2610,0.75
 2019,Países,Rusia,2605,0.75
 2019,Países,República Checa,2494,0.72
 2019,Países,Belgica,2335,0.67
 2019,Países,Colombia,2313,0.67
 2019,Países,Austria,2136,0.61
-2019,Países,Baleares,2005,1.38
 2019,Países,Sudáfrica,1780,0.51
 2019,Países,Taiwán,1625,0.47
 2019,Países,Suiza,1554,0.45
 2019,Países,Suecia,1481,0.43
 2019,Países,Japón,1452,0.42
 2019,Países,Hungría,1201,0.35
-2019,Países,Navarra,1128,0.77
 2019,Países,Eslovaquia,1127,0.32
 2019,Países,China,1062,0.31
 2019,Países,Ucrania,1052,0.3
-2019,Países,Cantabria,1044,0.72
 2019,Países,Nueva Zelanda,914,0.26
 2019,Países,Venezuela,877,0.25
 2019,Países,Eslovenia,855,0.25
@@ -120,13 +5376,11 @@ jahr,tabelle,name,wert,prozent
 2019,Países,Lituania,777,0.22
 2019,Países,Finlandia,755,0.22
 2019,Países,Noruega,684,0.2
-2019,Países,La Rioja,629,0.43
 2019,Países,Uruguay,614,0.18
 2019,Países,Croacia,607,0.17
 2019,Países,Bulgaria,587,0.17
 2019,Países,Filipinas,528,0.15
 2019,Países,Chile,481,0.14
-2019,Países,Residentes Extranjero,465,0.32
 2019,Países,Israel,440,0.13
 2019,Países,Singapur,436,0.13
 2019,Países,Ecuador,432,0.12
@@ -137,13 +5391,11 @@ jahr,tabelle,name,wert,prozent
 2019,Países,Islandia,259,0.07
 2019,Países,Estonia,236,0.07
 2019,Países,Letonia,214,0.06
-2019,Países,Ceuta,188,0.13
 2019,Países,Bielorrusia,174,0.05
 2019,Países,India,168,0.05
 2019,Países,Malasia,168,0.05
 2019,Países,Guatemala,149,0.04
 2019,Países,Luxemburgo,137,0.04
-2019,Países,Melilla,137,0.09
 2019,Países,Argelia,135,0.04
 2019,Países,Andorra,135,0.04
 2019,Países,Indonesia,130,0.04
@@ -170,6 +5422,7 @@ jahr,tabelle,name,wert,prozent
 2019,Países,Moldavia,38,0.01
 2019,Países,Albania,32,0.01
 2019,Países,Jamaica,31,0.01
+2019,Países,Belice,29,0.01
 2019,Países,Macedonia,29,0.01
 2019,Países,Egipto,29,0.01
 2019,Países,Georgia,27,0.01
@@ -255,7 +5508,6 @@ jahr,tabelle,name,wert,prozent
 2019,Países,Burkina Faso,2,0.0
 2019,Países,Chad,2,0.0
 2019,Países,Sin establecer,2,0.0
-2019,Países,Belice,1,0.0
 2019,Países,Brunei,1,0.0
 2019,Países,Islas Vírgenes,1,0.0
 2019,Países,Papúa - Nueva Guinea,1,0.0
@@ -274,6 +5526,27 @@ jahr,tabelle,name,wert,prozent
 2019,Países,Turkmenistán,1,0.0
 2019,Países,Malawi,1,0.0
 2019,Países,Yemen,1,0.0
+2019,Procedencias,Sarria,96124,27.66
+2019,Procedencias,S. Jean P. Port,33197,9.55
+2019,Procedencias,Oporto,27924,8.03
+2019,Procedencias,Tui,22814,6.56
+2019,Procedencias,Ferrol,15097,4.34
+2019,Procedencias,Oporto Costa,11421,3.29
+2019,Procedencias,León,10505,3.02
+2019,Procedencias,Valença do Minho,10490,3.02
+2019,Procedencias,Oviedo - C.P.,9531,2.74
+2019,Procedencias,Cebreiro,8367,2.41
+2019,Procedencias,Ponferrada,6804,1.96
+2019,Procedencias,Irún,5580,1.61
+2019,Procedencias,Roncesvalles,4920,1.42
+2019,Procedencias,Astorga,4513,1.3
+2019,Procedencias,Lugo - C.P.,4165,1.2
+2019,Procedencias,Ourense,4163,1.2
+2019,Procedencias,Le Puy,3180,0.91
+2019,Procedencias,Pamplona,3039,0.87
+2019,Procedencias,Lisboa,2651,0.76
+2019,Procedencias,Vigo,2638,0.76
+2019,Procedencias,Triacastela,2637,0.76
 2019,Profesiones,Empleados,82758,23.81
 2019,Profesiones,Estudiantes,62681,18.03
 2019,Profesiones,Liberales,49458,14.23

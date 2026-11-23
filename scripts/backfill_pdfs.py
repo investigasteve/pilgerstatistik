@@ -18,8 +18,20 @@ def norm(s):
     return "".join(c for c in s if not unicodedata.combining(c)).lower().strip()
 
 
-KOEPFE = {norm(t): t for t in TABELLEN}
-ZEILE = re.compile(r"^\s*(?P<name>\D.*?)\s{1,}(?P<wert>\d{1,3}(?:\.\d{3})+|\d+)\s+(?P<pct>\d+(?:,\d+)?)\s*$")
+ALIAS = {
+    "sexos": "Sexos", "sexo": "Sexos", "medios": "Medios", "medio": "Medios", "motivos": "Motivos",
+    "edades": "Edades", "edad": "Edades", "paises": "Países", "pais": "Países", "autonomias": "Autonomías",
+    "autonomia": "Autonomías", "caminos": "Caminos", "camino": "Caminos", "procedencias": "Procedencias",
+    "procedencia": "Procedencias", "profesiones": "Profesiones",
+}
+# Kopfzeile alter Berichte: "<Spalte> Nº de Peregrinos" (mehrere nebeneinander möglich)
+KOPF = re.compile(r"(Sexo|Medio|Motivos|Edad|Camino|Pa[ií]s|Autonom[ií]a|Procedencia|Profesiones)\s+N[º°o]\.?\s*(?:de\s+)?[Pp]eregrinos", re.I)
+# Eintrag: Name, Zahl, optional "(12,34%)" oder "12,34"
+EINTRAG = re.compile(
+    r"(?P<name>[^\s(][^()]*?)\s+(?P<wert>\d{1,3}(?:\.\d{3})+|\d+)"
+    r"(?:\s*\((?P<pct>\d+(?:,\d+)?)%\)?(?=\s{2,}\S|\s*$)"
+    r"|\s+(?P<pct2>\d{1,3}(?:,\d+)?)(?![\d.])(?=\s{2,}\S|\s*$)"
+    r"|(?=\s{2,}[^\d\s]|\s*$))")
 
 
 def zahl(s):
@@ -27,23 +39,47 @@ def zahl(s):
 
 
 def lies_text(text):
-    """Teilt den Text in Tabellen. Gibt {tabelle: [(name, wert, prozent), ...]} zurück."""
-    aus, aktuell = {}, None
+    """Gibt {tabelle: [(name, wert, prozent|None), ...]} zurück. Versteht altes (2004-2018) und neues Format."""
+    aus, spalten = {}, []   # spalten: [(startspalte, tabelle)]
     for roh in text.splitlines():
         z = roh.strip()
         if not z:
             continue
-        k = KOEPFE.get(norm(re.sub(r"[:\s]+$", "", z)))
-        if k:
-            aktuell = k
-            aus.setdefault(k, [])
+        kopf = [(m.start(), ALIAS[norm(m.group(1))]) for m in KOPF.finditer(roh)]
+        if kopf:
+            spalten = kopf
+            for _, t in kopf:
+                aus.setdefault(t, [])
             continue
-        if aktuell is None or norm(z).startswith("nombre"):
+        einzel = ALIAS.get(norm(re.sub(r"\s*\(.*\)\s*$|[:\s]+$", "", z)))
+        if einzel:
+            spalten = [(0, einzel)]
+            aus.setdefault(einzel, [])
             continue
-        m = ZEILE.match(roh)
-        if m:
-            aus[aktuell].append((m["name"].strip(), zahl(m["wert"]), float(m["pct"].replace(",", "."))))
-    return {k: v for k, v in aus.items() if v}
+        if not spalten or norm(z).startswith("nombre"):
+            continue
+        for m in EINTRAG.finditer(roh):
+            name = m["name"].strip()
+            if not re.match(r"[^\W\d_]|[<>\d]", name):
+                continue
+            ziel = spalten[0][1]
+            for start, t in spalten:
+                if m.start("name") >= start - 3:
+                    ziel = t
+            pct = m["pct"] or m["pct2"]
+            aus[ziel].append((name, zahl(m["wert"]), float(pct.replace(",", ".")) if pct else None))
+    ergebnis = {}
+    for k, v in aus.items():
+        gesehen, rein = set(), []
+        for r in v:
+            if (k == "Edades" and re.search(r"\s(de|a|-)$", r[0])) or not re.search(r"[^\W_]", r[0]) or r[0] in "<>":   # abgeschnittene Namen aus Diagrammbeschriftungen
+                continue
+            if r[0] not in gesehen:
+                gesehen.add(r[0])
+                rein.append(r)
+        if rein:
+            ergebnis[k] = rein
+    return ergebnis
 
 
 def hole(jahr):
@@ -76,7 +112,7 @@ def main():
         print(f"{jahr}: {', '.join(f'{k}={len(v)}' for k, v in tab.items()) or 'keine Tabellen erkannt'}")
         for t, rows in tab.items():
             for n, w, p in rows:
-                zeilen.append([jahr, t, n, w, p])
+                zeilen.append([jahr, t, n, w, "" if p is None else p])
     # alle Jahre zusammen (bestehende Jahre bleiben erhalten)
     alle = {}
     gesamt = JAHRE / "alle-jahre.csv"
