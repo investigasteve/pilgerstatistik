@@ -1,0 +1,22 @@
+name: REL erkunden
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  kontakte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -u scripts/rel_erkunden.py
+      - if: always()
+        run: |
+          git config user.name "pilgerstatistik-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          git commit -m "Gemeinde-Kontakte ergänzt" || echo "nichts zu committen"
+          git pull --rebase -q && git push -q
