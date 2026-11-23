@@ -69,6 +69,15 @@ def main():
                 except Exception:
                     pass
                 s.wait_for_timeout(350)
+                try:
+                    box = s.locator('.slicerItemContainer').first.bounding_box()
+                    if box:
+                        s.mouse.move(box['x'] + box['width'] / 2, box['y'] + box['height'] / 2)
+                        s.mouse.wheel(0, 150)
+                        s.wait_for_timeout(300)
+                except Exception:
+                    pass
+                ergebnis.setdefault('scroll_log', []).append(s.evaluate("() => [...document.querySelectorAll('.slicerItemContainer')].map(e => (e.innerText||'').trim()).join(',')"))
             return None
 
         oeffnen()
