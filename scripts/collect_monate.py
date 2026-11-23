@@ -53,21 +53,31 @@ def main():
             s.locator(f".slicer-dropdown-menu[aria-label='{name}']").first.click(timeout=8000)
             s.wait_for_timeout(1500)
 
+        def finde(text):
+            s.evaluate("""() => { let e = document.querySelector('.slicerItemContainer'); while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement; if (e) e.scrollTop = 0; }""")
+            s.wait_for_timeout(300)
+            for _ in range(30):
+                el = s.locator(".slicerItemContainer")
+                for i in range(el.count()):
+                    if (el.nth(i).inner_text() or "").strip().lower() == text.lower():
+                        return el.nth(i)
+                s.evaluate("""() => { let e = document.querySelector('.slicerItemContainer'); while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement; if (e) e.scrollTop += Math.max(60, e.clientHeight * 0.6); }""")
+                s.wait_for_timeout(400)
+            return None
+
         def waehle(name, text):
             oeffne(name)
-            el = s.locator(".slicerItemContainer")
-            for i in range(el.count()):
-                if (el.nth(i).inner_text() or "").strip().lower() == text.lower():
-                    el.nth(i).click(force=True, timeout=5000)
-                    break
-            else:
+            el = finde(text)
+            if el is None:
                 return False
+            el.click(force=True, timeout=5000)
             s.wait_for_timeout(4000)
             s.keyboard.press("Escape"); s.wait_for_timeout(800)
             return True
 
         oeffne("Mes")
-        mes_liste = eintraege(s)
+        mes_liste = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+        ergebnis["mes_sichtbar"] = eintraege(s)
         ergebnis["mes_eintraege"] = mes_liste
         print("Mes-Einträge:", mes_liste, flush=True)
         s.keyboard.press("Escape"); s.wait_for_timeout(500)
