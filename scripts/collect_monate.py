@@ -63,6 +63,15 @@ def main():
                         return el.nth(i)
                 s.evaluate("""() => { let e = document.querySelector('.slicerItemContainer'); while (e && !(e.scrollHeight > e.clientHeight + 5 && /auto|scroll/.test(getComputedStyle(e).overflowY))) e = e.parentElement; if (e) e.scrollTop += Math.max(60, e.clientHeight * 0.6); }""")
                 s.wait_for_timeout(400)
+                try:
+                    box = s.locator(".slicerItemContainer").first.bounding_box()
+                    if box:
+                        s.mouse.move(box["x"] + box["width"] / 2, box["y"] + box["height"] / 2)
+                        s.mouse.wheel(0, 120)
+                        s.wait_for_timeout(300)
+                except Exception:
+                    pass
+                ergebnis["log"].append(f"suche {text}: " + ",".join(eintraege(s)))
             return None
 
         def waehle(name, text):
