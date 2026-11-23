@@ -4,19 +4,20 @@
   "2025": {
    "enero": {
     "kennzahlen": {
-     "peregrinos": 527809,
-     "españoles": 226932,
-     "extranjeros": 300877
+     "peregrinos": 2907,
+     "españoles": 1177,
+     "extranjeros": 1730
     },
-    "tabellen": 34
+    "tabellen": 33
    }
   }
  },
  "fehler": [
-  "2025 enero: Locator.click: Element is not visible\nCall log:\n  - waiting for locator(\".slicerItemContainer\").nth(7)\n    - locator res",
   "2025 agosto: nicht gefunden"
  ],
- "log": [],
+ "log": [
+  "2025 nach Abwahl: {'peregrinos': 530716, 'españoles': 228109, 'extranjeros': 302607}"
+ ],
  "mes_sichtbar": [
   "Seleccionar todo",
   "enero",
