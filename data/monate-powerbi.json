@@ -1,14 +1,42 @@
 {
  "stand": "2026-11-23",
- "monate": {},
- "fehler": [],
+ "monate": {
+  "2025": {
+   "enero": {
+    "kennzahlen": {
+     "peregrinos": 527809,
+     "españoles": 226932,
+     "extranjeros": 300877
+    },
+    "tabellen": 34
+   }
+  }
+ },
+ "fehler": [
+  "2025 enero: Locator.click: Element is not visible\nCall log:\n  - waiting for locator(\".slicerItemContainer\").nth(7)\n    - locator res",
+  "2025 agosto: nicht gefunden"
+ ],
  "log": [],
- "mes_eintraege": [
+ "mes_sichtbar": [
   "Seleccionar todo",
   "enero",
   "febrero",
   "marzo",
   "abril",
   "mayo"
+ ],
+ "mes_eintraege": [
+  "enero",
+  "febrero",
+  "marzo",
+  "abril",
+  "mayo",
+  "junio",
+  "julio",
+  "agosto",
+  "septiembre",
+  "octubre",
+  "noviembre",
+  "diciembre"
  ]
 }
