@@ -141,7 +141,7 @@ cfo-140;camino-frances;Puente Villarente;42.54536;-5.45875;Villaturiel;242278;Vi
 cfo-141;camino-frances;Villamoros de Mansilla;42.53506;-5.44583;Mansilla Mayor;240956;Mansilla Mayor;León;Jose Alberto Martinez Llorente;exakt:Mansilla Mayor
 cfo-142;camino-frances;Mansilla de las Mulas;42.49805;-5.41667;Mansilla de las Mulas;240943;Mansilla de las Mulas;León;María Del Camino Lozano García;exakt:Mansilla de las Mulas
 cfo-143;camino-frances;Reliegos;42.47309;-5.35345;Santas Martas;241605;Santas Martas;León;Rosana Coello Miguélez;exakt:Santas Martas
-cfo-144;camino-frances;El Burgo Ranero;42.42282;-5.21867;El Burgo Ranero;;;;;OFFEN
+cfo-144;camino-frances;El Burgo Ranero;42.42282;-5.21867;El Burgo Ranero;240248;Burgo Ranero, El;León;Gerasimo Vallejo Herreros;exakt:El Burgo Ranero
 cfo-145;camino-frances;Bercianos del Real Camino;42.38809;-5.1438;Bercianos del Real Camino;240188;Bercianos del Real Camino;León;Maria Celeste Huerta Perez;exakt:Bercianos del Real Camino
 cfo-146;camino-frances;Calzada del Coto;42.38764;-5.07927;Calzada del Coto;240310;Calzada del Coto;León;Pablo Carbajal Carbajal;exakt:Calzada del Coto
 cfo-147;camino-frances;Sahagún;42.37084;-5.03004;Sahagún;241396;Sahagún;León;Paula Conde Huerta;exakt:Sahagún
@@ -192,22 +192,22 @@ cfo-191;camino-frances;Ventosa;42.40445;-2.62652;Ventosa;261639;Ventosa;Rioja, L
 cfo-192;camino-frances;Navarrete;42.42923;-2.56112;Navarrete;261050;Navarrete;Rioja, La;José María Pastor Olarte;exakt:Navarrete
 cfo-193;camino-frances;Logroño;42.46596;-2.44581;Logroño;260892;Logroño;Rioja, La;Conrado Escobar Las Heras;exakt:Logroño
 cfo-194;camino-frances;Viana;42.51497;-2.37186;Viana | Tierra Estella;312515;Viana;Navarra;Maria Blanca Yolanda Gonzalez Garcia;exakt:Viana
-cfo-195;camino-frances;Ermita del Poyo;42.54171;-2.29728;Bargota | Tierra Estella;;;;;OFFEN
+cfo-195;camino-frances;Ermita del Poyo;42.54171;-2.29728;Bargota | Tierra Estella;310478;Bargota;Navarra;Cristina Remírez Marquínez (Presidenta der Comisión Gestora, kein gewählter Alcalde);korrigiert
 cfo-196;camino-frances;Torres del Río;42.55192;-2.27148;Torres del Río | Tierra Estella;312310;Torres del Río;Navarra;Alfredo Agos Gines;exakt:Torres del Río
 cfo-197;camino-frances;Sansol;42.55364;-2.26652;Sansol | Tierra Estella;312191;Sansol;Navarra;Maria Lourdes Garcia Olazabal;exakt:Sansol
-cfo-198;camino-frances;Los Arcos;42.56943;-2.19238;Los Arcos | Tierra Estella;;;;;OFFEN
+cfo-198;camino-frances;Los Arcos;42.56943;-2.19238;Los Arcos | Tierra Estella;310291;Arcos, Los;Navarra;Eduardo Garcia De Galdiano Baños;exakt:Los Arcos
 cfo-199;camino-frances;Villamayor de Monjardín;42.629;-2.10391;Villamayor de Monjardín | Tierra Estella;312554;Villamayor de Monjardín;Navarra;Jaime Maria Julio Del Villar Tolosa;exakt:Villamayor de Monjardín
 cfo-200;camino-frances;Azqueta;42.63554;-2.08662;Igúzquiza | Tierra Estella;311252;Igúzquiza;Navarra;Miguel Abrego Bujanda;exakt:Igúzquiza
 cfo-201;camino-frances;Irache;42.64656;-2.05661;Ayegui | Tierra Estella;310410;Ayegui/Aiegi;Navarra;Leonardo Camaces Murillo;exakt:Ayegui
 cfo-202;camino-frances;Ayegui;42.65678;-2.03801;Ayegui | Tierra Estella;310410;Ayegui/Aiegi;Navarra;Leonardo Camaces Murillo;exakt:Ayegui
-cfo-203;camino-frances;Estella-Lizarra;42.6706;-2.03026;Estella | Tierra Estella;461206;Estivella;València/Valencia;Josep Francesc Mateu Bolos;ähnlich:Estella
+cfo-203;camino-frances;Estella-Lizarra;42.6706;-2.03026;Estella | Tierra Estella;310977;Estella-Lizarra;Navarra;Marta Ruiz De Alda Parla;korrigiert
 cfo-204;camino-frances;Villatuerta;42.6603;-1.99245;Villatuerta | Tierra Estella;312573;Villatuerta;Navarra;Maria Jose Calvo Meca;exakt:Villatuerta
 cfo-205;camino-frances;Lorca;42.67242;-1.94525;Valle de Yerri | Tierra Estella;312606;Valle de Yerri/Deierri;Navarra;Ana Marta Mendaza Acedo;exakt:Valle de Yerri
 cfo-206;camino-frances;Cirauqui;42.67607;-1.89091;Cirauqui | Valdizarbe-Novenera;310749;Cirauqui/Zirauki;Navarra;Pedro Maria Apesteguia Arraiza;exakt:Cirauqui
 cfo-207;camino-frances;Mañeru;42.6695;-1.86267;Mañeru | Valdizarbe-Novenera;311614;Mañeru;Navarra;Itziar Martinez Arbeloa;exakt:Mañeru
 cfo-208;camino-frances;Puente la Reina;42.67188;-1.81514;Puente la Reina | Valdizarbe-Novenera;312068;Puente la Reina/Gares;Navarra;Itziar Imaz Artazcoz;exakt:Puente la Reina
 cfo-209;camino-frances;Obanos;42.67981;-1.78621;Obanos | Valdizarbe-Novenera;311831;Obanos;Navarra;Maria Aranzazu Hernandez Lacalle;exakt:Obanos
-cfo-210;camino-frances;Muruzábal;42.68971;-1.77002;Muruzábal | Valdizarbe-Novenera;;;;;OFFEN
+cfo-210;camino-frances;Muruzábal;42.68971;-1.77002;Muruzábal | Valdizarbe-Novenera;;;;;OFFEN: Gemeinde nicht in der Drive-Tabelle
 cfo-211;camino-frances;Uterga;42.70838;-1.76111;Uterga | Valdizarbe-Novenera;312460;Uterga;Navarra;Pablo Lizarrondo Beriain;exakt:Uterga
 cfo-212;camino-frances;Alto del Perdón;42.73576;-1.74233;Cizur | Comarca de Pamplona;310765;Cizur;Navarra;Rafael Ansó Ansó;exakt:Cizur
 cfo-213;camino-frances;Zariquiegui;42.74817;-1.72257;Cizur | Comarca de Pamplona;310765;Cizur;Navarra;Rafael Ansó Ansó;exakt:Cizur
@@ -229,8 +229,8 @@ cfo-228;camino-frances;Burguete (Auritz);42.98979;-1.33492;Burguete | Pirineo;31
 cfo-229;camino-frances;Roncesvalles;43.00909;-1.31975;Roncesvalles | Pirineo;312114;Orreaga/Roncesvalles;Navarra;Luis Echeverria Echavarren;exakt:Roncesvalles
 cfo-230;camino-frances;Ibañeta-Pass;43.02022;-1.32371;Valcarlos | Pirineo;312482;Luzaide/Valcarlos;Navarra;Nicolas Camino Caminondo;exakt:Valcarlos
 cfo-231;camino-frances;Valcarlos;43.09254;-1.302;Valcarlos | Pirineo;312482;Luzaide/Valcarlos;Navarra;Nicolas Camino Caminondo;exakt:Valcarlos
-cfo-232;camino-frances;Arnéguy;43.1091;-1.28192;Bayona | Arnéguy | Pyrénées-Atlantiques;;;;;OFFEN
-cfo-233;camino-frances;Refuge Orisson;43.10881;-1.23921;Bayona | Uhart-Cize | Pyrénées-Atlantiques;;;;;OFFEN
-cfo-234;camino-frances;Honto;43.12357;-1.24441;Bayona | Saint-Michel | Pyrénées-Atlantiques;;;;;OFFEN
-cfo-235;camino-frances;Auberge Borda;43.10139;-1.23885;Bayona | Saint-Michel | Pyrénées-Atlantiques;;;;;OFFEN
-cfo-236;camino-frances;Saint-Jean-Pied-de-Port;43.16287;-1.23771;Bayona | San Juan de Pie de Puerto | Pyrénées-Atlantiques;;;;;OFFEN
+cfo-232;camino-frances;Arnéguy;43.1091;-1.28192;Bayona | Arnéguy | Pyrénées-Atlantiques;;;;;Frankreich (keine spanische Gemeinde)
+cfo-233;camino-frances;Refuge Orisson;43.10881;-1.23921;Bayona | Uhart-Cize | Pyrénées-Atlantiques;;;;;Frankreich (keine spanische Gemeinde)
+cfo-234;camino-frances;Honto;43.12357;-1.24441;Bayona | Saint-Michel | Pyrénées-Atlantiques;;;;;Frankreich (keine spanische Gemeinde)
+cfo-235;camino-frances;Auberge Borda;43.10139;-1.23885;Bayona | Saint-Michel | Pyrénées-Atlantiques;;;;;Frankreich (keine spanische Gemeinde)
+cfo-236;camino-frances;Saint-Jean-Pied-de-Port;43.16287;-1.23771;Bayona | San Juan de Pie de Puerto | Pyrénées-Atlantiques;;;;;Frankreich (keine spanische Gemeinde)
