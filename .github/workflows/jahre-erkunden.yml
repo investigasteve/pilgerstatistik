@@ -1,0 +1,25 @@
+name: Jahresfilter erkunden
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  erkunden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          pip install playwright
+          playwright install --with-deps chromium
+      - run: python scripts/erkunde_jahre.py
+      - if: always()
+        run: |
+          git config user.name "pilgerstatistik-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || git commit -m "Erkundung Jahresfilter"
+          git pull --rebase
+          git push
