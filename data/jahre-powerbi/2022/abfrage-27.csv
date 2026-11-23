@@ -1,21 +1,192 @@
 G0,M0
-Camino Francés,226488L
-Camino Portugués,93056L
-Camino Portugués por la Costa,30535L
-Camino Inglés,24179L
-Camino Primitivo,21335L
-Camino del Norte,20814L
-Vía de la Plata,10614L
-Otros Caminos,3355L
-Camino de Invierno,2354L
-Muxía - Finisterre,1618L
-Camino de Muros - Noia,1255L
-Camino del Barbanza,923L
-Camino de Geira - Arrieros,418L
-Miñoto Ribeiro,395L
-Camino del Mar,146L
-Camino Olvidado,50L
-Camino de San Salvador,43L
-Camino de San Rosendo,5L
-Vía Céltica,5L
-Desconocido,1L
+España,239026L
+Italia,27013L
+Estados Unidos,25984L
+Alemania,23197L
+Portugal,20111L
+Francia,10347L
+Reino Unido,8230L
+Irlanda,6671L
+México,5823L
+Brasil,5487L
+Holanda,5146L
+Canadá,4549L
+Polonia,4240L
+Corea,4133L
+Colombia,3647L
+República Checa,3455L
+Argentina,3295L
+Dinamarca,2859L
+Bélgica,2680L
+Australia,2552L
+Austria,1933L
+Suiza,1773L
+Suecia,1419L
+Venezuela,1277L
+Hungría,1269L
+Eslovaquia,1094L
+Rumania,1019L
+Sudáfrica,1016L
+Puerto Rico,983L
+Israel,911L
+Uruguay,824L
+Chile,713L
+Ucrania,686L
+Eslovenia,656L
+Taiwán,631L
+Bulgaria,618L
+Rusia,607L
+China,599L
+Filipinas,597L
+Noruega,580L
+Lituania,574L
+Croacia,554L
+Perú,547L
+Ecuador,546L
+Finlandia,543L
+Japón,473L
+Singapur,441L
+Nueva Zelanda,422L
+Costa Rica,416L
+Malta,387L
+Letonia,355L
+Estonia,312L
+Andorra,215L
+Indonesia,201L
+Rep. Dominicana,201L
+Grecia,186L
+Guatemala,171L
+Luxemburgo,163L
+Paraguay,148L
+Malasia,146L
+India,144L
+Islandia,144L
+Bielorrusia,141L
+Bolivia,141L
+Cuba,131L
+El Salvador,123L
+Panamá,110L
+Hong Kong,106L
+Belice,100L
+Islas Feroe,84L
+Honduras,80L
+Turquía,80L
+Albania,77L
+Armenia,76L
+Nicaragua,71L
+Azerbaiyán,68L
+Moldavia,60L
+Antigua y Barbuda,54L
+Marruecos,52L
+Angola,51L
+Serbia,50L
+Líbano,46L
+Argelia,45L
+Bahamas,37L
+Tailandia,37L
+Emiratos Arabes Unidos,35L
+I. Reunión,34L
+Aruba,32L
+Irán,31L
+Arabia Saudita,28L
+Irak,28L
+Chipre,25L
+San Marino,23L
+Vietnam,23L
+Jamaica,21L
+Swazilandia,21L
+Egipto,19L
+Antillas Holandesas,18L
+Kenya,18L
+Bermudas,17L
+Kazajistán,17L
+Afganistán,16L
+Georgia,16L
+Camerún,15L
+Dominica,14L
+Jordania,14L
+Nigeria,14L
+Mauricio,13L
+Palestina,13L
+Bosnia,12L
+Cabo Verde,12L
+Granada,12L
+Kuwait,11L
+Namibia,11L
+Siria,10L
+Urbekistán,9L
+Liechtensein,8L
+Túnez,8L
+Costa de Marfil,7L
+Macedonia,7L
+Mali,7L
+Gabón,6L
+Montenegro,6L
+Rep. Centroafricana,6L
+Seychelles,6L
+Sri Lanka,6L
+Brunei,5L
+Eritrea,5L
+Groenlandia,5L
+Guinea Ecuatorial,5L
+Kirguistán,5L
+Kosovo,5L
+Mauritania,5L
+Mozambique,5L
+Pakistán,5L
+Trinidad y Tobago,5L
+Barbados,4L
+Botswana,4L
+Etiopía,4L
+Gambia,4L
+Ghana,4L
+Haití,4L
+Islas Vírgenes,4L
+Micronesia,4L
+Samoa Occidental,4L
+Sudán,4L
+Timor Oriental,4L
+Vaticano,4L
+Guayana Francesa,3L
+Guinea,3L
+Herzegovina,3L
+Mónaco,3L
+Mongolia,3L
+Nepal,3L
+Omán,3L
+Tanzania,3L
+Uganda,3L
+Zimbabwe,3L
+Bangladesh,2L
+Benin,2L
+Bhután,2L
+Burundi,2L
+Comores,2L
+Desconocido,2L
+Djibouti,2L
+Guyana,2L
+Islas Caimán,2L
+Laos,2L
+Libia,2L
+Madagascar,2L
+Maldivas,2L
+Qatar,2L
+Rwanda,2L
+Santo Tomé y Príncipe,2L
+Somalia,2L
+Turkmenistán,2L
+Vanuatu,2L
+Zambia,2L
+Bahrein,1L
+Camboya,1L
+Congo,1L
+Kiribati,1L
+Liberia,1L
+Martinica,1L
+Myanmar,1L
+Nueva Caledonia,1L
+San Vicente y Las Granadinas,1L
+Senegal,1L
+Tayikistán,1L
+Togo,1L
+Yemen,1L
