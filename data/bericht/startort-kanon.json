@@ -1,0 +1,916 @@
+{
+ "alias": {
+  "startort": {
+   "Sarria": "Sarria",
+   "S. Jean P. Port": "Saint-Jean-Pied-de-Port",
+   "Saint Jean Pied de Port": "Saint-Jean-Pied-de-Port",
+   "S. Jean Pied de Port": "Saint-Jean-Pied-de-Port",
+   "Tui": "Tui",
+   "Tuy": "Tui",
+   "Oporto": "Porto",
+   "Oporto Costa": "Porto",
+   "Porto (por Tui)": "Porto",
+   "Lisboa": "Lisboa",
+   "Lisboa Costa": "Lisboa",
+   "Coimbra": "Coimbra",
+   "Coimbra Costa": "Coimbra",
+   "Ferrol": "Ferrol",
+   "Cebreiro": "O Cebreiro",
+   "León": "León",
+   "Roncesvalles": "Roncesvalles",
+   "Ponferrada": "Ponferrada",
+   "Ponferrada. C.Inv.": "Ponferrada",
+   "Valença do Minho": "Valença do Minho",
+   "Oviedo - C.P.": "Oviedo",
+   "Oviedo": "Oviedo",
+   "Oviedo - C.N.": "Oviedo",
+   "Oviedo – Camino Primitivo": "Oviedo",
+   "Astorga": "Astorga",
+   "Vigo": "Vigo",
+   "Pamplona": "Pamplona",
+   "Irún": "Irún",
+   "Ourense": "Ourense",
+   "Lugo - C.P.": "Lugo",
+   "Lugo": "Lugo",
+   "Le Puy": "Le Puy-en-Velay",
+   "Burgos": "Burgos",
+   "Baiona": "Baiona",
+   "Triacastela": "Triacastela",
+   "Sevilla": "Sevilla",
+   "Vilafranca": "Villafranca del Bierzo",
+   "Villafranca": "Villafranca del Bierzo",
+   "Villafranca del Bierzo": "Villafranca del Bierzo",
+   "Ribadeo": "Ribadeo",
+   "Vilalba": "Vilalba",
+   "Porriño": "O Porriño",
+   "Ponte de Lima": "Ponte de Lima",
+   "Samos": "Samos",
+   "A Guarda": "A Guarda",
+   "Bilbao": "Bilbao",
+   "Santander": "Santander",
+   "Logroño": "Logroño",
+   "Gijón": "Gijón",
+   "Viana do Castelo": "Viana do Castelo",
+   "Somport": "Somport",
+   "Avilés": "Avilés",
+   "Muxia": "Muxía",
+   "Finisterra": "Fisterra",
+   "San Sebastián": "San Sebastián",
+   "Barcelos": "Barcelos",
+   "Caminha": "Caminha",
+   "Barcelona": "Barcelona",
+   "Fonsagrada - C.P.": "A Fonsagrada",
+   "Baamonde": "Baamonde",
+   "Braga": "Braga",
+   "Braga C.G.A.": "Braga",
+   "Salamanca": "Salamanca",
+   "Mondoñedo": "Mondoñedo",
+   "Sahagún": "Sahagún",
+   "Oia": "Oia",
+   "Zamora": "Zamora",
+   "Neda": "Neda",
+   "Povoa de Varzim": "Póvoa de Varzim",
+   "Lourdes": "Lourdes",
+   "Hendaya": "Hendaye",
+   "Bayonne": "Bayonne",
+   "Vega de Valcarce": "Vega de Valcarce",
+   "Puebla de Sanabria": "Puebla de Sanabria",
+   "Ferreiros": "Ferreiros",
+   "Abadin": "Abadín",
+   "Monforte de Lemos": "Monforte de Lemos",
+   "Frómista": "Frómista",
+   "Jaca": "Jaca",
+   "Esposende": "Esposende",
+   "Barbadelo": "Barbadelo",
+   "A Coruña": "A Coruña",
+   "Cadavo": "Cadavo",
+   "Chaves-Portugal": "Chaves",
+   "Rabanal del Camino": "Rabanal del Camino",
+   "Arles": "Arles",
+   "Carrión de los Condes": "Carrión de los Condes",
+   "Mérida": "Mérida",
+   "Rates, S. Pedro": "Rates",
+   "Vezelay": "Vézelay",
+   "Luarca": "Luarca",
+   "Puente la Reina": "Puente la Reina",
+   "Grandas de Salime - C.P.": "Grandas de Salime",
+   "Lourenzá": "Lourenzá",
+   "Corrubedo": "Corrubedo",
+   "Gudiña": "A Gudiña",
+   "Sto. Domingo de la Calzada": "Santo Domingo de la Calzada",
+   "Muros": "Muros",
+   "Vila do Conde": "Vila do Conde",
+   "Francia": "Francia (ohne Ort)",
+   "Francia - C.F.": "Francia (ohne Ort)",
+   "Francia - C.N": "Francia (ohne Ort)",
+   "Holanda": "Holanda",
+   "Alemania": "Alemania",
+   "Bélgica": "Bélgica",
+   "Belgica": "Bélgica",
+   "Suiza": "Suiza",
+   "Italia": "Italia",
+   "Resto de Galicia": "Resto de Galicia",
+   "Resto Galicia": "Resto de Galicia",
+   "Resto Portugal": "Resto de Portugal",
+   "Resto de Portugal": "Resto de Portugal",
+   "C.G.A resto de Portugal": "Resto de Portugal",
+   "RESTO DE PORTUGAL C.G.A": "Resto de Portugal",
+   "Resto de Portugal C.M.R.": "Resto de Portugal",
+   "Resto Asturias - C.N": "Resto de Asturias",
+   "Resto Asturias": "Resto de Asturias",
+   "Resto Asturias - C.P.": "Resto de Asturias",
+   "Resto de Asturias": "Resto de Asturias",
+   "Resto C. León C.F.": "Resto de Castilla y León",
+   "Resto C. León": "Resto de Castilla y León",
+   "Resto de Castilla-León": "Resto de Castilla y León",
+   "Resto Cantabria": "Resto de Cantabria",
+   "Madrid - C.F.": "Madrid",
+   "Com. Valenciana - C.F.": "Comunidad Valenciana"
+  },
+  "land": {
+   "Belgica": "Bélgica",
+   "Rumania": "Rumanía",
+   "Emiratos Arabes Unidos": "Emiratos Árabes Unidos"
+  }
+ },
+ "namen": {
+  "startort": {
+   "Sarria": {
+    "de": "Sarria",
+    "en": "Sarria",
+    "es": "Sarria",
+    "gl": "Sarria",
+    "fr": "Sarria",
+    "hu": "Sarria"
+   },
+   "Saint-Jean-Pied-de-Port": {
+    "de": "Saint-Jean-Pied-de-Port",
+    "en": "Saint-Jean-Pied-de-Port",
+    "es": "San Juan de Pie de Puerto",
+    "gl": "Saint-Jean-Pied-de-Port",
+    "fr": "Saint-Jean-Pied-de-Port",
+    "hu": "Saint-Jean-Pied-de-Port"
+   },
+   "Tui": {
+    "de": "Tui",
+    "en": "Tui",
+    "es": "Tui",
+    "gl": "Tui",
+    "fr": "Tui",
+    "hu": "Tui"
+   },
+   "Porto": {
+    "de": "Porto",
+    "en": "Porto",
+    "es": "Oporto",
+    "gl": "Oporto",
+    "fr": "Porto",
+    "hu": "Porto"
+   },
+   "Lisboa": {
+    "de": "Lissabon",
+    "en": "Lisbon",
+    "es": "Lisboa",
+    "gl": "Lisboa",
+    "fr": "Lisbonne",
+    "hu": "Lisszabon"
+   },
+   "Coimbra": {
+    "de": "Coimbra",
+    "en": "Coimbra",
+    "es": "Coimbra",
+    "gl": "Coimbra",
+    "fr": "Coimbra",
+    "hu": "Coimbra"
+   },
+   "Ferrol": {
+    "de": "Ferrol",
+    "en": "Ferrol",
+    "es": "Ferrol",
+    "gl": "Ferrol",
+    "fr": "Ferrol",
+    "hu": "Ferrol"
+   },
+   "O Cebreiro": {
+    "de": "O Cebreiro",
+    "en": "O Cebreiro",
+    "es": "O Cebreiro",
+    "gl": "O Cebreiro",
+    "fr": "O Cebreiro",
+    "hu": "O Cebreiro"
+   },
+   "León": {
+    "de": "León",
+    "en": "León",
+    "es": "León",
+    "gl": "León",
+    "fr": "León",
+    "hu": "León"
+   },
+   "Roncesvalles": {
+    "de": "Roncesvalles",
+    "en": "Roncesvalles",
+    "es": "Roncesvalles",
+    "gl": "Roncesvalles",
+    "fr": "Roncevaux",
+    "hu": "Roncesvalles"
+   },
+   "Ponferrada": {
+    "de": "Ponferrada",
+    "en": "Ponferrada",
+    "es": "Ponferrada",
+    "gl": "Ponferrada",
+    "fr": "Ponferrada",
+    "hu": "Ponferrada"
+   },
+   "Valença do Minho": {
+    "de": "Valença do Minho",
+    "en": "Valença do Minho",
+    "es": "Valença do Minho",
+    "gl": "Valença do Minho",
+    "fr": "Valença do Minho",
+    "hu": "Valença do Minho"
+   },
+   "Oviedo": {
+    "de": "Oviedo",
+    "en": "Oviedo",
+    "es": "Oviedo",
+    "gl": "Oviedo",
+    "fr": "Oviedo",
+    "hu": "Oviedo"
+   },
+   "Astorga": {
+    "de": "Astorga",
+    "en": "Astorga",
+    "es": "Astorga",
+    "gl": "Astorga",
+    "fr": "Astorga",
+    "hu": "Astorga"
+   },
+   "Vigo": {
+    "de": "Vigo",
+    "en": "Vigo",
+    "es": "Vigo",
+    "gl": "Vigo",
+    "fr": "Vigo",
+    "hu": "Vigo"
+   },
+   "Pamplona": {
+    "de": "Pamplona",
+    "en": "Pamplona",
+    "es": "Pamplona",
+    "gl": "Pamplona",
+    "fr": "Pampelune",
+    "hu": "Pamplona"
+   },
+   "Irún": {
+    "de": "Irun",
+    "en": "Irun",
+    "es": "Irún",
+    "gl": "Irún",
+    "fr": "Irun",
+    "hu": "Irun"
+   },
+   "Ourense": {
+    "de": "Ourense",
+    "en": "Ourense",
+    "es": "Ourense",
+    "gl": "Ourense",
+    "fr": "Ourense",
+    "hu": "Ourense"
+   },
+   "Lugo": {
+    "de": "Lugo",
+    "en": "Lugo",
+    "es": "Lugo",
+    "gl": "Lugo",
+    "fr": "Lugo",
+    "hu": "Lugo"
+   },
+   "Le Puy-en-Velay": {
+    "de": "Le Puy-en-Velay",
+    "en": "Le Puy-en-Velay",
+    "es": "Le Puy-en-Velay",
+    "gl": "Le Puy-en-Velay",
+    "fr": "Le Puy-en-Velay",
+    "hu": "Le Puy-en-Velay"
+   },
+   "Burgos": {
+    "de": "Burgos",
+    "en": "Burgos",
+    "es": "Burgos",
+    "gl": "Burgos",
+    "fr": "Burgos",
+    "hu": "Burgos"
+   },
+   "Baiona": {
+    "de": "Baiona",
+    "en": "Baiona",
+    "es": "Baiona",
+    "gl": "Baiona",
+    "fr": "Baiona",
+    "hu": "Baiona"
+   },
+   "Triacastela": {
+    "de": "Triacastela",
+    "en": "Triacastela",
+    "es": "Triacastela",
+    "gl": "Triacastela",
+    "fr": "Triacastela",
+    "hu": "Triacastela"
+   },
+   "Sevilla": {
+    "de": "Sevilla",
+    "en": "Seville",
+    "es": "Sevilla",
+    "gl": "Sevilla",
+    "fr": "Séville",
+    "hu": "Sevilla"
+   },
+   "Villafranca del Bierzo": {
+    "de": "Villafranca del Bierzo",
+    "en": "Villafranca del Bierzo",
+    "es": "Villafranca del Bierzo",
+    "gl": "Vilafranca do Bierzo",
+    "fr": "Villafranca del Bierzo",
+    "hu": "Villafranca del Bierzo"
+   },
+   "Ribadeo": {
+    "de": "Ribadeo",
+    "en": "Ribadeo",
+    "es": "Ribadeo",
+    "gl": "Ribadeo",
+    "fr": "Ribadeo",
+    "hu": "Ribadeo"
+   },
+   "Vilalba": {
+    "de": "Vilalba",
+    "en": "Vilalba",
+    "es": "Vilalba",
+    "gl": "Vilalba",
+    "fr": "Vilalba",
+    "hu": "Vilalba"
+   },
+   "O Porriño": {
+    "de": "O Porriño",
+    "en": "O Porriño",
+    "es": "O Porriño",
+    "gl": "O Porriño",
+    "fr": "O Porriño",
+    "hu": "O Porriño"
+   },
+   "Ponte de Lima": {
+    "de": "Ponte de Lima",
+    "en": "Ponte de Lima",
+    "es": "Ponte de Lima",
+    "gl": "Ponte de Lima",
+    "fr": "Ponte de Lima",
+    "hu": "Ponte de Lima"
+   },
+   "Samos": {
+    "de": "Samos",
+    "en": "Samos",
+    "es": "Samos",
+    "gl": "Samos",
+    "fr": "Samos",
+    "hu": "Samos"
+   },
+   "A Guarda": {
+    "de": "A Guarda",
+    "en": "A Guarda",
+    "es": "A Guarda",
+    "gl": "A Guarda",
+    "fr": "A Guarda",
+    "hu": "A Guarda"
+   },
+   "Bilbao": {
+    "de": "Bilbao",
+    "en": "Bilbao",
+    "es": "Bilbao",
+    "gl": "Bilbao",
+    "fr": "Bilbao",
+    "hu": "Bilbao"
+   },
+   "Santander": {
+    "de": "Santander",
+    "en": "Santander",
+    "es": "Santander",
+    "gl": "Santander",
+    "fr": "Santander",
+    "hu": "Santander"
+   },
+   "Logroño": {
+    "de": "Logroño",
+    "en": "Logroño",
+    "es": "Logroño",
+    "gl": "Logroño",
+    "fr": "Logroño",
+    "hu": "Logroño"
+   },
+   "Gijón": {
+    "de": "Gijón",
+    "en": "Gijón",
+    "es": "Gijón",
+    "gl": "Xixón",
+    "fr": "Gijón",
+    "hu": "Gijón"
+   },
+   "Viana do Castelo": {
+    "de": "Viana do Castelo",
+    "en": "Viana do Castelo",
+    "es": "Viana do Castelo",
+    "gl": "Viana do Castelo",
+    "fr": "Viana do Castelo",
+    "hu": "Viana do Castelo"
+   },
+   "Somport": {
+    "de": "Somport",
+    "en": "Somport",
+    "es": "Somport",
+    "gl": "Somport",
+    "fr": "Somport",
+    "hu": "Somport"
+   },
+   "Avilés": {
+    "de": "Avilés",
+    "en": "Avilés",
+    "es": "Avilés",
+    "gl": "Avilés",
+    "fr": "Avilés",
+    "hu": "Avilés"
+   },
+   "Muxía": {
+    "de": "Muxía",
+    "en": "Muxía",
+    "es": "Muxía",
+    "gl": "Muxía",
+    "fr": "Muxía",
+    "hu": "Muxía"
+   },
+   "Fisterra": {
+    "de": "Fisterra",
+    "en": "Fisterra",
+    "es": "Finisterre",
+    "gl": "Fisterra",
+    "fr": "Fisterra",
+    "hu": "Fisterra"
+   },
+   "San Sebastián": {
+    "de": "San Sebastián",
+    "en": "San Sebastián",
+    "es": "San Sebastián",
+    "gl": "San Sebastián",
+    "fr": "Saint-Sébastien",
+    "hu": "San Sebastián"
+   },
+   "Barcelos": {
+    "de": "Barcelos",
+    "en": "Barcelos",
+    "es": "Barcelos",
+    "gl": "Barcelos",
+    "fr": "Barcelos",
+    "hu": "Barcelos"
+   },
+   "Caminha": {
+    "de": "Caminha",
+    "en": "Caminha",
+    "es": "Caminha",
+    "gl": "Caminha",
+    "fr": "Caminha",
+    "hu": "Caminha"
+   },
+   "Barcelona": {
+    "de": "Barcelona",
+    "en": "Barcelona",
+    "es": "Barcelona",
+    "gl": "Barcelona",
+    "fr": "Barcelona",
+    "hu": "Barcelona"
+   },
+   "A Fonsagrada": {
+    "de": "A Fonsagrada",
+    "en": "A Fonsagrada",
+    "es": "A Fonsagrada",
+    "gl": "A Fonsagrada",
+    "fr": "A Fonsagrada",
+    "hu": "A Fonsagrada"
+   },
+   "Baamonde": {
+    "de": "Baamonde",
+    "en": "Baamonde",
+    "es": "Baamonde",
+    "gl": "Baamonde",
+    "fr": "Baamonde",
+    "hu": "Baamonde"
+   },
+   "Braga": {
+    "de": "Braga",
+    "en": "Braga",
+    "es": "Braga",
+    "gl": "Braga",
+    "fr": "Braga",
+    "hu": "Braga"
+   },
+   "Salamanca": {
+    "de": "Salamanca",
+    "en": "Salamanca",
+    "es": "Salamanca",
+    "gl": "Salamanca",
+    "fr": "Salamanca",
+    "hu": "Salamanca"
+   },
+   "Mondoñedo": {
+    "de": "Mondoñedo",
+    "en": "Mondoñedo",
+    "es": "Mondoñedo",
+    "gl": "Mondoñedo",
+    "fr": "Mondoñedo",
+    "hu": "Mondoñedo"
+   },
+   "Sahagún": {
+    "de": "Sahagún",
+    "en": "Sahagún",
+    "es": "Sahagún",
+    "gl": "Sahagún",
+    "fr": "Sahagún",
+    "hu": "Sahagún"
+   },
+   "Oia": {
+    "de": "Oia",
+    "en": "Oia",
+    "es": "Oia",
+    "gl": "Oia",
+    "fr": "Oia",
+    "hu": "Oia"
+   },
+   "Zamora": {
+    "de": "Zamora",
+    "en": "Zamora",
+    "es": "Zamora",
+    "gl": "Zamora",
+    "fr": "Zamora",
+    "hu": "Zamora"
+   },
+   "Neda": {
+    "de": "Neda",
+    "en": "Neda",
+    "es": "Neda",
+    "gl": "Neda",
+    "fr": "Neda",
+    "hu": "Neda"
+   },
+   "Póvoa de Varzim": {
+    "de": "Póvoa de Varzim",
+    "en": "Póvoa de Varzim",
+    "es": "Póvoa de Varzim",
+    "gl": "Póvoa de Varzim",
+    "fr": "Póvoa de Varzim",
+    "hu": "Póvoa de Varzim"
+   },
+   "Lourdes": {
+    "de": "Lourdes",
+    "en": "Lourdes",
+    "es": "Lourdes",
+    "gl": "Lourdes",
+    "fr": "Lourdes",
+    "hu": "Lourdes"
+   },
+   "Hendaye": {
+    "de": "Hendaye",
+    "en": "Hendaye",
+    "es": "Hendaya",
+    "gl": "Hendaia",
+    "fr": "Hendaye",
+    "hu": "Hendaye"
+   },
+   "Bayonne": {
+    "de": "Bayonne",
+    "en": "Bayonne",
+    "es": "Bayona",
+    "gl": "Bayonne",
+    "fr": "Bayonne",
+    "hu": "Bayonne"
+   },
+   "Vega de Valcarce": {
+    "de": "Vega de Valcarce",
+    "en": "Vega de Valcarce",
+    "es": "Vega de Valcarce",
+    "gl": "Vega de Valcarce",
+    "fr": "Vega de Valcarce",
+    "hu": "Vega de Valcarce"
+   },
+   "Puebla de Sanabria": {
+    "de": "Puebla de Sanabria",
+    "en": "Puebla de Sanabria",
+    "es": "Puebla de Sanabria",
+    "gl": "A Pobra de Sanabria",
+    "fr": "Puebla de Sanabria",
+    "hu": "Puebla de Sanabria"
+   },
+   "Ferreiros": {
+    "de": "Ferreiros",
+    "en": "Ferreiros",
+    "es": "Ferreiros",
+    "gl": "Ferreiros",
+    "fr": "Ferreiros",
+    "hu": "Ferreiros"
+   },
+   "Abadín": {
+    "de": "Abadín",
+    "en": "Abadín",
+    "es": "Abadín",
+    "gl": "Abadín",
+    "fr": "Abadín",
+    "hu": "Abadín"
+   },
+   "Monforte de Lemos": {
+    "de": "Monforte de Lemos",
+    "en": "Monforte de Lemos",
+    "es": "Monforte de Lemos",
+    "gl": "Monforte de Lemos",
+    "fr": "Monforte de Lemos",
+    "hu": "Monforte de Lemos"
+   },
+   "Frómista": {
+    "de": "Frómista",
+    "en": "Frómista",
+    "es": "Frómista",
+    "gl": "Frómista",
+    "fr": "Frómista",
+    "hu": "Frómista"
+   },
+   "Jaca": {
+    "de": "Jaca",
+    "en": "Jaca",
+    "es": "Jaca",
+    "gl": "Jaca",
+    "fr": "Jaca",
+    "hu": "Jaca"
+   },
+   "Esposende": {
+    "de": "Esposende",
+    "en": "Esposende",
+    "es": "Esposende",
+    "gl": "Esposende",
+    "fr": "Esposende",
+    "hu": "Esposende"
+   },
+   "Barbadelo": {
+    "de": "Barbadelo",
+    "en": "Barbadelo",
+    "es": "Barbadelo",
+    "gl": "Barbadelo",
+    "fr": "Barbadelo",
+    "hu": "Barbadelo"
+   },
+   "A Coruña": {
+    "de": "A Coruña",
+    "en": "A Coruña",
+    "es": "A Coruña",
+    "gl": "A Coruña",
+    "fr": "A Coruña",
+    "hu": "A Coruña"
+   },
+   "Cadavo": {
+    "de": "Cadavo",
+    "en": "Cadavo",
+    "es": "Cadavo",
+    "gl": "Cadavo",
+    "fr": "Cadavo",
+    "hu": "Cadavo"
+   },
+   "Chaves": {
+    "de": "Chaves",
+    "en": "Chaves",
+    "es": "Chaves",
+    "gl": "Chaves",
+    "fr": "Chaves",
+    "hu": "Chaves"
+   },
+   "Rabanal del Camino": {
+    "de": "Rabanal del Camino",
+    "en": "Rabanal del Camino",
+    "es": "Rabanal del Camino",
+    "gl": "Rabanal del Camino",
+    "fr": "Rabanal del Camino",
+    "hu": "Rabanal del Camino"
+   },
+   "Arles": {
+    "de": "Arles",
+    "en": "Arles",
+    "es": "Arles",
+    "gl": "Arles",
+    "fr": "Arles",
+    "hu": "Arles"
+   },
+   "Carrión de los Condes": {
+    "de": "Carrión de los Condes",
+    "en": "Carrión de los Condes",
+    "es": "Carrión de los Condes",
+    "gl": "Carrión de los Condes",
+    "fr": "Carrión de los Condes",
+    "hu": "Carrión de los Condes"
+   },
+   "Mérida": {
+    "de": "Mérida",
+    "en": "Mérida",
+    "es": "Mérida",
+    "gl": "Mérida",
+    "fr": "Mérida",
+    "hu": "Mérida"
+   },
+   "Rates": {
+    "de": "Rates",
+    "en": "Rates",
+    "es": "Rates",
+    "gl": "Rates",
+    "fr": "Rates",
+    "hu": "Rates"
+   },
+   "Vézelay": {
+    "de": "Vézelay",
+    "en": "Vézelay",
+    "es": "Vézelay",
+    "gl": "Vézelay",
+    "fr": "Vézelay",
+    "hu": "Vézelay"
+   },
+   "Luarca": {
+    "de": "Luarca",
+    "en": "Luarca",
+    "es": "Luarca",
+    "gl": "Luarca",
+    "fr": "Luarca",
+    "hu": "Luarca"
+   },
+   "Puente la Reina": {
+    "de": "Puente la Reina",
+    "en": "Puente la Reina",
+    "es": "Puente la Reina",
+    "gl": "Puente la Reina",
+    "fr": "Puente la Reina",
+    "hu": "Puente la Reina"
+   },
+   "Grandas de Salime": {
+    "de": "Grandas de Salime",
+    "en": "Grandas de Salime",
+    "es": "Grandas de Salime",
+    "gl": "Grandas de Salime",
+    "fr": "Grandas de Salime",
+    "hu": "Grandas de Salime"
+   },
+   "Lourenzá": {
+    "de": "Lourenzá",
+    "en": "Lourenzá",
+    "es": "Lourenzá",
+    "gl": "Lourenzá",
+    "fr": "Lourenzá",
+    "hu": "Lourenzá"
+   },
+   "Corrubedo": {
+    "de": "Corrubedo",
+    "en": "Corrubedo",
+    "es": "Corrubedo",
+    "gl": "Corrubedo",
+    "fr": "Corrubedo",
+    "hu": "Corrubedo"
+   },
+   "A Gudiña": {
+    "de": "A Gudiña",
+    "en": "A Gudiña",
+    "es": "A Gudiña",
+    "gl": "A Gudiña",
+    "fr": "A Gudiña",
+    "hu": "A Gudiña"
+   },
+   "Santo Domingo de la Calzada": {
+    "de": "Santo Domingo de la Calzada",
+    "en": "Santo Domingo de la Calzada",
+    "es": "Santo Domingo de la Calzada",
+    "gl": "Santo Domingo de la Calzada",
+    "fr": "Santo Domingo de la Calzada",
+    "hu": "Santo Domingo de la Calzada"
+   },
+   "Muros": {
+    "de": "Muros",
+    "en": "Muros",
+    "es": "Muros",
+    "gl": "Muros",
+    "fr": "Muros",
+    "hu": "Muros"
+   },
+   "Vila do Conde": {
+    "de": "Vila do Conde",
+    "en": "Vila do Conde",
+    "es": "Vila do Conde",
+    "gl": "Vila do Conde",
+    "fr": "Vila do Conde",
+    "hu": "Vila do Conde"
+   },
+   "Francia (ohne Ort)": {
+    "de": "Frankreich (ohne Ortsangabe)",
+    "en": "France (no place given)",
+    "es": "Francia (sin localidad)",
+    "gl": "Francia (sen localidade)",
+    "fr": "France (sans lieu précis)",
+    "hu": "Franciaország (hely megadása nélkül)"
+   },
+   "Holanda": {
+    "de": "Niederlande",
+    "en": "Netherlands",
+    "es": "Países Bajos",
+    "gl": "Países Baixos",
+    "fr": "Pays-Bas",
+    "hu": "Hollandia"
+   },
+   "Alemania": {
+    "de": "Deutschland",
+    "en": "Germany",
+    "es": "Alemania",
+    "gl": "Alemaña",
+    "fr": "Allemagne",
+    "hu": "Németország"
+   },
+   "Bélgica": {
+    "de": "Belgien",
+    "en": "Belgium",
+    "es": "Bélgica",
+    "gl": "Bélxica",
+    "fr": "Belgique",
+    "hu": "Belgium"
+   },
+   "Suiza": {
+    "de": "Schweiz",
+    "en": "Switzerland",
+    "es": "Suiza",
+    "gl": "Suíza",
+    "fr": "Suisse",
+    "hu": "Svájc"
+   },
+   "Italia": {
+    "de": "Italien",
+    "en": "Italy",
+    "es": "Italia",
+    "gl": "Italia",
+    "fr": "Italie",
+    "hu": "Olaszország"
+   },
+   "Resto de Galicia": {
+    "de": "Übriges Galicien",
+    "en": "Rest of Galicia",
+    "es": "Resto de Galicia",
+    "gl": "Resto de Galicia",
+    "fr": "Reste de la Galice",
+    "hu": "Galícia többi része"
+   },
+   "Resto de Portugal": {
+    "de": "Übriges Portugal",
+    "en": "Rest of Portugal",
+    "es": "Resto de Portugal",
+    "gl": "Resto de Portugal",
+    "fr": "Reste du Portugal",
+    "hu": "Portugália többi része"
+   },
+   "Resto de Asturias": {
+    "de": "Übriges Asturien",
+    "en": "Rest of Asturias",
+    "es": "Resto de Asturias",
+    "gl": "Resto de Asturias",
+    "fr": "Reste des Asturies",
+    "hu": "Asztúria többi része"
+   },
+   "Resto de Castilla y León": {
+    "de": "Übriges Kastilien und León",
+    "en": "Rest of Castile and León",
+    "es": "Resto de Castilla y León",
+    "gl": "Resto de Castela e León",
+    "fr": "Reste de la Castille-et-León",
+    "hu": "Kasztília és León többi része"
+   },
+   "Resto de Cantabria": {
+    "de": "Übriges Kantabrien",
+    "en": "Rest of Cantabria",
+    "es": "Resto de Cantabria",
+    "gl": "Resto de Cantabria",
+    "fr": "Reste de la Cantabrie",
+    "hu": "Kantabria többi része"
+   },
+   "Madrid": {
+    "de": "Madrid",
+    "en": "Madrid",
+    "es": "Madrid",
+    "gl": "Madrid",
+    "fr": "Madrid",
+    "hu": "Madrid"
+   },
+   "Comunidad Valenciana": {
+    "de": "Valencianische Gemeinschaft",
+    "en": "Valencian Community",
+    "es": "Comunidad Valenciana",
+    "gl": "Comunidade Valenciana",
+    "fr": "Communauté valencienne",
+    "hu": "Valencia autonóm közösség"
+   }
+  }
+ }
+}

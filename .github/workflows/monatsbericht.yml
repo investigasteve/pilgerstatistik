@@ -1,0 +1,39 @@
+name: Monatlich Pilgerbericht (PDF) bauen
+
+on:
+  schedule:
+    - cron: '45 5 1 * *'   # am 1. jedes Monats, 05:45 UTC (nach dem nächtlichen Lauf um 03:17)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bericht:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Schrift und PDF-Bibliothek
+        run: |
+          sudo apt-get update && sudo apt-get install -y fonts-dejavu-core
+          pip install reportlab
+      - name: Gesamtstatistik neu rechnen
+        run: python scripts/baue_vollstatistik.py
+      - name: PDF-Berichte bauen (alle Sprachen)
+        run: python scripts/bericht-bauen.py
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "pilgerstatistik-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data/berichte data/statistik-voll.json
+          git diff --cached --quiet || git commit -m "Pilgerbericht $(date -u +%F)"
+          git pull --rebase
+          git push
+      - name: Kurzbericht
+        if: always()
+        run: |
+          echo "### Pilgerbericht $(date -u +%F)" >> "$GITHUB_STEP_SUMMARY"
+          ls -l data/berichte >> "$GITHUB_STEP_SUMMARY"
