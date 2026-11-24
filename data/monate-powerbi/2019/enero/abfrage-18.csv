@@ -1,221 +1,91 @@
 G0,M0
-Sarria,95797L
-S. Jean P. Port,33011L
-Oporto,27737L
-Tui,22708L
-Ferrol,15019L
-Oporto Costa,11401L
-León,10451L
-Valença do Minho,10432L
-Oviedo - C.P.,9494L
-Cebreiro,8274L
-Ponferrada,6759L
-Irún,5569L
-Roncesvalles,4893L
-Astorga,4488L
-Lugo - C.P.,4152L
-Ourense,4148L
-Le Puy,3176L
-Pamplona,2992L
-Triacastela,2636L
-Vigo,2632L
-Lisboa,2629L
-Burgos,2472L
-Baiona,2362L
-Vilafranca,2071L
-Porriño,2056L
-Sevilla,2052L
-Ponte de Lima,1919L
-Resto Portugal,1809L
-Ribadeo,1563L
-Francia - C.F.,1549L
-Samos,1465L
-Vilalba,1410L
-Bilbao,1390L
-A Guarda,1356L
-Resto Asturias - C.N,1281L
-Resto C. León C.F.,1277L
-Muxia,1060L
-Viana do Castelo,965L
-Gijón,963L
-Santander,954L
-San Sebastián,857L
-Barcelos,830L
-Baamonde,805L
-Caminha,736L
-Lisboa Costa,725L
-Avilés,684L
-Madrid - C.F.,671L
-Ferreiros,664L
-Fonsagrada - C.P.,659L
-Logroño,629L
-Oia,556L
-Braga,553L
-Abadin,541L
-Mondoñedo,514L
-Povoa de Varzim,500L
-Ponferrada. C.Inv.,491L
-Finisterra,476L
-Resto de Portugal,454L
-Alemania,450L
-Neda,450L
-Salamanca,389L
-Holanda,384L
-Monforte de Lemos,353L
-Esposende,352L
-Bayonne,343L
-Luarca,340L
-Sahagún,331L
-Somport,317L
-Zamora,310L
-Lourdes,309L
-Coimbra,302L
-Resto Cantabria,299L
-Hendaya,292L
-Fatima,291L
-Cruz de Ferro,286L
-Cadavo,278L
-Francia - C.N,278L
-Puebla de Sanabria,260L
-Barbadelo,259L
-Resto Andalucia,258L
-Oviedo - C.N.,256L
-Rates,255L
-Resto País Vasco - C.N.,254L
-Bélgica,250L
-Resto Europa,248L
-Castroverde,240L
-Chaves-Portugal,236L
-Resto Asturias - C.P.,236L
-Braga C.G.A.,227L
-Tineo - C.P.,216L
-Vila do Conde,212L
-Carrión de los Condes,201L
-Laza,197L
-Suiza,180L
-Guimaraes,172L
-Granja de Moreruela,164L
-Lourenzá,156L
-Grandas de Salime - C.P.,153L
-Frómista,149L
-A Coruña,135L
-Vega de Valcarce,130L
-Resto de Europa,129L
-Gudiña,127L
-Verín,127L
-Rabanal del Camino,126L
-Salas,122L
-Cataluña - C.F.,120L
-Vezelay,120L
-Allariz,118L
-Arles,118L
-Resto de Galicia,118L
-Sto. Domingo de la Calzada,114L
-Xunqueira de Ambia,113L
-París,110L
-Com. Valenciana - O.C.,106L
-Hospital de Orbigo,105L
-Castro Leboreiro C.G.A.,104L
-Puente la Reina,104L
-Resto C. León - V.P.,98L
-Valencia O.C.,94L
-Mérida,89L
-Zaragoza,81L
-Montserrat,78L
-Navarra,75L
-R.Pais Vasco C.F.,73L
-Com. Valenciana - C.F.,71L
-Chantada,70L
-Jaca,67L
-Cáceres,65L
-Cast. la Mancha - C.F.,65L
-Molinaseca,62L
-Barcelona,61L
-Estella,60L
-La Rioja,58L
-Coimbra Costa,57L
-Castilla la Mancha otros,56L
-Malaga,56L
-Austria,55L
-Viseu,55L
-Canfranc,51L
-Irlanda C. Ing,51L
-Faro,49L
-Resto de Extremadura,49L
-Aragón,47L
-Laguna de Castilla,45L
-Nájera,44L
-Quiroga,43L
-Italia,42L
-San Juan de Ortega,41L
-Granada,40L
-Huelva,39L
-Polonia,39L
-Cataluña - O.C.,36L
-Fonfría,35L
-Grado,35L
-Biarritz,34L
-Roma,34L
-Castrojeriz,31L
-Madrid - V.P.,31L
-La Mesa,29L
-Republica Checa,27L
-Castilla La Mancha VP,25L
-Puente de Domingo Flórez,25L
-Aveiro,22L
-Vegadeo,22L
-Resto Europa C. Ing.,21L
-Xinzo de Limia,20L
-Resto Galicia,19L
-Borres,18L
-Valcarlos,18L
-Córdoba,17L
-Murcia,17L
-Vilabade,17L
-Benavente,16L
-Reino Unido C.Ing,15L
-Murcia V.P.,14L
-Rábade,14L
-Resto C. León,14L
-Rusia,14L
-Valladolid,14L
-Australia,11L
-Reino Unido C.F.,10L
-Vincios,10L
-A Rúa,9L
-C.G.A resto de Portugal,8L
-Dinamarca,8L
-Entrimo C.G.A.,8L
-Luxemburgo,8L
-O Barco de Valdeorras,8L
-Ribadavia C.G.A.,8L
-Eslovaquia,7L
-Peñaseita,7L
-R. Castilla León C.Inv,7L
-Covelo,6L
-Noruega,6L
-Suecia,6L
-Irlanda C.F.,5L
-Ortigueira,4L
-Badajoz,3L
-Berán C.G.A.,3L
-Finlandia,3L
-Gándara,3L
-Jaén,3L
-Lalín,3L
-Leyre,3L
-Lires,3L
-Lobios C.G.A.,3L
-T. Bouro C.G.A.,3L
-Artieda,2L
-Gerês C.G.A.,2L
-Grecia,2L
-Hungría,2L
-Inglaterra C.F.,2L
-La Bañeza,2L
-Viveiro,2L
-Andorra,1L
-Bulgaria,1L
-Cortegada C.G.A.,1L
-Egipto,1L
-Resto Africa,1L
+Sarria,324L
+Oporto,187L
+S. Jean P. Port,182L
+Tui,104L
+Cebreiro,93L
+Ferrol,79L
+Valença do Minho,58L
+León,53L
+Pamplona,46L
+Ponferrada,45L
+Oviedo - C.P.,37L
+Roncesvalles,27L
+Astorga,26L
+Burgos,25L
+Lisboa,22L
+Oporto Costa,20L
+Logroño,17L
+Sevilla,17L
+Ourense,14L
+Lugo - C.P.,13L
+Ponferrada. C.Inv.,12L
+Irún,11L
+Vilafranca,11L
+Resto Portugal,10L
+Ribadeo,10L
+Gijón,9L
+Barcelos,8L
+Resto Asturias - C.N,7L
+Lourenzá,6L
+Muxia,6L
+Povoa de Varzim,6L
+Francia - C.F.,5L
+Ponte de Lima,5L
+Resto Cantabria,5L
+Sahagún,5L
+Vigo,5L
+A Coruña,4L
+A Guarda,4L
+Braga,4L
+Gudiña,4L
+Le Puy,4L
+Resto Andalucia,4L
+Santander,4L
+Zamora,4L
+Abadin,3L
+Alemania,3L
+Bayonne,3L
+Finisterra,3L
+Hospital de Orbigo,3L
+Lisboa Costa,3L
+Madrid - C.F.,3L
+Mondoñedo,3L
+Neda,3L
+Puebla de Sanabria,3L
+Resto Asturias - C.P.,3L
+San Sebastián,3L
+Vezelay,3L
+Viana do Castelo,3L
+Baiona,2L
+Bilbao,2L
+Carrión de los Condes,2L
+Coimbra,2L
+Malaga,2L
+Monforte de Lemos,2L
+Salamanca,2L
+Samos,2L
+Suiza,2L
+Allariz,1L
+Avilés,1L
+Barcelona,1L
+Cáceres,1L
+Cadavo,1L
+Castilla la Mancha otros,1L
+Chantada,1L
+Francia - C.N,1L
+Guimaraes,1L
+Jaca,1L
+Lourdes,1L
+Nájera,1L
+París,1L
+Rates,1L
+Resto C. León - V.P.,1L
+Resto de Europa,1L
+Resto País Vasco - C.N.,1L
+Roma,1L
+San Juan de Ortega,1L
+Somport,1L
+Triacastela,1L
+Vila do Conde,1L
+Vilalba,1L

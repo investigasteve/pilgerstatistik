@@ -1,188 +1,76 @@
-G0,M0
-España,143241L
-Italia,28448L
-Alemania,25204L
-Estados Unidos,20284L
-Portugal,16676L
-Francia,9148L
-Reino Unido,8866L
-Corea,8067L
-Irlanda,6673L
-Brasil,5877L
-Australia,5248L
-Canadá,5214L
-Polonia,4816L
-Holanda,4108L
-México,3988L
-Argentina,2913L
-Dinamarca,2577L
-Rusia,2556L
-República Checa,2419L
-Bélgica,2311L
-Colombia,2256L
-Austria,2103L
-Sudáfrica,1750L
-Taiwán,1599L
-Suiza,1523L
-Suecia,1475L
-Japón,1393L
-Hungría,1193L
-Eslovaquia,1118L
-China,1041L
-Ucrania,1041L
-Nueva Zelanda,906L
-Venezuela,858L
-Eslovenia,847L
-Rumania,837L
-Lituania,755L
-Finlandia,730L
-Noruega,676L
-Uruguay,598L
-Croacia,594L
-Bulgaria,586L
-Filipinas,518L
-Chile,477L
-Israel,434L
-Ecuador,427L
-Singapur,427L
-Puerto Rico,324L
-Perú,318L
-Costa Rica,278L
-Malta,276L
-Islandia,259L
-Estonia,226L
-Letonia,211L
-Bielorrusia,167L
-Malasia,165L
-India,160L
-Guatemala,147L
-Luxemburgo,135L
-Argelia,134L
-Andorra,133L
-Indonesia,127L
-Hong Kong,121L
-Paraguay,104L
-Rep. Dominicana,103L
-Grecia,98L
-Irak,97L
-Cuba,93L
-Bolivia,80L
-Panamá,80L
-Turquía,69L
-Honduras,67L
-Líbano,65L
-Marruecos,64L
-El Salvador,61L
-Nicaragua,46L
-Emiratos Arabes Unidos,43L
-Armenia,42L
-Cabo Verde,42L
-Serbia,40L
-Tailandia,40L
-Namibia,39L
-Moldavia,38L
-Albania,32L
-Jamaica,31L
-Belice,30L
-Egipto,29L
-Macedonia,29L
-Georgia,27L
-Irán,24L
-Nueva Caledonia,24L
-Vietnam,23L
-Omán,20L
-Jordania,19L
-Kazajistán,19L
-Camerún,17L
-Islas Feroe,16L
-Nigeria,16L
-Bosnia,15L
-Kenya,15L
-Madagascar,15L
-Swazilandia,15L
-Laos,14L
-Angola,13L
-Guinea,13L
-Zimbabwe,13L
-Comores,12L
-Dominica,12L
-Urbekistán,12L
-Costa de Marfil,11L
-Arabia Saudita,10L
-San Marino,10L
-Chipre,9L
-Rwanda,9L
-Afganistán,8L
-Sri Lanka,8L
-Trinidad y Tobago,8L
-Túnez,8L
-Mauritania,7L
-Montenegro,7L
-Pakistán,7L
-Camboya,6L
-Etiopía,6L
-Haití,6L
-Liberia,6L
-Mónaco,6L
-Nepal,6L
-Palau,6L
-Qatar,6L
-Siria,6L
-Bangladesh,5L
-Barbados,5L
-Groenlandia,5L
-Mozambique,5L
-Rep. Centroafricana,5L
-Senegal,5L
-Tanzania,5L
-Tuvalu,5L
-Bermudas,4L
-Botswana,4L
-Gabón,4L
-I. Reunión,4L
-Liechtensein,4L
-Zambia,4L
-Bahamas,3L
-Eritrea,3L
-Ghana,3L
-Libia,3L
-Palestina,3L
-Surinam,3L
-Timor Oriental,3L
-Antillas Holandesas,2L
-Aruba,2L
-Azerbaiyán,2L
-Brunei,2L
-Burkina Faso,2L
-Chad,2L
-Congo,2L
-Fiji,2L
-Gambia,2L
-Islas Caimán,2L
-Jersey,2L
-Kirguistán,2L
-Kosovo,2L
-Kuwait,2L
-Mauricio,2L
-Mongolia,2L
-Sudán,2L
-Tayikistán,2L
-Uganda,2L
-Vanuatu,2L
-Zaire,2L
-Benin,1L
-Bhután,1L
-Granada,1L
-Guinea Ecuatorial,1L
-Islas Vírgenes,1L
-Lesotho,1L
-Malawi,1L
-Maldivas,1L
-Mali,1L
-Martinica,1L
-Micronesia,1L
-Papúa - Nueva Guinea,1L
-Samoa Occidental,1L
-Sierra Leona,1L
-Togo,1L
-Turkmenistán,1L
+G0,M0,M1
+España,3113L,0.41651056997591651D
+Alemania,961L,0.12857907412362857D
+Portugal,774L,0.10355900454910356D
+Estados Unidos,367L,0.0491035590045491D
+Italia,301L,0.040272946213540273D
+Reino Unido,266L,0.035590045491035588D
+Irlanda,153L,0.02047096601552047D
+Brasil,148L,0.019801980198019802D
+Corea,146L,0.019534385871019536D
+México,104L,0.013914905004013914D
+Francia,100L,0.013379716350013379D
+Holanda,87L,0.011640353224511641D
+República Checa,75L,0.010034787262510034D
+Canadá,65L,0.0086968156275086961D
+Japón,59L,0.0078940326465078946D
+Colombia,57L,0.0076264383195076262D
+Polonia,56L,0.0074926411560074929D
+Australia,53L,0.0070912496655070913D
+Rusia,49L,0.0065560610115065563D
+Argentina,41L,0.0054856837035054855D
+Austria,33L,0.0044153063955044156D
+Dinamarca,33L,0.0044153063955044156D
+Suiza,31L,0.0041477120685041481D
+Sudáfrica,30L,0.0040139149050040139D
+Finlandia,25L,0.0033449290875033448D
+Taiwán,25L,0.0033449290875033448D
+Bélgica,24L,0.0032111319240032111D
+Lituania,22L,0.0029435375970029436D
+China,21L,0.00280974043350281D
+Venezuela,19L,0.0025421461065025419D
+Uruguay,16L,0.0021407546160021407D
+Croacia,13L,0.0017393631255017393D
+Malta,11L,0.0014717687985014718D
+Rumania,11L,0.0014717687985014718D
+Ucrania,11L,0.0014717687985014718D
+Estonia,10L,0.0013379716350013381D
+Filipinas,10L,0.0013379716350013381D
+Eslovaquia,9L,0.0012041744715012041D
+Singapur,9L,0.0012041744715012041D
+Eslovenia,8L,0.0010703773080010704D
+Hungría,8L,0.0010703773080010704D
+India,8L,0.0010703773080010704D
+Noruega,8L,0.0010703773080010704D
+Nueva Zelanda,8L,0.0010703773080010704D
+Perú,8L,0.0010703773080010704D
+Bielorrusia,7L,0.00093658014450093661D
+Puerto Rico,7L,0.00093658014450093661D
+Turquía,7L,0.00093658014450093661D
+Israel,6L,0.00080278298100080277D
+Suecia,6L,0.00080278298100080277D
+Ecuador,5L,0.000668985817500669D
+Hong Kong,5L,0.000668985817500669D
+Bolivia,4L,0.00053518865400053518D
+Chile,4L,0.00053518865400053518D
+Indonesia,3L,0.00040139149050040138D
+Letonia,3L,0.00040139149050040138D
+Malasia,3L,0.00040139149050040138D
+Namibia,3L,0.00040139149050040138D
+Andorra,2L,0.00026759432700026759D
+Costa Rica,2L,0.00026759432700026759D
+Cuba,2L,0.00026759432700026759D
+Grecia,2L,0.00026759432700026759D
+Guatemala,2L,0.00026759432700026759D
+Luxemburgo,2L,0.00026759432700026759D
+Nueva Caledonia,2L,0.00026759432700026759D
+Paraguay,2L,0.00026759432700026759D
+Argelia,1L,0.00013379716350013379D
+Bulgaria,1L,0.00013379716350013379D
+Cabo Verde,1L,0.00013379716350013379D
+Honduras,1L,0.00013379716350013379D
+Irán,1L,0.00013379716350013379D
+Líbano,1L,0.00013379716350013379D
+Palestina,1L,0.00013379716350013379D
+Tailandia,1L,0.00013379716350013379D
+Yemen,1L,0.00013379716350013379D

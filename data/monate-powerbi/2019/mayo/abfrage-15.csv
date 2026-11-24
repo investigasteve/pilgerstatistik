@@ -1,187 +1,126 @@
 G0,M0
-España,133224L
-Italia,25212L
-Alemania,21179L
-Estados Unidos,17151L
-Portugal,15330L
-Francia,7579L
-Reino Unido,7194L
-Corea,6919L
-Irlanda,5431L
-Brasil,4800L
-Australia,4275L
-Canadá,4263L
-Polonia,4170L
-México,3486L
-Holanda,3242L
-Argentina,2384L
-Dinamarca,2167L
-República Checa,2043L
-Rusia,2029L
-Bélgica,2004L
-Colombia,1934L
-Austria,1703L
-Sudáfrica,1488L
-Taiwán,1436L
-Suiza,1250L
-Suecia,1239L
-Japón,1181L
-Hungría,1042L
-Eslovaquia,984L
-China,940L
-Ucrania,861L
-Venezuela,790L
-Nueva Zelanda,749L
-Eslovenia,715L
-Rumania,695L
-Lituania,654L
-Croacia,545L
-Finlandia,544L
-Uruguay,529L
-Noruega,517L
-Bulgaria,486L
-Filipinas,439L
-Chile,394L
-Israel,382L
-Singapur,363L
-Ecuador,350L
-Puerto Rico,301L
-Perú,276L
-Costa Rica,236L
-Islandia,226L
-Malta,223L
-Estonia,186L
-Letonia,183L
-Malasia,145L
-Bielorrusia,141L
-Argelia,135L
-Guatemala,133L
-India,121L
-Hong Kong,107L
-Luxemburgo,107L
-Andorra,98L
-Irak,97L
-Paraguay,93L
-Indonesia,90L
-Grecia,85L
-Cuba,84L
-Rep. Dominicana,83L
-Bolivia,75L
-Panamá,70L
-Honduras,66L
-Marruecos,63L
-Turquía,63L
-El Salvador,56L
-Líbano,52L
-Cabo Verde,42L
-Nicaragua,41L
-Emiratos Arabes Unidos,39L
-Tailandia,39L
-Serbia,37L
-Moldavia,35L
-Namibia,31L
-Jamaica,30L
-Belice,29L
-Macedonia,27L
-Albania,26L
-Georgia,26L
-Nueva Caledonia,26L
-Armenia,25L
-Egipto,24L
-Irán,24L
-Vietnam,23L
-Camerún,17L
-Kazajistán,16L
-Omán,16L
-Bosnia,15L
-Jordania,15L
-Kenya,15L
-Guinea,13L
-Laos,13L
-Nigeria,13L
-Angola,12L
-Comores,12L
-Islas Feroe,12L
-Zimbabwe,12L
-Madagascar,11L
-Swazilandia,11L
-Dominica,10L
-San Marino,10L
-Arabia Saudita,9L
-Costa de Marfil,9L
-Urbekistán,9L
-Rwanda,8L
-Afganistán,7L
-Chipre,7L
-Mauritania,7L
-Túnez,7L
-Camboya,6L
-Etiopía,6L
-Liberia,6L
-Montenegro,6L
-Pakistán,6L
-Qatar,6L
-Siria,6L
-Trinidad y Tobago,6L
-Bangladesh,5L
-Haití,5L
-Mónaco,5L
-Mozambique,5L
-Nepal,5L
-Palau,5L
-Rep. Centroafricana,5L
-Senegal,5L
-Botswana,4L
-Gabón,4L
-I. Reunión,4L
-Palestina,4L
-Tanzania,4L
-Zambia,4L
-Bahamas,3L
-Bermudas,3L
-Eritrea,3L
-Ghana,3L
-Groenlandia,3L
-Liechtensein,3L
-Sri Lanka,3L
-Timor Oriental,3L
-Aruba,2L
-Azerbaiyán,2L
-Burkina Faso,2L
-Chad,2L
-Congo,2L
-Fiji,2L
-Islas Caimán,2L
-Jersey,2L
-Kirguistán,2L
-Kosovo,2L
-Kuwait,2L
-Libia,2L
-Mauricio,2L
-Mongolia,2L
-Surinam,2L
-Tayikistán,2L
-Tuvalu,2L
-Uganda,2L
-Vanuatu,2L
-Zaire,2L
-Barbados,1L
-Benin,1L
-Bhután,1L
+España,13130L
+Alemania,4986L
+Italia,3537L
+Estados Unidos,3500L
+Portugal,2120L
+Reino Unido,1938L
+Francia,1669L
+Irlanda,1395L
+Corea,1294L
+Brasil,1225L
+Australia,1026L
+Canadá,1016L
+Holanda,953L
+Polonia,702L
+México,606L
+Rusia,576L
+Argentina,570L
+República Checa,451L
+Dinamarca,443L
+Austria,433L
+Colombia,379L
+Bélgica,331L
+Suiza,304L
+Sudáfrica,292L
+Japón,271L
+Suecia,242L
+Finlandia,211L
+Ucrania,191L
+Taiwán,188L
+Noruega,167L
+Nueva Zelanda,165L
+Hungría,159L
+Rumania,153L
+Eslovaquia,143L
+Eslovenia,140L
+Lituania,123L
+China,122L
+Bulgaria,101L
+Filipinas,89L
+Chile,87L
+Venezuela,87L
+Uruguay,85L
+Ecuador,82L
+Singapur,73L
+Malta,64L
+Croacia,62L
+Israel,58L
+Estonia,50L
+Perú,50L
+India,47L
+Costa Rica,44L
+Indonesia,40L
+Andorra,37L
+Bielorrusia,33L
+Islandia,33L
+Letonia,31L
+Luxemburgo,30L
+Puerto Rico,30L
+Malasia,23L
+Rep. Dominicana,20L
+Hong Kong,19L
+Armenia,17L
+Guatemala,16L
+Grecia,15L
+Líbano,14L
+Paraguay,13L
+Turquía,13L
+Cuba,11L
+Namibia,11L
+Panamá,10L
+Bolivia,9L
+Albania,6L
+Egipto,5L
+El Salvador,5L
+Nicaragua,5L
+Sri Lanka,5L
+Barbados,4L
+Emiratos Arabes Unidos,4L
+Islas Feroe,4L
+Jordania,4L
+Madagascar,4L
+Omán,4L
+Swazilandia,4L
+Kazajistán,3L
+Moldavia,3L
+Nigeria,3L
+Serbia,3L
+Tuvalu,3L
+Urbekistán,3L
+Antillas Holandesas,2L
+Brunei,2L
+Chipre,2L
+Costa de Marfil,2L
+Dominica,2L
+Groenlandia,2L
+Honduras,2L
+Macedonia,2L
+Tailandia,2L
+Trinidad y Tobago,2L
+Afganistán,1L
+Angola,1L
+Arabia Saudita,1L
+Belice,1L
+Bermudas,1L
+Cabo Verde,1L
 Gambia,1L
-Granada,1L
-Guinea Ecuatorial,1L
-Islas Vírgenes,1L
-Lesotho,1L
-Malawi,1L
-Maldivas,1L
-Mali,1L
-Martinica,1L
-Micronesia,1L
-Papúa - Nueva Guinea,1L
-Samoa Occidental,1L
-Sierra Leona,1L
+Georgia,1L
+Haití,1L
+Irán,1L
+Jamaica,1L
+Laos,1L
+Libia,1L
+Liechtensein,1L
+Marruecos,1L
+Mónaco,1L
+Montenegro,1L
+Nepal,1L
+Pakistán,1L
+Palau,1L
+Rwanda,1L
 Sudán,1L
-Togo,1L
-Turkmenistán,1L
-Yemen,1L
+Surinam,1L
+Tanzania,1L
+Túnez,1L
+Zimbabwe,1L

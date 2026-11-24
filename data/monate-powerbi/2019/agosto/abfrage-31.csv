@@ -1,186 +1,138 @@
 G0,M0
-España,109790L
-Alemania,23782L
-Italia,19560L
-Estados Unidos,19406L
-Portugal,14854L
-Reino Unido,8351L
-Francia,7968L
-Corea,7415L
-Irlanda,6410L
-Brasil,5655L
-Australia,5046L
-Canadá,4969L
-Polonia,4011L
-Holanda,3887L
-México,3749L
-Argentina,2651L
-Dinamarca,2350L
-Rusia,2308L
-República Checa,2144L
-Colombia,2140L
-Bélgica,2039L
-Austria,1917L
-Sudáfrica,1671L
-Taiwán,1421L
-Suiza,1418L
-Suecia,1357L
-Japón,1330L
-Hungría,982L
-Ucrania,933L
-China,908L
-Eslovaquia,906L
-Nueva Zelanda,851L
-Eslovenia,791L
-Venezuela,768L
-Finlandia,736L
-Lituania,695L
-Rumania,686L
-Noruega,630L
-Uruguay,555L
-Filipinas,505L
-Bulgaria,502L
-Croacia,453L
-Chile,442L
-Singapur,424L
-Israel,399L
-Ecuador,361L
-Puerto Rico,303L
-Costa Rica,273L
-Perú,261L
-Islandia,245L
-Malta,229L
-Estonia,219L
-Letonia,184L
-India,158L
-Malasia,154L
-Bielorrusia,152L
-Guatemala,137L
-Hong Kong,119L
-Indonesia,119L
-Luxemburgo,116L
-Andorra,93L
-Rep. Dominicana,93L
-Argelia,87L
-Grecia,85L
-Cuba,79L
-Irak,79L
-Paraguay,75L
-Panamá,71L
-Turquía,70L
-Bolivia,68L
-Honduras,59L
-Líbano,56L
-Marruecos,53L
-El Salvador,47L
-Nicaragua,43L
-Emiratos Arabes Unidos,40L
-Namibia,39L
-Serbia,36L
-Tailandia,36L
-Armenia,34L
-Moldavia,34L
-Cabo Verde,32L
-Belice,28L
-Jamaica,26L
-Nueva Caledonia,25L
-Egipto,22L
-Albania,21L
-Irán,20L
-Macedonia,18L
-Vietnam,18L
-Jordania,17L
-Kazajistán,16L
-Nigeria,16L
-Omán,16L
-Kenya,15L
-Madagascar,15L
-Camerún,13L
-Islas Feroe,13L
-Swazilandia,12L
-Zimbabwe,12L
-Angola,11L
-Bosnia,11L
-Dominica,11L
-Comores,10L
-Guinea,10L
-Urbekistán,10L
-Costa de Marfil,9L
-Laos,9L
-Rwanda,9L
-Georgia,8L
-Sri Lanka,8L
-Chipre,7L
-San Marino,7L
-Trinidad y Tobago,7L
-Afganistán,6L
-Arabia Saudita,6L
-Camboya,6L
-Mauritania,6L
-Mónaco,6L
-Montenegro,6L
-Nepal,6L
-Palau,6L
-Qatar,6L
-Barbados,5L
-Etiopía,5L
-Haití,5L
-Pakistán,5L
-Túnez,5L
-Tuvalu,5L
-Bermudas,4L
-Groenlandia,4L
-I. Reunión,4L
-Liberia,4L
-Liechtensein,4L
-Siria,4L
-Tanzania,4L
-Bahamas,3L
-Botswana,3L
-Gabón,3L
-Rep. Centroafricana,3L
-Surinam,3L
-Timor Oriental,3L
-Zambia,3L
-Antillas Holandesas,2L
-Aruba,2L
-Azerbaiyán,2L
-Brunei,2L
-Chad,2L
-Congo,2L
-Eritrea,2L
-Fiji,2L
-Gambia,2L
-Ghana,2L
-Islas Caimán,2L
-Jersey,2L
-Kosovo,2L
-Kuwait,2L
-Mongolia,2L
-Mozambique,2L
+España,36564L
+Italia,9189L
+Portugal,2596L
+Alemania,2383L
+Francia,1280L
+Estados Unidos,1245L
+Polonia,861L
+Corea,798L
+Reino Unido,781L
+Irlanda,416L
+Brasil,370L
+República Checa,350L
+México,343L
+Canadá,310L
+Holanda,308L
+Argentina,303L
+Rusia,297L
+Bélgica,296L
+Dinamarca,260L
+Australia,255L
+Eslovaquia,221L
+Austria,219L
+Hungría,219L
+Taiwán,203L
+Colombia,173L
+Rumania,162L
+China,154L
+Croacia,154L
+Suiza,136L
+Suecia,124L
+Japón,122L
+Ucrania,119L
+Sudáfrica,109L
+Venezuela,109L
+Bulgaria,85L
+Lituania,82L
+Ecuador,71L
+Perú,65L
+Eslovenia,64L
+Nueva Zelanda,63L
+Uruguay,59L
+Malta,58L
+Noruega,54L
+Argelia,48L
+Andorra,42L
+Israel,41L
+Chile,39L
+Paraguay,31L
+Letonia,30L
+Puerto Rico,28L
+Filipinas,23L
+Bielorrusia,22L
+Luxemburgo,21L
+Finlandia,19L
+Georgia,19L
+Irak,18L
+Estonia,17L
+Bolivia,16L
+Cuba,16L
+Grecia,15L
+El Salvador,14L
+Islandia,14L
+Malasia,14L
+Guatemala,12L
+Singapur,12L
+Albania,11L
+Cabo Verde,11L
+Indonesia,11L
+Macedonia,11L
+Marruecos,11L
+India,10L
+Líbano,10L
+Rep. Dominicana,10L
+Honduras,9L
+Panamá,9L
+Armenia,8L
+Costa Rica,7L
+Egipto,7L
+Hong Kong,7L
+Turquía,6L
+Irán,5L
+Jamaica,5L
+Laos,5L
+Tailandia,5L
+Vietnam,5L
+Arabia Saudita,4L
+Bangladesh,4L
+Bosnia,4L
+Camerún,4L
+Moldavia,4L
+Omán,4L
+Serbia,4L
+Emiratos Arabes Unidos,3L
+Guinea,3L
+Islas Feroe,3L
+Kazajistán,3L
+Mozambique,3L
+Namibia,3L
+Nicaragua,3L
+San Marino,3L
+Senegal,3L
+Swazilandia,3L
+Túnez,3L
+Afganistán,2L
+Angola,2L
+Belice,2L
+Chipre,2L
+Comores,2L
+Costa de Marfil,2L
+Jordania,2L
+Liberia,2L
+Libia,2L
+Mauricio,2L
+Pakistán,2L
 Palestina,2L
-Senegal,2L
-Sudán,2L
-Tayikistán,2L
-Uganda,2L
-Vanuatu,2L
-Zaire,2L
-Bangladesh,1L
-Benin,1L
+Rep. Centroafricana,2L
+Siria,2L
+Urbekistán,2L
+Bhután,1L
+Botswana,1L
 Burkina Faso,1L
-Granada,1L
-Guinea Ecuatorial,1L
-Islas Vírgenes,1L
+Dominica,1L
+Eritrea,1L
+Etiopía,1L
+Gabón,1L
+Ghana,1L
+Groenlandia,1L
+Haití,1L
 Kirguistán,1L
-Libia,1L
-Malawi,1L
-Maldivas,1L
-Mali,1L
-Martinica,1L
-Micronesia,1L
-Papúa - Nueva Guinea,1L
-Samoa Occidental,1L
-Sierra Leona,1L
-Togo,1L
-Turkmenistán,1L
-Yemen,1L
+Lesotho,1L
+Mauritania,1L
+Montenegro,1L
+Nueva Caledonia,1L
+Tanzania,1L
+Trinidad y Tobago,1L
+Zambia,1L
+Zimbabwe,1L
