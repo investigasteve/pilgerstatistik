@@ -1,4 +1,9 @@
-K0,G0
-'camino_nom_mod'[camino (grupos)],Camino
-'pais_mapa'[nacional-extranjero],Nacional/Extranjero
-'sexo_ext'[Genero],Genero
+G0,M0
+Camino Francés,63L
+Camino Inglés,29L
+Camino Portugués,16L
+Camino Primitivo,10L
+Camino Portugués por la Costa,8L
+Vía de la Plata,5L
+Camino de Invierno,4L
+Otros Caminos,1L
