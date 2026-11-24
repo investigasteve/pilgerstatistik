@@ -200,97 +200,97 @@
   "2023": {
    "enero": {
     "kennzahlen": {
-     "peregrinos": 444051,
-     "españoles": 196281,
-     "extranjeros": 247770
+     "peregrinos": 2030,
+     "españoles": 914,
+     "extranjeros": 1116
     },
     "tabellen": 33
    },
    "febrero": {
     "kennzahlen": {
-     "peregrinos": 443207,
-     "españoles": 196067,
-     "extranjeros": 247140
+     "peregrinos": 2874,
+     "españoles": 1128,
+     "extranjeros": 1746
     },
     "tabellen": 33
    },
    "marzo": {
     "kennzahlen": {
-     "peregrinos": 434584,
-     "españoles": 191010,
-     "extranjeros": 243574
+     "peregrinos": 11497,
+     "españoles": 6185,
+     "extranjeros": 5312
     },
     "tabellen": 33
    },
    "abril": {
     "kennzahlen": {
-     "peregrinos": 405178,
-     "españoles": 179937,
-     "extranjeros": 225241
+     "peregrinos": 40903,
+     "españoles": 17258,
+     "extranjeros": 23645
     },
     "tabellen": 33
    },
    "mayo": {
     "kennzahlen": {
-     "peregrinos": 384937,
-     "españoles": 179923,
-     "extranjeros": 205014
+     "peregrinos": 61144,
+     "españoles": 17272,
+     "extranjeros": 43872
     },
     "tabellen": 33
    },
    "junio": {
     "kennzahlen": {
-     "peregrinos": 386896,
-     "españoles": 174427,
-     "extranjeros": 212469
+     "peregrinos": 59185,
+     "españoles": 22768,
+     "extranjeros": 36417
     },
     "tabellen": 33
    },
    "julio": {
     "kennzahlen": {
-     "peregrinos": 385038,
-     "españoles": 161963,
-     "extranjeros": 223075
+     "peregrinos": 61043,
+     "españoles": 35232,
+     "extranjeros": 25811
     },
     "tabellen": 33
    },
    "agosto": {
     "kennzahlen": {
-     "peregrinos": 374678,
-     "españoles": 152342,
-     "extranjeros": 222336
+     "peregrinos": 71403,
+     "españoles": 44853,
+     "extranjeros": 26550
     },
     "tabellen": 33
    },
    "septiembre": {
     "kennzahlen": {
-     "peregrinos": 377190,
-     "españoles": 168748,
-     "extranjeros": 208442
+     "peregrinos": 68891,
+     "españoles": 28447,
+     "extranjeros": 40444
     },
     "tabellen": 33
    },
    "octubre": {
     "kennzahlen": {
-     "peregrinos": 392709,
-     "españoles": 179521,
-     "extranjeros": 213188
+     "peregrinos": 53372,
+     "españoles": 17674,
+     "extranjeros": 35698
     },
     "tabellen": 33
    },
    "noviembre": {
     "kennzahlen": {
-     "peregrinos": 435869,
-     "españoles": 193435,
-     "extranjeros": 242434
+     "peregrinos": 10212,
+     "españoles": 3760,
+     "extranjeros": 6452
     },
     "tabellen": 33
    },
    "diciembre": {
     "kennzahlen": {
-     "peregrinos": 442554,
-     "españoles": 195491,
-     "extranjeros": 247063
+     "peregrinos": 3527,
+     "españoles": 1704,
+     "extranjeros": 1823
     },
     "tabellen": 33
    }
@@ -772,7 +772,7 @@
  },
  "fehler": [],
  "log": [
-  "2024 nach Abwahl: 499157",
+  "2023 nach Abwahl: 446081",
   "nicht gefunden enero: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
   "nicht gefunden febrero: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",
   "nicht gefunden marzo: 2026,2025,2024,2023,2022,2021,Seleccionar todo,enero,febrero,marzo,abril,mayo",

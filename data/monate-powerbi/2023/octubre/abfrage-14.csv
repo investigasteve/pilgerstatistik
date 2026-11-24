@@ -1,6 +1,201 @@
-K0,G0
-'motivo_ext'[Motivo],Motivo
-'medio_ext'[medio],Medio
-'entradas_2003-2022'[Rangos edad],Edad
-'sexo_ext'[Genero],Genero
-'date'[Mes Modificada],Mes
+G0,M0
+Sarria,14643L
+S. Jean P. Port,6115L
+Oporto,3453L
+Tui,3242L
+Ferrol,2395L
+Oporto Costa,2328L
+Valença do Minho,2086L
+Porto (por Tui),1462L
+Oviedo - C.P.,1396L
+Vigo,1153L
+León,1064L
+Irún,846L
+Baiona,733L
+Cebreiro,681L
+Ponferrada,642L
+Roncesvalles,576L
+Lugo - C.P.,545L
+Lisboa,425L
+Le Puy,413L
+Pamplona,409L
+Astorga,390L
+Ourense,378L
+Burgos,309L
+Ponte de Lima,275L
+A Guarda,271L
+Viana do Castelo,245L
+Samos,216L
+Sevilla,215L
+Francia - C.F.,214L
+Caminha,212L
+San Sebastián,182L
+Barcelona,181L
+Porriño,179L
+Ponferrada. C.Inv.,176L
+Triacastela,163L
+Bilbao,160L
+Vilalba,156L
+Lisboa Costa,137L
+Ribadeo,135L
+Resto de Galicia,125L
+Santander,118L
+Barbadelo,107L
+Braga,106L
+Povoa de Varzim,106L
+Villafranca del Bierzo,105L
+Muxia,99L
+Logroño,98L
+Oia,95L
+Bustio,94L
+Barcelos,86L
+Bayonne,81L
+Hendaya,80L
+Finisterra,77L
+Fonsagrada - C.P.,77L
+Gijón,74L
+Resto Galicia,70L
+Avilés,67L
+A Coruña,66L
+Braga C.G.A.,61L
+Esposende,61L
+Luarca,57L
+Resto Portugal,57L
+Sahagún,54L
+Lourdes,48L
+Com. Valenciana - C.F.,47L
+Monforte de Lemos,46L
+Zamora,45L
+Madrid - C.F.,43L
+Madrid,41L
+Salamanca,40L
+Vila do Conde,39L
+Rubiães,38L
+Francia - C.N,37L
+Rates,37L
+Ferreiros,35L
+Somport,35L
+Alemania,33L
+Mérida,33L
+Fatima,32L
+Holanda,32L
+Baamonde,31L
+Bélgica,30L
+Italia,30L
+Oviedo - C.N.,28L
+Abadin,27L
+Mosteiro Rendufe C.G.A,27L
+Labruge,26L
+Casquita,24L
+Grandas de Salime - C.P.,24L
+Puebla de Sanabria,24L
+Tineo - C.P.,24L
+Resto de Andalucia,23L
+Aragón,22L
+Biarritz,21L
+Tomar,21L
+Águeda,20L
+Aguiada,20L
+Puente la Reina,20L
+Cacabelos,19L
+Coimbra,19L
+Com. Valenciana - O.C.,19L
+Desconocido,19L
+Granja de Moreruela,19L
+Vega de Valcarce,19L
+Arles,18L
+Coimbra Costa,18L
+Castroverde,17L
+Tapia de Casariego,17L
+Marinhas,16L
+Ribadesella,16L
+Toulouse,16L
+Vezelay,16L
+Vilarinho,16L
+Australia,15L
+Cadavo,15L
+Cataluña - O.C.,15L
+Grado,15L
+Mondoñedo,15L
+Ramallosa,15L
+Valencia O.C.,15L
+Vilanova de Cerveira,15L
+Alemania. O.C.,14L
+Amsterdam,14L
+Aveiro,14L
+Llanes,14L
+Portimão,14L
+Cataluña - C.F.,13L
+San Juan de Ortega,13L
+Chaves-Portugal,12L
+Faro,12L
+Hospital de Orbigo,12L
+Malaga,12L
+Molinaseca,12L
+Resto de Portugal,12L
+Resto Europa,12L
+Suiza,12L
+Cádiz,11L
+Corrubedo,11L
+Frómista,11L
+Portugalete,11L
+Santarém,11L
+Santillana del mar,11L
+Villaviciosa,11L
+Allariz,10L
+Belorado,10L
+Castilla la Mancha otros,10L
+Irlanda C. Ing,10L
+Muros,10L
+Neda,10L
+Nigrán,10L
+Resto de Europa,10L
+Soto de Luiña,10L
+Verín,10L
+Vilafranca,10L
+Viseu,10L
+C.G.A resto de Portugal,9L
+Castrojeriz,9L
+Cudillero,9L
+Huelva,9L
+Jaca,9L
+Laguna de Castilla,9L
+Las Médulas,9L
+Mansilla de las Mulas,9L
+París,9L
+Rabanal del Camino,9L
+Reino Unido C.F.,9L
+Vila Nova Famalicão,9L
+Zaragoza,9L
+Austria,8L
+Cáceres,8L
+Campo do Gerês C.G.A,8L
+Canfranc,8L
+Carrión de los Condes,8L
+Gudiña,8L
+La caridad,8L
+Muros de nalon,8L
+Reino Unido C.Ing,8L
+RIBADAVIA.,8L
+San Vicente de la Barquera,8L
+Tours,8L
+Valladolid,8L
+Cadavelo,7L
+Castro Urdiales,7L
+Chantada,7L
+La virgen del Camino,7L
+R. Castilla León C.Inv,7L
+Salas,7L
+San martín del Camino,7L
+Zarautz,7L
+almeria,6L
+Ambasmestas,6L
+Borres,6L
+Cast. la Mancha - C.F.,6L
+Estella,6L
+Ginebra,6L
+Las Herrerías de Valcarce,6L
+Lourenzá,6L
+Polonia,6L
+Resto Asturias - C.N,6L
+Ruesta,6L

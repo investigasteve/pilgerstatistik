@@ -1,5 +1,4 @@
-G0,M0
-Religioso,159255L
-Otros,130834L
-No Religioso,86279L
-Desconocido,9950L
+K0,G0
+'camino_nom_mod'[camino (grupos)],Camino
+'pais_mapa'[nacional-extranjero],Nacional/Extranjero
+'sexo_ext'[Genero],Genero
