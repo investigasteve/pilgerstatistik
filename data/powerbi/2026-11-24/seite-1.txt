@@ -1,0 +1,476 @@
+Permite mostrar los métodos abreviados de teclado.
+Mostrar consejos para el lector de pantalla
+Pasar al contenido principal
+Informe de Power BI
+Información Estadística Oficina Peregrino  para 2026 hasta noviembre
+2026
+Peregrinos
+569.359
+Españoles
+218.439
+Extranjeros
+350.920
+Ultimo día : 23/11/2026
+218
+% Españoles
+38 %
+% Variación año anterior
+8 %
+Año
+2026
+Mes
+Todas
+Camino
+Todas
+Peregrinos por camino
+Camino Francés
+Camino Port…
+Camino Portugués por…
+Camino I…
+Camin…
+Camino …
+Vía…
+244.862
+114.042
+111.081
+31.678
+25.669
+21.083
+9.264
+GRÁFICO
+TABLA
+2026
+Borrar todos los Filtros
+Número Peregrinos por camino
+0,0 mill.
+0,1 mill.
+0,2 mill.
+camino
+Total Peregrinos
+(En blanco)
+Camino Francés
+Camino Portugués
+Camino Portugués …
+Camino Inglés
+Camino Primitivo
+Camino del Norte
+Vía de la Plata
+Otros Caminos
+Camino de Invierno
+Muxía - Finisterre
+Camino de Muros -…
+Camino del Barbanza
+Camino de Geira - …
+Miñoto Ribeiro
+Camino del Mar
+Camino de San Ros…
+Vía Céltica
+Camino de San Sal…
+Camino Olvidado
+Camino de Las Am…
+Camino de Tenerife…
+Camino de Tenerife…
+Camino de Lluc
+O Vello Camino de …
+O Vello Camino de …
+Camino Levante
+Camino Sureste - A…
+Camino Mozárabe
+30
+244.862
+114.042
+31.678
+21.083
+1.740
+2.664
+1.169
+39
+220
+1
+13
+181
+148
+32
+44
+2
+7
+9
+121
+170
+89
+249
+% Peregrinos por Camino
+43,01%
+20,03%
+19,51%
+5,56%
+4,51%
+3,7%
+0,47%
+Camino
+Camino Francés
+Camino Portugués
+Camino Portugués por…
+Camino Inglés
+Camino Primitivo
+Camino del Norte
+Vía de la Plata
+Camino de Invierno
+Muxía - Finisterre
+Otros Caminos
+Pais
+Todas
+Peregrinos por Pais
+GRÁFICO
+TABLA
+Borrar todos los Filtros
+2026
+% Peregrinos por Pais
+38,37%
+9,07%
+7,76%
+4,29%
+4,28%
+2,71%
+2,48%
+2,3%
+1,87%
+1,86%
+1,7%
+1,43%
+1,26%
+1,2%
+0,78%
+0,33%
+0,16%
+Pais
+España
+Estados Unidos
+Italia
+Alemania
+Portugal
+Reino Unido
+México
+Desconocido
+Irlanda
+Polonia
+Número Peregrinos por País
+0,0 mill.
+0,1 mill.
+0,2 mill.
+Pais
+Número Peregrinos
+España
+Estados Un…
+Italia
+Alemania
+Portugal
+Reino Unido
+México
+Desconoci…
+Irlanda
+Polonia
+Francia
+Canadá
+Brasil
+Australia
+Corea
+Holanda
+Colombia
+Argentina
+Taiwán
+China
+Ucrania
+República …
+Bélgica
+Dinamarca
+Austria
+Hungría
+Rusia
+Suiza
+218.439
+51.667
+24.439
+15.422
+13.118
+10.617
+9.670
+8.117
+7.191
+6.810
+5.454
+4.415
+3.237
+2.566
+2.154
+Autonomía
+Todas
+% Peregrinos por Autonomia
+Andalucia
+Madrid
+Comunidad Valenci…
+Cataluña
+Castilla La Mancha
+Galicia
+Cana…
+Cas…
+Murcia
+Extremadura
+País Vasco
+Ar…
+B…
+As…
+23,03%
+17,84%
+12,05%
+9,59%
+6,13%
+5,64%
+5,06%
+4,32%
+3,54%
+1,9…
+1,…
+GRÁFICO
+TABLA
+2026
+Número Peregrinos por Autonomía
+0 mil
+20 mil
+40 mil
+60 mil
+Autonomia
+Número Peregrinos
+Andalucia
+Madrid
+Comunidad Valen…
+Cataluña
+Castilla La Mancha
+Galicia
+Canarias
+Castilla León
+Murcia
+Extremadura
+País Vasco
+Aragon
+Baleares
+Asturias
+Cantabria
+Navarra
+La Rioja
+Sin autonomía
+Residentes Extranj…
+Ceuta
+Melilla
+50.313
+38.971
+26.313
+20.950
+13.398
+11.055
+7.733
+4.911
+3.795
+1.453
+854
+618
+416
+324
+264
+% Peregrinos por Autonomia
+23,03%
+17,84%
+12,05%
+9,59%
+6,13%
+5,64%
+5,06%
+4,32%
+3,54%
+3,11%
+1,9%
+0,67%
+Autonomia
+Andalucia
+Madrid
+Comunidad Valenciana
+Cataluña
+Castilla La Mancha
+Galicia
+Canarias
+Castilla León
+Murcia
+Extremadura
+Procedencia
+Todas
+Peregrinos por Procedencia
+TABLA
+GRÁFICO
+2026
+Borrar todos los Filtros
+Número Peregrinos por Procedencia
+0 mil
+50 mil
+100 mil
+150 mil
+200 mil
+Procedencia
+Número Peregrinos
+Sarria
+Tui
+Ferrol
+S. Jean P. P…
+Oporto
+Oporto Co…
+Vigo
+Porto (por …
+Valença do…
+Oviedo - C.P.
+Baiona
+Lugo - C.P.
+León
+Irún
+Ponferrada
+Ourense
+Cebreiro
+Porriño
+A Guarda
+Roncesvalles
+Astorga
+Viana do C…
+Caminha
+Le Puy
+Lisboa
+Vilalba
+Triacastela
+167.181
+46.304
+30.675
+29.981
+27.081
+22.663
+12.244
+8.207
+5.254
+4.887
+3.720
+3.339
+2.871
+2.603
+2.359
+% Peregrinos por Procedencia
+29,36%
+8,13%
+5,39%
+5,27%
+5,27%
+5,1%
+4,76%
+4,38%
+3,98%
+2,6%
+2,15%
+1,48%
+0,92%
+0,86%
+0,59%
+0,41%
+0,2%
+0,1%
+Procedencia
+Sarria
+Tui
+Ferrol
+S. Jean P. Port
+Oporto
+Oporto Costa
+Vigo
+Porto (por Tui)
+Valença do Minho
+Oviedo - C.P.
+Motivo
+Medio
+Edad
+Genero
+Mes
+% Peregrinos por Motivo
+Religioso
+Otros
+No Religioso
+Desconoci…
+44,22%
+30,58%
+18,00%
+7,20%
+GRÁFICO
+TABLA
+2026
+% Peregrinos por Motivo
+44,22%
+30,58%
+18%
+7,2%
+Motivo
+Religioso
+Otros
+No Religioso
+Desconocido
+Número Peregrinos por Motivo
+0,0 mill.
+0,1 mill.
+0,2 mill.
+0,3 mill.
+Motivo
+Número Peregrinos
+Religioso
+Otros
+No Religioso
+Desconocido
+251.776
+174.100
+102.472
+41.011
+Camino
+Nacional/Extranjero
+Genero
+% Peregrinos por Camino
+Otros
+99,99%
+2026
+Borrar todos los Filtros
+Número Peregrinos por Mes y Camino
+0 mil
+50 mil
+100 mil
+Mes
+Número Peregrinos
+enero
+febrero
+marzo
+abril
+mayo
+junio
+julio
+agosto
+septiembre
+octubre
+noviembre
+10.282
+91.122
+80.034
+71.539
+17.823
+79.396
+84.791
+72.121
+56.213
+Camino
+Otros
+Eje Temporal
+Año
+Mes
+-
++
+26 %
+Microsoft Power BI
+Informe ampliado a 26 %
