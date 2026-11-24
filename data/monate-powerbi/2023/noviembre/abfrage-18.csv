@@ -1,0 +1,533 @@
+G0,M0
+Sarria,128602L
+Tui,32270L
+S. Jean P. Port,30022L
+Oporto,27330L
+Ferrol,22499L
+Oporto Costa,18084L
+Valença do Minho,14010L
+Oviedo - C.P.,12012L
+Vigo,9609L
+Porto (por Tui),8257L
+León,8081L
+Cebreiro,6646L
+Baiona,6151L
+Lugo - C.P.,5907L
+Irún,5478L
+Ponferrada,5079L
+Roncesvalles,4183L
+Desconocido,3728L
+Ourense,3637L
+Astorga,3362L
+Le Puy,3138L
+Lisboa,2942L
+Porriño,2776L
+Pamplona,2469L
+Triacastela,2422L
+A Guarda,2365L
+Burgos,2355L
+Sevilla,2038L
+Ponte de Lima,1832L
+Ribadeo,1823L
+Vilalba,1590L
+Madrid - C.F.,1535L
+Viana do Castelo,1513L
+Samos,1492L
+Francia - C.F.,1440L
+Caminha,1418L
+Villafranca del Bierzo,1367L
+Bilbao,1311L
+Ponferrada. C.Inv.,1266L
+Resto de Galicia,1264L
+Barcelona,1230L
+Muxia,1070L
+San Sebastián,1033L
+Barcelos,968L
+Gijón,940L
+Com. Valenciana - C.F.,922L
+Fonsagrada - C.P.,900L
+Oia,875L
+Povoa de Varzim,860L
+Santander,839L
+Avilés,831L
+Baamonde,828L
+Lisboa Costa,827L
+Resto Galicia,702L
+Finisterra,672L
+Braga,658L
+Ferreiros,644L
+Logroño,635L
+Barbadelo,603L
+Bayonne,587L
+Corrubedo,556L
+A Coruña,554L
+Mondoñedo,552L
+Hendaya,508L
+Resto Portugal,493L
+Luarca,487L
+Madrid,479L
+Esposende,476L
+Abadin,394L
+Braga C.G.A.,381L
+Sahagún,352L
+Francia - C.N,348L
+Salamanca,331L
+Castroverde,329L
+Oviedo - C.N.,313L
+Lourdes,311L
+Monforte de Lemos,310L
+Rates,308L
+Italia,293L
+Coimbra,277L
+Nigrán,277L
+Rubiães,273L
+Cadavo,269L
+Alemania,268L
+Bélgica,266L
+Holanda,258L
+Vila do Conde,254L
+Zamora,242L
+Somport,231L
+Fatima,212L
+Zaragoza,194L
+Neda,190L
+Cataluña - C.F.,184L
+Aachen- Aquisgrán,183L
+Puebla de Sanabria,181L
+Guimaraes,179L
+Tineo - C.P.,179L
+Cast. la Mancha - C.F.,178L
+Grandas de Salime - C.P.,177L
+Hospital de Orbigo,177L
+Muros,175L
+Tapia de Casariego,172L
+Vilanova de Cerveira,164L
+Lourenzá,162L
+Chaves-Portugal,158L
+Vezelay,152L
+La caridad,151L
+Vilafranca,151L
+Arles,150L
+Naron,148L
+Frómista,145L
+Labruge,143L
+Águeda,142L
+Ramallosa,142L
+París,140L
+Granja de Moreruela,139L
+Castilla la Mancha otros,137L
+Suiza,137L
+Vilarinho,131L
+Cruz de Ferro,127L
+RIBADAVIA.,125L
+Allariz,124L
+Llanes,124L
+Portugalete,123L
+Cataluña - O.C.,122L
+Cádiz,120L
+Resto de Andalucia,117L
+Valladolid,117L
+Valencia O.C.,116L
+Com. Valenciana - O.C.,115L
+Cacabelos,114L
+Castrojeriz,114L
+Coimbra Costa,113L
+Resto de Portugal,109L
+Carrión de los Condes,108L
+Ribadesella,106L
+Tomar,106L
+Berducedo,105L
+R.Pais Vasco C.F.,105L
+Muros de nalon,104L
+Irlanda C.F.,103L
+Morgade,103L
+Reino Unido C.F.,102L
+Aragón,101L
+Bustio,100L
+Aveiro,99L
+Las Herrerías de Valcarce,99L
+Trabadelo,99L
+Viseu,99L
+Santillana del mar,98L
+Resto de Europa,97L
+Resto Europa,97L
+Vega de Valcarce,97L
+Biarritz,96L
+Alemania. O.C.,93L
+Marinhas,92L
+Puente la Reina,92L
+Caldas da Rainha,91L
+Faro,91L
+Santarém,90L
+Amsterdam,88L
+Sto. Domingo de la Calzada,88L
+Trabada,87L
+Estella,86L
+Laguna de Castilla,85L
+Cadavelo,84L
+Vegadeo,84L
+Austria,79L
+Vilar de Barrio,78L
+Soto de Luiña,77L
+Haarlem,76L
+Mérida,76L
+C.G.A resto de Portugal,75L
+Cáceres,74L
+almeria,72L
+Chantada,72L
+Gudiña,72L
+Jaca,72L
+Cudillero,71L
+Grado,69L
+Irlanda C. Ing,67L
+Ribadeo C. del Mar,67L
+Foncebadón,66L
+Malaga,64L
+A Canda,63L
+Rábade,63L
+Tours,63L
+Molinaseca,61L
+Salas,60L
+San Juan de Ortega,60L
+Ginebra,59L
+Portimão,59L
+Verín,59L
+Las Médulas,58L
+Pola de Allande,58L
+San Vicente de la Barquera,57L
+Vila real,57L
+Australia,56L
+Madrid - V.P.,54L
+Toulouse,54L
+Rabanal del Camino,53L
+A porbra do Brollon,51L
+Vila Nova Famalicão,50L
+La Mesa,49L
+Reino Unido C.Ing,49L
+Fonfría,48L
+Resto Asturias - C.N,47L
+Quiroga,45L
+Borres,44L
+Xunqueira de Ambia,44L
+Huelva,43L
+Navarra,43L
+Castro Urdiales,41L
+Villaviciosa,41L
+Villalcázar de Sirga,40L
+Montserrat,39L
+Polonia,38L
+Lagos,37L
+Resto C. León C.F.,37L
+Laza,36L
+Xinzo de Limia,36L
+Ambasmestas,35L
+El Acebo,35L
+Granada,35L
+Laredo,34L
+Camponaraya,33L
+Colombres,32L
+Liñares (por Samos),32L
+Resto C. León,32L
+Ribeira,32L
+Mansilla de las Mulas,31L
+Nájera,31L
+Canfranc,30L
+Comillas,30L
+RESTO DE PORTUGAL C.G.A,29L
+Zarautz,29L
+Belorado,28L
+Benavente,27L
+Casquita,27L
+La Rioja,27L
+Mosteiro Rendufe C.G.A,27L
+Andorra,26L
+Burdeos,26L
+A barciela,25L
+Resto Europa C. Ing.,25L
+A Degolada,24L
+Lires,24L
+Mont st. Michel,24L
+Republica Checa,24L
+San martín del Camino,24L
+Zubiri,24L
+Alto do Acevo (por Pobra de Burón),23L
+Alto do Acevo (por San Xoán de Padrón ),23L
+Córdoba,23L
+Orisson,23L
+Unquera,23L
+A Alberguería,22L
+La casquita,22L
+Los Arcos,22L
+O Barco de Valdeorras,22L
+Resto País Vasco - C.N.,22L
+Dax,21L
+Liñares (por San XII),21L
+Pola de siero,21L
+Portecelo,21L
+Saint Palais,21L
+Aguiada,20L
+Dinamarca,20L
+Fene,20L
+Ponte do Porto (Mañón),20L
+R. Castilla León C.Inv,20L
+Castilla La Mancha VP,19L
+Deba,19L
+Murcia,19L
+A Rúa,18L
+Pobeña,18L
+Resto Asturias - C.P.,18L
+Roma,18L
+Hungría,17L
+La virgen del Camino,17L
+Terras de Bouro C.G.A,17L
+Campo do Gerês C.G.A,16L
+Ruesta,16L
+Colonia,15L
+Noruega,15L
+Agés,14L
+Brea,14L
+Porto do Son,14L
+Resto Andalucia,14L
+Terradillos de los Templarios,14L
+Vincios,14L
+Coruxo,13L
+El burgo Ranero,13L
+Guemes,13L
+Lorca,13L
+Castro Leboreiro C.G.A,12L
+Lubián,12L
+Navarrete,12L
+Otur,12L
+Porto do Cabo (Cedeira),12L
+Resto Cantabria,12L
+Santa María de Gondar,12L
+Santa Marta de Tara,12L
+Zafra,12L
+Badajoz,11L
+Gernika-Lumo,11L
+Inglaterra C.F.,11L
+Luxemburgo,11L
+Oviedo,11L
+Ribadavia C.G.A,11L
+San XII,11L
+Suecia,11L
+Tábara,11L
+Valcarlos,11L
+Viena,11L
+A Barxa,10L
+Belesar,10L
+Gondan,10L
+La Faba,10L
+Ponte das Febres,10L
+Portimão,10L
+Roermond,10L
+Arrés,9L
+Jaén,9L
+Jerusalem,9L
+Lédigos,9L
+Viveiro,9L
+Konstanz,8L
+La Portela de Valcarce,8L
+Lobios C.G.A,8L
+O cebreiro (por San Xil),8L
+Requejo de Sanabria,8L
+Villadangos del Páramo,8L
+Boadilla del Camino,7L
+Calzadilla de la Cueza,7L
+Cirauqui,7L
+Espinosa del Camino,7L
+Hornillos del Camino,7L
+Itero de la Vega,7L
+Ortigueira,7L
+Resto de Extremadura,7L
+Santiago da ria de abres,7L
+Vilela,7L
+Villafranca de Montes de Oca,7L
+A Lastra,6L
+Bercianos del Real Camino,6L
+Betharram,6L
+Biduedo (por San XII),6L
+Brujas,6L
+Cabanas,6L
+Cabo de Cruz,6L
+Camariñas,6L
+Cortegada C.G.A,6L
+El Cubo de la Tierra del Vino,6L
+Espinosa de los monteros,6L
+Hontanas,6L
+Lezama,6L
+Murcia V.P.,6L
+Rionegro del Puente,6L
+Santa Catalina de Somoza,6L
+Santiponce,6L
+A ponte,5L
+Arcahueja,5L
+As Gándaras de Budiño,5L
+Batalha,5L
+Berán C.G.A,5L
+Bulgaria,5L
+Burguete,5L
+Calzada de Béjar,5L
+Columbrianos,5L
+El Escamplero,5L
+Golegã,5L
+Grañón,5L
+Grecia,5L
+Guardo,5L
+Hospital,5L
+Markina-Xemein,5L
+Pontedeume,5L
+Rusia,5L
+Sangüesa,5L
+Villademoros,5L
+A Fontaneira,4L
+Almendralejo,4L
+Asturianos,4L
+Atapuerca,4L
+Lalín,4L
+Leiria,4L
+Mera (Ortigueira),4L
+Padornelo (por Samos),4L
+Padornelo (por San Xil),4L
+Padron,4L
+Puerto de Béjar,4L
+Resto C. León - V.P.,4L
+Santa Croya de Tera,4L
+Valverde de la Virgen,4L
+Vilamartin de Valdeorras,4L
+Vilamartin Pequeño,4L
+Aguila del campo,3L
+Ameixoeira C.G.A,3L
+Azofra,3L
+Calzadilla de los Barros,3L
+Carcaboso,3L
+Casar de Cáceres,3L
+Castroncelos,3L
+Covelo,3L
+Guillena,3L
+La Bañeza,3L
+La Robla,3L
+Martiñan,3L
+Murias de Rechivaldo,3L
+Nava de Ordunte,3L
+O CONDADO.,3L
+Paradavella,3L
+Pieros,3L
+Puente de Domingo Flórez,3L
+Resto de Portugal C.M.R.,3L
+Riego de Ambrós,3L
+Setúbal,3L
+Silleiro,3L
+Tavira,3L
+Viana,3L
+Vilalle,3L
+Villamayor del Río,3L
+Villar de Farfón,3L
+A calle,2L
+A Pobra de Burón,2L
+Abres,2L
+Alcácer do Sal,2L
+Aldeanueva del Camino,2L
+Arleta,2L
+Ayegui,2L
+Azoreira C.G.A,2L
+Barizo,2L
+Bercianos de Valverde,2L
+Bexo,2L
+Cabo de Creus,2L
+Caión,2L
+Calzadilla del Mendigos,2L
+Campo,2L
+Carreira,2L
+Castildelgado,2L
+Castiñeiras,2L
+Cespon,2L
+El Real de la Jara,2L
+Eslovaquia,2L
+Fazouro,2L
+Ferreira,2L
+Finlandia,2L
+Fonfría (por Pobra de Burón),2L
+Gerês,2L
+Goiriz,2L
+Hospital de Montouto,2L
+Leiro,2L
+Leyre,2L
+MELGAÇO.,2L
+Miño,2L
+Monesterio,2L
+Montamarta,2L
+Moreda,2L
+O Pereiro,2L
+Peñaseita,2L
+Pereje,2L
+Ponte da Xira,2L
+Ponte de sa,2L
+Porto Camba,2L
+Puerto del Acebo,2L
+Redecilla del Camino,2L
+Reliegos,2L
+Ruitelán,2L
+San Pedro da Torre,2L
+Sandiás,2L
+Sigueiro,2L
+Sintra,2L
+Trasmiras,2L
+Zabaldika,2L
+ARCOS DE VALDEVEZ.,1L
+Arija,1L
+Artieda,1L
+As Vendas da Barreira,1L
+Baños de Montemayor,1L
+Barreiros,1L
+Betanzos,1L
+Biduedo (por San Xil),1L
+Boiro,1L
+Bruma,1L
+Burlada,1L
+Calzadilla de Tera,1L
+Carballido,1L
+Carballo de Lor,1L
+Castiblanco de los Arroyos,1L
+Castro Leboreiro C.G.A.,1L
+Celanova,1L
+Citierna,1L
+Compostilla,1L
+Dortmund,1L
+Egipto,1L
+El Ganso,1L
+Faramontanos de Tábara,1L
+Gándara,1L
+Grândola,1L
+Guenes,1L
+Manselle,1L
+Mombuey,1L
+MONÇAO.,1L
+Monreal,1L
+Monterredondo,1L
+Muruzábal,1L
+Nocedo,1L
+O burgo,1L
+O soldon,1L
+Óbanos,1L
+Olleros de Tera,1L
+Oostkapelle,1L
+Otero de Sanabria,1L
+Palacios de Sanabria,1L
+Pola de Lena,1L
+Poladura de la Tercia,1L
+Ponteceso,1L
+Portela do Homem C.G.A,1L
+Ribadavia C.G.A.,1L
+Río Arnoia C.G.A,1L
+San Ciprián (Cervo),1L
+San Xoán de Padrón,1L
+Sant Felíu de Llobregat,1L
+Sarandos,1L
+Torremejía,1L
+Trobajo del Camino,1L
+Vilabade,1L
+Villafría,1L
+Villalbilla,1L
+Villarmentero de Campos,1L
+Viloria de Rioja,1L
