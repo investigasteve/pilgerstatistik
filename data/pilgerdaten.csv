@@ -9613,6 +9613,7 @@ jahr;dimension;name;wert;quelle
 2025;startort;almeria;78;powerbi-jahr
 2025;startort;Águeda;100;powerbi-jahr
 2025;startort;Óbanos;4;powerbi-jahr
+2025;weg;(ohne Angabe);4;powerbi-jahr
 2025;weg;Camino Francés;241995;powerbi-jahr
 2025;weg;Camino Inglés;30200;powerbi-jahr
 2025;weg;Camino Levante;131;powerbi-jahr
@@ -10414,6 +10415,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;almeria;8;powerbi-tag
 2026;startort;Águeda;92;powerbi-tag
 2026;startort;Óbanos;2;powerbi-tag
+2026;weg;(ohne Angabe);30;powerbi-tag
 2026;weg;Camino Francés;244754;powerbi-tag
 2026;weg;Camino Inglés;31657;powerbi-tag
 2026;weg;Camino Levante;169;powerbi-tag

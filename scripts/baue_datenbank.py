@@ -92,7 +92,7 @@ def lies_tabellen(ordner):
             if w is None or not ganz:
                 zeilen = None
                 break
-            zeilen.append((z[0].strip(), int(w)))
+            zeilen.append((z[0].strip() or "(ohne Angabe)", int(w)))
         if not zeilen:
             continue
         namen = {n for n, _ in zeilen}
@@ -111,6 +111,30 @@ def lies_tabellen(ordner):
         if len(zeilen) > len(best.get(dim, [])):
             best[dim] = zeilen
     return best
+
+
+MONAT_NR = {"enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6, "julio": 7, "agosto": 8,
+            "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12}
+
+
+def lies_monate():
+    """data/monate-powerbi/<jahr>/<monat>/ -> {(jahr, monat): {'kennzahlen': {...}, 'dim': {dim: [(name, wert)]}}}"""
+    out = {}
+    kj = DATA / "monate-powerbi.json"
+    kenn = {}
+    if kj.exists():
+        kenn = json.loads(kj.read_text(encoding="utf-8")).get("monate", {})
+    for d in sorted(glob.glob(str(DATA / "monate-powerbi" / "[0-9]*" / "*"))):
+        pd = Path(d)
+        if not pd.is_dir():
+            continue
+        monat = MONAT_NR.get(pd.name.lower())
+        if not monat:
+            continue
+        jahr = int(pd.parent.name)
+        k = kenn.get(str(jahr), {}).get(pd.name, {}).get("kennzahlen", {})
+        out[(jahr, monat)] = {"kennzahlen": k, "dim": lies_tabellen(pd)}
+    return out
 
 
 def baue():
@@ -165,10 +189,10 @@ def baue():
             for key, name in (("peregrinos", "Pilger gesamt"), ("españoles", "Spanier"), ("extranjeros", "Ausländer")):
                 if key in k:
                     gesamt[(int(jahr), name)] = int(k[key])
-    return werte, tag, gesamt
+    return werte, tag, gesamt, lies_monate()
 
 
-def schreibe(werte, tag, gesamt):
+def schreibe(werte, tag, gesamt, monate):
     db = DATA / "pilgerstatistik.sqlite"
     if db.exists():
         db.unlink()
@@ -179,6 +203,9 @@ def schreibe(werte, tag, gesamt):
     CREATE TABLE tagesstand(stand TEXT, dimension TEXT, name TEXT, wert INTEGER,
                             PRIMARY KEY(stand, dimension, name));
     CREATE TABLE kennzahlen(jahr INTEGER, name TEXT, wert INTEGER, PRIMARY KEY(jahr, name));
+    CREATE TABLE monate(jahr INTEGER, monat INTEGER, dimension TEXT, name TEXT, wert INTEGER,
+                        PRIMARY KEY(jahr, monat, dimension, name));
+    CREATE TABLE monat_kennzahlen(jahr INTEGER, monat INTEGER, name TEXT, wert INTEGER, PRIMARY KEY(jahr, monat, name));
     CREATE TABLE land_sprache(land TEXT PRIMARY KEY, sprache TEXT, hinweis TEXT);
     CREATE TABLE quellen(kuerzel TEXT PRIMARY KEY, beschreibung TEXT);
     """)
@@ -187,6 +214,11 @@ def schreibe(werte, tag, gesamt):
     con.executemany("INSERT INTO tagesstand VALUES(?,?,?,?)",
                     [(s, d, n, w) for (s, d, n), w in sorted(tag.items())])
     con.executemany("INSERT INTO kennzahlen VALUES(?,?,?)", [(j, n, w) for (j, n), w in sorted(gesamt.items())])
+    con.executemany("INSERT INTO monate VALUES(?,?,?,?,?)",
+                    [(j, m, d, n, w) for (j, m), v in sorted(monate.items()) for d, zl in v["dim"].items() for n, w in zl])
+    con.executemany("INSERT INTO monat_kennzahlen VALUES(?,?,?,?)",
+                    [(j, m, {"peregrinos": "Pilger gesamt", "españoles": "Spanier", "extranjeros": "Ausländer"}[k], w)
+                     for (j, m), v in sorted(monate.items()) for k, w in v["kennzahlen"].items() if k in ("peregrinos", "españoles", "extranjeros") and w is not None])
     laender = sorted({n for (_, d, n) in werte if d == "land"} | {n for (_, d, n) in tag if d == "land"})
     zeilen = []
     for l in laender:
@@ -201,6 +233,8 @@ def schreibe(werte, tag, gesamt):
         ("powerbi-jahr", "Power-BI-Bericht Oficina del Peregrino, Jahresstand (Filter Año)"),
         ("powerbi-tag", "Power-BI-Bericht Oficina del Peregrino, laufendes Jahr, juengster Tagesstand"),
     ])
+    con.execute("CREATE VIEW sprache_monat AS SELECT m.jahr, m.monat, COALESCE(NULLIF(s.sprache,''),'unbekannt') AS sprache, "
+                "SUM(m.wert) AS wert FROM monate m LEFT JOIN land_sprache s ON s.land=m.name WHERE m.dimension='land' GROUP BY 1,2,3")
     con.execute("CREATE VIEW sprache_jahr AS SELECT w.jahr, COALESCE(NULLIF(s.sprache,''),'unbekannt') AS sprache, "
                 "SUM(w.wert) AS wert FROM werte w LEFT JOIN land_sprache s ON s.land=w.name "
                 "WHERE w.dimension='land' GROUP BY 1,2")
@@ -218,6 +252,13 @@ def schreibe(werte, tag, gesamt):
         for (s, d, n), v in sorted(tag.items()):
             w.writerow([s, d, n, v])
 
+    with open(DATA / "monatsdaten.csv", "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh, delimiter=";")
+        w.writerow(["jahr", "monat", "dimension", "name", "wert"])
+        for (j, m), v in sorted(monate.items()):
+            for d, zl in v["dim"].items():
+                for n, x in zl:
+                    w.writerow([j, m, d, n, x])
     # kompaktes JSON fuer die Webseite
     out = {"stand": max([s for (s, _, _) in tag] or [""]), "kennzahlen": {}, "jahre": {}, "aktuell": {},
            "sprachen": {}}
@@ -229,6 +270,13 @@ def schreibe(werte, tag, gesamt):
         for (s, d, n), v in tag.items():
             if s == out["stand"]:
                 out["aktuell"].setdefault(d, {})[n] = v
+    out["monate"] = {}
+    for (j, m), v in sorted(monate.items()):
+        e = out["monate"].setdefault(str(j), {})
+        e[str(m)] = {"gesamt": v["kennzahlen"].get("peregrinos"), "spanier": v["kennzahlen"].get("españoles"),
+                     "ausland": v["kennzahlen"].get("extranjeros"),
+                     "weg": dict(v["dim"].get("weg", [])), "land": dict(sorted(v["dim"].get("land", []), key=lambda x: -x[1])[:25]),
+                     "motiv": dict(v["dim"].get("motiv", []))}
     con = sqlite3.connect(db)
     for j, s, v in con.execute("SELECT jahr, sprache, wert FROM sprache_jahr"):
         out["sprachen"].setdefault(str(j), {})[s] = v
@@ -237,9 +285,31 @@ def schreibe(werte, tag, gesamt):
     return out
 
 
+def pruefe(werte, gesamt, monate):
+    """Monatssummen gegen Jahreswerte."""
+    ok = True
+    jahre = sorted({j for (j, _) in monate})
+    for j in jahre:
+        ms = sorted(m for (jj, m) in monate if jj == j)
+        summe = sum(monate[(j, m)]["kennzahlen"].get("peregrinos") or 0 for m in ms)
+        jahr = gesamt.get((j, "Pilger gesamt"))
+        if jahr is None:
+            jahr = sum(v for (jj, d, n), (v, q) in werte.items() if jj == j and d == "motiv")
+        status = "OK" if summe == jahr and len(ms) in (12,) else ("OK (laufendes Jahr, %d Monate)" % len(ms) if summe == jahr else "ABWEICHUNG")
+        if summe != jahr: ok = False
+        dims = {}
+        for d in ("weg", "land", "startort", "motiv", "region"):
+            sd = sum(w for m in ms for n, w in monate[(j, m)]["dim"].get(d, []))
+            yd = sum(v for (jj, dd, n), (v, q) in werte.items() if jj == j and dd == d)
+            dims[d] = "=" if sd == yd else f"{sd}/{yd}"
+        print(f"  Monatsprüfung {j}: {len(ms)} Monate, Summe {summe} / Jahr {jahr} -> {status} | " + " ".join(f"{d}{x}" for d, x in dims.items()))
+    return ok
+
+
 def main():
-    werte, tag, gesamt = baue()
-    out = schreibe(werte, tag, gesamt)
+    werte, tag, gesamt, monate = baue()
+    out = schreibe(werte, tag, gesamt, monate)
+    pruefe(werte, gesamt, monate)
     jahre = sorted({j for (j, _, _) in werte})
     print("Jahre:", jahre[0], "-", jahre[-1], "| Jahreswerte:", len(werte), "| Tagesstaende:", len(tag),
           "| Staende:", len({s for (s, _, _) in tag}))

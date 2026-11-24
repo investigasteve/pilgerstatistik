@@ -1,0 +1,5193 @@
+jahr;monat;dimension;name;wert
+2025;1;region;Madrid;181
+2025;1;region;Comunidad Valenciana;177
+2025;1;region;Galicia;158
+2025;1;region;Andalucia;151
+2025;1;region;Cataluña;124
+2025;1;region;Castilla León;87
+2025;1;region;Baleares;75
+2025;1;region;Castilla La Mancha;46
+2025;1;region;Canarias;34
+2025;1;region;Murcia;30
+2025;1;region;País Vasco;29
+2025;1;region;Asturias;23
+2025;1;region;Extremadura;21
+2025;1;region;Aragon;10
+2025;1;region;Ceuta;9
+2025;1;region;Navarra;9
+2025;1;region;Cantabria;6
+2025;1;region;Sin autonomía;4
+2025;1;region;La Rioja;2
+2025;1;region;Residentes Extranjero;1
+2025;1;weg;Camino Francés;1415
+2025;1;weg;Camino Portugués;498
+2025;1;weg;Camino Portugués por la Costa;451
+2025;1;weg;Camino Primitivo;172
+2025;1;weg;Camino Inglés;158
+2025;1;weg;Vía de la Plata;63
+2025;1;weg;Camino del Norte;59
+2025;1;weg;Camino de Invierno;56
+2025;1;weg;Otros Caminos;17
+2025;1;weg;Camino de Geira - Arrieros;10
+2025;1;weg;Muxía - Finisterre;7
+2025;1;weg;Camino Olvidado;1
+2025;1;motiv;Otros;1165
+2025;1;motiv;Religioso;1073
+2025;1;motiv;No Religioso;543
+2025;1;motiv;Desconocido;126
+2025;1;land;España;1177
+2025;1;land;Corea;191
+2025;1;land;Estados Unidos;161
+2025;1;land;Italia;150
+2025;1;land;Portugal;145
+2025;1;land;China;110
+2025;1;land;Alemania;87
+2025;1;land;México;72
+2025;1;land;Brasil;66
+2025;1;land;Francia;65
+2025;1;land;Canadá;58
+2025;1;land;Argentina;49
+2025;1;land;Dinamarca;48
+2025;1;land;República Checa;44
+2025;1;land;Australia;41
+2025;1;land;Holanda;33
+2025;1;land;Colombia;30
+2025;1;land;Reino Unido;30
+2025;1;land;Taiwán;27
+2025;1;land;Japón;24
+2025;1;land;Polonia;22
+2025;1;land;Rusia;22
+2025;1;land;Chile;19
+2025;1;land;Eslovaquia;18
+2025;1;land;Hungría;15
+2025;1;land;Bélgica;14
+2025;1;land;Irlanda;14
+2025;1;land;Ucrania;14
+2025;1;land;Paraguay;13
+2025;1;land;Uruguay;12
+2025;1;land;Malasia;9
+2025;1;land;Suiza;9
+2025;1;land;Venezuela;9
+2025;1;land;Croacia;8
+2025;1;land;Finlandia;8
+2025;1;land;Perú;7
+2025;1;land;Rumania;7
+2025;1;land;Austria;6
+2025;1;land;Sudáfrica;6
+2025;1;land;Cuba;4
+2025;1;land;Honduras;4
+2025;1;land;Hong Kong;4
+2025;1;land;Nueva Zelanda;4
+2025;1;land;Bulgaria;3
+2025;1;land;Estonia;3
+2025;1;land;Letonia;3
+2025;1;land;Lituania;3
+2025;1;land;Puerto Rico;3
+2025;1;land;Bielorrusia;2
+2025;1;land;Ecuador;2
+2025;1;land;El Salvador;2
+2025;1;land;Moldavia;2
+2025;1;land;Nicaragua;2
+2025;1;land;Noruega;2
+2025;1;land;Suecia;2
+2025;1;land;Andorra;1
+2025;1;land;Antillas Holandesas;1
+2025;1;land;Barbados;1
+2025;1;land;Bolivia;1
+2025;1;land;Costa Rica;1
+2025;1;land;Desconocido;1
+2025;1;land;Eslovenia;1
+2025;1;land;Filipinas;1
+2025;1;land;Guatemala;1
+2025;1;land;India;1
+2025;1;land;Islandia;1
+2025;1;land;Islas Caimán;1
+2025;1;land;Líbano;1
+2025;1;land;Marruecos;1
+2025;1;land;Pakistán;1
+2025;1;land;Panamá;1
+2025;1;land;Rep. Dominicana;1
+2025;1;land;Serbia;1
+2025;1;land;Singapur;1
+2025;1;land;Tonga;1
+2025;1;land;Turquía;1
+2025;1;land;Vietnam;1
+2025;1;startort;Sarria;843
+2025;1;startort;Oporto Costa;167
+2025;1;startort;Porto (por Tui);159
+2025;1;startort;Oporto;154
+2025;1;startort;Ferrol;147
+2025;1;startort;Tui;145
+2025;1;startort;Cebreiro;144
+2025;1;startort;S. Jean P. Port;132
+2025;1;startort;Valença do Minho;100
+2025;1;startort;Oviedo - C.P.;82
+2025;1;startort;Lugo - C.P.;71
+2025;1;startort;León;69
+2025;1;startort;Vigo;65
+2025;1;startort;Ponferrada;51
+2025;1;startort;Braga;40
+2025;1;startort;Ponferrada. C.Inv.;38
+2025;1;startort;Ourense;32
+2025;1;startort;Astorga;24
+2025;1;startort;Pamplona;24
+2025;1;startort;Burgos;22
+2025;1;startort;Sevilla;22
+2025;1;startort;Lisboa;19
+2025;1;startort;Ponte de Lima;18
+2025;1;startort;Lisboa Costa;17
+2025;1;startort;Roncesvalles;15
+2025;1;startort;Villafranca del Bierzo;15
+2025;1;startort;Baiona;11
+2025;1;startort;Irún;11
+2025;1;startort;Samos;11
+2025;1;startort;Braga C.G.A.;10
+2025;1;startort;Le Puy;10
+2025;1;startort;Ribadeo;10
+2025;1;startort;Francia - C.F.;7
+2025;1;startort;A Guarda;6
+2025;1;startort;Esposende;6
+2025;1;startort;Finisterra;6
+2025;1;startort;Monforte de Lemos;6
+2025;1;startort;Neda;6
+2025;1;startort;Povoa de Varzim;6
+2025;1;startort;Ruitelán;6
+2025;1;startort;Viana do Castelo;6
+2025;1;startort;A Coruña;5
+2025;1;startort;Bayonne;5
+2025;1;startort;Chantada;5
+2025;1;startort;Tineo - C.P.;5
+2025;1;startort;Triacastela;5
+2025;1;startort;Vilalba;5
+2025;1;startort;Barcelona;4
+2025;1;startort;Castroverde;4
+2025;1;startort;Coimbra;4
+2025;1;startort;Logroño;4
+2025;1;startort;Porriño;4
+2025;1;startort;Resto Galicia;4
+2025;1;startort;Barcelos;3
+2025;1;startort;Bélgica;3
+2025;1;startort;Bilbao;3
+2025;1;startort;Caminha;3
+2025;1;startort;Cataluña - O.C.;3
+2025;1;startort;Fonsagrada - C.P.;3
+2025;1;startort;Madrid;3
+2025;1;startort;Republica Checa;3
+2025;1;startort;Resto Europa;3
+2025;1;startort;San Sebastián;3
+2025;1;startort;Santander;3
+2025;1;startort;Vilalle;3
+2025;1;startort;Vilanova de Cerveira;3
+2025;1;startort;Xinzo de Limia;3
+2025;1;startort;A Rúa;2
+2025;1;startort;Abadin;2
+2025;1;startort;Alemania;2
+2025;1;startort;Avilés;2
+2025;1;startort;C.G.A resto de Portugal;2
+2025;1;startort;Cadavelo;2
+2025;1;startort;Coimbra Costa;2
+2025;1;startort;Com. Valenciana - O.C.;2
+2025;1;startort;Ferreiros;2
+2025;1;startort;Francia - C.N;2
+2025;1;startort;Frómista;2
+2025;1;startort;Guimaraes;2
+2025;1;startort;Las Herrerías de Valcarce;2
+2025;1;startort;Las Médulas;2
+2025;1;startort;Luarca;2
+2025;1;startort;Mondoñedo;2
+2025;1;startort;Muros de nalon;2
+2025;1;startort;Oia;2
+2025;1;startort;Pola de Allande;2
+2025;1;startort;Quiroga;2
+2025;1;startort;Resto de Europa;2
+2025;1;startort;Resto de Galicia;2
+2025;1;startort;A Barxa;1
+2025;1;startort;A Canda;1
+2025;1;startort;Allariz;1
+2025;1;startort;almeria;1
+2025;1;startort;Casquita;1
+2025;1;startort;Castilla la Mancha otros;1
+2025;1;startort;Colombres;1
+2025;1;startort;Com. Valenciana - C.F.;1
+2025;1;startort;El Escamplero;1
+2025;1;startort;Fatima;1
+2025;1;startort;Fontanillas de Castro;1
+2025;1;startort;Granja de Moreruela;1
+2025;1;startort;Hendaya;1
+2025;1;startort;Hospital de Orbigo;1
+2025;1;startort;Lourdes;1
+2025;1;startort;Mansilla de las Mulas;1
+2025;1;startort;Muxia;1
+2025;1;startort;Padornelo (por Samos);1
+2025;1;startort;Polonia;1
+2025;1;startort;Portimão;1
+2025;1;startort;Rates;1
+2025;1;startort;Resto de Andalucia;1
+2025;1;startort;Roma;1
+2025;1;startort;Sahagún;1
+2025;1;startort;Salamanca;1
+2025;1;startort;Salas;1
+2025;1;startort;Sto. Domingo de la Calzada;1
+2025;1;startort;Tomar;1
+2025;1;startort;Valencia O.C.;1
+2025;1;startort;Vila do Conde;1
+2025;1;startort;Villaviciosa;1
+2025;1;startort;Zamora;1
+2025;1;startort;Zaragoza;1
+2025;1;startort;Zubiri;1
+2025;2;motiv;Religioso;1448
+2025;2;motiv;Otros;1369
+2025;2;motiv;No Religioso;593
+2025;2;motiv;Desconocido;127
+2025;2;weg;Camino Francés;1695
+2025;2;weg;Camino Portugués;773
+2025;2;weg;Camino Portugués por la Costa;457
+2025;2;weg;Camino Inglés;241
+2025;2;weg;Camino Primitivo;152
+2025;2;weg;Camino del Norte;73
+2025;2;weg;Vía de la Plata;73
+2025;2;weg;Camino de Invierno;41
+2025;2;weg;Otros Caminos;16
+2025;2;weg;Muxía - Finisterre;7
+2025;2;weg;Camino de Muros - Noia;5
+2025;2;weg;Camino de Geira - Arrieros;2
+2025;2;weg;Camino de Lluc;2
+2025;2;region;Andalucia;484
+2025;2;region;Comunidad Valenciana;180
+2025;2;region;Madrid;178
+2025;2;region;Cataluña;140
+2025;2;region;Galicia;123
+2025;2;region;Baleares;106
+2025;2;region;Asturias;84
+2025;2;region;Cantabria;61
+2025;2;region;Canarias;57
+2025;2;region;Castilla León;56
+2025;2;region;Extremadura;54
+2025;2;region;Castilla La Mancha;43
+2025;2;region;Murcia;29
+2025;2;region;País Vasco;24
+2025;2;region;Aragon;19
+2025;2;region;Residentes Extranjero;8
+2025;2;region;La Rioja;5
+2025;2;region;Navarra;4
+2025;2;region;Sin autonomía;3
+2025;2;region;Ceuta;2
+2025;2;region;Melilla;1
+2025;2;land;España;1661
+2025;2;land;Corea;266
+2025;2;land;Portugal;195
+2025;2;land;Alemania;143
+2025;2;land;Estados Unidos;136
+2025;2;land;Italia;117
+2025;2;land;China;106
+2025;2;land;México;95
+2025;2;land;Reino Unido;78
+2025;2;land;Brasil;63
+2025;2;land;República Checa;61
+2025;2;land;Francia;52
+2025;2;land;Canadá;46
+2025;2;land;Argentina;45
+2025;2;land;Polonia;42
+2025;2;land;Holanda;31
+2025;2;land;Colombia;30
+2025;2;land;Japón;23
+2025;2;land;Taiwán;22
+2025;2;land;Chile;21
+2025;2;land;Ucrania;20
+2025;2;land;Dinamarca;18
+2025;2;land;Suiza;18
+2025;2;land;Bélgica;16
+2025;2;land;Eslovenia;16
+2025;2;land;Irlanda;15
+2025;2;land;Australia;14
+2025;2;land;Venezuela;14
+2025;2;land;Ecuador;10
+2025;2;land;Hungría;10
+2025;2;land;Lituania;10
+2025;2;land;Rusia;9
+2025;2;land;Austria;8
+2025;2;land;Finlandia;8
+2025;2;land;Malasia;8
+2025;2;land;Uruguay;8
+2025;2;land;Eslovaquia;7
+2025;2;land;Letonia;7
+2025;2;land;Rumania;7
+2025;2;land;Croacia;6
+2025;2;land;Noruega;5
+2025;2;land;Estonia;4
+2025;2;land;Perú;4
+2025;2;land;Turquía;4
+2025;2;land;Bielorrusia;3
+2025;2;land;Bulgaria;3
+2025;2;land;Guatemala;3
+2025;2;land;Honduras;3
+2025;2;land;Hong Kong;3
+2025;2;land;Nueva Zelanda;3
+2025;2;land;Paraguay;3
+2025;2;land;Puerto Rico;3
+2025;2;land;Sudáfrica;3
+2025;2;land;Costa Rica;2
+2025;2;land;El Salvador;2
+2025;2;land;Filipinas;2
+2025;2;land;I. Reunión;2
+2025;2;land;Indonesia;2
+2025;2;land;Malta;2
+2025;2;land;Nicaragua;2
+2025;2;land;Singapur;2
+2025;2;land;Suecia;2
+2025;2;land;Afganistán;1
+2025;2;land;Azerbaiyán;1
+2025;2;land;Cuba;1
+2025;2;land;Georgia;1
+2025;2;land;Grecia;1
+2025;2;land;India;1
+2025;2;land;Irak;1
+2025;2;land;Islandia;1
+2025;2;land;Líbano;1
+2025;2;land;Moldavia;1
+2025;2;land;Panamá;1
+2025;2;land;Rep. Dominicana;1
+2025;2;land;Túnez;1
+2025;2;startort;Sarria;1146
+2025;2;startort;Oporto;313
+2025;2;startort;Ferrol;235
+2025;2;startort;Tui;222
+2025;2;startort;Oporto Costa;180
+2025;2;startort;S. Jean P. Port;151
+2025;2;startort;Valença do Minho;133
+2025;2;startort;Porto (por Tui);106
+2025;2;startort;Vigo;99
+2025;2;startort;Lugo - C.P.;85
+2025;2;startort;Cebreiro;68
+2025;2;startort;León;68
+2025;2;startort;Castrojeriz;48
+2025;2;startort;Ponferrada;47
+2025;2;startort;Oviedo - C.P.;45
+2025;2;startort;Lisboa;33
+2025;2;startort;Roncesvalles;28
+2025;2;startort;Pamplona;27
+2025;2;startort;Ourense;26
+2025;2;startort;Ponferrada. C.Inv.;26
+2025;2;startort;Astorga;22
+2025;2;startort;Baiona;21
+2025;2;startort;Triacastela;20
+2025;2;startort;Ponte de Lima;19
+2025;2;startort;Sevilla;17
+2025;2;startort;Irún;14
+2025;2;startort;Villafranca del Bierzo;14
+2025;2;startort;Barcelos;12
+2025;2;startort;Burgos;12
+2025;2;startort;Lisboa Costa;12
+2025;2;startort;A Guarda;11
+2025;2;startort;Caminha;10
+2025;2;startort;Fonsagrada - C.P.;10
+2025;2;startort;Ribadeo;10
+2025;2;startort;Resto Galicia;9
+2025;2;startort;Laza;7
+2025;2;startort;San Sebastián;7
+2025;2;startort;Braga;6
+2025;2;startort;Francia - C.F.;6
+2025;2;startort;Hendaya;6
+2025;2;startort;Vilalba;6
+2025;2;startort;Avilés;5
+2025;2;startort;Fatima;5
+2025;2;startort;Grandas de Salime - C.P.;5
+2025;2;startort;La Rioja;5
+2025;2;startort;Le Puy;5
+2025;2;startort;Monforte de Lemos;5
+2025;2;startort;Muros;5
+2025;2;startort;Muxia;5
+2025;2;startort;Nigrán;5
+2025;2;startort;Porriño;5
+2025;2;startort;Viana do Castelo;5
+2025;2;startort;Vila Nova Famalicão;5
+2025;2;startort;A Rúa;4
+2025;2;startort;Allariz;4
+2025;2;startort;Cataluña - O.C.;4
+2025;2;startort;La caridad;4
+2025;2;startort;Puebla de Sanabria;4
+2025;2;startort;Reino Unido C.Ing;4
+2025;2;startort;Resto Portugal;4
+2025;2;startort;Bilbao;3
+2025;2;startort;Cádiz;3
+2025;2;startort;Mérida;3
+2025;2;startort;Oviedo - C.N.;3
+2025;2;startort;Rubiães;3
+2025;2;startort;Ruitelán;3
+2025;2;startort;Vila do Conde;3
+2025;2;startort;A Coruña;2
+2025;2;startort;Bayonne;2
+2025;2;startort;Braga C.G.A.;2
+2025;2;startort;Cáceres;2
+2025;2;startort;Coimbra;2
+2025;2;startort;Cudillero;2
+2025;2;startort;Finisterra;2
+2025;2;startort;Huelva;2
+2025;2;startort;Llanes;2
+2025;2;startort;Lluc;2
+2025;2;startort;Logroño;2
+2025;2;startort;Madrid;2
+2025;2;startort;Oia;2
+2025;2;startort;Pola de Allande;2
+2025;2;startort;Povoa de Varzim;2
+2025;2;startort;Puerto del Acebo;2
+2025;2;startort;Rates;2
+2025;2;startort;Resto de Andalucia;2
+2025;2;startort;Resto de Europa;2
+2025;2;startort;Salamanca;2
+2025;2;startort;Santander;2
+2025;2;startort;Somport;2
+2025;2;startort;Sto. Domingo de la Calzada;2
+2025;2;startort;Tineo - C.P.;2
+2025;2;startort;Tomar;2
+2025;2;startort;Vezelay;2
+2025;2;startort;Viseu;2
+2025;2;startort;Zaragoza;2
+2025;2;startort;A Barxa;1
+2025;2;startort;Águeda;1
+2025;2;startort;Aguiada;1
+2025;2;startort;Aragón;1
+2025;2;startort;Barcelona;1
+2025;2;startort;Biarritz;1
+2025;2;startort;Cadavo;1
+2025;2;startort;Chantada;1
+2025;2;startort;Coimbra Costa;1
+2025;2;startort;Com. Valenciana - O.C.;1
+2025;2;startort;Compostilla;1
+2025;2;startort;Córdoba;1
+2025;2;startort;Deba;1
+2025;2;startort;Faro;1
+2025;2;startort;Francia - C.N;1
+2025;2;startort;Gudiña;1
+2025;2;startort;Guimaraes;1
+2025;2;startort;La virgen del Camino;1
+2025;2;startort;Laguna de Castilla;1
+2025;2;startort;Lourdes;1
+2025;2;startort;Madrid - C.F.;1
+2025;2;startort;Mansilla de las Mulas;1
+2025;2;startort;París;1
+2025;2;startort;Quiroga;1
+2025;2;startort;Resto de Galicia;1
+2025;2;startort;Resto Europa;1
+2025;2;startort;Ribadesella;1
+2025;2;startort;Roma;1
+2025;2;startort;Sahagún;1
+2025;2;startort;Santarém;1
+2025;2;startort;Soto de Luiña;1
+2025;2;startort;Tours;1
+2025;2;startort;Vilafranca;1
+2025;2;startort;Vilamartin de Valdeorras;1
+2025;2;startort;Zamora;1
+2025;3;region;Andalucia;1131
+2025;3;region;Madrid;1107
+2025;3;region;Comunidad Valenciana;1046
+2025;3;region;Cataluña;449
+2025;3;region;Canarias;400
+2025;3;region;Castilla La Mancha;396
+2025;3;region;Castilla León;377
+2025;3;region;Galicia;369
+2025;3;region;Baleares;201
+2025;3;region;Murcia;148
+2025;3;region;Extremadura;127
+2025;3;region;Aragon;117
+2025;3;region;País Vasco;72
+2025;3;region;Asturias;69
+2025;3;region;Navarra;40
+2025;3;region;Cantabria;27
+2025;3;region;La Rioja;11
+2025;3;region;Residentes Extranjero;10
+2025;3;region;Sin autonomía;10
+2025;3;region;Ceuta;8
+2025;3;region;Melilla;2
+2025;3;motiv;Religioso;6243
+2025;3;motiv;Otros;4869
+2025;3;motiv;No Religioso;2321
+2025;3;motiv;Desconocido;635
+2025;3;weg;Camino Francés;6805
+2025;3;weg;Camino Portugués;2970
+2025;3;weg;Camino Portugués por la Costa;2185
+2025;3;weg;Camino Inglés;819
+2025;3;weg;Camino Primitivo;495
+2025;3;weg;Vía de la Plata;318
+2025;3;weg;Camino del Norte;256
+2025;3;weg;Camino de Invierno;90
+2025;3;weg;Otros Caminos;46
+2025;3;weg;Muxía - Finisterre;38
+2025;3;weg;Camino de San Rosendo;21
+2025;3;weg;Camino de Geira - Arrieros;16
+2025;3;weg;Camino de San Salvador;5
+2025;3;weg;Camino Olvidado;1
+2025;3;weg;Camino de Tenerife Norte;1
+2025;3;weg;Camino de Lluc;1
+2025;3;weg;O Vello Camino de Santiago (Betanzos-Santiago);1
+2025;3;land;España;6117
+2025;3;land;Portugal;1156
+2025;3;land;Estados Unidos;1074
+2025;3;land;Alemania;1036
+2025;3;land;México;467
+2025;3;land;Italia;461
+2025;3;land;Reino Unido;432
+2025;3;land;Corea;270
+2025;3;land;Brasil;225
+2025;3;land;Canadá;203
+2025;3;land;Francia;163
+2025;3;land;República Checa;162
+2025;3;land;Holanda;151
+2025;3;land;Colombia;128
+2025;3;land;Argentina;126
+2025;3;land;Australia;125
+2025;3;land;Polonia;120
+2025;3;land;Taiwán;109
+2025;3;land;Indonesia;105
+2025;3;land;Irlanda;92
+2025;3;land;China;90
+2025;3;land;Ucrania;87
+2025;3;land;Dinamarca;81
+2025;3;land;Suiza;67
+2025;3;land;Austria;63
+2025;3;land;Venezuela;61
+2025;3;land;Bélgica;58
+2025;3;land;Puerto Rico;54
+2025;3;land;Japón;53
+2025;3;land;Finlandia;49
+2025;3;land;Malasia;44
+2025;3;land;Eslovaquia;41
+2025;3;land;Rusia;41
+2025;3;land;Hungría;38
+2025;3;land;Letonia;35
+2025;3;land;Filipinas;33
+2025;3;land;Rumania;33
+2025;3;land;Uruguay;30
+2025;3;land;Noruega;26
+2025;3;land;Costa Rica;25
+2025;3;land;Hong Kong;22
+2025;3;land;Eslovenia;21
+2025;3;land;Lituania;19
+2025;3;land;Nueva Zelanda;19
+2025;3;land;Croacia;18
+2025;3;land;Ecuador;18
+2025;3;land;Bielorrusia;15
+2025;3;land;Perú;15
+2025;3;land;Suecia;14
+2025;3;land;Chile;13
+2025;3;land;El Salvador;12
+2025;3;land;Estonia;10
+2025;3;land;Grecia;9
+2025;3;land;Panamá;9
+2025;3;land;Sudáfrica;9
+2025;3;land;Andorra;8
+2025;3;land;Bulgaria;8
+2025;3;land;Malta;8
+2025;3;land;Paraguay;8
+2025;3;land;Singapur;8
+2025;3;land;Albania;7
+2025;3;land;Turquía;6
+2025;3;land;Rep. Dominicana;5
+2025;3;land;Serbia;5
+2025;3;land;Angola;4
+2025;3;land;Honduras;4
+2025;3;land;India;4
+2025;3;land;Israel;4
+2025;3;land;Afganistán;3
+2025;3;land;Antillas Holandesas;3
+2025;3;land;Bolivia;3
+2025;3;land;Guatemala;3
+2025;3;land;Luxemburgo;3
+2025;3;land;Bosnia;2
+2025;3;land;Cuba;2
+2025;3;land;Irán;2
+2025;3;land;Moldavia;2
+2025;3;land;Comores;1
+2025;3;land;Desconocido;1
+2025;3;land;Dominica;1
+2025;3;land;Etiopía;1
+2025;3;land;Kazajistán;1
+2025;3;land;Líbano;1
+2025;3;land;Liechtensein;1
+2025;3;land;Marruecos;1
+2025;3;land;Myanmar;1
+2025;3;land;Nepal;1
+2025;3;land;Nicaragua;1
+2025;3;land;Tailandia;1
+2025;3;startort;Sarria;5257
+2025;3;startort;Oporto;923
+2025;3;startort;Ferrol;799
+2025;3;startort;Tui;781
+2025;3;startort;Valença do Minho;621
+2025;3;startort;Porto (por Tui);617
+2025;3;startort;Oporto Costa;592
+2025;3;startort;Vigo;500
+2025;3;startort;S. Jean P. Port;401
+2025;3;startort;Oviedo - C.P.;244
+2025;3;startort;Porriño;240
+2025;3;startort;Cebreiro;195
+2025;3;startort;Ourense;179
+2025;3;startort;Baiona;176
+2025;3;startort;León;169
+2025;3;startort;Lugo - C.P.;157
+2025;3;startort;Ponferrada;151
+2025;3;startort;Lisboa;103
+2025;3;startort;Ponferrada. C.Inv.;75
+2025;3;startort;Triacastela;75
+2025;3;startort;A Guarda;69
+2025;3;startort;Pamplona;68
+2025;3;startort;Sevilla;66
+2025;3;startort;Viana do Castelo;62
+2025;3;startort;Roncesvalles;57
+2025;3;startort;Barbadelo;56
+2025;3;startort;Ponte das Febres;54
+2025;3;startort;Ponte de Lima;54
+2025;3;startort;Barcelos;51
+2025;3;startort;Ferreiros;48
+2025;3;startort;Caminha;47
+2025;3;startort;Burgos;46
+2025;3;startort;Viseu;44
+2025;3;startort;Baamonde;43
+2025;3;startort;Astorga;42
+2025;3;startort;Irún;42
+2025;3;startort;Lisboa Costa;42
+2025;3;startort;Resto de Galicia;41
+2025;3;startort;Villafranca del Bierzo;40
+2025;3;startort;Logroño;34
+2025;3;startort;Ribadeo;34
+2025;3;startort;Fonsagrada - C.P.;31
+2025;3;startort;Cadavo;30
+2025;3;startort;Muxia;28
+2025;3;startort;Vilalba;26
+2025;3;startort;Le Puy;21
+2025;3;startort;Povoa de Varzim;21
+2025;3;startort;Vila do Conde;19
+2025;3;startort;Francia - C.F.;18
+2025;3;startort;Salamanca;17
+2025;3;startort;Lobios;16
+2025;3;startort;Barcelona;14
+2025;3;startort;A Coruña;13
+2025;3;startort;Mondoñedo;13
+2025;3;startort;Resto Galicia;13
+2025;3;startort;Rubiães;13
+2025;3;startort;Samos;13
+2025;3;startort;Gijón;12
+2025;3;startort;Madrid;12
+2025;3;startort;Alto do Acevo (por San Xoán de Padrón );11
+2025;3;startort;Braga C.G.A.;11
+2025;3;startort;Oia;11
+2025;3;startort;Finisterra;10
+2025;3;startort;Madrid - C.F.;10
+2025;3;startort;San Sebastián;10
+2025;3;startort;Santander;10
+2025;3;startort;Avilés;9
+2025;3;startort;Bayonne;9
+2025;3;startort;Bilbao;8
+2025;3;startort;Grandas de Salime - C.P.;8
+2025;3;startort;Puebla de Sanabria;8
+2025;3;startort;Resto de Andalucia;8
+2025;3;startort;Xinzo de Limia;8
+2025;3;startort;Cádiz;7
+2025;3;startort;Coimbra;7
+2025;3;startort;Esposende;7
+2025;3;startort;Oviedo - C.N.;7
+2025;3;startort;Alemania;6
+2025;3;startort;Nigrán;6
+2025;3;startort;Verín;6
+2025;3;startort;almeria;5
+2025;3;startort;Carrión de los Condes;5
+2025;3;startort;La Faba;5
+2025;3;startort;Las Médulas;5
+2025;3;startort;Luarca;5
+2025;3;startort;Monforte de Lemos;5
+2025;3;startort;Portugalete;5
+2025;3;startort;Resto Portugal;5
+2025;3;startort;Vilarinho;5
+2025;3;startort;Zamora;5
+2025;3;startort;Aveiro;4
+2025;3;startort;Bande;4
+2025;3;startort;Braga;4
+2025;3;startort;Cataluña - O.C.;4
+2025;3;startort;Com. Valenciana - C.F.;4
+2025;3;startort;Gudiña;4
+2025;3;startort;Guimaraes;4
+2025;3;startort;Hospital de Orbigo;4
+2025;3;startort;Labruge;4
+2025;3;startort;Lourdes;4
+2025;3;startort;Pola de Allande;4
+2025;3;startort;Rates;4
+2025;3;startort;Reino Unido C.Ing;4
+2025;3;startort;Resto de Europa;4
+2025;3;startort;Resto de Portugal;4
+2025;3;startort;Ruitelán;4
+2025;3;startort;Sahagún;4
+2025;3;startort;Vezelay;4
+2025;3;startort;Austria;3
+2025;3;startort;Coimbra Costa;3
+2025;3;startort;Com. Valenciana - O.C.;3
+2025;3;startort;Estella;3
+2025;3;startort;Fatima;3
+2025;3;startort;Francia - C.N;3
+2025;3;startort;Grado;3
+2025;3;startort;Hendaya;3
+2025;3;startort;Jaén;3
+2025;3;startort;Malaga;3
+2025;3;startort;O Barco de Valdeorras;3
+2025;3;startort;Puente la Reina;3
+2025;3;startort;Ribadavia C.G.A;3
+2025;3;startort;Suiza;3
+2025;3;startort;Tomar;3
+2025;3;startort;Valencia O.C.;3
+2025;3;startort;Vega de Valcarce;3
+2025;3;startort;Zaragoza;3
+2025;3;startort;Águeda;2
+2025;3;startort;Amsterdam;2
+2025;3;startort;Cáceres;2
+2025;3;startort;Cadavelo;2
+2025;3;startort;Castilla la Mancha otros;2
+2025;3;startort;Castroverde;2
+2025;3;startort;Cataluña - C.F.;2
+2025;3;startort;Ferreira;2
+2025;3;startort;Frómista;2
+2025;3;startort;Granja de Moreruela;2
+2025;3;startort;La Portela de Valcarce;2
+2025;3;startort;Llanes;2
+2025;3;startort;Naron;2
+2025;3;startort;Quiroga;2
+2025;3;startort;Sto. Domingo de la Calzada;2
+2025;3;startort;Valcarlos;2
+2025;3;startort;A Noia;1
+2025;3;startort;Alto do Acevo (por Pobra de Burón);1
+2025;3;startort;Andorra;1
+2025;3;startort;Arcahueja;1
+2025;3;startort;Arles;1
+2025;3;startort;Arrés;1
+2025;3;startort;Atapuerca;1
+2025;3;startort;Australia;1
+2025;3;startort;Bercianos de Valverde;1
+2025;3;startort;Biarritz;1
+2025;3;startort;Bustio;1
+2025;3;startort;Canfranc;1
+2025;3;startort;Castro Leboreiro C.G.A;1
+2025;3;startort;Castro Urdiales;1
+2025;3;startort;Celanova;1
+2025;3;startort;Colonia;1
+2025;3;startort;Córdoba;1
+2025;3;startort;Dortmund;1
+2025;3;startort;Espinosa del Camino;1
+2025;3;startort;Faro;1
+2025;3;startort;Fene;1
+2025;3;startort;Golegã;1
+2025;3;startort;Holanda;1
+2025;3;startort;Hontanas;1
+2025;3;startort;Inglaterra C.F.;1
+2025;3;startort;Italia;1
+2025;3;startort;La caridad;1
+2025;3;startort;La Mesa;1
+2025;3;startort;Lagos;1
+2025;3;startort;Lédigos;1
+2025;3;startort;Lluc;1
+2025;3;startort;Madrid - V.P.;1
+2025;3;startort;Mansilla de las Mulas;1
+2025;3;startort;Marinhas;1
+2025;3;startort;Mont st. Michel;1
+2025;3;startort;Montserrat;1
+2025;3;startort;Murcia;1
+2025;3;startort;Murcia V.P.;1
+2025;3;startort;Muros de nalon;1
+2025;3;startort;Paradavella;1
+2025;3;startort;Portimão;1
+2025;3;startort;Portimão;1
+2025;3;startort;Realejo Alto;1
+2025;3;startort;Reino Unido C.F.;1
+2025;3;startort;Resto Cantabria;1
+2025;3;startort;RESTO DE PORTUGAL C.G.A;1
+2025;3;startort;San Juan de Ortega;1
+2025;3;startort;San Xoán de Padrón;1
+2025;3;startort;Silleiro;1
+2025;3;startort;Terradillos de los Templarios;1
+2025;3;startort;Tineo - C.P.;1
+2025;3;startort;Tours;1
+2025;3;startort;Trabadelo;1
+2025;3;startort;Vila Nova Famalicão;1
+2025;3;startort;Vilanova de Cerveira;1
+2025;3;startort;Zafra;1
+2025;3;startort;Zarautz;1
+2025;3;startort;Zubiri;1
+2025;4;region;Madrid;5089
+2025;4;region;Andalucia;3700
+2025;4;region;Comunidad Valenciana;3266
+2025;4;region;Cataluña;2330
+2025;4;region;Galicia;1776
+2025;4;region;Castilla León;1411
+2025;4;region;Castilla La Mancha;1338
+2025;4;region;Canarias;1200
+2025;4;region;País Vasco;627
+2025;4;region;Murcia;610
+2025;4;region;Extremadura;549
+2025;4;region;Baleares;521
+2025;4;region;Aragon;344
+2025;4;region;Asturias;259
+2025;4;region;Cantabria;172
+2025;4;region;La Rioja;90
+2025;4;region;Ceuta;86
+2025;4;region;Navarra;82
+2025;4;region;Melilla;69
+2025;4;region;Residentes Extranjero;68
+2025;4;region;Sin autonomía;57
+2025;4;motiv;Religioso;24106
+2025;4;motiv;Otros;17133
+2025;4;motiv;No Religioso;11155
+2025;4;motiv;Desconocido;2248
+2025;4;weg;Camino Francés;25521
+2025;4;weg;Camino Portugués;11504
+2025;4;weg;Camino Portugués por la Costa;8657
+2025;4;weg;Camino Inglés;3346
+2025;4;weg;Camino Primitivo;2463
+2025;4;weg;Camino del Norte;1228
+2025;4;weg;Vía de la Plata;996
+2025;4;weg;Muxía - Finisterre;270
+2025;4;weg;Camino de Invierno;197
+2025;4;weg;Otros Caminos;196
+2025;4;weg;Camino de Muros - Noia;108
+2025;4;weg;Camino de Geira - Arrieros;56
+2025;4;weg;Camino Olvidado;27
+2025;4;weg;Camino de San Salvador;19
+2025;4;weg;Miñoto Ribeiro;16
+2025;4;weg;Camino del Mar;12
+2025;4;weg;O Vello Camino de Santiago (A Coruña-Santiago);8
+2025;4;weg;Camino de Tenerife Norte;6
+2025;4;weg;Camino del Barbanza;5
+2025;4;weg;Camino de Lluc;4
+2025;4;weg;Camino de San Rosendo;1
+2025;4;weg;Camino de Tenerife Sur;1
+2025;4;weg;Camino Levante;1
+2025;4;land;España;23644
+2025;4;land;Portugal;4199
+2025;4;land;Alemania;3212
+2025;4;land;Estados Unidos;3094
+2025;4;land;Irlanda;1908
+2025;4;land;Italia;1865
+2025;4;land;Reino Unido;1669
+2025;4;land;México;1298
+2025;4;land;Brasil;951
+2025;4;land;Francia;934
+2025;4;land;Holanda;786
+2025;4;land;Australia;718
+2025;4;land;Colombia;711
+2025;4;land;Canadá;679
+2025;4;land;Corea;670
+2025;4;land;Argentina;586
+2025;4;land;Polonia;523
+2025;4;land;China;503
+2025;4;land;República Checa;449
+2025;4;land;Dinamarca;421
+2025;4;land;Bélgica;417
+2025;4;land;Taiwán;392
+2025;4;land;Ucrania;257
+2025;4;land;Austria;256
+2025;4;land;Filipinas;224
+2025;4;land;Suiza;224
+2025;4;land;Venezuela;212
+2025;4;land;Rusia;209
+2025;4;land;Hungría;185
+2025;4;land;Finlandia;158
+2025;4;land;Rumania;153
+2025;4;land;Japón;140
+2025;4;land;Singapur;133
+2025;4;land;Noruega;132
+2025;4;land;Nueva Zelanda;132
+2025;4;land;Malasia;131
+2025;4;land;Uruguay;129
+2025;4;land;Eslovaquia;116
+2025;4;land;Suecia;116
+2025;4;land;Chile;111
+2025;4;land;Perú;107
+2025;4;land;Croacia;105
+2025;4;land;Hong Kong;96
+2025;4;land;Indonesia;96
+2025;4;land;Lituania;95
+2025;4;land;Ecuador;93
+2025;4;land;Letonia;92
+2025;4;land;Sudáfrica;88
+2025;4;land;Irán;86
+2025;4;land;Costa Rica;82
+2025;4;land;Puerto Rico;80
+2025;4;land;Malta;78
+2025;4;land;Grecia;68
+2025;4;land;Israel;62
+2025;4;land;Bulgaria;57
+2025;4;land;El Salvador;55
+2025;4;land;Eslovenia;45
+2025;4;land;India;38
+2025;4;land;Bielorrusia;36
+2025;4;land;Guatemala;35
+2025;4;land;Estonia;34
+2025;4;land;Panamá;31
+2025;4;land;Rep. Dominicana;30
+2025;4;land;Andorra;26
+2025;4;land;Paraguay;25
+2025;4;land;Cuba;22
+2025;4;land;Granada;21
+2025;4;land;Luxemburgo;20
+2025;4;land;Turquía;18
+2025;4;land;Honduras;17
+2025;4;land;Moldavia;16
+2025;4;land;Afganistán;15
+2025;4;land;Arabia Saudita;15
+2025;4;land;Bolivia;14
+2025;4;land;Líbano;14
+2025;4;land;Marruecos;14
+2025;4;land;Serbia;11
+2025;4;land;Armenia;8
+2025;4;land;Tailandia;8
+2025;4;land;Albania;7
+2025;4;land;Irak;7
+2025;4;land;Islas Feroe;7
+2025;4;land;Kenya;7
+2025;4;land;Nicaragua;7
+2025;4;land;Islandia;6
+2025;4;land;Desconocido;5
+2025;4;land;Kazajistán;5
+2025;4;land;Sri Lanka;5
+2025;4;land;Chipre;4
+2025;4;land;Antillas Holandesas;3
+2025;4;land;Azerbaiyán;3
+2025;4;land;Jamaica;3
+2025;4;land;Nigeria;3
+2025;4;land;Swazilandia;3
+2025;4;land;Trinidad y Tobago;3
+2025;4;land;Uganda;3
+2025;4;land;Angola;2
+2025;4;land;Aruba;2
+2025;4;land;Belice;2
+2025;4;land;Bosnia;2
+2025;4;land;Burkina Faso;2
+2025;4;land;Cabo Verde;2
+2025;4;land;Congo;2
+2025;4;land;Egipto;2
+2025;4;land;Etiopía;2
+2025;4;land;Ghana;2
+2025;4;land;Guayana Francesa;2
+2025;4;land;Haití;2
+2025;4;land;Islas Vírgenes;2
+2025;4;land;Jordania;2
+2025;4;land;Malawi;2
+2025;4;land;Pakistán;2
+2025;4;land;Senegal;2
+2025;4;land;Siria;2
+2025;4;land;Zimbabwe;2
+2025;4;land;Argelia;1
+2025;4;land;Brunei;1
+2025;4;land;Dominica;1
+2025;4;land;Eritrea;1
+2025;4;land;Fiji;1
+2025;4;land;Gabón;1
+2025;4;land;Groenlandia;1
+2025;4;land;Guadalupe;1
+2025;4;land;Guinea Ecuatorial;1
+2025;4;land;I. Reunión;1
+2025;4;land;Jersey;1
+2025;4;land;Liechtensein;1
+2025;4;land;Macedonia;1
+2025;4;land;Mauricio;1
+2025;4;land;Mónaco;1
+2025;4;land;Myanmar;1
+2025;4;land;Namibia;1
+2025;4;land;Palestina;1
+2025;4;land;Tanzania;1
+2025;4;land;Túnez;1
+2025;4;land;Urbekistán;1
+2025;4;land;Vietnam;1
+2025;4;land;Zaire;1
+2025;4;startort;Sarria;19097
+2025;4;startort;Tui;4163
+2025;4;startort;Ferrol;3068
+2025;4;startort;Oporto;2994
+2025;4;startort;Valença do Minho;2560
+2025;4;startort;Oporto Costa;2218
+2025;4;startort;Porto (por Tui);2063
+2025;4;startort;Vigo;2063
+2025;4;startort;S. Jean P. Port;1654
+2025;4;startort;Lugo - C.P.;1159
+2025;4;startort;Oviedo - C.P.;1042
+2025;4;startort;Baiona;847
+2025;4;startort;León;649
+2025;4;startort;Cebreiro;611
+2025;4;startort;Porriño;514
+2025;4;startort;Ourense;465
+2025;4;startort;Ponferrada;454
+2025;4;startort;Roncesvalles;323
+2025;4;startort;Irún;310
+2025;4;startort;Ponte de Lima;303
+2025;4;startort;A Guarda;283
+2025;4;startort;Sevilla;266
+2025;4;startort;Lisboa;265
+2025;4;startort;Le Puy;264
+2025;4;startort;Caminha;252
+2025;4;startort;Viana do Castelo;245
+2025;4;startort;Madrid - C.F.;244
+2025;4;startort;Triacastela;239
+2025;4;startort;Barbadelo;237
+2025;4;startort;A Coruña;196
+2025;4;startort;Burgos;196
+2025;4;startort;Pamplona;187
+2025;4;startort;Astorga;183
+2025;4;startort;Barcelos;183
+2025;4;startort;Samos;171
+2025;4;startort;Vilalba;149
+2025;4;startort;Muxia;143
+2025;4;startort;Ponferrada. C.Inv.;132
+2025;4;startort;Oia;126
+2025;4;startort;Finisterra;125
+2025;4;startort;Villafranca del Bierzo;123
+2025;4;startort;Brea;121
+2025;4;startort;Lisboa Costa;120
+2025;4;startort;Ribadeo;120
+2025;4;startort;Braga;118
+2025;4;startort;Porto do Son;108
+2025;4;startort;Resto de Galicia;100
+2025;4;startort;Povoa de Varzim;94
+2025;4;startort;Fonsagrada - C.P.;92
+2025;4;startort;Bilbao;82
+2025;4;startort;Ramallosa;81
+2025;4;startort;Francia - C.F.;78
+2025;4;startort;Gijón;78
+2025;4;startort;Egipto;75
+2025;4;startort;Irlanda C. Ing;73
+2025;4;startort;Esposende;59
+2025;4;startort;Resto Galicia;55
+2025;4;startort;San Sebastián;55
+2025;4;startort;Vega de Valcarce;54
+2025;4;startort;Braga C.G.A.;53
+2025;4;startort;Logroño;51
+2025;4;startort;Nigrán;50
+2025;4;startort;Vila do Conde;48
+2025;4;startort;Avilés;45
+2025;4;startort;Ferreiros;45
+2025;4;startort;Baamonde;44
+2025;4;startort;Rates;43
+2025;4;startort;Resto Portugal;42
+2025;4;startort;Barcelona;41
+2025;4;startort;Bayonne;37
+2025;4;startort;Madrid;37
+2025;4;startort;Monforte de Lemos;36
+2025;4;startort;Lourenzá;35
+2025;4;startort;Cadavo;34
+2025;4;startort;Rubiães;34
+2025;4;startort;Santander;34
+2025;4;startort;Labruge;33
+2025;4;startort;Zamora;33
+2025;4;startort;Coimbra;31
+2025;4;startort;Chaves-Portugal;30
+2025;4;startort;Laguna de Castilla;28
+2025;4;startort;Luarca;28
+2025;4;startort;Portugalete;26
+2025;4;startort;Badajoz;25
+2025;4;startort;Salas;25
+2025;4;startort;Abadin;22
+2025;4;startort;Castilla la Mancha otros;22
+2025;4;startort;Faro;22
+2025;4;startort;Tineo - C.P.;22
+2025;4;startort;Castroverde;21
+2025;4;startort;Valencia O.C.;21
+2025;4;startort;Salamanca;20
+2025;4;startort;Verín;20
+2025;4;startort;Foncebadón;19
+2025;4;startort;Hendaya;19
+2025;4;startort;Muros de nalon;19
+2025;4;startort;Vilarinho;19
+2025;4;startort;Resto de Andalucia;18
+2025;4;startort;Vezelay;18
+2025;4;startort;Vila Nova Famalicão;18
+2025;4;startort;Viseu;18
+2025;4;startort;Com. Valenciana - O.C.;17
+2025;4;startort;Fatima;17
+2025;4;startort;Francia - C.N;17
+2025;4;startort;Marinhas;17
+2025;4;startort;almeria;16
+2025;4;startort;Cádiz;16
+2025;4;startort;Carballido;16
+2025;4;startort;Grandas de Salime - C.P.;16
+2025;4;startort;Somport;16
+2025;4;startort;A Alberguería;15
+2025;4;startort;Arles;15
+2025;4;startort;París;15
+2025;4;startort;Vilanova de Cerveira;15
+2025;4;startort;Coimbra Costa;14
+2025;4;startort;Gudiña;14
+2025;4;startort;Mondoñedo;14
+2025;4;startort;Alemania;13
+2025;4;startort;Chantada;13
+2025;4;startort;Granja de Moreruela;13
+2025;4;startort;La caridad;13
+2025;4;startort;Pola de Allande;13
+2025;4;startort;Oviedo - C.N.;12
+2025;4;startort;Sahagún;12
+2025;4;startort;Suiza;12
+2025;4;startort;Tomar;12
+2025;4;startort;Xunqueira de Ambia;12
+2025;4;startort;O CONDADO.;11
+2025;4;startort;Bélgica;10
+2025;4;startort;Grândola;10
+2025;4;startort;Hospital de Orbigo;10
+2025;4;startort;Liñares (por Samos);10
+2025;4;startort;Vila real;10
+2025;4;startort;C.G.A resto de Portugal;9
+2025;4;startort;Com. Valenciana - C.F.;9
+2025;4;startort;Frómista;9
+2025;4;startort;Guimaraes;9
+2025;4;startort;Holanda;9
+2025;4;startort;Lourdes;9
+2025;4;startort;Sto. Domingo de la Calzada;9
+2025;4;startort;Alemania. O.C.;8
+2025;4;startort;Carrión de los Condes;8
+2025;4;startort;Cast. la Mancha - C.F.;8
+2025;4;startort;Italia;8
+2025;4;startort;Las Herrerías de Valcarce;8
+2025;4;startort;Mérida;8
+2025;4;startort;Puebla de Sanabria;8
+2025;4;startort;Ruitelán;8
+2025;4;startort;San martín del Camino;8
+2025;4;startort;Berducedo;7
+2025;4;startort;Cataluña - O.C.;7
+2025;4;startort;Colombres;7
+2025;4;startort;Cudillero;7
+2025;4;startort;Molinaseca;7
+2025;4;startort;Portimão;7
+2025;4;startort;Resto de Portugal;7
+2025;4;startort;Ruesta;7
+2025;4;startort;Santillana del mar;7
+2025;4;startort;Ambasmestas;6
+2025;4;startort;Austria;6
+2025;4;startort;Belorado;6
+2025;4;startort;Cataluña - C.F.;6
+2025;4;startort;Liñares (por San XII);6
+2025;4;startort;Ponte das Febres;6
+2025;4;startort;Puerto de Béjar;6
+2025;4;startort;R.Pais Vasco C.F.;6
+2025;4;startort;Realejo Alto;6
+2025;4;startort;Santarém;6
+2025;4;startort;Soto de Luiña;6
+2025;4;startort;Vilafranca;6
+2025;4;startort;A Rúa;5
+2025;4;startort;Aragón;5
+2025;4;startort;Biarritz;5
+2025;4;startort;Campo do Gerês C.G.A;5
+2025;4;startort;Castrojeriz;5
+2025;4;startort;Corrubedo;5
+2025;4;startort;Malaga;5
+2025;4;startort;MONÇAO.;5
+2025;4;startort;Rabanal del Camino;5
+2025;4;startort;Trabadelo;5
+2025;4;startort;A porbra do Brollon;4
+2025;4;startort;Alto do Acevo (por San Xoán de Padrón );4
+2025;4;startort;Aveiro;4
+2025;4;startort;Cáceres;4
+2025;4;startort;Cadavelo;4
+2025;4;startort;Comillas;4
+2025;4;startort;Córdoba;4
+2025;4;startort;Dinamarca;4
+2025;4;startort;Estella;4
+2025;4;startort;Fene;4
+2025;4;startort;Jerusalem;4
+2025;4;startort;Lagos;4
+2025;4;startort;Montserrat;4
+2025;4;startort;Oviedo;4
+2025;4;startort;Porto do Cabo (Cedeira);4
+2025;4;startort;Puente la Reina;4
+2025;4;startort;Reino Unido C.Ing;4
+2025;4;startort;Resto de Europa;4
+2025;4;startort;Tábara;4
+2025;4;startort;Tapia de Casariego;4
+2025;4;startort;Villaviciosa;4
+2025;4;startort;Zubiri;4
+2025;4;startort;Águeda;3
+2025;4;startort;Australia;3
+2025;4;startort;Burdeos;3
+2025;4;startort;Coruxo;3
+2025;4;startort;Granada;3
+2025;4;startort;Llanes;3
+2025;4;startort;Lluc;3
+2025;4;startort;Lubián;3
+2025;4;startort;Madrid - V.P.;3
+2025;4;startort;Naron;3
+2025;4;startort;Navarra;3
+2025;4;startort;O burgo;3
+2025;4;startort;Ponte do Porto (Mañón);3
+2025;4;startort;Porto Camba;3
+2025;4;startort;Resto Andalucia;3
+2025;4;startort;Ribadeo C. del Mar;3
+2025;4;startort;Saint Palais;3
+2025;4;startort;Santa Marta de Tara;3
+2025;4;startort;Tours;3
+2025;4;startort;Villamoros de Mansilla;3
+2025;4;startort;Zarautz;3
+2025;4;startort;A Fontaneira;2
+2025;4;startort;Allariz;2
+2025;4;startort;Cacabelos;2
+2025;4;startort;El burgo Ranero;2
+2025;4;startort;Fonfría;2
+2025;4;startort;Ginebra;2
+2025;4;startort;Grado;2
+2025;4;startort;Guemes;2
+2025;4;startort;Hungría;2
+2025;4;startort;Irlanda C.F.;2
+2025;4;startort;Jaca;2
+2025;4;startort;La Faba;2
+2025;4;startort;Laredo;2
+2025;4;startort;Las Médulas;2
+2025;4;startort;Lédigos;2
+2025;4;startort;Leiria;2
+2025;4;startort;Lires;2
+2025;4;startort;Los Arcos;2
+2025;4;startort;Markina-Xemein;2
+2025;4;startort;Mera (Ortigueira);2
+2025;4;startort;Monesterio;2
+2025;4;startort;Polonia;2
+2025;4;startort;Portecelo;2
+2025;4;startort;Puerto del Acebo;2
+2025;4;startort;Rebordondo;2
+2025;4;startort;Resto Asturias - C.P.;2
+2025;4;startort;Resto C. León;2
+2025;4;startort;Resto C. León - V.P.;2
+2025;4;startort;Resto Europa C. Ing.;2
+2025;4;startort;San Juan de Ortega;2
+2025;4;startort;San Vicente de la Barquera;2
+2025;4;startort;Santa María de Gondar;2
+2025;4;startort;Toulouse;2
+2025;4;startort;Valcarlos;2
+2025;4;startort;Villadangos del Páramo;2
+2025;4;startort;Vincios;2
+2025;4;startort;Agés;1
+2025;4;startort;Ameixoeira C.G.A;1
+2025;4;startort;Andorra;1
+2025;4;startort;Batalha;1
+2025;4;startort;Betanzos;1
+2025;4;startort;Burguete;1
+2025;4;startort;Canfranc;1
+2025;4;startort;Casar de Cáceres;1
+2025;4;startort;Castro Urdiales;1
+2025;4;startort;Catedral de Palma;1
+2025;4;startort;Centulle;1
+2025;4;startort;Colonia;1
+2025;4;startort;El Ganso;1
+2025;4;startort;Gernika-Lumo;1
+2025;4;startort;Guardo;1
+2025;4;startort;Haarlem;1
+2025;4;startort;Hospital da Condesa (por Samos);1
+2025;4;startort;Hospital de Montouto;1
+2025;4;startort;Jaén;1
+2025;4;startort;Konstanz;1
+2025;4;startort;La Rioja;1
+2025;4;startort;Laza;1
+2025;4;startort;Lezama;1
+2025;4;startort;Mansilla de las Mulas;1
+2025;4;startort;Mont st. Michel;1
+2025;4;startort;Nájera;1
+2025;4;startort;Puente de Domingo Flórez;1
+2025;4;startort;Puente Villarente;1
+2025;4;startort;Reino Unido C.F.;1
+2025;4;startort;Resto Asturias - C.N;1
+2025;4;startort;Resto C. León C.F.;1
+2025;4;startort;Resto Cantabria;1
+2025;4;startort;Ribadesella;1
+2025;4;startort;Roma;1
+2025;4;startort;San miguel del Camino;1
+2025;4;startort;San Pedro da Torre;1
+2025;4;startort;San XII;1
+2025;4;startort;Setúbal;1
+2025;4;startort;Tavira;1
+2025;4;startort;Terradillos de los Templarios;1
+2025;4;startort;Unquera;1
+2025;4;startort;Valencia;1
+2025;4;startort;Vegadeo;1
+2025;4;startort;Viana;1
+2025;4;startort;Vilaflor de Chasna;1
+2025;4;startort;Vilalle;1
+2025;4;startort;Xinzo de Limia;1
+2025;4;startort;Zaragoza;1
+2025;5;region;Madrid;4356
+2025;5;region;Andalucia;3758
+2025;5;region;Cataluña;2832
+2025;5;region;Comunidad Valenciana;2784
+2025;5;region;Canarias;1873
+2025;5;region;Galicia;1446
+2025;5;region;Castilla La Mancha;998
+2025;5;region;Castilla León;958
+2025;5;region;Murcia;491
+2025;5;region;Extremadura;489
+2025;5;region;País Vasco;474
+2025;5;region;Aragon;410
+2025;5;region;Baleares;403
+2025;5;region;Asturias;330
+2025;5;region;Navarra;188
+2025;5;region;Cantabria;95
+2025;5;region;La Rioja;84
+2025;5;region;Residentes Extranjero;84
+2025;5;region;Sin autonomía;58
+2025;5;region;Melilla;16
+2025;5;region;Ceuta;11
+2025;5;motiv;Religioso;33361
+2025;5;motiv;Otros;25778
+2025;5;motiv;No Religioso;15290
+2025;5;motiv;Desconocido;4219
+2025;5;weg;Camino Francés;35283
+2025;5;weg;Camino Portugués por la Costa;15225
+2025;5;weg;Camino Portugués;14845
+2025;5;weg;Camino Inglés;3906
+2025;5;weg;Camino Primitivo;3660
+2025;5;weg;Camino del Norte;2483
+2025;5;weg;Vía de la Plata;1573
+2025;5;weg;Camino de Invierno;516
+2025;5;weg;Muxía - Finisterre;407
+2025;5;weg;Otros Caminos;272
+2025;5;weg;Camino de Geira - Arrieros;227
+2025;5;weg;Camino del Barbanza;79
+2025;5;weg;Camino del Mar;47
+2025;5;weg;Camino Olvidado;29
+2025;5;weg;O Vello Camino de Santiago (A Coruña-Santiago);24
+2025;5;weg;Camino de Muros - Noia;21
+2025;5;weg;Camino de San Salvador;16
+2025;5;weg;Camino Levante;10
+2025;5;weg;Camino Sureste - Alicante;7
+2025;5;weg;Camino de Tenerife Norte;6
+2025;5;weg;Camino de Las Américas;4
+2025;5;weg;O Vello Camino de Santiago (Betanzos-Santiago);4
+2025;5;weg;Vía Céltica;2
+2025;5;weg;Camino de Tenerife Sur;1
+2025;5;weg;Camino de Lluc;1
+2025;5;land;España;22138
+2025;5;land;Estados Unidos;8646
+2025;5;land;Alemania;4949
+2025;5;land;Italia;3799
+2025;5;land;Portugal;3762
+2025;5;land;Reino Unido;3021
+2025;5;land;Irlanda;2243
+2025;5;land;Canadá;2025
+2025;5;land;Francia;1961
+2025;5;land;Australia;1944
+2025;5;land;México;1854
+2025;5;land;Brasil;1839
+2025;5;land;Holanda;1644
+2025;5;land;Corea;1570
+2025;5;land;Polonia;1525
+2025;5;land;Argentina;1323
+2025;5;land;Colombia;1098
+2025;5;land;República Checa;1043
+2025;5;land;Taiwán;937
+2025;5;land;China;810
+2025;5;land;Bélgica;682
+2025;5;land;Austria;659
+2025;5;land;Dinamarca;556
+2025;5;land;Ucrania;509
+2025;5;land;Suiza;392
+2025;5;land;Rumania;379
+2025;5;land;Rusia;366
+2025;5;land;Sudáfrica;342
+2025;5;land;Nueva Zelanda;304
+2025;5;land;Eslovaquia;296
+2025;5;land;Chile;295
+2025;5;land;Suecia;295
+2025;5;land;Hungría;285
+2025;5;land;Desconocido;284
+2025;5;land;Filipinas;282
+2025;5;land;Japón;280
+2025;5;land;Venezuela;257
+2025;5;land;Uruguay;252
+2025;5;land;Puerto Rico;220
+2025;5;land;Eslovenia;214
+2025;5;land;Singapur;212
+2025;5;land;Bulgaria;206
+2025;5;land;Noruega;197
+2025;5;land;Croacia;185
+2025;5;land;Finlandia;183
+2025;5;land;Ecuador;177
+2025;5;land;Malasia;147
+2025;5;land;Irán;142
+2025;5;land;Perú;136
+2025;5;land;Lituania;124
+2025;5;land;Hong Kong;116
+2025;5;land;Israel;115
+2025;5;land;Costa Rica;96
+2025;5;land;Letonia;96
+2025;5;land;Guatemala;89
+2025;5;land;Bielorrusia;75
+2025;5;land;Grecia;72
+2025;5;land;Estonia;71
+2025;5;land;Indonesia;66
+2025;5;land;Malta;58
+2025;5;land;Rep. Dominicana;51
+2025;5;land;India;49
+2025;5;land;Turquía;49
+2025;5;land;El Salvador;47
+2025;5;land;Panamá;47
+2025;5;land;Luxemburgo;41
+2025;5;land;Moldavia;40
+2025;5;land;Andorra;36
+2025;5;land;Paraguay;30
+2025;5;land;Armenia;25
+2025;5;land;Cuba;23
+2025;5;land;Irak;22
+2025;5;land;Nicaragua;16
+2025;5;land;Bolivia;14
+2025;5;land;Serbia;14
+2025;5;land;Albania;13
+2025;5;land;Namibia;13
+2025;5;land;Barbados;12
+2025;5;land;Siria;12
+2025;5;land;Honduras;11
+2025;5;land;Islandia;11
+2025;5;land;Kazajistán;11
+2025;5;land;Líbano;10
+2025;5;land;Bosnia;9
+2025;5;land;Kenya;9
+2025;5;land;Vietnam;9
+2025;5;land;Jersey;8
+2025;5;land;Zimbabwe;8
+2025;5;land;Bahamas;7
+2025;5;land;Marruecos;7
+2025;5;land;Mauricio;7
+2025;5;land;Tailandia;7
+2025;5;land;Afganistán;6
+2025;5;land;Kirguistán;6
+2025;5;land;Arabia Saudita;5
+2025;5;land;Azerbaiyán;5
+2025;5;land;Georgia;5
+2025;5;land;Liechtensein;5
+2025;5;land;Aruba;4
+2025;5;land;Egipto;4
+2025;5;land;Islas Feroe;4
+2025;5;land;Macedonia;4
+2025;5;land;Pakistán;4
+2025;5;land;Belice;3
+2025;5;land;Brunei;3
+2025;5;land;Dominica;3
+2025;5;land;Emiratos Arabes Unidos;3
+2025;5;land;Granada;3
+2025;5;land;Groenlandia;3
+2025;5;land;Jamaica;3
+2025;5;land;Myanmar;3
+2025;5;land;San Marino;3
+2025;5;land;Trinidad y Tobago;3
+2025;5;land;Túnez;3
+2025;5;land;Angola;2
+2025;5;land;Antillas Holandesas;2
+2025;5;land;Argelia;2
+2025;5;land;Bahrein;2
+2025;5;land;Cabo Verde;2
+2025;5;land;Camerún;2
+2025;5;land;Chipre;2
+2025;5;land;Guam;2
+2025;5;land;Guinea Ecuatorial;2
+2025;5;land;Herzegovina;2
+2025;5;land;Montenegro;2
+2025;5;land;Nigeria;2
+2025;5;land;Palestina;2
+2025;5;land;Seychelles;2
+2025;5;land;Antigua y Barbuda;1
+2025;5;land;Bangladesh;1
+2025;5;land;Bermudas;1
+2025;5;land;Botswana;1
+2025;5;land;Burkina Faso;1
+2025;5;land;Camboya;1
+2025;5;land;Chad;1
+2025;5;land;Congo;1
+2025;5;land;Costa de Marfil;1
+2025;5;land;Guyana;1
+2025;5;land;Haití;1
+2025;5;land;Islas Marshall;1
+2025;5;land;Islas Vírgenes;1
+2025;5;land;Jordania;1
+2025;5;land;Kuwait;1
+2025;5;land;Laos;1
+2025;5;land;Malawi;1
+2025;5;land;Níger;1
+2025;5;land;Nueva Caledonia;1
+2025;5;land;Papúa - Nueva Guinea;1
+2025;5;land;Sri Lanka;1
+2025;5;land;Swazilandia;1
+2025;5;land;Uganda;1
+2025;5;land;Zambia;1
+2025;5;startort;Sarria;21581
+2025;5;startort;S. Jean P. Port;5762
+2025;5;startort;Oporto;5088
+2025;5;startort;Tui;4947
+2025;5;startort;Oporto Costa;4611
+2025;5;startort;Porto (por Tui);4020
+2025;5;startort;Ferrol;3769
+2025;5;startort;Valença do Minho;2696
+2025;5;startort;Vigo;2647
+2025;5;startort;Oviedo - C.P.;2293
+2025;5;startort;Baiona;1556
+2025;5;startort;León;1409
+2025;5;startort;Lugo - C.P.;1016
+2025;5;startort;Irún;792
+2025;5;startort;Ponferrada;774
+2025;5;startort;Cebreiro;727
+2025;5;startort;Roncesvalles;701
+2025;5;startort;Ourense;559
+2025;5;startort;A Guarda;522
+2025;5;startort;Lisboa;504
+2025;5;startort;Le Puy;499
+2025;5;startort;Sevilla;478
+2025;5;startort;Pamplona;457
+2025;5;startort;Porriño;455
+2025;5;startort;Astorga;442
+2025;5;startort;Viana do Castelo;431
+2025;5;startort;Burgos;420
+2025;5;startort;Caminha;407
+2025;5;startort;Ponte de Lima;386
+2025;5;startort;Ponferrada. C.Inv.;363
+2025;5;startort;Muxia;288
+2025;5;startort;Triacastela;263
+2025;5;startort;Francia - C.F.;238
+2025;5;startort;Villafranca del Bierzo;232
+2025;5;startort;Barcelos;219
+2025;5;startort;Povoa de Varzim;209
+2025;5;startort;Lisboa Costa;205
+2025;5;startort;Oia;201
+2025;5;startort;Brea;199
+2025;5;startort;Ribadeo;190
+2025;5;startort;San Sebastián;187
+2025;5;startort;Bilbao;184
+2025;5;startort;Samos;162
+2025;5;startort;Vilalba;139
+2025;5;startort;Braga C.G.A.;138
+2025;5;startort;Gijón;136
+2025;5;startort;Santander;133
+2025;5;startort;Vila do Conde;124
+2025;5;startort;Resto de Galicia;122
+2025;5;startort;Ferreiros;121
+2025;5;startort;Finisterra;117
+2025;5;startort;Bayonne;103
+2025;5;startort;Fonsagrada - C.P.;99
+2025;5;startort;Madrid - C.F.;96
+2025;5;startort;Avilés;94
+2025;5;startort;A Coruña;93
+2025;5;startort;Esposende;91
+2025;5;startort;Monforte de Lemos;90
+2025;5;startort;Logroño;82
+2025;5;startort;Corrubedo;75
+2025;5;startort;Resto Galicia;73
+2025;5;startort;Salamanca;69
+2025;5;startort;Madrid;62
+2025;5;startort;Baamonde;61
+2025;5;startort;Rubiães;61
+2025;5;startort;Braga;56
+2025;5;startort;Grandas de Salime - C.P.;56
+2025;5;startort;Granja de Moreruela;56
+2025;5;startort;Castroverde;52
+2025;5;startort;Hendaya;51
+2025;5;startort;Alemania;49
+2025;5;startort;Chaves-Portugal;47
+2025;5;startort;Oviedo - C.N.;47
+2025;5;startort;Coimbra;45
+2025;5;startort;Resto Portugal;45
+2025;5;startort;Las Herrerías de Valcarce;44
+2025;5;startort;Valencia O.C.;44
+2025;5;startort;Xunqueira de Ambia;44
+2025;5;startort;Castro Leboreiro C.G.A;41
+2025;5;startort;Fonfría;41
+2025;5;startort;Francia - C.N;41
+2025;5;startort;Cádiz;38
+2025;5;startort;Ribadeo C. del Mar;38
+2025;5;startort;Holanda;37
+2025;5;startort;Mondoñedo;37
+2025;5;startort;Reino Unido C.Ing;36
+2025;5;startort;Zamora;35
+2025;5;startort;Coimbra Costa;34
+2025;5;startort;Italia;34
+2025;5;startort;Luarca;34
+2025;5;startort;Rates;34
+2025;5;startort;RESTO DE PORTUGAL C.G.A;34
+2025;5;startort;Verín;33
+2025;5;startort;Nigrán;32
+2025;5;startort;Labruge;31
+2025;5;startort;Vilafranca;31
+2025;5;startort;Bélgica;30
+2025;5;startort;Puebla de Sanabria;29
+2025;5;startort;Resto de Portugal;29
+2025;5;startort;Cadavo;28
+2025;5;startort;París;28
+2025;5;startort;Cast. la Mancha - C.F.;27
+2025;5;startort;Águeda;26
+2025;5;startort;Com. Valenciana - C.F.;26
+2025;5;startort;Faro;26
+2025;5;startort;Fatima;26
+2025;5;startort;Resto de Europa;26
+2025;5;startort;almeria;25
+2025;5;startort;Australia;25
+2025;5;startort;Barcelona;25
+2025;5;startort;Lourdes;25
+2025;5;startort;Portugalete;25
+2025;5;startort;Sahagún;25
+2025;5;startort;Abadin;24
+2025;5;startort;Barbadelo;24
+2025;5;startort;Puente la Reina;24
+2025;5;startort;Somport;24
+2025;5;startort;Vezelay;24
+2025;5;startort;Viseu;23
+2025;5;startort;C.G.A resto de Portugal;22
+2025;5;startort;Ramallosa;22
+2025;5;startort;Sto. Domingo de la Calzada;22
+2025;5;startort;Muros;21
+2025;5;startort;Frómista;20
+2025;5;startort;Resto de Andalucia;20
+2025;5;startort;Vilanova de Cerveira;19
+2025;5;startort;Cataluña - O.C.;18
+2025;5;startort;Marinhas;18
+2025;5;startort;Montserrat;18
+2025;5;startort;O Barco de Valdeorras;18
+2025;5;startort;Pola de Allande;18
+2025;5;startort;Tineo - C.P.;18
+2025;5;startort;Zubiri;18
+2025;5;startort;Biarritz;17
+2025;5;startort;Burdeos;17
+2025;5;startort;Haarlem;17
+2025;5;startort;Arles;16
+2025;5;startort;Laguna de Castilla;16
+2025;5;startort;Santillana del mar;16
+2025;5;startort;Cudillero;15
+2025;5;startort;Hospital de Orbigo;15
+2025;5;startort;Mérida;15
+2025;5;startort;Portimão;15
+2025;5;startort;Toulouse;15
+2025;5;startort;Castilla la Mancha otros;14
+2025;5;startort;Comillas;14
+2025;5;startort;Suiza;14
+2025;5;startort;Alemania. O.C.;13
+2025;5;startort;Benavente;13
+2025;5;startort;Cadavelo;13
+2025;5;startort;Chantada;13
+2025;5;startort;Guimaraes;13
+2025;5;startort;La caridad;13
+2025;5;startort;Tours;13
+2025;5;startort;Villaviciosa;13
+2025;5;startort;A porbra do Brollon;12
+2025;5;startort;Allariz;12
+2025;5;startort;Belorado;12
+2025;5;startort;Carrión de los Condes;12
+2025;5;startort;Cataluña - C.F.;12
+2025;5;startort;Madrid - V.P.;12
+2025;5;startort;Tomar;12
+2025;5;startort;Ambasmestas;11
+2025;5;startort;Amsterdam;11
+2025;5;startort;Castrojeriz;11
+2025;5;startort;Navarra;11
+2025;5;startort;Neda;11
+2025;5;startort;San Juan de Ortega;11
+2025;5;startort;Vila real;11
+2025;5;startort;Aragón;10
+2025;5;startort;Biduedo (por Samos);10
+2025;5;startort;Cacabelos;10
+2025;5;startort;Grado;10
+2025;5;startort;Gudiña;10
+2025;5;startort;La Mesa;10
+2025;5;startort;Resto Europa;10
+2025;5;startort;Salas;10
+2025;5;startort;Soto de Luiña;10
+2025;5;startort;Tapia de Casariego;10
+2025;5;startort;Valencia;10
+2025;5;startort;Vila Nova Famalicão;10
+2025;5;startort;Vilarinho;10
+2025;5;startort;Aveiro;9
+2025;5;startort;Jaca;9
+2025;5;startort;Llanes;9
+2025;5;startort;Pereje;9
+2025;5;startort;Pola de siero;9
+2025;5;startort;Rabanal del Camino;9
+2025;5;startort;Valcarlos;9
+2025;5;startort;Vega de Valcarce;9
+2025;5;startort;Austria;8
+2025;5;startort;Castro Urdiales;8
+2025;5;startort;Cortegada C.G.A;8
+2025;5;startort;Feces;8
+2025;5;startort;Monesterio;8
+2025;5;startort;Polonia;8
+2025;5;startort;Resto Asturias - C.N;8
+2025;5;startort;Resto C. León C.F.;8
+2025;5;startort;Santiponce;8
+2025;5;startort;Valladolid;8
+2025;5;startort;Zaragoza;8
+2025;5;startort;Alicante;7
+2025;5;startort;Alto do Acevo (por San Xoán de Padrón );7
+2025;5;startort;Dortmund;7
+2025;5;startort;Estella;7
+2025;5;startort;Foncebadón;7
+2025;5;startort;Hontanas;7
+2025;5;startort;Huelva;7
+2025;5;startort;La casquita;7
+2025;5;startort;Malaga;7
+2025;5;startort;Ribadesella;7
+2025;5;startort;Borres;6
+2025;5;startort;Cáceres;6
+2025;5;startort;Colombres;6
+2025;5;startort;Córdoba;6
+2025;5;startort;Dax;6
+2025;5;startort;Granada;6
+2025;5;startort;Irlanda C. Ing;6
+2025;5;startort;Laredo;6
+2025;5;startort;Las Médulas;6
+2025;5;startort;Lourenzá;6
+2025;5;startort;Mansilla de las Mulas;6
+2025;5;startort;Morgade;6
+2025;5;startort;Realejo Alto;6
+2025;5;startort;Resto Cantabria;6
+2025;5;startort;San martín del Camino;6
+2025;5;startort;A Alberguería;5
+2025;5;startort;Berducedo;5
+2025;5;startort;Com. Valenciana - O.C.;5
+2025;5;startort;Hornillos del Camino;5
+2025;5;startort;Lubián;5
+2025;5;startort;Muros de nalon;5
+2025;5;startort;Ponte do Porto (Mañón);5
+2025;5;startort;Tábara;5
+2025;5;startort;Zafra;5
+2025;5;startort;A calle;4
+2025;5;startort;A Rúa;4
+2025;5;startort;Aachen- Aquisgrán;4
+2025;5;startort;Bulgaria;4
+2025;5;startort;Bustio;4
+2025;5;startort;El burgo Ranero;4
+2025;5;startort;La Faba;4
+2025;5;startort;Lagos;4
+2025;5;startort;Liñares (por Samos);4
+2025;5;startort;Portela do Homem C.G.A;4
+2025;5;startort;Puerto de Béjar;4
+2025;5;startort;Roermond;4
+2025;5;startort;Saint Palais;4
+2025;5;startort;Santarém;4
+2025;5;startort;Zarautz;4
+2025;5;startort;A Barxa;3
+2025;5;startort;A Degolada;3
+2025;5;startort;Alto do Acevo (por Pobra de Burón);3
+2025;5;startort;Andorra;3
+2025;5;startort;Betanzos;3
+2025;5;startort;Caldas da Rainha;3
+2025;5;startort;El Acebo;3
+2025;5;startort;La Portela de Valcarce;3
+2025;5;startort;Los Arcos;3
+2025;5;startort;Molinaseca;3
+2025;5;startort;Mombuey;3
+2025;5;startort;Nájera;3
+2025;5;startort;Pontepedra;3
+2025;5;startort;Portimão;3
+2025;5;startort;R.Pais Vasco C.F.;3
+2025;5;startort;Resto C. León;3
+2025;5;startort;Ribeira;3
+2025;5;startort;San Andrés de Teixido;3
+2025;5;startort;San Vicente de la Barquera;3
+2025;5;startort;Viena;3
+2025;5;startort;Villadangos del Páramo;3
+2025;5;startort;A Canda;2
+2025;5;startort;A Fontaneira;2
+2025;5;startort;Aguila del campo;2
+2025;5;startort;Atapuerca;2
+2025;5;startort;Badajoz;2
+2025;5;startort;Bercianos del Real Camino;2
+2025;5;startort;Calzada de Béjar;2
+2025;5;startort;Calzadilla de Tera;2
+2025;5;startort;Carcaboso;2
+2025;5;startort;Casquita;2
+2025;5;startort;Cathedral Basilica of St Augustine;2
+2025;5;startort;Dinamarca;2
+2025;5;startort;Ginebra;2
+2025;5;startort;Hospital da Condesa (por Samos);2
+2025;5;startort;Hospital da Condesa (por San XII);2
+2025;5;startort;Inglaterra C.F.;2
+2025;5;startort;La Rioja;2
+2025;5;startort;La virgen del Camino;2
+2025;5;startort;Laza;2
+2025;5;startort;Leiria;2
+2025;5;startort;Lires;2
+2025;5;startort;Los Santos de Maimona;2
+2025;5;startort;Mont st. Michel;2
+2025;5;startort;Murcia V.P.;2
+2025;5;startort;Nava de Ordunte;2
+2025;5;startort;Ortigueira;2
+2025;5;startort;Padornelo (por Samos);2
+2025;5;startort;Ponte das Febres;2
+2025;5;startort;Ponte do Porto;2
+2025;5;startort;Portecelo;2
+2025;5;startort;Reino Unido C.F.;2
+2025;5;startort;Republica Checa;2
+2025;5;startort;Resto Asturias - C.P.;2
+2025;5;startort;Roma;2
+2025;5;startort;Ruesta;2
+2025;5;startort;Sarandos;2
+2025;5;startort;St Pauls Catholic Church;2
+2025;5;startort;Terradillos de los Templarios;2
+2025;5;startort;Unquera;2
+2025;5;startort;A Lastra;1
+2025;5;startort;A Pobra de Burón;1
+2025;5;startort;Abres;1
+2025;5;startort;Arrés;1
+2025;5;startort;Barreiros;1
+2025;5;startort;Berán C.G.A;1
+2025;5;startort;Boiro;1
+2025;5;startort;Brujas;1
+2025;5;startort;Calzadilla de la Cueza;1
+2025;5;startort;Canfranc;1
+2025;5;startort;Carballido;1
+2025;5;startort;Carral;1
+2025;5;startort;Centulle;1
+2025;5;startort;Colonia;1
+2025;5;startort;Coruxo;1
+2025;5;startort;Cruz de Ferro;1
+2025;5;startort;Deba;1
+2025;5;startort;Egipto;1
+2025;5;startort;El Escamplero;1
+2025;5;startort;Eslovaquia;1
+2025;5;startort;Fene;1
+2025;5;startort;Finlandia;1
+2025;5;startort;Golegã;1
+2025;5;startort;Hospital;1
+2025;5;startort;Hungría;1
+2025;5;startort;Irlanda C.F.;1
+2025;5;startort;Itero de la Vega;1
+2025;5;startort;Konstanz;1
+2025;5;startort;Lluc;1
+2025;5;startort;Lorca;1
+2025;5;startort;Luxemburgo;1
+2025;5;startort;Mosteiro Rendufe C.G.A;1
+2025;5;startort;Murcia;1
+2025;5;startort;Naron;1
+2025;5;startort;O burgo;1
+2025;5;startort;O Pereiro;1
+2025;5;startort;Otero de Sanabria;1
+2025;5;startort;Pascais (por Samos);1
+2025;5;startort;Peñaseita;1
+2025;5;startort;Pobeña;1
+2025;5;startort;Población de Campos;1
+2025;5;startort;Puerto del Acebo;1
+2025;5;startort;Quiroga;1
+2025;5;startort;R. Castilla León C.Inv;1
+2025;5;startort;Resto de Extremadura;1
+2025;5;startort;Resto Europa C. Ing.;1
+2025;5;startort;Rusia;1
+2025;5;startort;San pedro de Rozados;1
+2025;5;startort;San XII;1
+2025;5;startort;Sangüesa;1
+2025;5;startort;Santa Marta de Tara;1
+2025;5;startort;Sintra;1
+2025;5;startort;Suecia;1
+2025;5;startort;Torremejía;1
+2025;5;startort;Trasmiras;1
+2025;5;startort;Valverde de la Virgen;1
+2025;5;startort;Vilaflor de Chasna;1
+2025;5;startort;Vilamartin de Valdeorras;1
+2025;5;startort;Villanueva de Campeán;1
+2025;5;startort;Zabaldika;1
+2025;6;region;Madrid;5932
+2025;6;region;Andalucia;5848
+2025;6;region;Comunidad Valenciana;3357
+2025;6;region;Cataluña;2542
+2025;6;region;Castilla La Mancha;1779
+2025;6;region;Galicia;1578
+2025;6;region;Canarias;1376
+2025;6;region;Murcia;1224
+2025;6;region;Castilla León;1151
+2025;6;region;Extremadura;921
+2025;6;region;País Vasco;747
+2025;6;region;Asturias;563
+2025;6;region;Aragon;559
+2025;6;region;Baleares;361
+2025;6;region;Cantabria;253
+2025;6;region;Navarra;210
+2025;6;region;La Rioja;95
+2025;6;region;Residentes Extranjero;85
+2025;6;region;Sin autonomía;69
+2025;6;region;Ceuta;36
+2025;6;region;Melilla;21
+2025;6;motiv;Religioso;32081
+2025;6;motiv;Otros;23489
+2025;6;motiv;No Religioso;13949
+2025;6;motiv;Desconocido;4524
+2025;6;weg;Camino Francés;35187
+2025;6;weg;Camino Portugués;12801
+2025;6;weg;Camino Portugués por la Costa;12235
+2025;6;weg;Camino Inglés;3954
+2025;6;weg;Camino Primitivo;3680
+2025;6;weg;Camino del Norte;3431
+2025;6;weg;Vía de la Plata;1296
+2025;6;weg;Camino de Invierno;373
+2025;6;weg;Muxía - Finisterre;296
+2025;6;weg;Otros Caminos;234
+2025;6;weg;Camino de Geira - Arrieros;170
+2025;6;weg;Camino del Barbanza;119
+2025;6;weg;Camino de Muros - Noia;90
+2025;6;weg;Camino Olvidado;36
+2025;6;weg;Camino Levante;35
+2025;6;weg;Camino del Mar;30
+2025;6;weg;O Vello Camino de Santiago (A Coruña-Santiago);18
+2025;6;weg;Camino de Tenerife Norte;16
+2025;6;weg;Camino Sureste - Alicante;16
+2025;6;weg;Camino de San Salvador;13
+2025;6;weg;Camino Mozárabe;6
+2025;6;weg;Miñoto Ribeiro;2
+2025;6;weg;Camino de San Rosendo;2
+2025;6;weg;Vía Céltica;1
+2025;6;weg;Camino de Lluc;1
+2025;6;weg;O Vello Camino de Santiago (Betanzos-Santiago);1
+2025;6;land;España;28707
+2025;6;land;Estados Unidos;8040
+2025;6;land;Alemania;3829
+2025;6;land;Portugal;3768
+2025;6;land;Italia;3659
+2025;6;land;Reino Unido;2050
+2025;6;land;Australia;1655
+2025;6;land;Irlanda;1604
+2025;6;land;Francia;1580
+2025;6;land;México;1542
+2025;6;land;Argentina;1261
+2025;6;land;Canadá;1100
+2025;6;land;Holanda;1095
+2025;6;land;Brasil;1094
+2025;6;land;Corea;1039
+2025;6;land;Polonia;981
+2025;6;land;Taiwán;879
+2025;6;land;Colombia;765
+2025;6;land;Bélgica;599
+2025;6;land;China;560
+2025;6;land;Desconocido;560
+2025;6;land;República Checa;519
+2025;6;land;Dinamarca;471
+2025;6;land;Austria;359
+2025;6;land;Japón;352
+2025;6;land;Sudáfrica;336
+2025;6;land;Nueva Zelanda;330
+2025;6;land;Suiza;319
+2025;6;land;Ucrania;319
+2025;6;land;Rumania;298
+2025;6;land;Eslovaquia;246
+2025;6;land;Hungría;241
+2025;6;land;Rusia;215
+2025;6;land;Croacia;201
+2025;6;land;Bulgaria;193
+2025;6;land;Venezuela;192
+2025;6;land;Suecia;184
+2025;6;land;Chile;181
+2025;6;land;Singapur;179
+2025;6;land;Hong Kong;178
+2025;6;land;Uruguay;157
+2025;6;land;Puerto Rico;126
+2025;6;land;Irán;125
+2025;6;land;Filipinas;124
+2025;6;land;Eslovenia;118
+2025;6;land;Ecuador;115
+2025;6;land;Costa Rica;105
+2025;6;land;Lituania;98
+2025;6;land;Noruega;92
+2025;6;land;Israel;91
+2025;6;land;Finlandia;87
+2025;6;land;Malasia;83
+2025;6;land;Perú;78
+2025;6;land;Letonia;74
+2025;6;land;Grecia;60
+2025;6;land;El Salvador;57
+2025;6;land;Guatemala;53
+2025;6;land;Islandia;46
+2025;6;land;Rep. Dominicana;38
+2025;6;land;Indonesia;36
+2025;6;land;Paraguay;35
+2025;6;land;India;33
+2025;6;land;Honduras;32
+2025;6;land;Panamá;30
+2025;6;land;Bielorrusia;29
+2025;6;land;Turquía;29
+2025;6;land;Líbano;27
+2025;6;land;Andorra;26
+2025;6;land;Luxemburgo;26
+2025;6;land;Cuba;25
+2025;6;land;Estonia;25
+2025;6;land;Malta;25
+2025;6;land;Bolivia;24
+2025;6;land;Serbia;21
+2025;6;land;Moldavia;18
+2025;6;land;Albania;12
+2025;6;land;Nicaragua;11
+2025;6;land;Irak;10
+2025;6;land;Islas Feroe;10
+2025;6;land;Vietnam;10
+2025;6;land;Kazajistán;9
+2025;6;land;Afganistán;6
+2025;6;land;Chipre;6
+2025;6;land;Jordania;6
+2025;6;land;Georgia;5
+2025;6;land;Kenya;5
+2025;6;land;Marruecos;5
+2025;6;land;Tailandia;5
+2025;6;land;Zimbabwe;5
+2025;6;land;Armenia;4
+2025;6;land;Aruba;4
+2025;6;land;Bahamas;4
+2025;6;land;Jersey;4
+2025;6;land;Namibia;4
+2025;6;land;Túnez;4
+2025;6;land;Camerún;3
+2025;6;land;Eritrea;3
+2025;6;land;I. Reunión;3
+2025;6;land;Mauricio;3
+2025;6;land;Montenegro;3
+2025;6;land;Nigeria;3
+2025;6;land;Angola;2
+2025;6;land;Antillas Holandesas;2
+2025;6;land;Bermudas;2
+2025;6;land;Bosnia;2
+2025;6;land;Egipto;2
+2025;6;land;Kosovo;2
+2025;6;land;Liechtensein;2
+2025;6;land;Macedonia;2
+2025;6;land;Martinica;2
+2025;6;land;Mongolia;2
+2025;6;land;Pakistán;2
+2025;6;land;Qatar;2
+2025;6;land;Sri Lanka;2
+2025;6;land;Argelia;1
+2025;6;land;Azerbaiyán;1
+2025;6;land;Barbados;1
+2025;6;land;Brunei;1
+2025;6;land;Dominica;1
+2025;6;land;Etiopía;1
+2025;6;land;Gambia;1
+2025;6;land;Granada;1
+2025;6;land;Guinea - Bissau;1
+2025;6;land;Kirguistán;1
+2025;6;land;Kuwait;1
+2025;6;land;Libia;1
+2025;6;land;Micronesia;1
+2025;6;land;Mónaco;1
+2025;6;land;Palestina;1
+2025;6;land;San Marino;1
+2025;6;land;Sierra Leona;1
+2025;6;land;Siria;1
+2025;6;land;Trinidad y Tobago;1
+2025;6;land;Uganda;1
+2025;6;land;Vanuatu;1
+2025;6;land;Zambia;1
+2025;6;startort;Sarria;21344
+2025;6;startort;S. Jean P. Port;6081
+2025;6;startort;Tui;4663
+2025;6;startort;Ferrol;3857
+2025;6;startort;Oporto;3686
+2025;6;startort;Oporto Costa;3632
+2025;6;startort;Porto (por Tui);2904
+2025;6;startort;Vigo;2342
+2025;6;startort;Oviedo - C.P.;2309
+2025;6;startort;Valença do Minho;2227
+2025;6;startort;Baiona;1291
+2025;6;startort;León;1225
+2025;6;startort;Irún;1058
+2025;6;startort;Lugo - C.P.;1024
+2025;6;startort;Cebreiro;836
+2025;6;startort;Ponferrada;792
+2025;6;startort;Porriño;634
+2025;6;startort;Roncesvalles;612
+2025;6;startort;Astorga;545
+2025;6;startort;Ourense;493
+2025;6;startort;Le Puy;482
+2025;6;startort;A Guarda;466
+2025;6;startort;Lisboa;444
+2025;6;startort;Pamplona;415
+2025;6;startort;Samos;409
+2025;6;startort;Sevilla;368
+2025;6;startort;Burgos;354
+2025;6;startort;Viana do Castelo;354
+2025;6;startort;Caminha;291
+2025;6;startort;Bilbao;287
+2025;6;startort;Ponte de Lima;277
+2025;6;startort;Triacastela;264
+2025;6;startort;Ribadeo;237
+2025;6;startort;Santander;233
+2025;6;startort;Vilalba;229
+2025;6;startort;Oia;228
+2025;6;startort;Lisboa Costa;219
+2025;6;startort;San Sebastián;215
+2025;6;startort;Ponferrada. C.Inv.;211
+2025;6;startort;Francia - C.F.;206
+2025;6;startort;Barbadelo;198
+2025;6;startort;Resto de Galicia;193
+2025;6;startort;Muxia;167
+2025;6;startort;Gijón;150
+2025;6;startort;Ferreiros;144
+2025;6;startort;Barcelos;141
+2025;6;startort;Hendaya;137
+2025;6;startort;Bayonne;131
+2025;6;startort;Finisterra;127
+2025;6;startort;Avilés;126
+2025;6;startort;Braga C.G.A.;125
+2025;6;startort;Villafranca del Bierzo;124
+2025;6;startort;Corrubedo;119
+2025;6;startort;Povoa de Varzim;117
+2025;6;startort;Esposende;105
+2025;6;startort;Fonsagrada - C.P.;105
+2025;6;startort;Monforte de Lemos;97
+2025;6;startort;Muros;89
+2025;6;startort;Mondoñedo;86
+2025;6;startort;Guimaraes;84
+2025;6;startort;Braga;80
+2025;6;startort;Baamonde;79
+2025;6;startort;Vila do Conde;77
+2025;6;startort;Logroño;73
+2025;6;startort;Resto Galicia;68
+2025;6;startort;Chaves-Portugal;65
+2025;6;startort;Zamora;63
+2025;6;startort;A Coruña;60
+2025;6;startort;Oviedo - C.N.;60
+2025;6;startort;Tapia de Casariego;60
+2025;6;startort;Cadavo;59
+2025;6;startort;Holanda;58
+2025;6;startort;Madrid;56
+2025;6;startort;Nigrán;53
+2025;6;startort;Madrid - C.F.;49
+2025;6;startort;Zaragoza;46
+2025;6;startort;Alemania;45
+2025;6;startort;Bélgica;45
+2025;6;startort;Coimbra;45
+2025;6;startort;Resto Portugal;44
+2025;6;startort;Luarca;42
+2025;6;startort;Viseu;39
+2025;6;startort;Salamanca;38
+2025;6;startort;Gudiña;37
+2025;6;startort;RESTO DE PORTUGAL C.G.A;37
+2025;6;startort;Castroverde;35
+2025;6;startort;Labruge;35
+2025;6;startort;Quiroga;35
+2025;6;startort;Valencia;35
+2025;6;startort;Cádiz;34
+2025;6;startort;Somport;34
+2025;6;startort;Francia - C.N;33
+2025;6;startort;Rates;33
+2025;6;startort;Cataluña - O.C.;32
+2025;6;startort;Tineo - C.P.;31
+2025;6;startort;Vilafranca;31
+2025;6;startort;Biarritz;30
+2025;6;startort;La caridad;30
+2025;6;startort;Ramallosa;29
+2025;6;startort;Haarlem;28
+2025;6;startort;Rubiães;28
+2025;6;startort;Grado;27
+2025;6;startort;Italia;27
+2025;6;startort;Resto de Europa;27
+2025;6;startort;Vilanova de Cerveira;27
+2025;6;startort;Águeda;25
+2025;6;startort;Lourdes;25
+2025;6;startort;Marinhas;25
+2025;6;startort;Naron;25
+2025;6;startort;Barcelona;24
+2025;6;startort;Resto de Portugal;24
+2025;6;startort;Vezelay;24
+2025;6;startort;Amsterdam;23
+2025;6;startort;Grandas de Salime - C.P.;23
+2025;6;startort;Resto de Andalucia;23
+2025;6;startort;Com. Valenciana - C.F.;22
+2025;6;startort;Faro;22
+2025;6;startort;Granja de Moreruela;22
+2025;6;startort;Ribadeo C. del Mar;22
+2025;6;startort;Sahagún;22
+2025;6;startort;Tomar;22
+2025;6;startort;Las Herrerías de Valcarce;21
+2025;6;startort;Abadin;20
+2025;6;startort;almeria;20
+2025;6;startort;Fatima;20
+2025;6;startort;La Mesa;20
+2025;6;startort;Suiza;20
+2025;6;startort;Arles;19
+2025;6;startort;Puebla de Sanabria;19
+2025;6;startort;Madrid - V.P.;18
+2025;6;startort;Biduedo (por San XII);17
+2025;6;startort;C.G.A resto de Portugal;17
+2025;6;startort;Hospital de Orbigo;17
+2025;6;startort;Muros de nalon;17
+2025;6;startort;Tours;17
+2025;6;startort;Vila Nova Famalicão;17
+2025;6;startort;Alicante;16
+2025;6;startort;Coimbra Costa;16
+2025;6;startort;Laza;16
+2025;6;startort;París;16
+2025;6;startort;R.Pais Vasco C.F.;16
+2025;6;startort;Realejo Alto;16
+2025;6;startort;Cabo de Creus;15
+2025;6;startort;Castro Urdiales;15
+2025;6;startort;Laguna de Castilla;15
+2025;6;startort;Aveiro;14
+2025;6;startort;Cataluña - C.F.;14
+2025;6;startort;Santarém;14
+2025;6;startort;Alemania. O.C.;13
+2025;6;startort;Australia;13
+2025;6;startort;Carrión de los Condes;13
+2025;6;startort;Castilla la Mancha otros;13
+2025;6;startort;Colombres;13
+2025;6;startort;Huelva;13
+2025;6;startort;Morgade;13
+2025;6;startort;Resto C. León - V.P.;13
+2025;6;startort;Ribadesella;13
+2025;6;startort;Toulouse;13
+2025;6;startort;Valladolid;13
+2025;6;startort;Mérida;12
+2025;6;startort;Rabanal del Camino;12
+2025;6;startort;Austria;11
+2025;6;startort;Cadavelo;11
+2025;6;startort;Cast. la Mancha - C.F.;11
+2025;6;startort;Irlanda C. Ing;11
+2025;6;startort;Salas;11
+2025;6;startort;Aachen- Aquisgrán;10
+2025;6;startort;Cacabelos;10
+2025;6;startort;Comillas;10
+2025;6;startort;Jaca;10
+2025;6;startort;Llanes;10
+2025;6;startort;Navarra;10
+2025;6;startort;Pobeña;10
+2025;6;startort;Polonia;10
+2025;6;startort;Puente la Reina;10
+2025;6;startort;Soto de Luiña;10
+2025;6;startort;Vega de Valcarce;10
+2025;6;startort;Villaviciosa;10
+2025;6;startort;Cudillero;9
+2025;6;startort;Irlanda C.F.;9
+2025;6;startort;Malaga;9
+2025;6;startort;Sto. Domingo de la Calzada;9
+2025;6;startort;Coruxo;8
+2025;6;startort;Fonfría;8
+2025;6;startort;Frómista;8
+2025;6;startort;Resto Europa;8
+2025;6;startort;Santillana del mar;8
+2025;6;startort;Vila real;8
+2025;6;startort;Xinzo de Limia;8
+2025;6;startort;Ambasmestas;7
+2025;6;startort;Burdeos;7
+2025;6;startort;Chantada;7
+2025;6;startort;Foncebadón;7
+2025;6;startort;Konstanz;7
+2025;6;startort;La Rioja;7
+2025;6;startort;Lagos;7
+2025;6;startort;Las Médulas;7
+2025;6;startort;Mansilla de las Mulas;7
+2025;6;startort;Molinaseca;7
+2025;6;startort;Pola de siero;7
+2025;6;startort;Portimão;7
+2025;6;startort;Portugalete;7
+2025;6;startort;Reino Unido C.Ing;7
+2025;6;startort;Canfranc;6
+2025;6;startort;El Acebo;6
+2025;6;startort;Lourenzá;6
+2025;6;startort;Ponte das Febres;6
+2025;6;startort;Resto Asturias - C.P.;6
+2025;6;startort;Roma;6
+2025;6;startort;San Juan de Ortega;6
+2025;6;startort;Tábara;6
+2025;6;startort;Valencia O.C.;6
+2025;6;startort;A Rúa;5
+2025;6;startort;Allariz;5
+2025;6;startort;Estella;5
+2025;6;startort;Granada;5
+2025;6;startort;Montserrat;5
+2025;6;startort;Neda;5
+2025;6;startort;Pedrosa de valdeporres;5
+2025;6;startort;Resto Asturias - C.N;5
+2025;6;startort;Roermond;5
+2025;6;startort;Viveiro;5
+2025;6;startort;Xunqueira de Ambia;5
+2025;6;startort;Agés;4
+2025;6;startort;Aragón;4
+2025;6;startort;As Gándaras de Budiño;4
+2025;6;startort;Borres;4
+2025;6;startort;Colonia;4
+2025;6;startort;Com. Valenciana - O.C.;4
+2025;6;startort;Córdoba;4
+2025;6;startort;La Faba;4
+2025;6;startort;Los Arcos;4
+2025;6;startort;Mont st. Michel;4
+2025;6;startort;O Barco de Valdeorras;4
+2025;6;startort;Pola de Allande;4
+2025;6;startort;San Vicente de la Barquera;4
+2025;6;startort;Terras de Bouro C.G.A;4
+2025;6;startort;Trabadelo;4
+2025;6;startort;Unquera;4
+2025;6;startort;Verín;4
+2025;6;startort;Vilarinho;4
+2025;6;startort;Zarautz;4
+2025;6;startort;A Canda;3
+2025;6;startort;Almería;3
+2025;6;startort;Alto do Acevo (por Pobra de Burón);3
+2025;6;startort;Belorado;3
+2025;6;startort;Castilla La Mancha VP;3
+2025;6;startort;Castrojeriz;3
+2025;6;startort;Deba;3
+2025;6;startort;Fene;3
+2025;6;startort;Ginebra;3
+2025;6;startort;Golegã;3
+2025;6;startort;La virgen del Camino;3
+2025;6;startort;Lubián;3
+2025;6;startort;Nájera;3
+2025;6;startort;Paradavella;3
+2025;6;startort;Republica Checa;3
+2025;6;startort;Ruitelán;3
+2025;6;startort;Saint Palais;3
+2025;6;startort;Viana;3
+2025;6;startort;Villadangos del Páramo;3
+2025;6;startort;Zubiri;3
+2025;6;startort;A Barxa;2
+2025;6;startort;A Fontaneira;2
+2025;6;startort;Aguila del campo;2
+2025;6;startort;Alto do Acevo (por San Xoán de Padrón );2
+2025;6;startort;Ameixoeira C.G.A;2
+2025;6;startort;Badajoz;2
+2025;6;startort;Berducedo;2
+2025;6;startort;Cáceres;2
+2025;6;startort;Cañaveral;2
+2025;6;startort;Dax;2
+2025;6;startort;Dinamarca;2
+2025;6;startort;Dortmund;2
+2025;6;startort;Entrimo C.G.A.;2
+2025;6;startort;Eslovaquia;2
+2025;6;startort;Fuentesnuevas;2
+2025;6;startort;Gerês C.G.A.;2
+2025;6;startort;Gernika-Lumo;2
+2025;6;startort;Liñares (por Samos);2
+2025;6;startort;Lires;2
+2025;6;startort;Mosteiro Rendufe C.G.A;2
+2025;6;startort;O cebreiro (por Samos);2
+2025;6;startort;O cebreiro (por San Xil);2
+2025;6;startort;Ponte do Porto (Mañón);2
+2025;6;startort;Pontepedra;2
+2025;6;startort;Portecelo;2
+2025;6;startort;Requejo de Sanabria;2
+2025;6;startort;Resto Andalucia;2
+2025;6;startort;Terradillos de los Templarios;2
+2025;6;startort;Vilar de Barrio;2
+2025;6;startort;Villares de Órbigo;2
+2025;6;startort;A Alberguería;1
+2025;6;startort;A barciela;1
+2025;6;startort;A Pobra de Burón;1
+2025;6;startort;A ponte;1
+2025;6;startort;Alcuéscar;1
+2025;6;startort;Aldeanueva del Camino;1
+2025;6;startort;Aldeaseca de Armuña;1
+2025;6;startort;Arcahueja;1
+2025;6;startort;Arleta;1
+2025;6;startort;Benavente;1
+2025;6;startort;Berán C.G.A.;1
+2025;6;startort;Betanzos;1
+2025;6;startort;Brea;1
+2025;6;startort;Brujas;1
+2025;6;startort;Burlada;1
+2025;6;startort;Caimari;1
+2025;6;startort;Caldas da Rainha;1
+2025;6;startort;Calzadilla de la Cueza;1
+2025;6;startort;Camponaraya;1
+2025;6;startort;Carballo de Lor;1
+2025;6;startort;Carcaboso;1
+2025;6;startort;Celanova;1
+2025;6;startort;Cirauqui;1
+2025;6;startort;Espinosa del Camino;1
+2025;6;startort;Ferreira;1
+2025;6;startort;Finlandia;1
+2025;6;startort;Fonfría (por Pobra de Burón);1
+2025;6;startort;Fuenterroble de Salvatierra;1
+2025;6;startort;Gondan;1
+2025;6;startort;Hontanas;1
+2025;6;startort;Hungría;1
+2025;6;startort;Jerusalem;1
+2025;6;startort;Laredo;1
+2025;6;startort;Luxemburgo;1
+2025;6;startort;Markina-Xemein;1
+2025;6;startort;Mera (Ortigueira);1
+2025;6;startort;Monesterio;1
+2025;6;startort;Noruega;1
+2025;6;startort;Otero de Sanabria;1
+2025;6;startort;Padornelo;1
+2025;6;startort;Padornelo (por Samos);1
+2025;6;startort;Población de Campos;1
+2025;6;startort;Poladura de la Tercia;1
+2025;6;startort;Ponte do Porto;1
+2025;6;startort;Portimão;1
+2025;6;startort;Porto do Cabo (Cedeira);1
+2025;6;startort;Porto do Son;1
+2025;6;startort;R. Castilla León C.Inv;1
+2025;6;startort;Resto C. León;1
+2025;6;startort;Resto C. León C.F.;1
+2025;6;startort;Resto de Extremadura;1
+2025;6;startort;Resto Europa C. Ing.;1
+2025;6;startort;San Amaro C.G.A;1
+2025;6;startort;San martín del Camino;1
+2025;6;startort;San XII;1
+2025;6;startort;Sant Felíu de Llobregat;1
+2025;6;startort;Santa Cruz;1
+2025;6;startort;Setúbal;1
+2025;6;startort;Uterga;1
+2025;6;startort;Valdecasa;1
+2025;6;startort;Viena;1
+2025;6;startort;Villalval;1
+2025;6;startort;Zafra;1
+2025;7;motiv;Religioso;33256
+2025;7;motiv;Otros;19295
+2025;7;motiv;No Religioso;11242
+2025;7;motiv;Desconocido;3220
+2025;7;region;Andalucia;10471
+2025;7;region;Madrid;7488
+2025;7;region;Comunidad Valenciana;4464
+2025;7;region;Cataluña;2966
+2025;7;region;Castilla La Mancha;2212
+2025;7;region;Castilla León;1729
+2025;7;region;Extremadura;1547
+2025;7;region;Canarias;1538
+2025;7;region;Galicia;1485
+2025;7;region;Murcia;1423
+2025;7;region;País Vasco;1223
+2025;7;region;Aragon;1175
+2025;7;region;Baleares;518
+2025;7;region;Asturias;514
+2025;7;region;Navarra;249
+2025;7;region;Cantabria;195
+2025;7;region;La Rioja;98
+2025;7;region;Sin autonomía;82
+2025;7;region;Ceuta;77
+2025;7;region;Residentes Extranjero;73
+2025;7;region;Melilla;48
+2025;7;weg;Camino Francés;29162
+2025;7;weg;Camino Portugués;12633
+2025;7;weg;Camino Portugués por la Costa;9654
+2025;7;weg;Camino Inglés;4319
+2025;7;weg;Camino Primitivo;4135
+2025;7;weg;Camino del Norte;3948
+2025;7;weg;Vía de la Plata;1384
+2025;7;weg;Camino de Invierno;474
+2025;7;weg;Muxía - Finisterre;404
+2025;7;weg;Camino del Barbanza;251
+2025;7;weg;Camino de Muros - Noia;235
+2025;7;weg;Otros Caminos;233
+2025;7;weg;Camino de Geira - Arrieros;48
+2025;7;weg;Camino de San Salvador;23
+2025;7;weg;Camino Mozárabe;19
+2025;7;weg;Camino Olvidado;18
+2025;7;weg;Camino del Mar;17
+2025;7;weg;O Vello Camino de Santiago (A Coruña-Santiago);17
+2025;7;weg;Camino Levante;17
+2025;7;weg;Camino de Tenerife Norte;9
+2025;7;weg;Camino Sureste - Alicante;9
+2025;7;weg;Miñoto Ribeiro;1
+2025;7;weg;Camino de Las Américas;1
+2025;7;weg;O Vello Camino de Santiago (Betanzos-Santiago);1
+2025;7;weg;Desconocido;1
+2025;7;land;España;39575
+2025;7;land;Estados Unidos;4062
+2025;7;land;Italia;3047
+2025;7;land;Alemania;1705
+2025;7;land;Portugal;1497
+2025;7;land;México;1334
+2025;7;land;Polonia;1192
+2025;7;land;Reino Unido;1072
+2025;7;land;Francia;977
+2025;7;land;Irlanda;836
+2025;7;land;República Checa;761
+2025;7;land;Argentina;692
+2025;7;land;Australia;660
+2025;7;land;Corea;613
+2025;7;land;Brasil;581
+2025;7;land;Desconocido;553
+2025;7;land;Canadá;543
+2025;7;land;Taiwán;502
+2025;7;land;Dinamarca;492
+2025;7;land;Holanda;470
+2025;7;land;Colombia;415
+2025;7;land;China;377
+2025;7;land;Eslovaquia;340
+2025;7;land;Bélgica;338
+2025;7;land;Hungría;298
+2025;7;land;Croacia;250
+2025;7;land;Suiza;241
+2025;7;land;Venezuela;235
+2025;7;land;Austria;232
+2025;7;land;Sudáfrica;224
+2025;7;land;Rumania;208
+2025;7;land;Ucrania;191
+2025;7;land;Suecia;164
+2025;7;land;Uruguay;162
+2025;7;land;Nueva Zelanda;154
+2025;7;land;Rusia;151
+2025;7;land;Japón;132
+2025;7;land;Puerto Rico;127
+2025;7;land;Bulgaria;122
+2025;7;land;Chile;102
+2025;7;land;Eslovenia;102
+2025;7;land;Lituania;97
+2025;7;land;Hong Kong;90
+2025;7;land;Noruega;83
+2025;7;land;Perú;75
+2025;7;land;Filipinas;69
+2025;7;land;Costa Rica;68
+2025;7;land;Ecuador;63
+2025;7;land;Irán;49
+2025;7;land;Finlandia;47
+2025;7;land;Letonia;42
+2025;7;land;Singapur;35
+2025;7;land;India;32
+2025;7;land;Estonia;30
+2025;7;land;Grecia;30
+2025;7;land;Malasia;28
+2025;7;land;Luxemburgo;21
+2025;7;land;Turquía;21
+2025;7;land;Cuba;20
+2025;7;land;Andorra;18
+2025;7;land;Guatemala;18
+2025;7;land;Indonesia;17
+2025;7;land;Israel;16
+2025;7;land;Marruecos;16
+2025;7;land;Nicaragua;16
+2025;7;land;Islas Feroe;15
+2025;7;land;Malta;15
+2025;7;land;Bielorrusia;14
+2025;7;land;Bolivia;14
+2025;7;land;Serbia;13
+2025;7;land;Paraguay;12
+2025;7;land;Honduras;11
+2025;7;land;El Salvador;10
+2025;7;land;Georgia;9
+2025;7;land;Líbano;9
+2025;7;land;Rep. Dominicana;9
+2025;7;land;Vietnam;9
+2025;7;land;Moldavia;8
+2025;7;land;Panamá;8
+2025;7;land;Armenia;6
+2025;7;land;Guam;6
+2025;7;land;Irak;6
+2025;7;land;Sri Lanka;6
+2025;7;land;Afganistán;5
+2025;7;land;Guadalupe;5
+2025;7;land;Islandia;5
+2025;7;land;Namibia;5
+2025;7;land;Dominica;4
+2025;7;land;Kazajistán;4
+2025;7;land;Tailandia;4
+2025;7;land;Albania;3
+2025;7;land;Bosnia;3
+2025;7;land;Egipto;3
+2025;7;land;Kenya;3
+2025;7;land;Madagascar;3
+2025;7;land;Mauricio;3
+2025;7;land;Senegal;3
+2025;7;land;Argelia;2
+2025;7;land;Barbados;2
+2025;7;land;Jamaica;2
+2025;7;land;Laos;2
+2025;7;land;Macedonia;2
+2025;7;land;Mongolia;2
+2025;7;land;Mozambique;2
+2025;7;land;San Marino;2
+2025;7;land;Seychelles;2
+2025;7;land;Angola;1
+2025;7;land;Antigua y Barbuda;1
+2025;7;land;Aruba;1
+2025;7;land;Azerbaiyán;1
+2025;7;land;Bangladesh;1
+2025;7;land;Cabo Verde;1
+2025;7;land;Camerún;1
+2025;7;land;Chipre;1
+2025;7;land;Congo;1
+2025;7;land;Emiratos Arabes Unidos;1
+2025;7;land;Gabón;1
+2025;7;land;Guayana Francesa;1
+2025;7;land;Guinea;1
+2025;7;land;Guinea - Bissau;1
+2025;7;land;Guinea Ecuatorial;1
+2025;7;land;Haití;1
+2025;7;land;Islas Caimán;1
+2025;7;land;Jersey;1
+2025;7;land;Jordania;1
+2025;7;land;Kuwait;1
+2025;7;land;Liechtensein;1
+2025;7;land;Myanmar;1
+2025;7;land;Nepal;1
+2025;7;land;Omán;1
+2025;7;land;Pakistán;1
+2025;7;land;Palestina;1
+2025;7;land;Rep. Centroafricana;1
+2025;7;land;Siria;1
+2025;7;land;Swazilandia;1
+2025;7;land;Túnez;1
+2025;7;land;Urbekistán;1
+2025;7;land;Zimbabwe;1
+2025;7;startort;Sarria;19444
+2025;7;startort;Tui;6772
+2025;7;startort;Ferrol;4083
+2025;7;startort;S. Jean P. Port;3054
+2025;7;startort;Oporto Costa;2537
+2025;7;startort;Vigo;2200
+2025;7;startort;Valença do Minho;2144
+2025;7;startort;Oviedo - C.P.;2110
+2025;7;startort;Oporto;2030
+2025;7;startort;Porto (por Tui);1787
+2025;7;startort;Lugo - C.P.;1455
+2025;7;startort;Baiona;1259
+2025;7;startort;Ourense;994
+2025;7;startort;Ponferrada;967
+2025;7;startort;Astorga;906
+2025;7;startort;Cebreiro;829
+2025;7;startort;León;814
+2025;7;startort;A Guarda;750
+2025;7;startort;Irún;710
+2025;7;startort;Porriño;589
+2025;7;startort;Vilalba;575
+2025;7;startort;Triacastela;475
+2025;7;startort;Mondoñedo;433
+2025;7;startort;Roncesvalles;400
+2025;7;startort;Ribadeo;399
+2025;7;startort;Monforte de Lemos;314
+2025;7;startort;Muxia;312
+2025;7;startort;Villafranca del Bierzo;290
+2025;7;startort;Le Puy;282
+2025;7;startort;Viana do Castelo;256
+2025;7;startort;Lisboa;254
+2025;7;startort;Ponte de Lima;234
+2025;7;startort;Muros;231
+2025;7;startort;Pamplona;229
+2025;7;startort;Caminha;220
+2025;7;startort;Fonsagrada - C.P.;219
+2025;7;startort;Burgos;209
+2025;7;startort;Bilbao;190
+2025;7;startort;Baamonde;188
+2025;7;startort;San Sebastián;172
+2025;7;startort;Ribeira;170
+2025;7;startort;Gijón;168
+2025;7;startort;Resto de Galicia;159
+2025;7;startort;Resto Galicia;136
+2025;7;startort;Ponferrada. C.Inv.;131
+2025;7;startort;Bayonne;125
+2025;7;startort;Francia - C.F.;125
+2025;7;startort;Oia;120
+2025;7;startort;Lisboa Costa;108
+2025;7;startort;Sevilla;105
+2025;7;startort;Avilés;100
+2025;7;startort;Barcelos;100
+2025;7;startort;Povoa de Varzim;97
+2025;7;startort;Francia - C.N;95
+2025;7;startort;Santander;93
+2025;7;startort;Esposende;89
+2025;7;startort;Finisterra;88
+2025;7;startort;Braga;87
+2025;7;startort;Ortigueira;85
+2025;7;startort;Hendaya;75
+2025;7;startort;Corrubedo;74
+2025;7;startort;Neda;71
+2025;7;startort;As Gándaras de Budiño;68
+2025;7;startort;Ferreiros;61
+2025;7;startort;Tineo - C.P.;61
+2025;7;startort;Luarca;60
+2025;7;startort;Cadavo;59
+2025;7;startort;Abadin;57
+2025;7;startort;Alto do Acevo (por San Xoán de Padrón );57
+2025;7;startort;Castrojeriz;57
+2025;7;startort;La caridad;57
+2025;7;startort;Hospital da Condesa (por Samos);54
+2025;7;startort;Logroño;52
+2025;7;startort;Trabada;51
+2025;7;startort;Vegadeo;51
+2025;7;startort;Vila do Conde;51
+2025;7;startort;Resto de Portugal;50
+2025;7;startort;Cacabelos;49
+2025;7;startort;Grandas de Salime - C.P.;48
+2025;7;startort;Pola de Allande;48
+2025;7;startort;Las Herrerías de Valcarce;46
+2025;7;startort;A Coruña;43
+2025;7;startort;Madrid - C.F.;42
+2025;7;startort;Frómista;41
+2025;7;startort;Lourenzá;39
+2025;7;startort;Mérida;39
+2025;7;startort;Samos;39
+2025;7;startort;Nigrán;38
+2025;7;startort;Trasmiras;38
+2025;7;startort;Oviedo - C.N.;37
+2025;7;startort;Coimbra;36
+2025;7;startort;Braga C.G.A.;35
+2025;7;startort;Laza;35
+2025;7;startort;Madrid;35
+2025;7;startort;Soto de Luiña;33
+2025;7;startort;Xunqueira de Ambia;29
+2025;7;startort;Bélgica;28
+2025;7;startort;Vilanova de Cerveira;28
+2025;7;startort;Lourdes;27
+2025;7;startort;Vega de Valcarce;27
+2025;7;startort;Biarritz;25
+2025;7;startort;Ramallosa;25
+2025;7;startort;Muros de nalon;24
+2025;7;startort;Xinzo de Limia;24
+2025;7;startort;Castroverde;23
+2025;7;startort;Morgade;23
+2025;7;startort;Suiza;23
+2025;7;startort;Vezelay;23
+2025;7;startort;Alemania;22
+2025;7;startort;Granja de Moreruela;22
+2025;7;startort;Huelva;22
+2025;7;startort;Resto Portugal;22
+2025;7;startort;Rubiães;22
+2025;7;startort;Sahagún;22
+2025;7;startort;Sto. Domingo de la Calzada;22
+2025;7;startort;Estella;21
+2025;7;startort;Fatima;21
+2025;7;startort;Barcelona;20
+2025;7;startort;Labruge;20
+2025;7;startort;Santillana del mar;20
+2025;7;startort;Llanes;19
+2025;7;startort;Com. Valenciana - C.F.;18
+2025;7;startort;Resto de Europa;18
+2025;7;startort;Salamanca;18
+2025;7;startort;Mansilla de las Mulas;17
+2025;7;startort;París;17
+2025;7;startort;Valencia;17
+2025;7;startort;Villaviciosa;17
+2025;7;startort;Abres;16
+2025;7;startort;C.G.A resto de Portugal;16
+2025;7;startort;Coruxo;16
+2025;7;startort;Zamora;16
+2025;7;startort;Alemania. O.C.;15
+2025;7;startort;Amsterdam;15
+2025;7;startort;Cudillero;15
+2025;7;startort;Holanda;15
+2025;7;startort;Naron;15
+2025;7;startort;Tapia de Casariego;15
+2025;7;startort;Grado;14
+2025;7;startort;Marinhas;14
+2025;7;startort;Somport;14
+2025;7;startort;Tomar;14
+2025;7;startort;Cataluña - O.C.;13
+2025;7;startort;Italia;13
+2025;7;startort;Puebla de Sanabria;13
+2025;7;startort;Resto Asturias - C.N;13
+2025;7;startort;Salas;13
+2025;7;startort;Arles;12
+2025;7;startort;Carrión de los Condes;12
+2025;7;startort;Chantada;12
+2025;7;startort;Irlanda C. Ing;12
+2025;7;startort;Puente la Reina;12
+2025;7;startort;Reino Unido C.Ing;12
+2025;7;startort;Tours;12
+2025;7;startort;Águeda;11
+2025;7;startort;Cadavelo;11
+2025;7;startort;Resto Europa;11
+2025;7;startort;Almería;10
+2025;7;startort;Berducedo;10
+2025;7;startort;Cast. la Mancha - C.F.;10
+2025;7;startort;Castilla la Mancha otros;10
+2025;7;startort;Haarlem;10
+2025;7;startort;Laguna de Castilla;10
+2025;7;startort;Ribadesella;10
+2025;7;startort;Alicante;9
+2025;7;startort;Aragón;9
+2025;7;startort;Barbadelo;9
+2025;7;startort;Coimbra Costa;9
+2025;7;startort;Foncebadón;9
+2025;7;startort;Realejo Alto;9
+2025;7;startort;San Vicente de la Barquera;9
+2025;7;startort;Toulouse;9
+2025;7;startort;A Rúa;8
+2025;7;startort;Cataluña - C.F.;8
+2025;7;startort;Polonia;8
+2025;7;startort;Vilafranca;8
+2025;7;startort;Brea;7
+2025;7;startort;Canfranc;7
+2025;7;startort;Ginebra;7
+2025;7;startort;La Faba;7
+2025;7;startort;Pobra do Caramiñal;7
+2025;7;startort;Resto C. León C.F.;7
+2025;7;startort;Zaragoza;7
+2025;7;startort;Ambasmestas;6
+2025;7;startort;Australia;6
+2025;7;startort;Cádiz;6
+2025;7;startort;Castro Urdiales;6
+2025;7;startort;Chaves-Portugal;6
+2025;7;startort;Guimaraes;6
+2025;7;startort;Laredo;6
+2025;7;startort;Nájera;6
+2025;7;startort;Porto do Cabo (Cedeira);6
+2025;7;startort;Portugalete;6
+2025;7;startort;Rabanal del Camino;6
+2025;7;startort;Resto de Andalucia;6
+2025;7;startort;Ruitelán;6
+2025;7;startort;Santarém;6
+2025;7;startort;almeria;5
+2025;7;startort;Borres;5
+2025;7;startort;Castro Leboreiro C.G.A;5
+2025;7;startort;Hospital de Orbigo;5
+2025;7;startort;Malaga;5
+2025;7;startort;Ponte das Febres;5
+2025;7;startort;Rates;5
+2025;7;startort;Ribadeo C. del Mar;5
+2025;7;startort;Roermond;5
+2025;7;startort;Vilarinho;5
+2025;7;startort;Almendralejo;4
+2025;7;startort;Austria;4
+2025;7;startort;Comillas;4
+2025;7;startort;Fonfría;4
+2025;7;startort;La Mesa;4
+2025;7;startort;Lires;4
+2025;7;startort;Los Arcos;4
+2025;7;startort;Mont st. Michel;4
+2025;7;startort;Montserrat;4
+2025;7;startort;Navarrete;4
+2025;7;startort;Pontedeume;4
+2025;7;startort;Porto do Son;4
+2025;7;startort;Trabadelo;4
+2025;7;startort;Vila Nova Famalicão;4
+2025;7;startort;Viseu;4
+2025;7;startort;Viveiro;4
+2025;7;startort;Xubia;4
+2025;7;startort;Aachen- Aquisgrán;3
+2025;7;startort;Aveiro;3
+2025;7;startort;Badajoz;3
+2025;7;startort;Deba;3
+2025;7;startort;Gernika-Lumo;3
+2025;7;startort;Granada;3
+2025;7;startort;Gudiña;3
+2025;7;startort;Konstanz;3
+2025;7;startort;La virgen del Camino;3
+2025;7;startort;Madrid - V.P.;3
+2025;7;startort;O Barco de Valdeorras;3
+2025;7;startort;Republica Checa;3
+2025;7;startort;Resto Asturias - C.P.;3
+2025;7;startort;Resto Cantabria;3
+2025;7;startort;Resto Europa C. Ing.;3
+2025;7;startort;Sandiás;3
+2025;7;startort;Valencia O.C.;3
+2025;7;startort;Viana;3
+2025;7;startort;Villadangos del Páramo;3
+2025;7;startort;Zarautz;3
+2025;7;startort;Aguiada;2
+2025;7;startort;Allariz;2
+2025;7;startort;Barreiros;2
+2025;7;startort;Belorado;2
+2025;7;startort;Bercianos del Real Camino;2
+2025;7;startort;Brujas;2
+2025;7;startort;Burdeos;2
+2025;7;startort;Bustio;2
+2025;7;startort;Calzada de Béjar;2
+2025;7;startort;Camponaraya;2
+2025;7;startort;Córdoba;2
+2025;7;startort;Cortegada C.G.A;2
+2025;7;startort;Dinamarca;2
+2025;7;startort;Faro;2
+2025;7;startort;Inglaterra C.F.;2
+2025;7;startort;Irlanda C.F.;2
+2025;7;startort;Liñares (por San XII);2
+2025;7;startort;Navarra;2
+2025;7;startort;Pola de siero;2
+2025;7;startort;Portecelo;2
+2025;7;startort;Portimão;2
+2025;7;startort;RESTO DE PORTUGAL C.G.A;2
+2025;7;startort;Roma;2
+2025;7;startort;Saint Palais;2
+2025;7;startort;Setúbal;2
+2025;7;startort;Valladolid;2
+2025;7;startort;Verín;2
+2025;7;startort;Vilar de Barrio;2
+2025;7;startort;A calle;1
+2025;7;startort;A porbra do Brollon;1
+2025;7;startort;Aguila del campo;1
+2025;7;startort;Ameixoeira C.G.A;1
+2025;7;startort;Andorra;1
+2025;7;startort;Artieda;1
+2025;7;startort;As Vendas da Barreira;1
+2025;7;startort;Betanzos;1
+2025;7;startort;Bruma;1
+2025;7;startort;Cabo de Creus;1
+2025;7;startort;Calzada de Valdunciel;1
+2025;7;startort;Cervera de pisuerga;1
+2025;7;startort;Colombres;1
+2025;7;startort;Columbrianos;1
+2025;7;startort;Com. Valenciana - O.C.;1
+2025;7;startort;Cruz de Ferro;1
+2025;7;startort;Dax;1
+2025;7;startort;Desconocido;1
+2025;7;startort;Egipto;1
+2025;7;startort;El burgo Ranero;1
+2025;7;startort;El Escamplero;1
+2025;7;startort;Fene;1
+2025;7;startort;Fonfría (por San Xoán de Padrón );1
+2025;7;startort;Fontanillas de Castro;1
+2025;7;startort;Golegã;1
+2025;7;startort;Grañón;1
+2025;7;startort;Hungría;1
+2025;7;startort;Jaca;1
+2025;7;startort;La casquita;1
+2025;7;startort;La Rioja;1
+2025;7;startort;La Robla;1
+2025;7;startort;Lagos;1
+2025;7;startort;Liñares (por Samos);1
+2025;7;startort;LOBIOS.;1
+2025;7;startort;Lorca;1
+2025;7;startort;Luxemburgo;1
+2025;7;startort;Mickler’s Landing;1
+2025;7;startort;Molinaseca;1
+2025;7;startort;Montamarta;1
+2025;7;startort;Mosteiro Rendufe C.G.A;1
+2025;7;startort;Noruega;1
+2025;7;startort;Olea;1
+2025;7;startort;Orisson;1
+2025;7;startort;Otur;1
+2025;7;startort;Oviedo;1
+2025;7;startort;Pobeña;1
+2025;7;startort;Ponte da Xira;1
+2025;7;startort;Portimão;1
+2025;7;startort;Puente de Domingo Flórez;1
+2025;7;startort;Rábade;1
+2025;7;startort;Reino Unido C.F.;1
+2025;7;startort;Resto Andalucia;1
+2025;7;startort;Resto C. León;1
+2025;7;startort;Resto C. León - V.P.;1
+2025;7;startort;Resto País Vasco - C.N.;1
+2025;7;startort;Revenga de Campos;1
+2025;7;startort;Ribadavia C.G.A.;1
+2025;7;startort;Rionegro del Puente;1
+2025;7;startort;San Pedro da Torre;1
+2025;7;startort;Santa Cruz C.G.A;1
+2025;7;startort;Santa María de Gondar;1
+2025;7;startort;Tábara;1
+2025;7;startort;Terradillos de los Templarios;1
+2025;7;startort;Terras de Bouro C.G.A;1
+2025;7;startort;Unquera;1
+2025;7;startort;Valcarlos;1
+2025;7;startort;Vila real;1
+2025;7;startort;Villafranca de Montes de Oca;1
+2025;7;startort;Villares de Órbigo;1
+2025;7;startort;Zubiri;1
+2025;8;region;Andalucia;14663
+2025;8;region;Madrid;7212
+2025;8;region;Comunidad Valenciana;6721
+2025;8;region;Cataluña;4493
+2025;8;region;Castilla La Mancha;3088
+2025;8;region;Murcia;2568
+2025;8;region;Galicia;2061
+2025;8;region;Castilla León;1589
+2025;8;region;Extremadura;1575
+2025;8;region;Canarias;1430
+2025;8;region;País Vasco;1225
+2025;8;region;Aragon;982
+2025;8;region;Asturias;561
+2025;8;region;Baleares;450
+2025;8;region;Cantabria;273
+2025;8;region;Navarra;244
+2025;8;region;La Rioja;177
+2025;8;region;Sin autonomía;121
+2025;8;region;Residentes Extranjero;84
+2025;8;region;Melilla;60
+2025;8;region;Ceuta;42
+2025;8;motiv;Religioso;34003
+2025;8;motiv;Otros;25427
+2025;8;motiv;No Religioso;13293
+2025;8;motiv;Desconocido;4372
+2025;8;weg;Camino Francés;34493
+2025;8;weg;Camino Portugués;14691
+2025;8;weg;Camino Portugués por la Costa;11172
+2025;8;weg;Camino Primitivo;5217
+2025;8;weg;Camino Inglés;5101
+2025;8;weg;Camino del Norte;3976
+2025;8;weg;Vía de la Plata;1113
+2025;8;weg;Muxía - Finisterre;466
+2025;8;weg;Otros Caminos;262
+2025;8;weg;Camino de Invierno;231
+2025;8;weg;Camino del Barbanza;121
+2025;8;weg;Camino de Geira - Arrieros;55
+2025;8;weg;Camino de Muros - Noia;44
+2025;8;weg;Camino de San Salvador;26
+2025;8;weg;Camino del Mar;25
+2025;8;weg;Camino Mozárabe;23
+2025;8;weg;Camino Olvidado;20
+2025;8;weg;Camino Levante;19
+2025;8;weg;Camino de Tenerife Norte;14
+2025;8;weg;Camino Sureste - Alicante;9
+2025;8;weg;O Vello Camino de Santiago (A Coruña-Santiago);6
+2025;8;weg;Camino de Lluc;5
+2025;8;weg;Miñoto Ribeiro;2
+2025;8;weg;Camino de Tenerife Sur;2
+2025;8;weg;Vía Céltica;1
+2025;8;weg;Camino de Las Américas;1
+2025;8;land;España;49619
+2025;8;land;Italia;6488
+2025;8;land;Portugal;2460
+2025;8;land;Estados Unidos;2053
+2025;8;land;Alemania;1927
+2025;8;land;Polonia;1077
+2025;8;land;Francia;1058
+2025;8;land;Desconocido;972
+2025;8;land;Reino Unido;917
+2025;8;land;México;875
+2025;8;land;Irlanda;769
+2025;8;land;Argentina;539
+2025;8;land;Brasil;499
+2025;8;land;Taiwán;490
+2025;8;land;Colombia;454
+2025;8;land;República Checa;448
+2025;8;land;Holanda;432
+2025;8;land;Australia;415
+2025;8;land;Corea;409
+2025;8;land;China;371
+2025;8;land;Canadá;363
+2025;8;land;Dinamarca;306
+2025;8;land;Bélgica;296
+2025;8;land;Hungría;283
+2025;8;land;Rumania;234
+2025;8;land;Venezuela;229
+2025;8;land;Austria;205
+2025;8;land;Ucrania;201
+2025;8;land;Eslovaquia;150
+2025;8;land;Rusia;147
+2025;8;land;Croacia;144
+2025;8;land;Suiza;130
+2025;8;land;Ecuador;129
+2025;8;land;Japón;113
+2025;8;land;Chile;109
+2025;8;land;Perú;99
+2025;8;land;Nueva Zelanda;95
+2025;8;land;Paraguay;93
+2025;8;land;Eslovenia;91
+2025;8;land;Lituania;90
+2025;8;land;Suecia;87
+2025;8;land;Bulgaria;86
+2025;8;land;Sudáfrica;86
+2025;8;land;Uruguay;82
+2025;8;land;Hong Kong;68
+2025;8;land;Letonia;55
+2025;8;land;Filipinas;53
+2025;8;land;Grecia;52
+2025;8;land;Puerto Rico;48
+2025;8;land;Irán;46
+2025;8;land;Serbia;42
+2025;8;land;Noruega;39
+2025;8;land;Estonia;36
+2025;8;land;Costa Rica;34
+2025;8;land;Bielorrusia;29
+2025;8;land;Honduras;28
+2025;8;land;Rep. Dominicana;25
+2025;8;land;El Salvador;24
+2025;8;land;Andorra;23
+2025;8;land;Bolivia;23
+2025;8;land;Cuba;22
+2025;8;land;Turquía;22
+2025;8;land;Finlandia;19
+2025;8;land;India;18
+2025;8;land;Israel;18
+2025;8;land;Indonesia;15
+2025;8;land;Malasia;15
+2025;8;land;Nicaragua;13
+2025;8;land;Panamá;12
+2025;8;land;Guatemala;11
+2025;8;land;Luxemburgo;11
+2025;8;land;Singapur;11
+2025;8;land;Malta;10
+2025;8;land;Moldavia;10
+2025;8;land;Armenia;9
+2025;8;land;Marruecos;9
+2025;8;land;Albania;8
+2025;8;land;Kazajistán;7
+2025;8;land;Chipre;6
+2025;8;land;Afganistán;5
+2025;8;land;Islas Feroe;5
+2025;8;land;Líbano;5
+2025;8;land;Egipto;4
+2025;8;land;Angola;3
+2025;8;land;Bosnia;3
+2025;8;land;Georgia;3
+2025;8;land;Granada;3
+2025;8;land;Irak;3
+2025;8;land;Islas Vírgenes;3
+2025;8;land;Macedonia;3
+2025;8;land;Siria;3
+2025;8;land;Sri Lanka;3
+2025;8;land;Tailandia;3
+2025;8;land;Vietnam;3
+2025;8;land;Argelia;2
+2025;8;land;Aruba;2
+2025;8;land;Benin;2
+2025;8;land;Burkina Faso;2
+2025;8;land;Dominica;2
+2025;8;land;Guadalupe;2
+2025;8;land;Guinea Ecuatorial;2
+2025;8;land;Mauricio;2
+2025;8;land;Nepal;2
+2025;8;land;Nigeria;2
+2025;8;land;Omán;2
+2025;8;land;Urbekistán;2
+2025;8;land;Arabia Saudita;1
+2025;8;land;Azerbaiyán;1
+2025;8;land;Bahamas;1
+2025;8;land;Bahrein;1
+2025;8;land;Barbados;1
+2025;8;land;Bermudas;1
+2025;8;land;Cabo Verde;1
+2025;8;land;Camboya;1
+2025;8;land;Emiratos Arabes Unidos;1
+2025;8;land;Eritrea;1
+2025;8;land;Etiopía;1
+2025;8;land;Fiji;1
+2025;8;land;Ghana;1
+2025;8;land;Guayana Francesa;1
+2025;8;land;Guinea - Bissau;1
+2025;8;land;Islas Caimán;1
+2025;8;land;Jamaica;1
+2025;8;land;Jersey;1
+2025;8;land;Laos;1
+2025;8;land;Mozambique;1
+2025;8;land;Palestina;1
+2025;8;land;Rwanda;1
+2025;8;land;San Marino;1
+2025;8;land;Senegal;1
+2025;8;land;Swazilandia;1
+2025;8;land;Togo;1
+2025;8;land;Trinidad y Tobago;1
+2025;8;land;Túnez;1
+2025;8;startort;Sarria;25636
+2025;8;startort;Tui;8404
+2025;8;startort;Ferrol;4996
+2025;8;startort;Oporto Costa;2962
+2025;8;startort;Vigo;2746
+2025;8;startort;Oviedo - C.P.;2560
+2025;8;startort;S. Jean P. Port;2468
+2025;8;startort;Valença do Minho;2323
+2025;8;startort;Oporto;2166
+2025;8;startort;Lugo - C.P.;1983
+2025;8;startort;Baiona;1744
+2025;8;startort;Porto (por Tui);1733
+2025;8;startort;León;994
+2025;8;startort;Cebreiro;977
+2025;8;startort;Ponferrada;859
+2025;8;startort;Irún;751
+2025;8;startort;Ourense;749
+2025;8;startort;Vilalba;732
+2025;8;startort;A Guarda;725
+2025;8;startort;Porriño;592
+2025;8;startort;Roncesvalles;539
+2025;8;startort;Triacastela;539
+2025;8;startort;Ribadeo;503
+2025;8;startort;Viana do Castelo;334
+2025;8;startort;Muxia;327
+2025;8;startort;Ponte de Lima;284
+2025;8;startort;Burgos;279
+2025;8;startort;Lisboa;278
+2025;8;startort;Resto de Galicia;258
+2025;8;startort;Astorga;245
+2025;8;startort;Le Puy;234
+2025;8;startort;Gijón;227
+2025;8;startort;Fonsagrada - C.P.;221
+2025;8;startort;Caminha;218
+2025;8;startort;Bilbao;212
+2025;8;startort;Avilés;195
+2025;8;startort;Pamplona;190
+2025;8;startort;Villafranca del Bierzo;183
+2025;8;startort;Baamonde;179
+2025;8;startort;Resto Galicia;156
+2025;8;startort;Finisterra;138
+2025;8;startort;Ponferrada. C.Inv.;137
+2025;8;startort;Santander;132
+2025;8;startort;Francia - C.F.;129
+2025;8;startort;Barcelos;128
+2025;8;startort;Oia;122
+2025;8;startort;Corrubedo;119
+2025;8;startort;Povoa de Varzim;109
+2025;8;startort;Lisboa Costa;107
+2025;8;startort;Abadin;105
+2025;8;startort;Sevilla;98
+2025;8;startort;San Sebastián;92
+2025;8;startort;Hendaya;85
+2025;8;startort;Bayonne;83
+2025;8;startort;Cadavo;78
+2025;8;startort;Samos;78
+2025;8;startort;Vila do Conde;74
+2025;8;startort;Castroverde;73
+2025;8;startort;Luarca;73
+2025;8;startort;Esposende;72
+2025;8;startort;Vilafranca;72
+2025;8;startort;Oviedo - C.N.;71
+2025;8;startort;Resto Asturias - C.P.;69
+2025;8;startort;A Coruña;65
+2025;8;startort;Grandas de Salime - C.P.;65
+2025;8;startort;Frómista;64
+2025;8;startort;Lourenzá;64
+2025;8;startort;Nigrán;63
+2025;8;startort;Ferreiros;61
+2025;8;startort;Logroño;56
+2025;8;startort;Monforte de Lemos;54
+2025;8;startort;Barbadelo;50
+2025;8;startort;Braga;50
+2025;8;startort;Fonfría;46
+2025;8;startort;Braga C.G.A.;44
+2025;8;startort;Ramallosa;43
+2025;8;startort;Labruge;42
+2025;8;startort;Mondoñedo;42
+2025;8;startort;Pobeña;42
+2025;8;startort;Pola de Allande;42
+2025;8;startort;La caridad;40
+2025;8;startort;Tineo - C.P.;40
+2025;8;startort;Francia - C.N;38
+2025;8;startort;Muros de nalon;38
+2025;8;startort;Salamanca;35
+2025;8;startort;Zamora;33
+2025;8;startort;Alemania;31
+2025;8;startort;Barcelona;31
+2025;8;startort;Madrid;31
+2025;8;startort;Resto Portugal;31
+2025;8;startort;Madrid - C.F.;30
+2025;8;startort;Laguna de Castilla;29
+2025;8;startort;Gudiña;28
+2025;8;startort;A Canda;27
+2025;8;startort;Chantada;27
+2025;8;startort;Com. Valenciana - C.F.;27
+2025;8;startort;Resto de Portugal;27
+2025;8;startort;Resto Asturias - C.N;26
+2025;8;startort;Muros;25
+2025;8;startort;Cataluña - O.C.;24
+2025;8;startort;Lourdes;24
+2025;8;startort;Rabanal del Camino;24
+2025;8;startort;Salas;24
+2025;8;startort;Somport;24
+2025;8;startort;Tapia de Casariego;24
+2025;8;startort;Llanes;23
+2025;8;startort;Italia;22
+2025;8;startort;Molinaseca;22
+2025;8;startort;Nájera;22
+2025;8;startort;Sahagún;22
+2025;8;startort;Soto de Luiña;22
+2025;8;startort;Vega de Valcarce;22
+2025;8;startort;Allariz;21
+2025;8;startort;Coimbra;21
+2025;8;startort;Coimbra Costa;21
+2025;8;startort;Granja de Moreruela;21
+2025;8;startort;Zaragoza;21
+2025;8;startort;Biarritz;20
+2025;8;startort;Xunqueira de Ambia;20
+2025;8;startort;Porto do Son;19
+2025;8;startort;Puebla de Sanabria;19
+2025;8;startort;Santillana del mar;19
+2025;8;startort;Valencia;19
+2025;8;startort;Fatima;18
+2025;8;startort;Ribadesella;18
+2025;8;startort;Rubiães;18
+2025;8;startort;C.G.A resto de Portugal;17
+2025;8;startort;La Mesa;17
+2025;8;startort;Ribadeo C. del Mar;17
+2025;8;startort;Sto. Domingo de la Calzada;17
+2025;8;startort;Las Herrerías de Valcarce;16
+2025;8;startort;Castilla la Mancha otros;15
+2025;8;startort;Guimaraes;15
+2025;8;startort;Neda;15
+2025;8;startort;Puente la Reina;15
+2025;8;startort;Resto Europa;15
+2025;8;startort;Vincios;15
+2025;8;startort;Bélgica;14
+2025;8;startort;Lorca;14
+2025;8;startort;Realejo Alto;14
+2025;8;startort;Vilanova de Cerveira;14
+2025;8;startort;Berducedo;13
+2025;8;startort;Chaves-Portugal;13
+2025;8;startort;Estella;13
+2025;8;startort;Grado;13
+2025;8;startort;Morgade;13
+2025;8;startort;Alemania. O.C.;12
+2025;8;startort;Cudillero;12
+2025;8;startort;Foncebadón;12
+2025;8;startort;Laza;12
+2025;8;startort;Rates;12
+2025;8;startort;Tomar;12
+2025;8;startort;Ambasmestas;11
+2025;8;startort;Castro Urdiales;11
+2025;8;startort;Pola de siero;11
+2025;8;startort;San Vicente de la Barquera;11
+2025;8;startort;Vila real;11
+2025;8;startort;Cadavelo;10
+2025;8;startort;Faro;10
+2025;8;startort;Haarlem;10
+2025;8;startort;Laredo;10
+2025;8;startort;Marinhas;10
+2025;8;startort;París;10
+2025;8;startort;Vezelay;10
+2025;8;startort;Alicante;9
+2025;8;startort;Aragón;9
+2025;8;startort;Holanda;9
+2025;8;startort;Irlanda C. Ing;9
+2025;8;startort;Jaca;9
+2025;8;startort;Navarra;9
+2025;8;startort;Toulouse;9
+2025;8;startort;Verín;9
+2025;8;startort;Aachen- Aquisgrán;8
+2025;8;startort;Mont st. Michel;8
+2025;8;startort;Portugalete;8
+2025;8;startort;Reino Unido C.Ing;8
+2025;8;startort;Resto de Andalucia;8
+2025;8;startort;Resto de Europa;8
+2025;8;startort;Santarém;8
+2025;8;startort;Tours;8
+2025;8;startort;Trabadelo;8
+2025;8;startort;Valladolid;8
+2025;8;startort;Viseu;8
+2025;8;startort;Águeda;7
+2025;8;startort;Granada;7
+2025;8;startort;Liñares (por San XII);7
+2025;8;startort;Naron;7
+2025;8;startort;San Juan de Ortega;7
+2025;8;startort;Vegadeo;7
+2025;8;startort;Arles;6
+2025;8;startort;Castrojeriz;6
+2025;8;startort;Córdoba;6
+2025;8;startort;Liñares (por Samos);6
+2025;8;startort;Mierchamps;6
+2025;8;startort;Montserrat;6
+2025;8;startort;Navarrete;6
+2025;8;startort;Polonia;6
+2025;8;startort;Saint Palais;6
+2025;8;startort;Suiza;6
+2025;8;startort;Vila Nova Famalicão;6
+2025;8;startort;Villaviciosa;6
+2025;8;startort;Xinzo de Limia;6
+2025;8;startort;Belorado;5
+2025;8;startort;Cádiz;5
+2025;8;startort;Canfranc;5
+2025;8;startort;Dax;5
+2025;8;startort;Hospital de Orbigo;5
+2025;8;startort;Lluc;5
+2025;8;startort;R.Pais Vasco C.F.;5
+2025;8;startort;Viana;5
+2025;8;startort;Vilamartin Pequeño;5
+2025;8;startort;Almería;4
+2025;8;startort;Amsterdam;4
+2025;8;startort;As Gándaras de Budiño;4
+2025;8;startort;Austria;4
+2025;8;startort;Comillas;4
+2025;8;startort;El burgo Ranero;4
+2025;8;startort;Los Arcos;4
+2025;8;startort;Malaga;4
+2025;8;startort;Mansilla de las Mulas;4
+2025;8;startort;Martiñan;4
+2025;8;startort;Martos;4
+2025;8;startort;O Barco de Valdeorras;4
+2025;8;startort;Portimão;4
+2025;8;startort;Resto País Vasco - C.N.;4
+2025;8;startort;Ribadavia C.G.A;4
+2025;8;startort;Roma;4
+2025;8;startort;Vilarinho;4
+2025;8;startort;A ponte;3
+2025;8;startort;Alto do Acevo (por San Xoán de Padrón );3
+2025;8;startort;Ameixoeira C.G.A;3
+2025;8;startort;Australia;3
+2025;8;startort;Borres;3
+2025;8;startort;Bulgaria;3
+2025;8;startort;Burdeos;3
+2025;8;startort;Colombres;3
+2025;8;startort;Colonia;3
+2025;8;startort;Com. Valenciana - O.C.;3
+2025;8;startort;Coruxo;3
+2025;8;startort;Galisteo;3
+2025;8;startort;Gernika-Lumo;3
+2025;8;startort;Goiriz;3
+2025;8;startort;Irlanda C.F.;3
+2025;8;startort;La Faba;3
+2025;8;startort;Madrid - V.P.;3
+2025;8;startort;Óbanos;3
+2025;8;startort;Reino Unido C.F.;3
+2025;8;startort;Roermond;3
+2025;8;startort;Villafranca de Montes de Oca;3
+2025;8;startort;Zarautz;3
+2025;8;startort;Andorra;2
+2025;8;startort;Antequera;2
+2025;8;startort;Barreiros;2
+2025;8;startort;Brea;2
+2025;8;startort;Burguete;2
+2025;8;startort;Cacabelos;2
+2025;8;startort;Calzadilla de la Cueza;2
+2025;8;startort;Carrión de los Condes;2
+2025;8;startort;Cast. la Mancha - C.F.;2
+2025;8;startort;Cortegada C.G.A;2
+2025;8;startort;Cruz de Ferro;2
+2025;8;startort;Deba;2
+2025;8;startort;Dinamarca;2
+2025;8;startort;El Acebo;2
+2025;8;startort;El Escamplero;2
+2025;8;startort;Fene;2
+2025;8;startort;Huelva;2
+2025;8;startort;La Bañeza;2
+2025;8;startort;La casquita;2
+2025;8;startort;La Rioja;2
+2025;8;startort;La Robla;2
+2025;8;startort;Lucena;2
+2025;8;startort;Luxemburgo;2
+2025;8;startort;Markina-Xemein;2
+2025;8;startort;Mérida;2
+2025;8;startort;Murcia V.P.;2
+2025;8;startort;O cebreiro (por Samos);2
+2025;8;startort;Ortigueira;2
+2025;8;startort;Oviedo;2
+2025;8;startort;Palmeira;2
+2025;8;startort;Ponte das Febres;2
+2025;8;startort;Ponte do Porto (Mañón);2
+2025;8;startort;Pontedeume;2
+2025;8;startort;Porto do Cabo (Cedeira);2
+2025;8;startort;Quiroga;2
+2025;8;startort;Resto Andalucia;2
+2025;8;startort;Resto Cantabria;2
+2025;8;startort;Ruitelán;2
+2025;8;startort;San Ciprián (Cervo);2
+2025;8;startort;Silleiro;2
+2025;8;startort;Unquera;2
+2025;8;startort;Valencia O.C.;2
+2025;8;startort;Valverde de la Virgen;2
+2025;8;startort;Vilaflor de Chasna;2
+2025;8;startort;Villadangos del Páramo;2
+2025;8;startort;A Fontaneira;1
+2025;8;startort;Aguiada;1
+2025;8;startort;Aguila del campo;1
+2025;8;startort;Arrés;1
+2025;8;startort;Aveiro;1
+2025;8;startort;Badajoz;1
+2025;8;startort;Burlada;1
+2025;8;startort;Cabo de Creus;1
+2025;8;startort;Cáceres;1
+2025;8;startort;Caión;1
+2025;8;startort;Campo do Gerês C.G.A;1
+2025;8;startort;Camponaraya;1
+2025;8;startort;Cañaveral;1
+2025;8;startort;Cataluña - C.F.;1
+2025;8;startort;Cathedral Basilica of St Augustine;1
+2025;8;startort;Gondan;1
+2025;8;startort;Grañón;1
+2025;8;startort;Guemes;1
+2025;8;startort;Hornillos del Camino;1
+2025;8;startort;Hungría;1
+2025;8;startort;La Portela de Valcarce;1
+2025;8;startort;La virgen del Camino;1
+2025;8;startort;Lagos;1
+2025;8;startort;Leiria;1
+2025;8;startort;Lezama;1
+2025;8;startort;Lires;1
+2025;8;startort;Lobios C.G.A;1
+2025;8;startort;Noruega;1
+2025;8;startort;Orisson;1
+2025;8;startort;Otur;1
+2025;8;startort;Padornelo;1
+2025;8;startort;Paradanova (por Pobra de Burón);1
+2025;8;startort;Paradanova (por San Xoán de Padrón );1
+2025;8;startort;Pastoriza;1
+2025;8;startort;Portecelo;1
+2025;8;startort;Portimão;1
+2025;8;startort;Puente de Domingo Flórez;1
+2025;8;startort;Puente Villarente;1
+2025;8;startort;Rábade;1
+2025;8;startort;Republica Checa;1
+2025;8;startort;San martín del Camino;1
+2025;8;startort;Santiago da ria de abres;1
+2025;8;startort;Tábara;1
+2025;8;startort;Viena;1
+2025;8;startort;Vilar de Barrio;1
+2025;8;startort;Viveiro;1
+2025;8;startort;Zafra;1
+2025;8;startort;Zubiri;1
+2025;9;weg;Camino Francés;35639
+2025;9;weg;Camino Portugués por la Costa;16071
+2025;9;weg;Camino Portugués;15744
+2025;9;weg;Camino Inglés;4789
+2025;9;weg;Camino Primitivo;4259
+2025;9;weg;Camino del Norte;3074
+2025;9;weg;Vía de la Plata;845
+2025;9;weg;Camino de Invierno;313
+2025;9;weg;Muxía - Finisterre;238
+2025;9;weg;Otros Caminos;193
+2025;9;weg;Camino del Barbanza;120
+2025;9;weg;Camino de Geira - Arrieros;50
+2025;9;weg;Camino del Mar;38
+2025;9;weg;Camino de Muros - Noia;35
+2025;9;weg;O Vello Camino de Santiago (A Coruña-Santiago);29
+2025;9;weg;Camino Mozárabe;23
+2025;9;weg;Camino Levante;20
+2025;9;weg;Camino de San Salvador;19
+2025;9;weg;Camino Olvidado;10
+2025;9;weg;Camino de Tenerife Norte;9
+2025;9;weg;Camino Sureste - Alicante;9
+2025;9;weg;Miñoto Ribeiro;2
+2025;9;weg;Camino de Las Américas;1
+2025;9;weg;Camino de Lluc;1
+2025;9;weg;O Vello Camino de Santiago (Betanzos-Santiago);1
+2025;9;motiv;Religioso;35274
+2025;9;motiv;Otros;26131
+2025;9;motiv;No Religioso;15544
+2025;9;motiv;Desconocido;4583
+2025;9;region;Andalucia;8438
+2025;9;region;Madrid;5577
+2025;9;region;Comunidad Valenciana;3388
+2025;9;region;Cataluña;3188
+2025;9;region;Galicia;1800
+2025;9;region;Canarias;1673
+2025;9;region;Castilla La Mancha;1527
+2025;9;region;Castilla León;1191
+2025;9;region;Murcia;1137
+2025;9;region;Extremadura;940
+2025;9;region;Aragon;597
+2025;9;region;País Vasco;501
+2025;9;region;Baleares;472
+2025;9;region;Asturias;423
+2025;9;region;Cantabria;186
+2025;9;region;Navarra;148
+2025;9;region;Sin autonomía;134
+2025;9;region;La Rioja;94
+2025;9;region;Residentes Extranjero;83
+2025;9;region;Ceuta;55
+2025;9;region;Melilla;38
+2025;9;region;Seleccionar;1
+2025;9;land;España;31591
+2025;9;land;Estados Unidos;8138
+2025;9;land;Italia;4140
+2025;9;land;Alemania;3925
+2025;9;land;Reino Unido;2846
+2025;9;land;Portugal;2502
+2025;9;land;México;2323
+2025;9;land;Irlanda;2014
+2025;9;land;Polonia;1885
+2025;9;land;Australia;1751
+2025;9;land;Canadá;1680
+2025;9;land;Francia;1561
+2025;9;land;Colombia;1351
+2025;9;land;Brasil;1342
+2025;9;land;Argentina;1126
+2025;9;land;Holanda;942
+2025;9;land;República Checa;792
+2025;9;land;Taiwán;747
+2025;9;land;Corea;677
+2025;9;land;Bélgica;599
+2025;9;land;Dinamarca;577
+2025;9;land;Ucrania;446
+2025;9;land;Nueva Zelanda;413
+2025;9;land;China;394
+2025;9;land;Austria;393
+2025;9;land;Sudáfrica;389
+2025;9;land;Venezuela;365
+2025;9;land;Filipinas;359
+2025;9;land;Eslovaquia;299
+2025;9;land;Suiza;297
+2025;9;land;Rusia;293
+2025;9;land;Suecia;290
+2025;9;land;Hungría;285
+2025;9;land;Rumania;274
+2025;9;land;Chile;246
+2025;9;land;Noruega;245
+2025;9;land;Costa Rica;236
+2025;9;land;Bulgaria;233
+2025;9;land;Desconocido;233
+2025;9;land;Uruguay;211
+2025;9;land;Japón;200
+2025;9;land;Croacia;187
+2025;9;land;Puerto Rico;187
+2025;9;land;Singapur;175
+2025;9;land;Ecuador;162
+2025;9;land;Perú;141
+2025;9;land;Eslovenia;138
+2025;9;land;Lituania;131
+2025;9;land;Malasia;128
+2025;9;land;Irán;124
+2025;9;land;Guatemala;107
+2025;9;land;Hong Kong;95
+2025;9;land;Letonia;91
+2025;9;land;Indonesia;80
+2025;9;land;Bielorrusia;78
+2025;9;land;Grecia;73
+2025;9;land;Finlandia;67
+2025;9;land;Rep. Dominicana;66
+2025;9;land;Malta;61
+2025;9;land;Estonia;58
+2025;9;land;El Salvador;49
+2025;9;land;Israel;49
+2025;9;land;Paraguay;47
+2025;9;land;India;43
+2025;9;land;Andorra;40
+2025;9;land;Luxemburgo;35
+2025;9;land;Irak;34
+2025;9;land;Serbia;31
+2025;9;land;Turquía;31
+2025;9;land;Panamá;29
+2025;9;land;Bolivia;28
+2025;9;land;Cuba;25
+2025;9;land;Kazajistán;24
+2025;9;land;Moldavia;24
+2025;9;land;Marruecos;23
+2025;9;land;Islandia;18
+2025;9;land;Honduras;16
+2025;9;land;Trinidad y Tobago;14
+2025;9;land;Armenia;13
+2025;9;land;Islas Feroe;12
+2025;9;land;Bosnia;11
+2025;9;land;Chipre;11
+2025;9;land;Vietnam;10
+2025;9;land;Líbano;9
+2025;9;land;Nicaragua;8
+2025;9;land;Albania;7
+2025;9;land;I. Reunión;7
+2025;9;land;San Marino;7
+2025;9;land;Sri Lanka;7
+2025;9;land;Afganistán;6
+2025;9;land;Arabia Saudita;6
+2025;9;land;Barbados;6
+2025;9;land;Jersey;6
+2025;9;land;Argelia;5
+2025;9;land;Macedonia;5
+2025;9;land;Palestina;5
+2025;9;land;Senegal;5
+2025;9;land;Tailandia;5
+2025;9;land;Azerbaiyán;4
+2025;9;land;Egipto;4
+2025;9;land;Siria;4
+2025;9;land;Zimbabwe;4
+2025;9;land;Angola;3
+2025;9;land;Aruba;3
+2025;9;land;Granada;3
+2025;9;land;Costa de Marfil;2
+2025;9;land;Dominica;2
+2025;9;land;Groenlandia;2
+2025;9;land;Mauricio;2
+2025;9;land;Namibia;2
+2025;9;land;Omán;2
+2025;9;land;Bangladesh;1
+2025;9;land;Bhután;1
+2025;9;land;Botswana;1
+2025;9;land;Burundi;1
+2025;9;land;Cabo Verde;1
+2025;9;land;Emiratos Arabes Unidos;1
+2025;9;land;Etiopía;1
+2025;9;land;Fiji;1
+2025;9;land;Gambia;1
+2025;9;land;Georgia;1
+2025;9;land;Ghana;1
+2025;9;land;Guinea Ecuatorial;1
+2025;9;land;Herzegovina;1
+2025;9;land;Islas Caimán;1
+2025;9;land;Jordania;1
+2025;9;land;Liechtensein;1
+2025;9;land;Madagascar;1
+2025;9;land;Mongolia;1
+2025;9;land;Pakistán;1
+2025;9;land;Santa Lucía;1
+2025;9;land;Swazilandia;1
+2025;9;land;Timor Oriental;1
+2025;9;land;Túnez;1
+2025;9;land;Uganda;1
+2025;9;land;Zaire;1
+2025;9;startort;Sarria;25627
+2025;9;startort;Tui;6628
+2025;9;startort;Oporto;4642
+2025;9;startort;Ferrol;4509
+2025;9;startort;Oporto Costa;4414
+2025;9;startort;Porto (por Tui);3841
+2025;9;startort;Vigo;3305
+2025;9;startort;S. Jean P. Port;3186
+2025;9;startort;Valença do Minho;2624
+2025;9;startort;Oviedo - C.P.;2491
+2025;9;startort;Baiona;2040
+2025;9;startort;Lugo - C.P.;1365
+2025;9;startort;León;1100
+2025;9;startort;Cebreiro;969
+2025;9;startort;Irún;731
+2025;9;startort;Ponferrada;685
+2025;9;startort;A Guarda;612
+2025;9;startort;Roncesvalles;582
+2025;9;startort;Ourense;511
+2025;9;startort;Le Puy;437
+2025;9;startort;Lisboa;395
+2025;9;startort;Viana do Castelo;374
+2025;9;startort;Ponte de Lima;363
+2025;9;startort;Oia;359
+2025;9;startort;Porriño;356
+2025;9;startort;Caminha;337
+2025;9;startort;Astorga;333
+2025;9;startort;Vilalba;332
+2025;9;startort;Pamplona;322
+2025;9;startort;Burgos;314
+2025;9;startort;Triacastela;279
+2025;9;startort;Barcelos;226
+2025;9;startort;Villafranca del Bierzo;224
+2025;9;startort;Bilbao;201
+2025;9;startort;Ribadeo;201
+2025;9;startort;Francia - C.F.;190
+2025;9;startort;Baamonde;183
+2025;9;startort;Gijón;176
+2025;9;startort;Santander;173
+2025;9;startort;Monforte de Lemos;166
+2025;9;startort;San Sebastián;166
+2025;9;startort;Povoa de Varzim;149
+2025;9;startort;Esposende;146
+2025;9;startort;Lisboa Costa;145
+2025;9;startort;Avilés;138
+2025;9;startort;Neda;137
+2025;9;startort;Ferreiros;135
+2025;9;startort;Samos;132
+2025;9;startort;Muxia;126
+2025;9;startort;Barbadelo;125
+2025;9;startort;Fonsagrada - C.P.;123
+2025;9;startort;Sevilla;118
+2025;9;startort;Ponferrada. C.Inv.;113
+2025;9;startort;Finisterra;110
+2025;9;startort;A Coruña;107
+2025;9;startort;Resto de Galicia;98
+2025;9;startort;Vila do Conde;93
+2025;9;startort;Corrubedo;87
+2025;9;startort;Resto Galicia;82
+2025;9;startort;Luarca;81
+2025;9;startort;Castroverde;73
+2025;9;startort;Logroño;73
+2025;9;startort;Bayonne;67
+2025;9;startort;Hendaya;67
+2025;9;startort;Rates;63
+2025;9;startort;Guimaraes;59
+2025;9;startort;Muros de nalon;59
+2025;9;startort;Resto Portugal;57
+2025;9;startort;Labruge;54
+2025;9;startort;Nigrán;54
+2025;9;startort;Lourdes;50
+2025;9;startort;Madrid - C.F.;50
+2025;9;startort;Oviedo - C.N.;49
+2025;9;startort;Braga C.G.A.;47
+2025;9;startort;Mondoñedo;47
+2025;9;startort;Salamanca;46
+2025;9;startort;Arles;44
+2025;9;startort;Cadavo;41
+2025;9;startort;Tineo - C.P.;41
+2025;9;startort;Grandas de Salime - C.P.;40
+2025;9;startort;Madrid;39
+2025;9;startort;Sahagún;38
+2025;9;startort;Francia - C.N;36
+2025;9;startort;La caridad;36
+2025;9;startort;Resto de Portugal;36
+2025;9;startort;Braga;34
+2025;9;startort;Cudillero;34
+2025;9;startort;Vilanova de Cerveira;34
+2025;9;startort;Llanes;33
+2025;9;startort;Palmeira;33
+2025;9;startort;Muros;32
+2025;9;startort;Alemania;31
+2025;9;startort;Irlanda C. Ing;31
+2025;9;startort;Las Herrerías de Valcarce;31
+2025;9;startort;Lourenzá;31
+2025;9;startort;Ramallosa;31
+2025;9;startort;Brea;29
+2025;9;startort;Italia;29
+2025;9;startort;Abadin;28
+2025;9;startort;Foncebadón;26
+2025;9;startort;Holanda;26
+2025;9;startort;Bélgica;25
+2025;9;startort;Fatima;25
+2025;9;startort;Pola de Allande;25
+2025;9;startort;Resto de Europa;25
+2025;9;startort;Ribadeo C. del Mar;25
+2025;9;startort;Marinhas;23
+2025;9;startort;Rubiães;23
+2025;9;startort;Vega de Valcarce;23
+2025;9;startort;Coimbra Costa;21
+2025;9;startort;Estella;21
+2025;9;startort;Villalcázar de Sirga;21
+2025;9;startort;Zamora;21
+2025;9;startort;Alemania. O.C.;20
+2025;9;startort;Santarém;20
+2025;9;startort;Valencia;20
+2025;9;startort;Coimbra;19
+2025;9;startort;Reino Unido C.Ing;19
+2025;9;startort;Cádiz;18
+2025;9;startort;Frómista;18
+2025;9;startort;Hospital de Orbigo;18
+2025;9;startort;Águeda;17
+2025;9;startort;Australia;17
+2025;9;startort;Barcelona;17
+2025;9;startort;Biarritz;17
+2025;9;startort;Tomar;17
+2025;9;startort;C.G.A resto de Portugal;16
+2025;9;startort;Portimão;16
+2025;9;startort;Somport;16
+2025;9;startort;Trabadelo;16
+2025;9;startort;Andorra;15
+2025;9;startort;Granja de Moreruela;15
+2025;9;startort;Sto. Domingo de la Calzada;15
+2025;9;startort;Suiza;15
+2025;9;startort;Vezelay;15
+2025;9;startort;París;14
+2025;9;startort;Portugalete;14
+2025;9;startort;Puebla de Sanabria;14
+2025;9;startort;Quiroga;14
+2025;9;startort;Salas;14
+2025;9;startort;Santillana del mar;14
+2025;9;startort;Tapia de Casariego;14
+2025;9;startort;Toulouse;14
+2025;9;startort;Vilafranca;14
+2025;9;startort;Villaviciosa;14
+2025;9;startort;Viseu;14
+2025;9;startort;Zaragoza;14
+2025;9;startort;Chaves-Portugal;13
+2025;9;startort;Fonfría;13
+2025;9;startort;Allariz;12
+2025;9;startort;Jaca;12
+2025;9;startort;Laguna de Castilla;12
+2025;9;startort;Ribadesella;12
+2025;9;startort;Castro Urdiales;11
+2025;9;startort;Cataluña - C.F.;11
+2025;9;startort;Mérida;11
+2025;9;startort;Molinaseca;11
+2025;9;startort;Amsterdam;10
+2025;9;startort;Com. Valenciana - C.F.;10
+2025;9;startort;Granada;10
+2025;9;startort;R.Pais Vasco C.F.;10
+2025;9;startort;Resto Asturias - C.N;10
+2025;9;startort;Vilarinho;10
+2025;9;startort;Alicante;9
+2025;9;startort;Badajoz;9
+2025;9;startort;Belorado;9
+2025;9;startort;Berducedo;9
+2025;9;startort;Cataluña - O.C.;9
+2025;9;startort;Chantada;9
+2025;9;startort;Grado;9
+2025;9;startort;Realejo Alto;9
+2025;9;startort;San Vicente de la Barquera;9
+2025;9;startort;Cacabelos;8
+2025;9;startort;Castilla la Mancha otros;8
+2025;9;startort;Deba;8
+2025;9;startort;Canfranc;7
+2025;9;startort;Lubián;7
+2025;9;startort;Pola de siero;7
+2025;9;startort;Ponte do Porto (Mañón);7
+2025;9;startort;Portimão;7
+2025;9;startort;Resto de Andalucia;7
+2025;9;startort;Soto de Luiña;7
+2025;9;startort;Zubiri;7
+2025;9;startort;Aachen- Aquisgrán;6
+2025;9;startort;Almería;6
+2025;9;startort;Bulgaria;6
+2025;9;startort;Cadavelo;6
+2025;9;startort;Carrión de los Condes;6
+2025;9;startort;Castrojeriz;6
+2025;9;startort;Coruxo;6
+2025;9;startort;Faro;6
+2025;9;startort;Gudiña;6
+2025;9;startort;Laredo;6
+2025;9;startort;Naron;6
+2025;9;startort;Puente la Reina;6
+2025;9;startort;Austria;5
+2025;9;startort;Comillas;5
+2025;9;startort;Lagos;5
+2025;9;startort;Mont st. Michel;5
+2025;9;startort;Paradavella;5
+2025;9;startort;Pobeña;5
+2025;9;startort;Portecelo;5
+2025;9;startort;Resto C. León C.F.;5
+2025;9;startort;Resto Europa;5
+2025;9;startort;San Juan de Ortega;5
+2025;9;startort;Alto do Acevo (por San Xoán de Padrón );4
+2025;9;startort;Carcaboso;4
+2025;9;startort;Ginebra;4
+2025;9;startort;Jaén;4
+2025;9;startort;Madrid - V.P.;4
+2025;9;startort;Murcia;4
+2025;9;startort;Reino Unido C.F.;4
+2025;9;startort;Saint Palais;4
+2025;9;startort;San Andrés de Teixido;4
+2025;9;startort;Unquera;4
+2025;9;startort;Verín;4
+2025;9;startort;A calle;3
+2025;9;startort;Borres;3
+2025;9;startort;Burdeos;3
+2025;9;startort;Com. Valenciana - O.C.;3
+2025;9;startort;El burgo Ranero;3
+2025;9;startort;Gernika-Lumo;3
+2025;9;startort;Guemes;3
+2025;9;startort;Haarlem;3
+2025;9;startort;Huelva;3
+2025;9;startort;Hungría;3
+2025;9;startort;Irlanda C.F.;3
+2025;9;startort;La Rioja;3
+2025;9;startort;Laza;3
+2025;9;startort;Liñares (por San XII);3
+2025;9;startort;Los Arcos;3
+2025;9;startort;Luxemburgo;3
+2025;9;startort;Mansilla de las Mulas;3
+2025;9;startort;Porto do Son;3
+2025;9;startort;Resto C. León;3
+2025;9;startort;Resto País Vasco - C.N.;3
+2025;9;startort;Rionegro del Puente;3
+2025;9;startort;Roma;3
+2025;9;startort;Tours;3
+2025;9;startort;Valcarlos;3
+2025;9;startort;Valencia O.C.;3
+2025;9;startort;Vila real;3
+2025;9;startort;Xinzo de Limia;3
+2025;9;startort;Xunqueira de Ambia;3
+2025;9;startort;Zarautz;3
+2025;9;startort;A ponte;2
+2025;9;startort;A porbra do Brollon;2
+2025;9;startort;Ameixoeira C.G.A;2
+2025;9;startort;Aragón;2
+2025;9;startort;Asturianos;2
+2025;9;startort;Aveiro;2
+2025;9;startort;Carballido;2
+2025;9;startort;Cast. la Mancha - C.F.;2
+2025;9;startort;Colombres;2
+2025;9;startort;Columbrianos;2
+2025;9;startort;Fuenterroble de Salvatierra;2
+2025;9;startort;Golegã;2
+2025;9;startort;Grecia;2
+2025;9;startort;Konstanz;2
+2025;9;startort;La Bañeza;2
+2025;9;startort;La Mesa;2
+2025;9;startort;Las Médulas;2
+2025;9;startort;Lires;2
+2025;9;startort;Malaga;2
+2025;9;startort;Morgade;2
+2025;9;startort;Navarrete;2
+2025;9;startort;O Pereiro;2
+2025;9;startort;Otur;2
+2025;9;startort;Población de Campos;2
+2025;9;startort;Polonia;2
+2025;9;startort;Porto do Cabo (Cedeira);2
+2025;9;startort;Puente de Domingo Flórez;2
+2025;9;startort;Resto Asturias - C.P.;2
+2025;9;startort;Resto Cantabria;2
+2025;9;startort;Resto Europa C. Ing.;2
+2025;9;startort;Roermond;2
+2025;9;startort;Ruitelán;2
+2025;9;startort;San martín del Camino;2
+2025;9;startort;Santa Catalina de Somoza;2
+2025;9;startort;Santa Marta de Tara;2
+2025;9;startort;Santiago da ria de abres;2
+2025;9;startort;Tábara;2
+2025;9;startort;Tavira;2
+2025;9;startort;Valladolid;2
+2025;9;startort;Villares de Órbigo;2
+2025;9;startort;A barciela;1
+2025;9;startort;A Degolada;1
+2025;9;startort;A Rúa;1
+2025;9;startort;Abla;1
+2025;9;startort;Alcácer do Sal;1
+2025;9;startort;Ambasmestas;1
+2025;9;startort;Arrés;1
+2025;9;startort;As Gándaras de Budiño;1
+2025;9;startort;Atapuerca;1
+2025;9;startort;Azoreira C.G.A;1
+2025;9;startort;Batalha;1
+2025;9;startort;Biduedo (por Samos);1
+2025;9;startort;Burguete;1
+2025;9;startort;Cabanas;1
+2025;9;startort;Cáceres;1
+2025;9;startort;Caldas da Rainha;1
+2025;9;startort;Camponaraya;1
+2025;9;startort;Cathedral Basilica of St Augustine;1
+2025;9;startort;Dax;1
+2025;9;startort;Dinamarca;1
+2025;9;startort;El Escamplero;1
+2025;9;startort;Eslovaquia;1
+2025;9;startort;Fene;1
+2025;9;startort;Ferreira;1
+2025;9;startort;Finlandia;1
+2025;9;startort;Fuentesnuevas;1
+2025;9;startort;Hontanas;1
+2025;9;startort;Inglaterra C.F.;1
+2025;9;startort;La casquita;1
+2025;9;startort;La Faba;1
+2025;9;startort;La Portela de Valcarce;1
+2025;9;startort;La virgen del Camino;1
+2025;9;startort;Liñares (por Samos);1
+2025;9;startort;Lluc;1
+2025;9;startort;Lorca;1
+2025;9;startort;Markina-Xemein;1
+2025;9;startort;Montserrat;1
+2025;9;startort;Murcia V.P.;1
+2025;9;startort;Murias de Rechivaldo;1
+2025;9;startort;Nájera;1
+2025;9;startort;Navarra;1
+2025;9;startort;Nocedo;1
+2025;9;startort;Noruega;1
+2025;9;startort;O cebreiro (por Samos);1
+2025;9;startort;Orisson;1
+2025;9;startort;Oviedo;1
+2025;9;startort;Pontedeume;1
+2025;9;startort;Pontepedra;1
+2025;9;startort;Puerto de Béjar;1
+2025;9;startort;Rabanal del Camino;1
+2025;9;startort;Reliegos;1
+2025;9;startort;Republica Checa;1
+2025;9;startort;Requejo de Sanabria;1
+2025;9;startort;Resto C. León - V.P.;1
+2025;9;startort;RESTO DE PORTUGAL C.G.A;1
+2025;9;startort;Roales del Pan;1
+2025;9;startort;San Pedro da Torre;1
+2025;9;startort;Silleiro;1
+2025;9;startort;Suecia;1
+2025;9;startort;T. Bouro C.G.A.;1
+2025;9;startort;Valverde de la Virgen;1
+2025;9;startort;Vila Nova Famalicão;1
+2025;9;startort;Villadangos del Páramo;1
+2025;9;startort;Villademoros;1
+2025;9;startort;Zafra;1
+2025;10;region;Andalucia;3934
+2025;10;region;Madrid;2955
+2025;10;region;Cataluña;2183
+2025;10;region;Comunidad Valenciana;2143
+2025;10;region;Galicia;1328
+2025;10;region;Canarias;1322
+2025;10;region;Castilla La Mancha;904
+2025;10;region;Castilla León;824
+2025;10;region;Murcia;531
+2025;10;region;Extremadura;517
+2025;10;region;Baleares;482
+2025;10;region;Asturias;403
+2025;10;region;País Vasco;319
+2025;10;region;Aragon;313
+2025;10;region;Navarra;133
+2025;10;region;Cantabria;125
+2025;10;region;La Rioja;60
+2025;10;region;Sin autonomía;59
+2025;10;region;Residentes Extranjero;43
+2025;10;region;Melilla;22
+2025;10;region;Ceuta;21
+2025;10;weg;(ohne Angabe);4
+2025;10;weg;Camino Francés;29890
+2025;10;weg;Camino Portugués;11555
+2025;10;weg;Camino Portugués por la Costa;11490
+2025;10;weg;Camino Inglés;2797
+2025;10;weg;Camino Primitivo;3000
+2025;10;weg;Camino del Norte;2380
+2025;10;weg;Vía de la Plata;850
+2025;10;weg;Otros Caminos;134
+2025;10;weg;Camino de Invierno;246
+2025;10;weg;Muxía - Finisterre;212
+2025;10;weg;Camino de Muros - Noia;22
+2025;10;weg;Camino del Barbanza;25
+2025;10;weg;Camino de Geira - Arrieros;84
+2025;10;weg;Miñoto Ribeiro;6
+2025;10;weg;Camino del Mar;7
+2025;10;weg;Vía Céltica;8
+2025;10;weg;Camino de San Salvador;8
+2025;10;weg;Camino Olvidado;23
+2025;10;weg;Camino de Las Américas;3
+2025;10;weg;Camino de Tenerife Norte;11
+2025;10;weg;O Vello Camino de Santiago (Betanzos-Santiago);2
+2025;10;weg;O Vello Camino de Santiago (A Coruña-Santiago);41
+2025;10;weg;Camino Levante;23
+2025;10;weg;Camino Sureste - Alicante;3
+2025;10;weg;Camino Mozárabe;32
+2025;10;motiv;Religioso;26533
+2025;10;motiv;Otros;19217
+2025;10;motiv;No Religioso;11590
+2025;10;motiv;Desconocido;5516
+2025;10;land;España;18621
+2025;10;land;Estados Unidos;7460
+2025;10;land;Alemania;3059
+2025;10;land;Portugal;2467
+2025;10;land;Italia;2237
+2025;10;land;Reino Unido;2219
+2025;10;land;Desconocido;2123
+2025;10;land;Canadá;1895
+2025;10;land;México;1841
+2025;10;land;Australia;1759
+2025;10;land;Brasil;1427
+2025;10;land;Francia;1247
+2025;10;land;Irlanda;1221
+2025;10;land;Corea;1170
+2025;10;land;Taiwán;1093
+2025;10;land;Colombia;1059
+2025;10;land;Holanda;966
+2025;10;land;China;887
+2025;10;land;Argentina;848
+2025;10;land;Polonia;820
+2025;10;land;República Checa;500
+2025;10;land;Bélgica;491
+2025;10;land;Dinamarca;469
+2025;10;land;Ucrania;359
+2025;10;land;Filipinas;341
+2025;10;land;Austria;311
+2025;10;land;Hungría;311
+2025;10;land;Nueva Zelanda;294
+2025;10;land;Rusia;286
+2025;10;land;Suiza;278
+2025;10;land;Suecia;258
+2025;10;land;Puerto Rico;256
+2025;10;land;Singapur;227
+2025;10;land;Japón;223
+2025;10;land;Venezuela;218
+2025;10;land;Sudáfrica;209
+2025;10;land;Eslovaquia;198
+2025;10;land;Noruega;194
+2025;10;land;Uruguay;187
+2025;10;land;Malasia;166
+2025;10;land;Rumania;166
+2025;10;land;Irán;164
+2025;10;land;Croacia;160
+2025;10;land;Hong Kong;154
+2025;10;land;Eslovenia;151
+2025;10;land;Chile;147
+2025;10;land;Finlandia;126
+2025;10;land;Costa Rica;119
+2025;10;land;Indonesia;118
+2025;10;land;Perú;109
+2025;10;land;Bulgaria;104
+2025;10;land;Lituania;98
+2025;10;land;Ecuador;95
+2025;10;land;Letonia;78
+2025;10;land;Israel;77
+2025;10;land;Estonia;66
+2025;10;land;Bielorrusia;57
+2025;10;land;Paraguay;51
+2025;10;land;Malta;49
+2025;10;land;Panamá;45
+2025;10;land;Guatemala;44
+2025;10;land;El Salvador;40
+2025;10;land;Rep. Dominicana;38
+2025;10;land;Líbano;33
+2025;10;land;India;32
+2025;10;land;Turquía;30
+2025;10;land;Grecia;29
+2025;10;land;Emiratos Arabes Unidos;22
+2025;10;land;Honduras;21
+2025;10;land;Cuba;16
+2025;10;land;Bolivia;15
+2025;10;land;Luxemburgo;14
+2025;10;land;Andorra;13
+2025;10;land;Irak;11
+2025;10;land;Serbia;10
+2025;10;land;Nicaragua;9
+2025;10;land;Afganistán;8
+2025;10;land;Islandia;8
+2025;10;land;Moldavia;8
+2025;10;land;Sri Lanka;8
+2025;10;land;Kazajistán;7
+2025;10;land;Marruecos;7
+2025;10;land;Georgia;5
+2025;10;land;Trinidad y Tobago;5
+2025;10;land;Armenia;4
+2025;10;land;Aruba;4
+2025;10;land;Bosnia;4
+2025;10;land;Kenya;4
+2025;10;land;Angola;3
+2025;10;land;Belice;3
+2025;10;land;Islas Feroe;3
+2025;10;land;Jamaica;3
+2025;10;land;Liechtensein;3
+2025;10;land;Palestina;3
+2025;10;land;Tailandia;3
+2025;10;land;Albania;2
+2025;10;land;Bahamas;2
+2025;10;land;Bangladesh;2
+2025;10;land;Cabo Verde;2
+2025;10;land;Chipre;2
+2025;10;land;Egipto;2
+2025;10;land;Fiji;2
+2025;10;land;Ghana;2
+2025;10;land;Granada;2
+2025;10;land;Groenlandia;2
+2025;10;land;Jersey;2
+2025;10;land;Kosovo;2
+2025;10;land;Macedonia;2
+2025;10;land;Montenegro;2
+2025;10;land;Namibia;2
+2025;10;land;Urbekistán;2
+2025;10;land;Zimbabwe;2
+2025;10;land;Antigua y Barbuda;1
+2025;10;land;Arabia Saudita;1
+2025;10;land;Bermudas;1
+2025;10;land;Botswana;1
+2025;10;land;Camerún;1
+2025;10;land;Djibouti;1
+2025;10;land;Eritrea;1
+2025;10;land;Etiopía;1
+2025;10;land;Guadalupe;1
+2025;10;land;Guam;1
+2025;10;land;Guinea Ecuatorial;1
+2025;10;land;Islas Caimán;1
+2025;10;land;Myanmar;1
+2025;10;land;Nigeria;1
+2025;10;land;Nueva Caledonia;1
+2025;10;land;Omán;1
+2025;10;land;San Cristóbal y Nevis;1
+2025;10;land;Senegal;1
+2025;10;land;Siria;1
+2025;10;land;Tanzania;1
+2025;10;land;Turkmenistán;1
+2025;10;land;Tuvalu;1
+2025;10;land;Vietnam;1
+2025;10;startort;Sarria;18368
+2025;10;startort;S. Jean P. Port;5688
+2025;10;startort;Tui;3831
+2025;10;startort;Oporto;3697
+2025;10;startort;Oporto Costa;3258
+2025;10;startort;Porto (por Tui);3048
+2025;10;startort;Ferrol;2680
+2025;10;startort;Vigo;2263
+2025;10;startort;Valença do Minho;2241
+2025;10;startort;Oviedo - C.P.;1782
+2025;10;startort;Baiona;1198
+2025;10;startort;León;1043
+2025;10;startort;Lugo - C.P.;893
+2025;10;startort;Cebreiro;774
+2025;10;startort;Irún;772
+2025;10;startort;Ponferrada;585
+2025;10;startort;Roncesvalles;476
+2025;10;startort;Lisboa;418
+2025;10;startort;Ourense;396
+2025;10;startort;Pamplona;384
+2025;10;startort;Le Puy;356
+2025;10;startort;Viana do Castelo;324
+2025;10;startort;Ponte de Lima;323
+2025;10;startort;A Guarda;279
+2025;10;startort;Burgos;270
+2025;10;startort;Astorga;263
+2025;10;startort;Ribadeo;247
+2025;10;startort;Barcelos;239
+2025;10;startort;Oia;238
+2025;10;startort;Caminha;230
+2025;10;startort;Porriño;224
+2025;10;startort;Francia - C.F.;223
+2025;10;startort;Sevilla;197
+2025;10;startort;Lisboa Costa;188
+2025;10;startort;San Sebastián;176
+2025;10;startort;Bilbao;168
+2025;10;startort;Guimaraes;158
+2025;10;startort;Ponferrada. C.Inv.;156
+2025;10;startort;Triacastela;154
+2025;10;startort;Vilalba;145
+2025;10;startort;Povoa de Varzim;130
+2025;10;startort;Bayonne;121
+2025;10;startort;Finisterra;113
+2025;10;startort;Villafranca del Bierzo;107
+2025;10;startort;A Coruña;103
+2025;10;startort;Fonsagrada - C.P.;96
+2025;10;startort;Muxia;95
+2025;10;startort;Santander;94
+2025;10;startort;Avilés;91
+2025;10;startort;Hendaya;86
+2025;10;startort;Resto de Galicia;86
+2025;10;startort;Gijón;85
+2025;10;startort;Castroverde;83
+2025;10;startort;Samos;82
+2025;10;startort;Braga C.G.A.;80
+2025;10;startort;Esposende;79
+2025;10;startort;Foncebadón;78
+2025;10;startort;Logroño;78
+2025;10;startort;Baamonde;71
+2025;10;startort;Vila do Conde;70
+2025;10;startort;Braga;65
+2025;10;startort;Monforte de Lemos;65
+2025;10;startort;Rubiães;52
+2025;10;startort;Brea;50
+2025;10;startort;Labruge;50
+2025;10;startort;Luarca;49
+2025;10;startort;Barbadelo;45
+2025;10;startort;Somport;42
+2025;10;startort;Abadin;39
+2025;10;startort;Resto Europa;39
+2025;10;startort;Resto Portugal;39
+2025;10;startort;Salamanca;36
+2025;10;startort;Marinhas;35
+2025;10;startort;Francia - C.N;34
+2025;10;startort;Madrid;34
+2025;10;startort;Berducedo;31
+2025;10;startort;Resto Galicia;31
+2025;10;startort;Biarritz;30
+2025;10;startort;Coimbra;30
+2025;10;startort;Grandas de Salime - C.P.;30
+2025;10;startort;Reino Unido C.Ing;30
+2025;10;startort;Lourdes;29
+2025;10;startort;Cádiz;28
+2025;10;startort;Gudiña;28
+2025;10;startort;Madrid - C.F.;28
+2025;10;startort;Vilafranca;28
+2025;10;startort;Sahagún;27
+2025;10;startort;Alemania;26
+2025;10;startort;Población de Campos;26
+2025;10;startort;Corrubedo;25
+2025;10;startort;Mondoñedo;25
+2025;10;startort;Resto de Portugal;25
+2025;10;startort;Coimbra Costa;23
+2025;10;startort;Valencia;23
+2025;10;startort;Vilanova de Cerveira;23
+2025;10;startort;Zamora;23
+2025;10;startort;Australia;22
+2025;10;startort;París;22
+2025;10;startort;Puebla de Sanabria;22
+2025;10;startort;Rates;22
+2025;10;startort;Camponaraya;21
+2025;10;startort;Fatima;21
+2025;10;startort;Hospital de Orbigo;21
+2025;10;startort;Muros;21
+2025;10;startort;Alemania. O.C.;20
+2025;10;startort;Cadavo;20
+2025;10;startort;Frómista;20
+2025;10;startort;Oviedo - C.N.;20
+2025;10;startort;Vezelay;20
+2025;10;startort;Irlanda C. Ing;19
+2025;10;startort;Liñares (por Samos);19
+2025;10;startort;Cacabelos;18
+2025;10;startort;Faro;18
+2025;10;startort;Las Herrerías de Valcarce;17
+2025;10;startort;Nigrán;17
+2025;10;startort;Resto de Europa;17
+2025;10;startort;Arles;16
+2025;10;startort;Granja de Moreruela;16
+2025;10;startort;Barcelona;15
+2025;10;startort;Hungría;15
+2025;10;startort;Llanes;15
+2025;10;startort;Soto de Luiña;15
+2025;10;startort;Vilarinho;15
+2025;10;startort;Bélgica;14
+2025;10;startort;Castilla la Mancha otros;14
+2025;10;startort;Ferreiros;14
+2025;10;startort;Italia;14
+2025;10;startort;San Juan de Ortega;14
+2025;10;startort;Cataluña - C.F.;13
+2025;10;startort;Grado;13
+2025;10;startort;Salas;13
+2025;10;startort;Tineo - C.P.;13
+2025;10;startort;Austria;12
+2025;10;startort;Malaga;12
+2025;10;startort;Suiza;12
+2025;10;startort;Aveiro;11
+2025;10;startort;Carrión de los Condes;11
+2025;10;startort;Holanda;11
+2025;10;startort;Realejo Alto;11
+2025;10;startort;Tours;11
+2025;10;startort;C.G.A resto de Portugal;10
+2025;10;startort;Padornelo;10
+2025;10;startort;Puente la Reina;10
+2025;10;startort;Santillana del mar;10
+2025;10;startort;Almería;9
+2025;10;startort;Com. Valenciana - C.F.;9
+2025;10;startort;Ginebra;9
+2025;10;startort;Laguna de Castilla;9
+2025;10;startort;Lourenzá;9
+2025;10;startort;Mérida;9
+2025;10;startort;Montserrat;9
+2025;10;startort;Ramallosa;9
+2025;10;startort;Tomar;9
+2025;10;startort;Xunqueira de Ambia;9
+2025;10;startort;Cataluña - O.C.;8
+2025;10;startort;Chantada;8
+2025;10;startort;Granada;8
+2025;10;startort;Irlanda C.F.;8
+2025;10;startort;Laza;8
+2025;10;startort;Resto de Andalucia;8
+2025;10;startort;Sto. Domingo de la Calzada;8
+2025;10;startort;Toulouse;8
+2025;10;startort;Viseu;8
+2025;10;startort;Águeda;7
+2025;10;startort;Aragón;7
+2025;10;startort;Burdeos;7
+2025;10;startort;Castrojeriz;7
+2025;10;startort;Chaves-Portugal;7
+2025;10;startort;Comillas;7
+2025;10;startort;Haarlem;7
+2025;10;startort;Jaca;7
+2025;10;startort;La Mesa;7
+2025;10;startort;Otero de Sanabria;7
+2025;10;startort;Portimão;7
+2025;10;startort;Ribadesella;7
+2025;10;startort;Saint Palais;7
+2025;10;startort;Santarém;7
+2025;10;startort;Aachen- Aquisgrán;6
+2025;10;startort;Caión;6
+2025;10;startort;Cast. la Mancha - C.F.;6
+2025;10;startort;Cudillero;6
+2025;10;startort;Estella;6
+2025;10;startort;Fonfría;6
+2025;10;startort;La caridad;6
+2025;10;startort;La virgen del Camino;6
+2025;10;startort;Lagos;6
+2025;10;startort;R.Pais Vasco C.F.;6
+2025;10;startort;Vilar de Barrio;6
+2025;10;startort;Zaragoza;6
+2025;10;startort;A porbra do Brollon;5
+2025;10;startort;Borres;5
+2025;10;startort;Castro Urdiales;5
+2025;10;startort;Huelva;5
+2025;10;startort;Konstanz;5
+2025;10;startort;Muros de nalon;5
+2025;10;startort;Ponte das Febres;5
+2025;10;startort;Portugalete;5
+2025;10;startort;Ribadavia C.G.A;5
+2025;10;startort;Trabadelo;5
+2025;10;startort;Valladolid;5
+2025;10;startort;Vila real;5
+2025;10;startort;A Alberguería;4
+2025;10;startort;Allariz;4
+2025;10;startort;Ambasmestas;4
+2025;10;startort;Amsterdam;4
+2025;10;startort;Cáceres;4
+2025;10;startort;Cadavelo;4
+2025;10;startort;Coruxo;4
+2025;10;startort;Dinamarca;4
+2025;10;startort;La Rioja;4
+2025;10;startort;Lires;4
+2025;10;startort;Los Arcos;4
+2025;10;startort;Madrid - V.P.;4
+2025;10;startort;Molinaseca;4
+2025;10;startort;Mont st. Michel;4
+2025;10;startort;Montefurado;4
+2025;10;startort;Morgade;4
+2025;10;startort;Nájera;4
+2025;10;startort;O Barco de Valdeorras;4
+2025;10;startort;Pobeña;4
+2025;10;startort;Pola de Allande;4
+2025;10;startort;Setúbal;4
+2025;10;startort;Unquera;4
+2025;10;startort;Verín;4
+2025;10;startort;Villaviciosa;4
+2025;10;startort;Alicante;3
+2025;10;startort;Colombres;3
+2025;10;startort;Colonia;3
+2025;10;startort;Córdoba;3
+2025;10;startort;Cortegada C.G.A;3
+2025;10;startort;Golegã;3
+2025;10;startort;Lubián;3
+2025;10;startort;Navarra;3
+2025;10;startort;Navarrete;3
+2025;10;startort;Orisson;3
+2025;10;startort;Polonia;3
+2025;10;startort;Resto Asturias - C.N;3
+2025;10;startort;San Vicente de la Barquera;3
+2025;10;startort;Valverde de la Virgen;3
+2025;10;startort;Vega de Valcarce;3
+2025;10;startort;Vila Nova Famalicão;3
+2025;10;startort;Vilabade;3
+2025;10;startort;Zarautz;3
+2025;10;startort;Zubiri;3
+2025;10;startort;Alcácer do Sal;2
+2025;10;startort;Alto do Acevo (por San Xoán de Padrón );2
+2025;10;startort;Atapuerca;2
+2025;10;startort;Azofra;2
+2025;10;startort;Belorado;2
+2025;10;startort;Bulgaria;2
+2025;10;startort;Burguete;2
+2025;10;startort;Calzada de Béjar;2
+2025;10;startort;Cañaveral;2
+2025;10;startort;Castro del Río;2
+2025;10;startort;Com. Valenciana - O.C.;2
+2025;10;startort;El Acebo;2
+2025;10;startort;La Faba;2
+2025;10;startort;Laredo;2
+2025;10;startort;Mansilla de las Mulas;2
+2025;10;startort;Murcia;2
+2025;10;startort;Naron;2
+2025;10;startort;National Shrine Our Lady of La Leche;2
+2025;10;startort;Ponte da Xira;2
+2025;10;startort;Pontepedra;2
+2025;10;startort;Republica Checa;2
+2025;10;startort;Ribadeo C. del Mar;2
+2025;10;startort;San martín del Camino;2
+2025;10;startort;Sangüesa;2
+2025;10;startort;Silleiro;2
+2025;10;startort;Sobradelo;2
+2025;10;startort;Tábara;2
+2025;10;startort;Tapia de Casariego;2
+2025;10;startort;Tavira;2
+2025;10;startort;Vegadeo;2
+2025;10;startort;Villanueva de Algaida;2
+2025;10;startort;Viveiro;2
+2025;10;startort;A Canda;1
+2025;10;startort;A Fontaneira;1
+2025;10;startort;A Lastra;1
+2025;10;startort;A ponte;1
+2025;10;startort;Abres;1
+2025;10;startort;Alcaudete;1
+2025;10;startort;Ayegui;1
+2025;10;startort;Berán C.G.A;1
+2025;10;startort;Bercianos del Real Camino;1
+2025;10;startort;Burlada;1
+2025;10;startort;Cabo de Creus;1
+2025;10;startort;Caldas da Rainha;1
+2025;10;startort;Camariñas;1
+2025;10;startort;Compostilla;1
+2025;10;startort;Cruz de Ferro;1
+2025;10;startort;Dax;1
+2025;10;startort;Dortmund;1
+2025;10;startort;El burgo Ranero;1
+2025;10;startort;Eslovaquia;1
+2025;10;startort;Fuenterroble de Salvatierra;1
+2025;10;startort;Guemes;1
+2025;10;startort;Hinojosa del Duque;1
+2025;10;startort;Inglaterra C.F.;1
+2025;10;startort;La casquita;1
+2025;10;startort;La Robla;1
+2025;10;startort;Lalín;1
+2025;10;startort;Liñares (por San XII);1
+2025;10;startort;Luxemburgo;1
+2025;10;startort;Mickler’s Landing;1
+2025;10;startort;Mombuey;1
+2025;10;startort;Murcia V.P.;1
+2025;10;startort;Murias de Rechivaldo;1
+2025;10;startort;Noruega;1
+2025;10;startort;Óbanos;1
+2025;10;startort;Olea;1
+2025;10;startort;Pandorado;1
+2025;10;startort;Pascais (por Samos);1
+2025;10;startort;Pola de siero;1
+2025;10;startort;Ponte do Porto;1
+2025;10;startort;Ponte do Porto (Mañón);1
+2025;10;startort;Porto do Cabo (Cedeira);1
+2025;10;startort;Porto do Son;1
+2025;10;startort;Rabanal del Camino;1
+2025;10;startort;Resto Andalucia;1
+2025;10;startort;Resto Asturias - C.P.;1
+2025;10;startort;Resto C. León;1
+2025;10;startort;Resto C. León - V.P.;1
+2025;10;startort;Resto Cantabria;1
+2025;10;startort;Resto de Portugal C.M.R.;1
+2025;10;startort;Resto Europa C. Ing.;1
+2025;10;startort;Resto País Vasco - C.N.;1
+2025;10;startort;Riego de Ambrós;1
+2025;10;startort;Roma;1
+2025;10;startort;Ruitelán;1
+2025;10;startort;San Andrés de Teixido;1
+2025;10;startort;San XII;1
+2025;10;startort;Suecia;1
+2025;10;startort;Uterga;1
+2025;10;startort;Valcarlos;1
+2025;10;startort;Valverde de Valdelacasa;1
+2025;10;startort;Vilamartin de Valdeorras;1
+2025;10;startort;Xubia;1
+2025;11;motiv;Religioso;4359
+2025;11;motiv;Otros;3941
+2025;11;motiv;No Religioso;1721
+2025;11;motiv;Desconocido;1051
+2025;11;region;Andalucia;856
+2025;11;region;Galicia;534
+2025;11;region;Cataluña;439
+2025;11;region;Comunidad Valenciana;433
+2025;11;region;Madrid;422
+2025;11;region;Baleares;351
+2025;11;region;Canarias;185
+2025;11;region;Castilla La Mancha;153
+2025;11;region;Asturias;136
+2025;11;region;Castilla León;117
+2025;11;region;Murcia;109
+2025;11;region;País Vasco;64
+2025;11;region;Aragon;51
+2025;11;region;Extremadura;51
+2025;11;region;Navarra;16
+2025;11;region;Cantabria;15
+2025;11;region;La Rioja;15
+2025;11;region;Sin autonomía;12
+2025;11;region;Melilla;9
+2025;11;region;Ceuta;7
+2025;11;region;Residentes Extranjero;5
+2025;11;weg;Camino Francés;5433
+2025;11;weg;Camino Portugués;2109
+2025;11;weg;Camino Portugués por la Costa;1456
+2025;11;weg;Camino Inglés;548
+2025;11;weg;Camino Primitivo;501
+2025;11;weg;Camino del Norte;473
+2025;11;weg;Vía de la Plata;223
+2025;11;weg;Camino de Invierno;164
+2025;11;weg;Otros Caminos;46
+2025;11;weg;Camino del Barbanza;32
+2025;11;weg;Muxía - Finisterre;30
+2025;11;weg;Camino Mozárabe;15
+2025;11;weg;Camino Sureste - Alicante;10
+2025;11;weg;Camino de Geira - Arrieros;7
+2025;11;weg;Camino de San Salvador;6
+2025;11;weg;Camino Levante;5
+2025;11;weg;Camino de Muros - Noia;4
+2025;11;weg;Camino del Mar;3
+2025;11;weg;Camino Olvidado;3
+2025;11;weg;Camino de Tenerife Norte;2
+2025;11;weg;Camino de Las Américas;1
+2025;11;weg;O Vello Camino de Santiago (A Coruña-Santiago);1
+2025;11;land;España;3980
+2025;11;land;Estados Unidos;884
+2025;11;land;Italia;497
+2025;11;land;Desconocido;473
+2025;11;land;Corea;425
+2025;11;land;Portugal;422
+2025;11;land;Alemania;370
+2025;11;land;Francia;317
+2025;11;land;México;297
+2025;11;land;Australia;269
+2025;11;land;Reino Unido;257
+2025;11;land;Brasil;254
+2025;11;land;Colombia;222
+2025;11;land;Canadá;215
+2025;11;land;Argentina;197
+2025;11;land;Holanda;152
+2025;11;land;China;148
+2025;11;land;Taiwán;125
+2025;11;land;Polonia;121
+2025;11;land;Ucrania;99
+2025;11;land;República Checa;97
+2025;11;land;Japón;70
+2025;11;land;Rusia;60
+2025;11;land;Dinamarca;59
+2025;11;land;Hungría;57
+2025;11;land;Bélgica;56
+2025;11;land;Suiza;55
+2025;11;land;Venezuela;52
+2025;11;land;Irlanda;51
+2025;11;land;Chile;42
+2025;11;land;Malasia;41
+2025;11;land;Filipinas;40
+2025;11;land;Austria;37
+2025;11;land;Nueva Zelanda;33
+2025;11;land;Rumania;33
+2025;11;land;Croacia;31
+2025;11;land;Eslovaquia;29
+2025;11;land;Singapur;29
+2025;11;land;Uruguay;29
+2025;11;land;Ecuador;28
+2025;11;land;Puerto Rico;27
+2025;11;land;Suecia;27
+2025;11;land;Letonia;25
+2025;11;land;Guatemala;24
+2025;11;land;Perú;24
+2025;11;land;Lituania;20
+2025;11;land;Hong Kong;18
+2025;11;land;Malta;17
+2025;11;land;Grecia;14
+2025;11;land;Bulgaria;13
+2025;11;land;Eslovenia;13
+2025;11;land;Sudáfrica;13
+2025;11;land;Irán;12
+2025;11;land;Finlandia;11
+2025;11;land;India;11
+2025;11;land;Costa Rica;10
+2025;11;land;Estonia;10
+2025;11;land;Noruega;9
+2025;11;land;Indonesia;8
+2025;11;land;Honduras;7
+2025;11;land;Turquía;7
+2025;11;land;Luxemburgo;6
+2025;11;land;Panamá;6
+2025;11;land;Bielorrusia;5
+2025;11;land;Bolivia;5
+2025;11;land;Botswana;5
+2025;11;land;Israel;5
+2025;11;land;Paraguay;5
+2025;11;land;Cuba;4
+2025;11;land;El Salvador;4
+2025;11;land;Pakistán;4
+2025;11;land;Rep. Dominicana;4
+2025;11;land;Serbia;4
+2025;11;land;Andorra;3
+2025;11;land;Líbano;3
+2025;11;land;Afganistán;2
+2025;11;land;Albania;2
+2025;11;land;Argelia;2
+2025;11;land;Bermudas;2
+2025;11;land;Cabo Verde;2
+2025;11;land;Islandia;2
+2025;11;land;Kazajistán;2
+2025;11;land;Moldavia;2
+2025;11;land;Vaticano;2
+2025;11;land;Armenia;1
+2025;11;land;Camboya;1
+2025;11;land;Chipre;1
+2025;11;land;Dominica;1
+2025;11;land;Georgia;1
+2025;11;land;Irak;1
+2025;11;land;Islas Caimán;1
+2025;11;land;Jersey;1
+2025;11;land;Kirguistán;1
+2025;11;land;Marruecos;1
+2025;11;land;Micronesia;1
+2025;11;land;Namibia;1
+2025;11;land;Nepal;1
+2025;11;land;Nigeria;1
+2025;11;land;San Marino;1
+2025;11;land;Siria;1
+2025;11;land;Tailandia;1
+2025;11;land;Turkmenistán;1
+2025;11;startort;Sarria;2848
+2025;11;startort;S. Jean P. Port;1459
+2025;11;startort;Tui;894
+2025;11;startort;Oporto;587
+2025;11;startort;Ferrol;534
+2025;11;startort;Oporto Costa;425
+2025;11;startort;Porto (por Tui);391
+2025;11;startort;Oviedo - C.P.;326
+2025;11;startort;Vigo;302
+2025;11;startort;Valença do Minho;282
+2025;11;startort;Irún;146
+2025;11;startort;Le Puy;139
+2025;11;startort;León;134
+2025;11;startort;Ponferrada. C.Inv.;130
+2025;11;startort;Lugo - C.P.;128
+2025;11;startort;Ponferrada;125
+2025;11;startort;Lisboa;114
+2025;11;startort;Pamplona;110
+2025;11;startort;Sevilla;105
+2025;11;startort;Baiona;94
+2025;11;startort;Cebreiro;90
+2025;11;startort;Roncesvalles;89
+2025;11;startort;A Guarda;79
+2025;11;startort;Francia - C.F.;72
+2025;11;startort;Ourense;62
+2025;11;startort;Burgos;52
+2025;11;startort;Ponte de Lima;52
+2025;11;startort;Santander;52
+2025;11;startort;Viseu;50
+2025;11;startort;Astorga;39
+2025;11;startort;Ribadeo;39
+2025;11;startort;San Sebastián;38
+2025;11;startort;Vilalba;38
+2025;11;startort;Caminha;35
+2025;11;startort;Lisboa Costa;35
+2025;11;startort;Villafranca del Bierzo;35
+2025;11;startort;Viana do Castelo;34
+2025;11;startort;Corrubedo;32
+2025;11;startort;Triacastela;32
+2025;11;startort;Bilbao;27
+2025;11;startort;Barcelos;24
+2025;11;startort;Logroño;24
+2025;11;startort;Porriño;24
+2025;11;startort;Monforte de Lemos;23
+2025;11;startort;Bayonne;18
+2025;11;startort;Fonsagrada - C.P.;17
+2025;11;startort;Madrid - C.F.;17
+2025;11;startort;Finisterra;16
+2025;11;startort;Gijón;15
+2025;11;startort;Hendaya;15
+2025;11;startort;Povoa de Varzim;15
+2025;11;startort;Vila do Conde;14
+2025;11;startort;Braga;13
+2025;11;startort;Vila real;13
+2025;11;startort;Almería;12
+2025;11;startort;Resto de Galicia;12
+2025;11;startort;Alemania;11
+2025;11;startort;Muxia;11
+2025;11;startort;A Coruña;10
+2025;11;startort;Alicante;10
+2025;11;startort;Francia - C.N;10
+2025;11;startort;Italia;10
+2025;11;startort;Luarca;9
+2025;11;startort;Oviedo - C.N.;9
+2025;11;startort;Abadin;8
+2025;11;startort;Alemania. O.C.;8
+2025;11;startort;Castilla la Mancha otros;8
+2025;11;startort;Cataluña - O.C.;8
+2025;11;startort;Lourdes;8
+2025;11;startort;Sahagún;8
+2025;11;startort;Somport;8
+2025;11;startort;Xunqueira de Ambia;8
+2025;11;startort;Berducedo;7
+2025;11;startort;Braga C.G.A.;7
+2025;11;startort;Chaves-Portugal;7
+2025;11;startort;Madrid;7
+2025;11;startort;París;7
+2025;11;startort;Resto Galicia;7
+2025;11;startort;Samos;7
+2025;11;startort;Suiza;7
+2025;11;startort;almeria;6
+2025;11;startort;Arles;6
+2025;11;startort;Avilés;6
+2025;11;startort;Biarritz;6
+2025;11;startort;Holanda;6
+2025;11;startort;Oia;6
+2025;11;startort;Rates;6
+2025;11;startort;Resto de Europa;6
+2025;11;startort;San Juan de Ortega;6
+2025;11;startort;Aragón;5
+2025;11;startort;Cádiz;5
+2025;11;startort;Chantada;5
+2025;11;startort;Coimbra;5
+2025;11;startort;Coimbra Costa;5
+2025;11;startort;Faro;5
+2025;11;startort;Ginebra;5
+2025;11;startort;Grandas de Salime - C.P.;5
+2025;11;startort;Mondoñedo;5
+2025;11;startort;Resto Portugal;5
+2025;11;startort;Salamanca;5
+2025;11;startort;Tomar;5
+2025;11;startort;Valencia;5
+2025;11;startort;Baamonde;4
+2025;11;startort;Bélgica;4
+2025;11;startort;Castro Urdiales;4
+2025;11;startort;Esposende;4
+2025;11;startort;Grado;4
+2025;11;startort;Malaga;4
+2025;11;startort;Marinhas;4
+2025;11;startort;Portimão;4
+2025;11;startort;Puebla de Sanabria;4
+2025;11;startort;Reino Unido C.Ing;4
+2025;11;startort;Rubiães;4
+2025;11;startort;Toulouse;4
+2025;11;startort;Australia;3
+2025;11;startort;Barcelona;3
+2025;11;startort;Burdeos;3
+2025;11;startort;Carrión de los Condes;3
+2025;11;startort;Castroverde;3
+2025;11;startort;Com. Valenciana - O.C.;3
+2025;11;startort;Cudillero;3
+2025;11;startort;Fatima;3
+2025;11;startort;Frómista;3
+2025;11;startort;Granja de Moreruela;3
+2025;11;startort;Huelva;3
+2025;11;startort;Lagos;3
+2025;11;startort;Lires;3
+2025;11;startort;Mont st. Michel;3
+2025;11;startort;Muros;3
+2025;11;startort;Resto Cantabria;3
+2025;11;startort;Resto de Portugal;3
+2025;11;startort;Resto Europa;3
+2025;11;startort;Ribadeo C. del Mar;3
+2025;11;startort;Tineo - C.P.;3
+2025;11;startort;Vilanova de Cerveira;3
+2025;11;startort;A Barxa;2
+2025;11;startort;Bulgaria;2
+2025;11;startort;C.G.A resto de Portugal;2
+2025;11;startort;Cacabelos;2
+2025;11;startort;Cáceres;2
+2025;11;startort;Cadavelo;2
+2025;11;startort;Cadavo;2
+2025;11;startort;Cataluña - C.F.;2
+2025;11;startort;Com. Valenciana - C.F.;2
+2025;11;startort;Jaca;2
+2025;11;startort;Konstanz;2
+2025;11;startort;Lourenzá;2
+2025;11;startort;Mérida;2
+2025;11;startort;Molinaseca;2
+2025;11;startort;Navarra;2
+2025;11;startort;Nigrán;2
+2025;11;startort;Pola de Allande;2
+2025;11;startort;Polonia;2
+2025;11;startort;Portecelo;2
+2025;11;startort;R.Pais Vasco C.F.;2
+2025;11;startort;Ramallosa;2
+2025;11;startort;Realejo Alto;2
+2025;11;startort;Republica Checa;2
+2025;11;startort;Saint Palais;2
+2025;11;startort;Salas;2
+2025;11;startort;San Vicente de la Barquera;2
+2025;11;startort;Tours;2
+2025;11;startort;Zamora;2
+2025;11;startort;Zaragoza;2
+2025;11;startort;A porbra do Brollon;1
+2025;11;startort;Aachen- Aquisgrán;1
+2025;11;startort;Águeda;1
+2025;11;startort;Alcácer do Sal;1
+2025;11;startort;Amsterdam;1
+2025;11;startort;Barbadelo;1
+2025;11;startort;Belorado;1
+2025;11;startort;Benavente;1
+2025;11;startort;Bercianos del Real Camino;1
+2025;11;startort;Borres;1
+2025;11;startort;Cathedral Basilica of St Augustine;1
+2025;11;startort;Colonia;1
+2025;11;startort;Compostilla;1
+2025;11;startort;Dinamarca;1
+2025;11;startort;Dortmund;1
+2025;11;startort;El Acebo;1
+2025;11;startort;Golegã;1
+2025;11;startort;Gudiña;1
+2025;11;startort;Guimaraes;1
+2025;11;startort;Hospital de Orbigo;1
+2025;11;startort;Hungría;1
+2025;11;startort;Inglaterra C.F.;1
+2025;11;startort;Irlanda C. Ing;1
+2025;11;startort;Labruge;1
+2025;11;startort;Las Médulas;1
+2025;11;startort;Laza;1
+2025;11;startort;Liñares (por Samos);1
+2025;11;startort;Llanes;1
+2025;11;startort;Markina-Xemein;1
+2025;11;startort;Montserrat;1
+2025;11;startort;Muros de nalon;1
+2025;11;startort;O cebreiro (por San Xil);1
+2025;11;startort;Pereiras;1
+2025;11;startort;Pola de siero;1
+2025;11;startort;Portimão;1
+2025;11;startort;Porto Camba;1
+2025;11;startort;Porto do Son;1
+2025;11;startort;Portugalete;1
+2025;11;startort;Puente la Reina;1
+2025;11;startort;Quiroga;1
+2025;11;startort;Reino Unido C.F.;1
+2025;11;startort;Requejo de Sanabria;1
+2025;11;startort;Resto C. León;1
+2025;11;startort;Resto de Andalucia;1
+2025;11;startort;Ribadesella;1
+2025;11;startort;Santillana del mar;1
+2025;11;startort;Suecia;1
+2025;11;startort;T. Bouro C.G.A.;1
+2025;11;startort;Tábara;1
+2025;11;startort;Tavira;1
+2025;11;startort;Terradillos de los Templarios;1
+2025;11;startort;Valencia O.C.;1
+2025;11;startort;Viana;1
+2025;11;startort;Vilafranca;1
+2025;11;startort;Villaviciosa;1
+2025;11;startort;Zafra;1
+2025;11;startort;Zarautz;1
+2025;12;region;Galicia;234
+2025;12;region;Andalucia;199
+2025;12;region;Madrid;155
+2025;12;region;Baleares;134
+2025;12;region;Comunidad Valenciana;111
+2025;12;region;Cataluña;106
+2025;12;region;Castilla León;50
+2025;12;region;Canarias;45
+2025;12;region;País Vasco;44
+2025;12;region;Castilla La Mancha;40
+2025;12;region;Asturias;32
+2025;12;region;Navarra;28
+2025;12;region;Murcia;25
+2025;12;region;Aragon;20
+2025;12;region;Melilla;18
+2025;12;region;Extremadura;17
+2025;12;region;La Rioja;9
+2025;12;region;Cantabria;4
+2025;12;region;Sin autonomía;4
+2025;12;region;Ceuta;2
+2025;12;region;Residentes Extranjero;2
+2025;12;motiv;Religioso;1266
+2025;12;motiv;Otros;1237
+2025;12;motiv;No Religioso;546
+2025;12;motiv;Desconocido;254
+2025;12;weg;Camino Francés;1472
+2025;12;weg;Camino Portugués;680
+2025;12;weg;Camino Portugués por la Costa;450
+2025;12;weg;Camino Inglés;222
+2025;12;weg;Camino Primitivo;132
+2025;12;weg;Camino del Norte;100
+2025;12;weg;Vía de la Plata;99
+2025;12;weg;Camino de Invierno;57
+2025;12;weg;Camino de Geira - Arrieros;32
+2025;12;weg;Otros Caminos;26
+2025;12;weg;Camino de Muros - Noia;8
+2025;12;weg;Muxía - Finisterre;6
+2025;12;weg;Camino Sureste - Alicante;6
+2025;12;weg;Camino Mozárabe;4
+2025;12;weg;Camino del Barbanza;3
+2025;12;weg;O Vello Camino de Santiago (A Coruña-Santiago);2
+2025;12;weg;Miñoto Ribeiro;1
+2025;12;weg;Vía Céltica;1
+2025;12;weg;Camino Olvidado;1
+2025;12;weg;Camino Levante;1
+2025;12;land;España;1279
+2025;12;land;Portugal;240
+2025;12;land;Estados Unidos;189
+2025;12;land;Corea;181
+2025;12;land;Italia;164
+2025;12;land;Alemania;90
+2025;12;land;Desconocido;89
+2025;12;land;México;88
+2025;12;land;Francia;84
+2025;12;land;China;77
+2025;12;land;Brasil;66
+2025;12;land;Australia;56
+2025;12;land;Argentina;51
+2025;12;land;Reino Unido;46
+2025;12;land;Colombia;38
+2025;12;land;Japón;38
+2025;12;land;Holanda;36
+2025;12;land;Taiwán;36
+2025;12;land;Canadá;34
+2025;12;land;República Checa;30
+2025;12;land;Ucrania;25
+2025;12;land;Bélgica;23
+2025;12;land;Irlanda;23
+2025;12;land;Rusia;22
+2025;12;land;Suiza;21
+2025;12;land;Singapur;19
+2025;12;land;Hungría;17
+2025;12;land;Polonia;14
+2025;12;land;Venezuela;14
+2025;12;land;Puerto Rico;13
+2025;12;land;Hong Kong;12
+2025;12;land;Malasia;12
+2025;12;land;Dinamarca;10
+2025;12;land;Filipinas;10
+2025;12;land;Nueva Zelanda;10
+2025;12;land;Chile;9
+2025;12;land;Ecuador;9
+2025;12;land;Bolivia;7
+2025;12;land;Finlandia;7
+2025;12;land;Sudáfrica;7
+2025;12;land;Suecia;7
+2025;12;land;Guatemala;6
+2025;12;land;Letonia;6
+2025;12;land;Rumania;6
+2025;12;land;Uruguay;6
+2025;12;land;Austria;5
+2025;12;land;Costa Rica;5
+2025;12;land;Cuba;5
+2025;12;land;Eslovenia;5
+2025;12;land;Estonia;5
+2025;12;land;Perú;5
+2025;12;land;Grecia;4
+2025;12;land;India;4
+2025;12;land;Lituania;3
+2025;12;land;Malta;3
+2025;12;land;Paraguay;3
+2025;12;land;Bielorrusia;2
+2025;12;land;Eslovaquia;2
+2025;12;land;Indonesia;2
+2025;12;land;Israel;2
+2025;12;land;Moldavia;2
+2025;12;land;Afganistán;1
+2025;12;land;Andorra;1
+2025;12;land;Angola;1
+2025;12;land;Argelia;1
+2025;12;land;Bulgaria;1
+2025;12;land;Croacia;1
+2025;12;land;El Salvador;1
+2025;12;land;Granada;1
+2025;12;land;Islandia;1
+2025;12;land;Jersey;1
+2025;12;land;Kosovo;1
+2025;12;land;Macedonia;1
+2025;12;land;Namibia;1
+2025;12;land;Nepal;1
+2025;12;land;Nicaragua;1
+2025;12;land;Rep. Dominicana;1
+2025;12;land;Siria;1
+2025;12;land;Turquía;1
+2025;12;land;Vietnam;1
+2025;12;startort;Sarria;730
+2025;12;startort;S. Jean P. Port;300
+2025;12;startort;Ferrol;205
+2025;12;startort;Oporto;203
+2025;12;startort;Tui;193
+2025;12;startort;Valença do Minho;170
+2025;12;startort;Vigo;146
+2025;12;startort;Porto (por Tui);103
+2025;12;startort;Oporto Costa;91
+2025;12;startort;Oviedo - C.P.;69
+2025;12;startort;Lugo - C.P.;55
+2025;12;startort;León;51
+2025;12;startort;Pamplona;51
+2025;12;startort;Ponferrada;51
+2025;12;startort;Roncesvalles;51
+2025;12;startort;A Guarda;47
+2025;12;startort;Cebreiro;47
+2025;12;startort;Ponferrada. C.Inv.;42
+2025;12;startort;Le Puy;39
+2025;12;startort;Lisboa;39
+2025;12;startort;Burgos;35
+2025;12;startort;Ourense;33
+2025;12;startort;Sevilla;32
+2025;12;startort;Irún;27
+2025;12;startort;Braga C.G.A.;25
+2025;12;startort;Baiona;24
+2025;12;startort;Astorga;18
+2025;12;startort;Barcelos;17
+2025;12;startort;Francia - C.F.;15
+2025;12;startort;Laza;13
+2025;12;startort;Ribadeo;13
+2025;12;startort;Braga;10
+2025;12;startort;Resto Galicia;10
+2025;12;startort;Viana do Castelo;10
+2025;12;startort;Lisboa Costa;9
+2025;12;startort;Ponte de Lima;9
+2025;12;startort;Porriño;9
+2025;12;startort;A Coruña;8
+2025;12;startort;Muros;8
+2025;12;startort;Rates;8
+2025;12;startort;Avilés;7
+2025;12;startort;Baamonde;7
+2025;12;startort;Bilbao;7
+2025;12;startort;Logroño;7
+2025;12;startort;Monforte de Lemos;7
+2025;12;startort;Alicante;6
+2025;12;startort;Holanda;6
+2025;12;startort;Cádiz;5
+2025;12;startort;Chantada;5
+2025;12;startort;Gijón;5
+2025;12;startort;Resto de Europa;5
+2025;12;startort;Triacastela;5
+2025;12;startort;Villafranca del Bierzo;5
+2025;12;startort;Viseu;5
+2025;12;startort;Alemania. O.C.;4
+2025;12;startort;Bayonne;4
+2025;12;startort;Bélgica;4
+2025;12;startort;C.G.A resto de Portugal;4
+2025;12;startort;Caminha;4
+2025;12;startort;Cataluña - O.C.;4
+2025;12;startort;Coimbra;4
+2025;12;startort;Muxia;4
+2025;12;startort;Neda;4
+2025;12;startort;Resto de Galicia;4
+2025;12;startort;Salamanca;4
+2025;12;startort;San Sebastián;4
+2025;12;startort;Vega de Valcarce;4
+2025;12;startort;Vila do Conde;4
+2025;12;startort;Alemania;3
+2025;12;startort;Almería;3
+2025;12;startort;Arles;3
+2025;12;startort;Burdeos;3
+2025;12;startort;Coimbra Costa;3
+2025;12;startort;Corrubedo;3
+2025;12;startort;Francia - C.N;3
+2025;12;startort;Italia;3
+2025;12;startort;Luarca;3
+2025;12;startort;Madrid;3
+2025;12;startort;Oia;3
+2025;12;startort;Portugalete;3
+2025;12;startort;Rubiães;3
+2025;12;startort;Suiza;3
+2025;12;startort;Terras de Bouro C.G.A;3
+2025;12;startort;Zamora;3
+2025;12;startort;Aragón;2
+2025;12;startort;Barcelona;2
+2025;12;startort;Cáceres;2
+2025;12;startort;Campo do Gerês C.G.A;2
+2025;12;startort;Cardeñuela-Ríopico;2
+2025;12;startort;Carrión de los Condes;2
+2025;12;startort;Esposende;2
+2025;12;startort;Estella;2
+2025;12;startort;Fene;2
+2025;12;startort;Finisterra;2
+2025;12;startort;Fonsagrada - C.P.;2
+2025;12;startort;Grandas de Salime - C.P.;2
+2025;12;startort;Hendaya;2
+2025;12;startort;Irlanda C. Ing;2
+2025;12;startort;Las Médulas;2
+2025;12;startort;Mérida;2
+2025;12;startort;Oviedo - C.N.;2
+2025;12;startort;París;2
+2025;12;startort;Povoa de Varzim;2
+2025;12;startort;Resto Portugal;2
+2025;12;startort;Sahagún;2
+2025;12;startort;Soto de Luiña;2
+2025;12;startort;Sto. Domingo de la Calzada;2
+2025;12;startort;Trabadelo;2
+2025;12;startort;Alto do Acevo (por San Xoán de Padrón );1
+2025;12;startort;Ameixoeira C.G.A;1
+2025;12;startort;Amsterdam;1
+2025;12;startort;Aveiro;1
+2025;12;startort;Bercianos del Real Camino;1
+2025;12;startort;Biarritz;1
+2025;12;startort;Cadavo;1
+2025;12;startort;Castro Leboreiro C.G.A;1
+2025;12;startort;Castrojeriz;1
+2025;12;startort;Dax;1
+2025;12;startort;El Acebo;1
+2025;12;startort;Faro;1
+2025;12;startort;Fasgar;1
+2025;12;startort;Fatima;1
+2025;12;startort;Ginebra;1
+2025;12;startort;Grado;1
+2025;12;startort;Granja de Moreruela;1
+2025;12;startort;Hungría;1
+2025;12;startort;Irlanda C.F.;1
+2025;12;startort;La Rioja;1
+2025;12;startort;Labruge;1
+2025;12;startort;Lagos;1
+2025;12;startort;Los Arcos;1
+2025;12;startort;Madrid - C.F.;1
+2025;12;startort;Malaga;1
+2025;12;startort;Molinaseca;1
+2025;12;startort;Murcia;1
+2025;12;startort;Muxía;1
+2025;12;startort;Naron;1
+2025;12;startort;Navarra;1
+2025;12;startort;Nigrán;1
+2025;12;startort;O Barco de Valdeorras;1
+2025;12;startort;Padornelo (por Samos);1
+2025;12;startort;Pola de Allande;1
+2025;12;startort;Pontepedra;1
+2025;12;startort;Puebla de Sanabria;1
+2025;12;startort;R.Pais Vasco C.F.;1
+2025;12;startort;Reino Unido C.Ing;1
+2025;12;startort;Resto Europa;1
+2025;12;startort;Roma;1
+2025;12;startort;San Vicente de la Barquera;1
+2025;12;startort;Santander;1
+2025;12;startort;Santillana del mar;1
+2025;12;startort;Somport;1
+2025;12;startort;Valencia;1
+2025;12;startort;Valladolid;1
+2025;12;startort;Vila real;1
+2025;12;startort;Vilalba;1
+2025;12;startort;Vilar de Barrio;1
+2025;12;startort;Villafranca de los Barros;1
+2025;12;startort;Xinzo de Limia;1
+2025;12;startort;Zaragoza;1
+2025;12;startort;Zarautz;1
