@@ -9645,18 +9645,18 @@ jahr;dimension;name;wert;quelle
 2025;weg;Vía de la Plata;8833;powerbi-jahr
 2026;land;Afganistán;86;powerbi-tag
 2026;land;Albania;114;powerbi-tag
-2026;land;Alemania;24428;powerbi-tag
+2026;land;Alemania;24445;powerbi-tag
 2026;land;Andorra;214;powerbi-tag
 2026;land;Angola;36;powerbi-tag
 2026;land;Antigua y Barbuda;6;powerbi-tag
 2026;land;Antillas Holandesas;20;powerbi-tag
 2026;land;Arabia Saudita;24;powerbi-tag
 2026;land;Argelia;39;powerbi-tag
-2026;land;Argentina;6805;powerbi-tag
+2026;land;Argentina;6812;powerbi-tag
 2026;land;Armenia;60;powerbi-tag
 2026;land;Aruba;12;powerbi-tag
-2026;land;Australia;8116;powerbi-tag
-2026;land;Austria;2608;powerbi-tag
+2026;land;Australia;8120;powerbi-tag
+2026;land;Austria;2612;powerbi-tag
 2026;land;Azerbaiyán;56;powerbi-tag
 2026;land;Bahamas;8;powerbi-tag
 2026;land;Bahrein;7;powerbi-tag
@@ -9666,55 +9666,55 @@ jahr;dimension;name;wert;quelle
 2026;land;Bermudas;10;powerbi-tag
 2026;land;Bhután;1;powerbi-tag
 2026;land;Bielorrusia;581;powerbi-tag
-2026;land;Bolivia;173;powerbi-tag
+2026;land;Bolivia;174;powerbi-tag
 2026;land;Bosnia;47;powerbi-tag
 2026;land;Botswana;3;powerbi-tag
-2026;land;Brasil;8487;powerbi-tag
+2026;land;Brasil;8499;powerbi-tag
 2026;land;Brunei;5;powerbi-tag
 2026;land;Bulgaria;1220;powerbi-tag
 2026;land;Burkina Faso;2;powerbi-tag
-2026;land;Bélgica;3662;powerbi-tag
+2026;land;Bélgica;3663;powerbi-tag
 2026;land;Cabo Verde;15;powerbi-tag
 2026;land;Camboya;8;powerbi-tag
 2026;land;Camerún;7;powerbi-tag
-2026;land;Canadá;9669;powerbi-tag
+2026;land;Canadá;9671;powerbi-tag
 2026;land;Chad;1;powerbi-tag
-2026;land;Chile;1358;powerbi-tag
-2026;land;China;5450;powerbi-tag
+2026;land;Chile;1363;powerbi-tag
+2026;land;China;5455;powerbi-tag
 2026;land;Chipre;54;powerbi-tag
-2026;land;Colombia;6821;powerbi-tag
+2026;land;Colombia;6841;powerbi-tag
 2026;land;Comores;3;powerbi-tag
 2026;land;Congo;16;powerbi-tag
-2026;land;Corea;7378;powerbi-tag
+2026;land;Corea;7396;powerbi-tag
 2026;land;Costa Rica;922;powerbi-tag
 2026;land;Costa de Marfil;8;powerbi-tag
-2026;land;Croacia;1493;powerbi-tag
+2026;land;Croacia;1494;powerbi-tag
 2026;land;Cuba;239;powerbi-tag
 2026;land;Desconocido;13118;powerbi-tag
-2026;land;Dinamarca;3232;powerbi-tag
+2026;land;Dinamarca;3238;powerbi-tag
 2026;land;Djibouti;4;powerbi-tag
 2026;land;Dominica;13;powerbi-tag
-2026;land;Ecuador;908;powerbi-tag
+2026;land;Ecuador;909;powerbi-tag
 2026;land;Egipto;33;powerbi-tag
 2026;land;El Salvador;325;powerbi-tag
 2026;land;Emiratos Arabes Unidos;11;powerbi-tag
 2026;land;Eritrea;7;powerbi-tag
-2026;land;Eslovaquia;1976;powerbi-tag
+2026;land;Eslovaquia;1977;powerbi-tag
 2026;land;Eslovenia;971;powerbi-tag
-2026;land;España;218370;powerbi-tag
-2026;land;Estados Unidos;51653;powerbi-tag
+2026;land;España;218499;powerbi-tag
+2026;land;Estados Unidos;51684;powerbi-tag
 2026;land;Estonia;462;powerbi-tag
 2026;land;Etiopía;20;powerbi-tag
 2026;land;Fiji;4;powerbi-tag
 2026;land;Filipinas;1513;powerbi-tag
-2026;land;Finlandia;862;powerbi-tag
-2026;land;Francia;10379;powerbi-tag
+2026;land;Finlandia;864;powerbi-tag
+2026;land;Francia;10391;powerbi-tag
 2026;land;Gabón;1;powerbi-tag
 2026;land;Gambia;9;powerbi-tag
 2026;land;Georgia;50;powerbi-tag
 2026;land;Ghana;5;powerbi-tag
 2026;land;Granada;7;powerbi-tag
-2026;land;Grecia;442;powerbi-tag
+2026;land;Grecia;444;powerbi-tag
 2026;land;Groenlandia;1;powerbi-tag
 2026;land;Guadalupe;4;powerbi-tag
 2026;land;Guam;14;powerbi-tag
@@ -9725,15 +9725,15 @@ jahr;dimension;name;wert;quelle
 2026;land;Guinea Ecuatorial;7;powerbi-tag
 2026;land;Guyana;2;powerbi-tag
 2026;land;Haití;10;powerbi-tag
-2026;land;Holanda;7185;powerbi-tag
+2026;land;Holanda;7191;powerbi-tag
 2026;land;Honduras;208;powerbi-tag
-2026;land;Hong Kong;1112;powerbi-tag
-2026;land;Hungría;2565;powerbi-tag
+2026;land;Hong Kong;1113;powerbi-tag
+2026;land;Hungría;2567;powerbi-tag
 2026;land;I. Reunión;13;powerbi-tag
 2026;land;India;306;powerbi-tag
-2026;land;Indonesia;691;powerbi-tag
+2026;land;Indonesia;692;powerbi-tag
 2026;land;Irak;67;powerbi-tag
-2026;land;Irlanda;10633;powerbi-tag
+2026;land;Irlanda;10635;powerbi-tag
 2026;land;Irán;747;powerbi-tag
 2026;land;Islandia;112;powerbi-tag
 2026;land;Islas Caimán;2;powerbi-tag
@@ -9742,9 +9742,9 @@ jahr;dimension;name;wert;quelle
 2026;land;Islas Marshall;1;powerbi-tag
 2026;land;Islas Vírgenes;3;powerbi-tag
 2026;land;Israel;346;powerbi-tag
-2026;land;Italia;44177;powerbi-tag
+2026;land;Italia;44203;powerbi-tag
 2026;land;Jamaica;12;powerbi-tag
-2026;land;Japón;1445;powerbi-tag
+2026;land;Japón;1446;powerbi-tag
 2026;land;Jersey;29;powerbi-tag
 2026;land;Jordania;7;powerbi-tag
 2026;land;Kazajistán;185;powerbi-tag
@@ -9755,7 +9755,7 @@ jahr;dimension;name;wert;quelle
 2026;land;Kuwait;3;powerbi-tag
 2026;land;Laos;2;powerbi-tag
 2026;land;Lesotho;8;powerbi-tag
-2026;land;Letonia;712;powerbi-tag
+2026;land;Letonia;713;powerbi-tag
 2026;land;Liberia;1;powerbi-tag
 2026;land;Liechtensein;16;powerbi-tag
 2026;land;Lituania;963;powerbi-tag
@@ -9778,7 +9778,7 @@ jahr;dimension;name;wert;quelle
 2026;land;Montenegro;13;powerbi-tag
 2026;land;Mozambique;8;powerbi-tag
 2026;land;Myanmar;6;powerbi-tag
-2026;land;México;14134;powerbi-tag
+2026;land;México;14152;powerbi-tag
 2026;land;Mónaco;3;powerbi-tag
 2026;land;Namibia;42;powerbi-tag
 2026;land;Nepal;15;powerbi-tag
@@ -9793,15 +9793,15 @@ jahr;dimension;name;wert;quelle
 2026;land;Panamá;282;powerbi-tag
 2026;land;Papúa - Nueva Guinea;4;powerbi-tag
 2026;land;Paraguay;346;powerbi-tag
-2026;land;Perú;912;powerbi-tag
-2026;land;Polonia;10612;powerbi-tag
-2026;land;Portugal;24370;powerbi-tag
-2026;land;Puerto Rico;1427;powerbi-tag
-2026;land;Reino Unido;15419;powerbi-tag
+2026;land;Perú;913;powerbi-tag
+2026;land;Polonia;10621;powerbi-tag
+2026;land;Portugal;24384;powerbi-tag
+2026;land;Puerto Rico;1430;powerbi-tag
+2026;land;Reino Unido;15427;powerbi-tag
 2026;land;Rep. Centroafricana;1;powerbi-tag
 2026;land;Rep. Dominicana;421;powerbi-tag
 2026;land;República Checa;4415;powerbi-tag
-2026;land;Rumania;2150;powerbi-tag
+2026;land;Rumania;2153;powerbi-tag
 2026;land;Rusia;2377;powerbi-tag
 2026;land;Rwanda;2;powerbi-tag
 2026;land;Samoa Occidental;6;powerbi-tag
@@ -9812,19 +9812,19 @@ jahr;dimension;name;wert;quelle
 2026;land;Senegal;8;powerbi-tag
 2026;land;Serbia;247;powerbi-tag
 2026;land;Seychelles;4;powerbi-tag
-2026;land;Singapur;1084;powerbi-tag
+2026;land;Singapur;1085;powerbi-tag
 2026;land;Siria;15;powerbi-tag
 2026;land;Somalia;1;powerbi-tag
 2026;land;Sri Lanka;24;powerbi-tag
 2026;land;Sudáfrica;1516;powerbi-tag
 2026;land;Sudán;1;powerbi-tag
-2026;land;Suecia;1452;powerbi-tag
-2026;land;Suiza;2152;powerbi-tag
+2026;land;Suecia;1453;powerbi-tag
+2026;land;Suiza;2155;powerbi-tag
 2026;land;Surinam;2;powerbi-tag
 2026;land;Swazilandia;4;powerbi-tag
 2026;land;Tailandia;55;powerbi-tag
-2026;land;Taiwán;5770;powerbi-tag
-2026;land;Tanzania;5;powerbi-tag
+2026;land;Taiwán;5772;powerbi-tag
+2026;land;Tanzania;6;powerbi-tag
 2026;land;Tayikistán;1;powerbi-tag
 2026;land;Timor Oriental;1;powerbi-tag
 2026;land;Togo;5;powerbi-tag
@@ -9832,48 +9832,48 @@ jahr;dimension;name;wert;quelle
 2026;land;Trinidad y Tobago;33;powerbi-tag
 2026;land;Turquía;325;powerbi-tag
 2026;land;Túnez;19;powerbi-tag
-2026;land;Ucrania;4557;powerbi-tag
+2026;land;Ucrania;4558;powerbi-tag
 2026;land;Uganda;7;powerbi-tag
 2026;land;Urbekistán;12;powerbi-tag
-2026;land;Uruguay;1253;powerbi-tag
+2026;land;Uruguay;1255;powerbi-tag
 2026;land;Vaticano;4;powerbi-tag
-2026;land;Venezuela;1887;powerbi-tag
+2026;land;Venezuela;1890;powerbi-tag
 2026;land;Vietnam;52;powerbi-tag
 2026;land;Zaire;4;powerbi-tag
 2026;land;Zambia;6;powerbi-tag
 2026;land;Zimbabwe;15;powerbi-tag
-2026;motiv;Desconocido;41002;powerbi-tag
-2026;motiv;No Religioso;102436;powerbi-tag
-2026;motiv;Otros;174005;powerbi-tag
-2026;motiv;Religioso;251698;powerbi-tag
-2026;region;Andalucia;50294;powerbi-tag
-2026;region;Aragon;4157;powerbi-tag
-2026;region;Asturias;3003;powerbi-tag
-2026;region;Baleares;3788;powerbi-tag
-2026;region;Canarias;11048;powerbi-tag
-2026;region;Cantabria;1453;powerbi-tag
-2026;region;Castilla La Mancha;13395;powerbi-tag
-2026;region;Castilla León;9434;powerbi-tag
-2026;region;Cataluña;20944;powerbi-tag
+2026;motiv;Desconocido;41016;powerbi-tag
+2026;motiv;No Religioso;102500;powerbi-tag
+2026;motiv;Otros;174168;powerbi-tag
+2026;motiv;Religioso;251848;powerbi-tag
+2026;region;Andalucia;50322;powerbi-tag
+2026;region;Aragon;4161;powerbi-tag
+2026;region;Asturias;3008;powerbi-tag
+2026;region;Baleares;3801;powerbi-tag
+2026;region;Canarias;11064;powerbi-tag
+2026;region;Cantabria;1454;powerbi-tag
+2026;region;Castilla La Mancha;13399;powerbi-tag
+2026;region;Castilla León;9435;powerbi-tag
+2026;region;Cataluña;20960;powerbi-tag
 2026;region;Ceuta;324;powerbi-tag
-2026;region;Comunidad Valenciana;26308;powerbi-tag
-2026;region;Extremadura;6790;powerbi-tag
-2026;region;Galicia;12318;powerbi-tag
+2026;region;Comunidad Valenciana;26318;powerbi-tag
+2026;region;Extremadura;6791;powerbi-tag
+2026;region;Galicia;12329;powerbi-tag
 2026;region;La Rioja;854;powerbi-tag
-2026;region;Madrid;38962;powerbi-tag
+2026;region;Madrid;38978;powerbi-tag
 2026;region;Melilla;264;powerbi-tag
-2026;region;Murcia;7731;powerbi-tag
+2026;region;Murcia;7733;powerbi-tag
 2026;region;Navarra;1358;powerbi-tag
-2026;region;País Vasco;4911;powerbi-tag
+2026;region;País Vasco;4912;powerbi-tag
 2026;region;Residentes Extranjero;416;powerbi-tag
 2026;region;Sin autonomía;618;powerbi-tag
-2026;startort;A Alberguería;7;powerbi-tag
+2026;startort;A Alberguería;8;powerbi-tag
 2026;startort;A Barxa;3;powerbi-tag
 2026;startort;A Canda;7;powerbi-tag
 2026;startort;A Coruña;715;powerbi-tag
 2026;startort;A Degolada;14;powerbi-tag
 2026;startort;A Fontaneira;11;powerbi-tag
-2026;startort;A Guarda;3720;powerbi-tag
+2026;startort;A Guarda;3725;powerbi-tag
 2026;startort;A Lastra;19;powerbi-tag
 2026;startort;A Noia;4;powerbi-tag
 2026;startort;A Pobra de Burón;1;powerbi-tag
@@ -9895,7 +9895,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Alcuéscar;1;powerbi-tag
 2026;startort;Alcácer do Sal;10;powerbi-tag
 2026;startort;Aldeanueva del Camino;3;powerbi-tag
-2026;startort;Alemania;230;powerbi-tag
+2026;startort;Alemania;234;powerbi-tag
 2026;startort;Alemania. O.C.;96;powerbi-tag
 2026;startort;Alicante;89;powerbi-tag
 2026;startort;Allariz;206;powerbi-tag
@@ -9912,7 +9912,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Arles;145;powerbi-tag
 2026;startort;Arrés;1;powerbi-tag
 2026;startort;Artieda;1;powerbi-tag
-2026;startort;Astorga;3339;powerbi-tag
+2026;startort;Astorga;3342;powerbi-tag
 2026;startort;Asturianos;12;powerbi-tag
 2026;startort;Atapuerca;3;powerbi-tag
 2026;startort;Australia;69;powerbi-tag
@@ -9924,7 +9924,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Baamonde;1094;powerbi-tag
 2026;startort;Badajoz;2;powerbi-tag
 2026;startort;Baena;1;powerbi-tag
-2026;startort;Baiona;12243;powerbi-tag
+2026;startort;Baiona;12244;powerbi-tag
 2026;startort;Barbadelo;811;powerbi-tag
 2026;startort;Barcelona;164;powerbi-tag
 2026;startort;Barcelos;1518;powerbi-tag
@@ -9954,7 +9954,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Brujas;5;powerbi-tag
 2026;startort;Bulgaria;7;powerbi-tag
 2026;startort;Burdeos;44;powerbi-tag
-2026;startort;Burgos;2044;powerbi-tag
+2026;startort;Burgos;2048;powerbi-tag
 2026;startort;Burguete;6;powerbi-tag
 2026;startort;Burlada;2;powerbi-tag
 2026;startort;Bustio;2;powerbi-tag
@@ -9969,7 +9969,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Calzada de Béjar;6;powerbi-tag
 2026;startort;Calzada de Valdunciel;1;powerbi-tag
 2026;startort;Calzadilla de la Cueza;3;powerbi-tag
-2026;startort;Caminha;2870;powerbi-tag
+2026;startort;Caminha;2871;powerbi-tag
 2026;startort;Campo;1;powerbi-tag
 2026;startort;Campo do Gerês C.G.A;25;powerbi-tag
 2026;startort;Campobecerros;3;powerbi-tag
@@ -9996,17 +9996,17 @@ jahr;dimension;name;wert;quelle
 2026;startort;Catedral de Palma;1;powerbi-tag
 2026;startort;Cathedral Basilica of St Augustine;28;powerbi-tag
 2026;startort;Cañaveral;5;powerbi-tag
-2026;startort;Cebreiro;4886;powerbi-tag
+2026;startort;Cebreiro;4887;powerbi-tag
 2026;startort;Chantada;202;powerbi-tag
 2026;startort;Chaves-Portugal;189;powerbi-tag
 2026;startort;Citierna;3;powerbi-tag
 2026;startort;Coimbra;209;powerbi-tag
-2026;startort;Coimbra Costa;138;powerbi-tag
+2026;startort;Coimbra Costa;139;powerbi-tag
 2026;startort;Colombres;20;powerbi-tag
 2026;startort;Colonia;32;powerbi-tag
 2026;startort;Columbrianos;3;powerbi-tag
-2026;startort;Com. Valenciana - C.F.;44;powerbi-tag
-2026;startort;Com. Valenciana - O.C.;52;powerbi-tag
+2026;startort;Com. Valenciana - C.F.;45;powerbi-tag
+2026;startort;Com. Valenciana - O.C.;53;powerbi-tag
 2026;startort;Comillas;24;powerbi-tag
 2026;startort;Compostilla;4;powerbi-tag
 2026;startort;Congosto;1;powerbi-tag
@@ -10048,7 +10048,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Fene;16;powerbi-tag
 2026;startort;Ferreira;3;powerbi-tag
 2026;startort;Ferreiros;597;powerbi-tag
-2026;startort;Ferrol;30654;powerbi-tag
+2026;startort;Ferrol;30677;powerbi-tag
 2026;startort;Finisterra;928;powerbi-tag
 2026;startort;Finlandia;2;powerbi-tag
 2026;startort;Foncebadón;112;powerbi-tag
@@ -10056,15 +10056,15 @@ jahr;dimension;name;wert;quelle
 2026;startort;Fonfría (por Pobra de Burón);3;powerbi-tag
 2026;startort;Fonfría (por San Xoán de Padrón );2;powerbi-tag
 2026;startort;Fonsagrada - C.P.;739;powerbi-tag
-2026;startort;Francia - C.F.;1082;powerbi-tag
-2026;startort;Francia - C.N;230;powerbi-tag
+2026;startort;Francia - C.F.;1084;powerbi-tag
+2026;startort;Francia - C.N;231;powerbi-tag
 2026;startort;Frómista;103;powerbi-tag
 2026;startort;Fuente de Cantos;1;powerbi-tag
 2026;startort;Fuenterroble de Salvatierra;2;powerbi-tag
 2026;startort;Galisteo;14;powerbi-tag
 2026;startort;Gernika-Lumo;7;powerbi-tag
 2026;startort;Gerês C.G.A.;1;powerbi-tag
-2026;startort;Gijón;1016;powerbi-tag
+2026;startort;Gijón;1019;powerbi-tag
 2026;startort;Ginebra;35;powerbi-tag
 2026;startort;Giuadix;7;powerbi-tag
 2026;startort;Golegã;15;powerbi-tag
@@ -10072,7 +10072,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Grado;84;powerbi-tag
 2026;startort;Granada;29;powerbi-tag
 2026;startort;Grandas de Salime - C.P.;273;powerbi-tag
-2026;startort;Granja de Moreruela;162;powerbi-tag
+2026;startort;Granja de Moreruela;163;powerbi-tag
 2026;startort;Grañón;1;powerbi-tag
 2026;startort;Grândola;2;powerbi-tag
 2026;startort;Grecia;3;powerbi-tag
@@ -10099,7 +10099,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Inglaterra C.F.;1;powerbi-tag
 2026;startort;Irlanda C. Ing;120;powerbi-tag
 2026;startort;Irlanda C.F.;19;powerbi-tag
-2026;startort;Irún;5261;powerbi-tag
+2026;startort;Irún;5265;powerbi-tag
 2026;startort;Italia;185;powerbi-tag
 2026;startort;Jaca;62;powerbi-tag
 2026;startort;Jaén;14;powerbi-tag
@@ -10108,7 +10108,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;La Bañeza;6;powerbi-tag
 2026;startort;La Faba;63;powerbi-tag
 2026;startort;La Mesa;18;powerbi-tag
-2026;startort;La Portela de Valcarce;11;powerbi-tag
+2026;startort;La Portela de Valcarce;12;powerbi-tag
 2026;startort;La Rioja;31;powerbi-tag
 2026;startort;La Robla;7;powerbi-tag
 2026;startort;La caridad;216;powerbi-tag
@@ -10122,14 +10122,14 @@ jahr;dimension;name;wert;quelle
 2026;startort;Las Herrerías de Valcarce;214;powerbi-tag
 2026;startort;Las Médulas;22;powerbi-tag
 2026;startort;Laza;87;powerbi-tag
-2026;startort;Le Puy;2841;powerbi-tag
+2026;startort;Le Puy;2850;powerbi-tag
 2026;startort;Leiria;4;powerbi-tag
 2026;startort;Leyre;1;powerbi-tag
 2026;startort;Lezama;2;powerbi-tag
-2026;startort;León;8203;powerbi-tag
+2026;startort;León;8209;powerbi-tag
 2026;startort;Lires;33;powerbi-tag
-2026;startort;Lisboa;2601;powerbi-tag
-2026;startort;Lisboa Costa;1114;powerbi-tag
+2026;startort;Lisboa;2603;powerbi-tag
+2026;startort;Lisboa Costa;1115;powerbi-tag
 2026;startort;Liñares (por Samos);9;powerbi-tag
 2026;startort;Liñares (por San XII);11;powerbi-tag
 2026;startort;Llanes;172;powerbi-tag
@@ -10145,7 +10145,7 @@ jahr;dimension;name;wert;quelle
 2026;startort;Luarca;417;powerbi-tag
 2026;startort;Lubián;23;powerbi-tag
 2026;startort;Lucena;1;powerbi-tag
-2026;startort;Lugo - C.P.;8418;powerbi-tag
+2026;startort;Lugo - C.P.;8422;powerbi-tag
 2026;startort;Luxemburgo;1;powerbi-tag
 2026;startort;Lédigos;2;powerbi-tag
 2026;startort;MELGAÇO.;3;powerbi-tag
@@ -10178,10 +10178,10 @@ jahr;dimension;name;wert;quelle
 2026;startort;Morgade;140;powerbi-tag
 2026;startort;Murcia;21;powerbi-tag
 2026;startort;Murias de Rechivaldo;18;powerbi-tag
-2026;startort;Muros;668;powerbi-tag
+2026;startort;Muros;670;powerbi-tag
 2026;startort;Muros de nalon;152;powerbi-tag
 2026;startort;Muruzábal;1;powerbi-tag
-2026;startort;Muxia;1703;powerbi-tag
+2026;startort;Muxia;1705;powerbi-tag
 2026;startort;Muxía;1;powerbi-tag
 2026;startort;Mérida;79;powerbi-tag
 2026;startort;Naron;55;powerbi-tag
@@ -10194,26 +10194,26 @@ jahr;dimension;name;wert;quelle
 2026;startort;Nájera;34;powerbi-tag
 2026;startort;O Barco de Valdeorras;25;powerbi-tag
 2026;startort;O burgo;1;powerbi-tag
-2026;startort;Oia;1617;powerbi-tag
+2026;startort;Oia;1618;powerbi-tag
 2026;startort;Oostkapelle;4;powerbi-tag
-2026;startort;Oporto;29969;powerbi-tag
-2026;startort;Oporto Costa;29015;powerbi-tag
+2026;startort;Oporto;29990;powerbi-tag
+2026;startort;Oporto Costa;29028;powerbi-tag
 2026;startort;Orbaneja-Ríopico;1;powerbi-tag
 2026;startort;Orisson;8;powerbi-tag
 2026;startort;Ortigueira;1;powerbi-tag
 2026;startort;Otero de Sanabria;6;powerbi-tag
 2026;startort;Otur;12;powerbi-tag
-2026;startort;Ourense;5077;powerbi-tag
+2026;startort;Ourense;5087;powerbi-tag
 2026;startort;Oviedo;10;powerbi-tag
 2026;startort;Oviedo - C.N.;245;powerbi-tag
-2026;startort;Oviedo - C.P.;14808;powerbi-tag
+2026;startort;Oviedo - C.P.;14820;powerbi-tag
 2026;startort;Padornelo;97;powerbi-tag
 2026;startort;Padornelo (por Samos);5;powerbi-tag
 2026;startort;Padornelo (por San Xil);3;powerbi-tag
 2026;startort;Pajares;1;powerbi-tag
 2026;startort;Palacios de Sanabria;1;powerbi-tag
 2026;startort;Palmeira;57;powerbi-tag
-2026;startort;Pamplona;2271;powerbi-tag
+2026;startort;Pamplona;2275;powerbi-tag
 2026;startort;Pandorado;1;powerbi-tag
 2026;startort;Paradanova (por Pobra de Burón);1;powerbi-tag
 2026;startort;Paradavella;26;powerbi-tag
@@ -10226,10 +10226,10 @@ jahr;dimension;name;wert;quelle
 2026;startort;Pola de Allande;82;powerbi-tag
 2026;startort;Pola de siero;27;powerbi-tag
 2026;startort;Polonia;85;powerbi-tag
-2026;startort;Ponferrada;5254;powerbi-tag
-2026;startort;Ponferrada. C.Inv.;1731;powerbi-tag
+2026;startort;Ponferrada;5255;powerbi-tag
+2026;startort;Ponferrada. C.Inv.;1732;powerbi-tag
 2026;startort;Ponte das Febres;75;powerbi-tag
-2026;startort;Ponte de Lima;2321;powerbi-tag
+2026;startort;Ponte de Lima;2322;powerbi-tag
 2026;startort;Ponte de sa;3;powerbi-tag
 2026;startort;Ponte do Porto;3;powerbi-tag
 2026;startort;Ponte do Porto (Mañón);3;powerbi-tag
@@ -10240,11 +10240,11 @@ jahr;dimension;name;wert;quelle
 2026;startort;Portela do Homem C.G.A;3;powerbi-tag
 2026;startort;Portimão;99;powerbi-tag
 2026;startort;Portimão;24;powerbi-tag
-2026;startort;Porto (por Tui);24959;powerbi-tag
+2026;startort;Porto (por Tui);24969;powerbi-tag
 2026;startort;Porto Camba;1;powerbi-tag
 2026;startort;Porto do Cabo (Cedeira);25;powerbi-tag
 2026;startort;Porto do Son;174;powerbi-tag
-2026;startort;Portugalete;84;powerbi-tag
+2026;startort;Portugalete;85;powerbi-tag
 2026;startort;Povoa de Varzim;1320;powerbi-tag
 2026;startort;Priesca;2;powerbi-tag
 2026;startort;Puebla de Sanabria;207;powerbi-tag
@@ -10277,14 +10277,14 @@ jahr;dimension;name;wert;quelle
 2026;startort;Resto Cantabria;5;powerbi-tag
 2026;startort;Resto Europa;63;powerbi-tag
 2026;startort;Resto Europa C. Ing.;10;powerbi-tag
-2026;startort;Resto Galicia;750;powerbi-tag
+2026;startort;Resto Galicia;752;powerbi-tag
 2026;startort;Resto País Vasco - C.N.;7;powerbi-tag
 2026;startort;Resto Portugal;494;powerbi-tag
-2026;startort;Resto de Andalucia;33;powerbi-tag
-2026;startort;Resto de Europa;80;powerbi-tag
+2026;startort;Resto de Andalucia;34;powerbi-tag
+2026;startort;Resto de Europa;82;powerbi-tag
 2026;startort;Resto de Extremadura;3;powerbi-tag
-2026;startort;Resto de Galicia;923;powerbi-tag
-2026;startort;Resto de Portugal;376;powerbi-tag
+2026;startort;Resto de Galicia;925;powerbi-tag
+2026;startort;Resto de Portugal;378;powerbi-tag
 2026;startort;Resto de Portugal C.M.R.;1;powerbi-tag
 2026;startort;Ribadavia C.G.A;8;powerbi-tag
 2026;startort;Ribadeo;1846;powerbi-tag
@@ -10296,15 +10296,15 @@ jahr;dimension;name;wert;quelle
 2026;startort;Rionegro del Puente;2;powerbi-tag
 2026;startort;Roermond;19;powerbi-tag
 2026;startort;Roma;20;powerbi-tag
-2026;startort;Roncesvalles;3620;powerbi-tag
+2026;startort;Roncesvalles;3623;powerbi-tag
 2026;startort;Rubiães;316;powerbi-tag
 2026;startort;Ruesta;1;powerbi-tag
 2026;startort;Ruitelán;9;powerbi-tag
 2026;startort;Rusia;2;powerbi-tag
 2026;startort;Rábade;3;powerbi-tag
-2026;startort;S. Jean P. Port;29994;powerbi-tag
+2026;startort;S. Jean P. Port;30045;powerbi-tag
 2026;startort;SISTELO.;1;powerbi-tag
-2026;startort;Sahagún;174;powerbi-tag
+2026;startort;Sahagún;175;powerbi-tag
 2026;startort;Saint Palais;29;powerbi-tag
 2026;startort;Salamanca;227;powerbi-tag
 2026;startort;Salas;99;powerbi-tag
@@ -10326,12 +10326,12 @@ jahr;dimension;name;wert;quelle
 2026;startort;Santa Cruz;6;powerbi-tag
 2026;startort;Santa Marta de Tara;9;powerbi-tag
 2026;startort;Santa María de Gondar;6;powerbi-tag
-2026;startort;Santander;875;powerbi-tag
+2026;startort;Santander;876;powerbi-tag
 2026;startort;Santarém;53;powerbi-tag
 2026;startort;Santillana del mar;158;powerbi-tag
 2026;startort;Santiponce;3;powerbi-tag
 2026;startort;Sarandos;2;powerbi-tag
-2026;startort;Sarria;167131;powerbi-tag
+2026;startort;Sarria;167236;powerbi-tag
 2026;startort;Setúbal;2;powerbi-tag
 2026;startort;Sevilla;1670;powerbi-tag
 2026;startort;Sigueiro;1;powerbi-tag
@@ -10344,13 +10344,13 @@ jahr;dimension;name;wert;quelle
 2026;startort;Sta Maria;1;powerbi-tag
 2026;startort;Sto. Domingo de la Calzada;108;powerbi-tag
 2026;startort;Suecia;10;powerbi-tag
-2026;startort;Suiza;69;powerbi-tag
+2026;startort;Suiza;70;powerbi-tag
 2026;startort;Tapia de Casariego;53;powerbi-tag
 2026;startort;Tavira;4;powerbi-tag
 2026;startort;Terradillos de los Templarios;4;powerbi-tag
 2026;startort;Terras de Bouro C.G.A;1;powerbi-tag
 2026;startort;Tineo - C.P.;256;powerbi-tag
-2026;startort;Tomar;96;powerbi-tag
+2026;startort;Tomar;97;powerbi-tag
 2026;startort;Tosantos;3;powerbi-tag
 2026;startort;Toulouse;46;powerbi-tag
 2026;startort;Tours;60;powerbi-tag
@@ -10358,31 +10358,31 @@ jahr;dimension;name;wert;quelle
 2026;startort;Trabadelo;43;powerbi-tag
 2026;startort;Triacastela;2359;powerbi-tag
 2026;startort;Trobajo del Camino;3;powerbi-tag
-2026;startort;Tui;46286;powerbi-tag
+2026;startort;Tui;46315;powerbi-tag
 2026;startort;Tábara;28;powerbi-tag
 2026;startort;Unquera;21;powerbi-tag
 2026;startort;Uterga;3;powerbi-tag
 2026;startort;Valcarlos;21;powerbi-tag
-2026;startort;Valencia;169;powerbi-tag
+2026;startort;Valencia;170;powerbi-tag
 2026;startort;Valencia O.C.;37;powerbi-tag
-2026;startort;Valença do Minho;22652;powerbi-tag
+2026;startort;Valença do Minho;22664;powerbi-tag
 2026;startort;Valladolid;38;powerbi-tag
 2026;startort;Valverde de Valdelacasa;1;powerbi-tag
 2026;startort;Valverde de la Virgen;5;powerbi-tag
 2026;startort;Vega de Valcarce;61;powerbi-tag
 2026;startort;Vegadeo;168;powerbi-tag
 2026;startort;Verín;76;powerbi-tag
-2026;startort;Vezelay;126;powerbi-tag
+2026;startort;Vezelay;127;powerbi-tag
 2026;startort;Viana;14;powerbi-tag
-2026;startort;Viana do Castelo;3114;powerbi-tag
+2026;startort;Viana do Castelo;3116;powerbi-tag
 2026;startort;Viena;4;powerbi-tag
-2026;startort;Vigo;27078;powerbi-tag
+2026;startort;Vigo;27087;powerbi-tag
 2026;startort;Vila Nova Famalicão;56;powerbi-tag
-2026;startort;Vila do Conde;777;powerbi-tag
+2026;startort;Vila do Conde;778;powerbi-tag
 2026;startort;Vila real;65;powerbi-tag
 2026;startort;Vilaflor de Chasna;2;powerbi-tag
 2026;startort;Vilafranca;83;powerbi-tag
-2026;startort;Vilalba;2400;powerbi-tag
+2026;startort;Vilalba;2403;powerbi-tag
 2026;startort;Vilalle;5;powerbi-tag
 2026;startort;Vilamartin Pequeño;1;powerbi-tag
 2026;startort;Vilanova de Cerveira;174;powerbi-tag
@@ -10401,14 +10401,14 @@ jahr;dimension;name;wert;quelle
 2026;startort;Villatuerta;1;powerbi-tag
 2026;startort;Villaviciosa;56;powerbi-tag
 2026;startort;Vincios;33;powerbi-tag
-2026;startort;Viseu;150;powerbi-tag
+2026;startort;Viseu;151;powerbi-tag
 2026;startort;Viveiro;6;powerbi-tag
 2026;startort;Xinzo de Limia;42;powerbi-tag
 2026;startort;Xubia;6;powerbi-tag
 2026;startort;Xunqueira de Ambia;156;powerbi-tag
 2026;startort;Zabaldika;3;powerbi-tag
 2026;startort;Zafra;9;powerbi-tag
-2026;startort;Zamora;280;powerbi-tag
+2026;startort;Zamora;281;powerbi-tag
 2026;startort;Zaragoza;88;powerbi-tag
 2026;startort;Zarautz;34;powerbi-tag
 2026;startort;Zubiri;25;powerbi-tag
@@ -10416,31 +10416,31 @@ jahr;dimension;name;wert;quelle
 2026;startort;Águeda;92;powerbi-tag
 2026;startort;Óbanos;2;powerbi-tag
 2026;weg;(ohne Angabe);30;powerbi-tag
-2026;weg;Camino Francés;244754;powerbi-tag
-2026;weg;Camino Inglés;31657;powerbi-tag
-2026;weg;Camino Levante;169;powerbi-tag
+2026;weg;Camino Francés;244952;powerbi-tag
+2026;weg;Camino Inglés;31680;powerbi-tag
+2026;weg;Camino Levante;170;powerbi-tag
 2026;weg;Camino Mozárabe;249;powerbi-tag
 2026;weg;Camino Olvidado;148;powerbi-tag
-2026;weg;Camino Portugués;113995;powerbi-tag
-2026;weg;Camino Portugués por la Costa;111062;powerbi-tag
-2026;weg;Camino Primitivo;25662;powerbi-tag
+2026;weg;Camino Portugués;114064;powerbi-tag
+2026;weg;Camino Portugués por la Costa;111109;powerbi-tag
+2026;weg;Camino Primitivo;25678;powerbi-tag
 2026;weg;Camino Sureste - Alicante;89;powerbi-tag
 2026;weg;Camino de Geira - Arrieros;922;powerbi-tag
-2026;weg;Camino de Invierno;2987;powerbi-tag
+2026;weg;Camino de Invierno;2988;powerbi-tag
 2026;weg;Camino de Las Américas;32;powerbi-tag
 2026;weg;Camino de Lluc;7;powerbi-tag
-2026;weg;Camino de Muros - Noia;842;powerbi-tag
+2026;weg;Camino de Muros - Noia;844;powerbi-tag
 2026;weg;Camino de San Rosendo;1;powerbi-tag
 2026;weg;Camino de San Salvador;181;powerbi-tag
 2026;weg;Camino de Tenerife Norte;44;powerbi-tag
 2026;weg;Camino de Tenerife Sur;2;powerbi-tag
 2026;weg;Camino del Barbanza;1169;powerbi-tag
 2026;weg;Camino del Mar;220;powerbi-tag
-2026;weg;Camino del Norte;21075;powerbi-tag
+2026;weg;Camino del Norte;21090;powerbi-tag
 2026;weg;Miñoto Ribeiro;39;powerbi-tag
-2026;weg;Muxía - Finisterre;2664;powerbi-tag
+2026;weg;Muxía - Finisterre;2666;powerbi-tag
 2026;weg;O Vello Camino de Santiago (A Coruña-Santiago);121;powerbi-tag
 2026;weg;O Vello Camino de Santiago (Betanzos-Santiago);9;powerbi-tag
-2026;weg;Otros Caminos;1739;powerbi-tag
+2026;weg;Otros Caminos;1743;powerbi-tag
 2026;weg;Vía Céltica;13;powerbi-tag
-2026;weg;Vía de la Plata;9259;powerbi-tag
+2026;weg;Vía de la Plata;9272;powerbi-tag

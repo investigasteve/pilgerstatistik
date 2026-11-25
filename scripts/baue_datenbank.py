@@ -82,7 +82,8 @@ def lies_tabellen(ordner):
     for f in sorted(glob.glob(str(ordner / "abfrage-*.csv"))):
         with open(f, encoding="utf-8-sig", newline="") as fh:
             r = list(csv.reader(fh))
-        if len(r) < 3 or r[0][:2] != ["G0", "M0"]:
+        # Kopfzeile: frueher G0,M0; seit 24.11.2026 die echten Spaltennamen (zwei Spalten, Wertspalte zuletzt)
+        if len(r) < 3 or len(r[0]) != 2:
             continue
         zeilen = []
         for z in r[1:]:
