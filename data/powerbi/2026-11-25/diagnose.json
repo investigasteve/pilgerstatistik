@@ -23,7 +23,7 @@
       "nr": 4,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
-      "bytes": 1964,
+      "bytes": 2079,
       "tabellen": [
         1
       ]
@@ -32,7 +32,7 @@
       "nr": 5,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
-      "bytes": 2079,
+      "bytes": 1964,
       "tabellen": [
         1
       ]
@@ -50,20 +50,20 @@
       "nr": 7,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
-      "bytes": 3004,
+      "bytes": 21630,
       "tabellen": [
         1,
-        28
+        499
       ]
     },
     {
       "nr": 8,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
-      "bytes": 21630,
+      "bytes": 3004,
       "tabellen": [
         1,
-        499
+        28
       ]
     },
     {
@@ -229,13 +229,31 @@
       "nr": 26,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
+      "bytes": 2694,
+      "tabellen": [
+        11
+      ]
+    },
+    {
+      "nr": 27,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
+      "bytes": 1811,
+      "tabellen": [
+        2
+      ]
+    },
+    {
+      "nr": 28,
+      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+      "status": 200,
       "bytes": 1775,
       "tabellen": [
         4
       ]
     },
     {
-      "nr": 27,
+      "nr": 29,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
       "bytes": 1920,
@@ -245,30 +263,12 @@
       ]
     },
     {
-      "nr": 28,
+      "nr": 30,
       "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
       "status": 200,
       "bytes": 1867,
       "tabellen": [
         4
-      ]
-    },
-    {
-      "nr": 29,
-      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
-      "status": 200,
-      "bytes": 2694,
-      "tabellen": [
-        11
-      ]
-    },
-    {
-      "nr": 30,
-      "url": "https://wabi-spain-central-a-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
-      "status": 200,
-      "bytes": 1811,
-      "tabellen": [
-        2
       ]
     }
   ],
