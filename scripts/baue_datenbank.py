@@ -260,7 +260,9 @@ def schreibe(werte, tag, gesamt, monate):
             gesamt_tag[s_] = gesamt_tag.get(s_, 0) + v_
     with open(DATA / "tagesverlauf.csv", "w", encoding="utf-8", newline="") as fh:
         for s_, v_ in sorted(gesamt_tag.items()):
-            fh.write(f"{s_};{v_}\n")
+            ef = DATA / "powerbi" / s_ / "erfasst.txt"
+            zeit = ef.read_text(encoding="utf-8").strip() if ef.is_file() else ""
+            fh.write(f"{s_};{v_};{zeit}\n")
 
     with open(DATA / "monatsdaten.csv", "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh, delimiter=";")

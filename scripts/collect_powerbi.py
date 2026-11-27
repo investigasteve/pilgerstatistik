@@ -73,6 +73,8 @@ def csv_text(tabelle):
 
 def main():
     ZIEL.mkdir(parents=True, exist_ok=True)
+    # Zeitpunkt dieser Erfassung (UTC), damit die Seite weiss, ob der Tagesstand vor oder nach Buerschluss entstand
+    (ZIEL / "erfasst.txt").write_text(datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ") + "\n", encoding="utf-8")
     diag = {"datum": HEUTE, "antworten": [], "seiten": [], "fehler": []}
     funde = []
     anfragen = []
