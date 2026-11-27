@@ -253,6 +253,15 @@ def schreibe(werte, tag, gesamt, monate):
         for (s, d, n), v in sorted(tag.items()):
             w.writerow([s, d, n, v])
 
+    # Schlanke Reihe fuer das Widget "Pilger heute in Santiago": stand;gesamt (Summe der Wege je Stand)
+    gesamt_tag = {}
+    for (s_, d_, n_), v_ in tag.items():
+        if d_ == "weg":
+            gesamt_tag[s_] = gesamt_tag.get(s_, 0) + v_
+    with open(DATA / "tagesverlauf.csv", "w", encoding="utf-8", newline="") as fh:
+        for s_, v_ in sorted(gesamt_tag.items()):
+            fh.write(f"{s_};{v_}\n")
+
     with open(DATA / "monatsdaten.csv", "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh, delimiter=";")
         w.writerow(["jahr", "monat", "dimension", "name", "wert"])
