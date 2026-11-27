@@ -3203,3 +3203,804 @@ stand;dimension;name;wert
 2026-11-26;weg;Otros Caminos;1743
 2026-11-26;weg;Vía Céltica;13
 2026-11-26;weg;Vía de la Plata;9274
+2026-11-27;land;Afganistán;86
+2026-11-27;land;Albania;114
+2026-11-27;land;Alemania;24463
+2026-11-27;land;Andorra;214
+2026-11-27;land;Angola;36
+2026-11-27;land;Antigua y Barbuda;6
+2026-11-27;land;Antillas Holandesas;20
+2026-11-27;land;Arabia Saudita;24
+2026-11-27;land;Argelia;39
+2026-11-27;land;Argentina;6817
+2026-11-27;land;Armenia;60
+2026-11-27;land;Aruba;12
+2026-11-27;land;Australia;8127
+2026-11-27;land;Austria;2612
+2026-11-27;land;Azerbaiyán;56
+2026-11-27;land;Bahamas;8
+2026-11-27;land;Bahrein;7
+2026-11-27;land;Bangladesh;17
+2026-11-27;land;Barbados;13
+2026-11-27;land;Belice;23
+2026-11-27;land;Bermudas;10
+2026-11-27;land;Bhután;1
+2026-11-27;land;Bielorrusia;581
+2026-11-27;land;Bolivia;175
+2026-11-27;land;Bosnia;47
+2026-11-27;land;Botswana;3
+2026-11-27;land;Brasil;8505
+2026-11-27;land;Brunei;5
+2026-11-27;land;Bulgaria;1220
+2026-11-27;land;Burkina Faso;2
+2026-11-27;land;Bélgica;3664
+2026-11-27;land;Cabo Verde;15
+2026-11-27;land;Camboya;8
+2026-11-27;land;Camerún;7
+2026-11-27;land;Canadá;9672
+2026-11-27;land;Chad;1
+2026-11-27;land;Chile;1364
+2026-11-27;land;China;5463
+2026-11-27;land;Chipre;54
+2026-11-27;land;Colombia;6846
+2026-11-27;land;Comores;3
+2026-11-27;land;Congo;16
+2026-11-27;land;Corea;7409
+2026-11-27;land;Costa Rica;923
+2026-11-27;land;Costa de Marfil;8
+2026-11-27;land;Croacia;1494
+2026-11-27;land;Cuba;239
+2026-11-27;land;Desconocido;13118
+2026-11-27;land;Dinamarca;3242
+2026-11-27;land;Djibouti;4
+2026-11-27;land;Dominica;13
+2026-11-27;land;Ecuador;910
+2026-11-27;land;Egipto;33
+2026-11-27;land;El Salvador;325
+2026-11-27;land;Emiratos Arabes Unidos;11
+2026-11-27;land;Eritrea;7
+2026-11-27;land;Eslovaquia;1978
+2026-11-27;land;Eslovenia;971
+2026-11-27;land;España;218584
+2026-11-27;land;Estados Unidos;51708
+2026-11-27;land;Estonia;462
+2026-11-27;land;Etiopía;20
+2026-11-27;land;Fiji;4
+2026-11-27;land;Filipinas;1518
+2026-11-27;land;Finlandia;866
+2026-11-27;land;Francia;10410
+2026-11-27;land;Gabón;1
+2026-11-27;land;Gambia;9
+2026-11-27;land;Georgia;50
+2026-11-27;land;Ghana;5
+2026-11-27;land;Granada;7
+2026-11-27;land;Grecia;444
+2026-11-27;land;Groenlandia;1
+2026-11-27;land;Guadalupe;4
+2026-11-27;land;Guam;14
+2026-11-27;land;Guatemala;328
+2026-11-27;land;Guayana Francesa;1
+2026-11-27;land;Guinea;2
+2026-11-27;land;Guinea - Bissau;3
+2026-11-27;land;Guinea Ecuatorial;7
+2026-11-27;land;Guyana;2
+2026-11-27;land;Haití;10
+2026-11-27;land;Holanda;7193
+2026-11-27;land;Honduras;209
+2026-11-27;land;Hong Kong;1115
+2026-11-27;land;Hungría;2574
+2026-11-27;land;I. Reunión;13
+2026-11-27;land;India;306
+2026-11-27;land;Indonesia;692
+2026-11-27;land;Irak;67
+2026-11-27;land;Irlanda;10638
+2026-11-27;land;Irán;747
+2026-11-27;land;Islandia;112
+2026-11-27;land;Islas Caimán;2
+2026-11-27;land;Islas Feroe;16
+2026-11-27;land;Islas Malvinas;2
+2026-11-27;land;Islas Marshall;1
+2026-11-27;land;Islas Vírgenes;3
+2026-11-27;land;Israel;346
+2026-11-27;land;Italia;44231
+2026-11-27;land;Jamaica;12
+2026-11-27;land;Japón;1446
+2026-11-27;land;Jersey;29
+2026-11-27;land;Jordania;7
+2026-11-27;land;Kazajistán;185
+2026-11-27;land;Kenya;25
+2026-11-27;land;Kirguistán;13
+2026-11-27;land;Kiribati;1
+2026-11-27;land;Kosovo;14
+2026-11-27;land;Kuwait;3
+2026-11-27;land;Laos;2
+2026-11-27;land;Lesotho;8
+2026-11-27;land;Letonia;714
+2026-11-27;land;Liberia;1
+2026-11-27;land;Liechtensein;16
+2026-11-27;land;Lituania;963
+2026-11-27;land;Luxemburgo;169
+2026-11-27;land;Líbano;87
+2026-11-27;land;Macedonia;37
+2026-11-27;land;Madagascar;5
+2026-11-27;land;Malasia;902
+2026-11-27;land;Malawi;1
+2026-11-27;land;Maldivas;1
+2026-11-27;land;Mali;1
+2026-11-27;land;Malta;281
+2026-11-27;land;Marruecos;124
+2026-11-27;land;Martinica;10
+2026-11-27;land;Mauricio;20
+2026-11-27;land;Mauritania;1
+2026-11-27;land;Micronesia;2
+2026-11-27;land;Moldavia;210
+2026-11-27;land;Mongolia;36
+2026-11-27;land;Montenegro;13
+2026-11-27;land;Mozambique;8
+2026-11-27;land;Myanmar;6
+2026-11-27;land;México;14161
+2026-11-27;land;Mónaco;3
+2026-11-27;land;Namibia;42
+2026-11-27;land;Nepal;16
+2026-11-27;land;Nicaragua;119
+2026-11-27;land;Nigeria;21
+2026-11-27;land;Noruega;1234
+2026-11-27;land;Nueva Caledonia;8
+2026-11-27;land;Nueva Zelanda;1593
+2026-11-27;land;Omán;1
+2026-11-27;land;Pakistán;13
+2026-11-27;land;Palestina;26
+2026-11-27;land;Panamá;282
+2026-11-27;land;Papúa - Nueva Guinea;4
+2026-11-27;land;Paraguay;346
+2026-11-27;land;Perú;914
+2026-11-27;land;Polonia;10624
+2026-11-27;land;Portugal;24390
+2026-11-27;land;Puerto Rico;1433
+2026-11-27;land;Reino Unido;15430
+2026-11-27;land;Rep. Centroafricana;1
+2026-11-27;land;Rep. Dominicana;421
+2026-11-27;land;República Checa;4417
+2026-11-27;land;Rumania;2153
+2026-11-27;land;Rusia;2377
+2026-11-27;land;Rwanda;2
+2026-11-27;land;Samoa Occidental;6
+2026-11-27;land;San Cristóbal y Nevis;5
+2026-11-27;land;San Marino;49
+2026-11-27;land;San Pedro y Miquelón;1
+2026-11-27;land;Santa Lucía;5
+2026-11-27;land;Senegal;8
+2026-11-27;land;Serbia;247
+2026-11-27;land;Seychelles;4
+2026-11-27;land;Singapur;1088
+2026-11-27;land;Siria;15
+2026-11-27;land;Somalia;1
+2026-11-27;land;Sri Lanka;25
+2026-11-27;land;Sudáfrica;1516
+2026-11-27;land;Sudán;1
+2026-11-27;land;Suecia;1455
+2026-11-27;land;Suiza;2161
+2026-11-27;land;Surinam;2
+2026-11-27;land;Swazilandia;4
+2026-11-27;land;Tailandia;55
+2026-11-27;land;Taiwán;5788
+2026-11-27;land;Tanzania;6
+2026-11-27;land;Tayikistán;1
+2026-11-27;land;Timor Oriental;1
+2026-11-27;land;Togo;5
+2026-11-27;land;Tonga;1
+2026-11-27;land;Trinidad y Tobago;33
+2026-11-27;land;Turquía;325
+2026-11-27;land;Túnez;19
+2026-11-27;land;Ucrania;4561
+2026-11-27;land;Uganda;7
+2026-11-27;land;Urbekistán;12
+2026-11-27;land;Uruguay;1257
+2026-11-27;land;Vaticano;4
+2026-11-27;land;Venezuela;1890
+2026-11-27;land;Vietnam;52
+2026-11-27;land;Zaire;4
+2026-11-27;land;Zambia;6
+2026-11-27;land;Zimbabwe;15
+2026-11-27;motiv;Desconocido;41039
+2026-11-27;motiv;No Religioso;102546
+2026-11-27;motiv;Otros;174310
+2026-11-27;motiv;Religioso;251952
+2026-11-27;region;Andalucia;50346
+2026-11-27;region;Aragon;4161
+2026-11-27;region;Asturias;3008
+2026-11-27;region;Baleares;3815
+2026-11-27;region;Canarias;11071
+2026-11-27;region;Cantabria;1455
+2026-11-27;region;Castilla La Mancha;13400
+2026-11-27;region;Castilla León;9437
+2026-11-27;region;Cataluña;20970
+2026-11-27;region;Ceuta;324
+2026-11-27;region;Comunidad Valenciana;26324
+2026-11-27;region;Extremadura;6791
+2026-11-27;region;Galicia;12335
+2026-11-27;region;La Rioja;854
+2026-11-27;region;Madrid;38988
+2026-11-27;region;Melilla;264
+2026-11-27;region;Murcia;7736
+2026-11-27;region;Navarra;1358
+2026-11-27;region;País Vasco;4913
+2026-11-27;region;Residentes Extranjero;416
+2026-11-27;region;Sin autonomía;618
+2026-11-27;startort;A Alberguería;8
+2026-11-27;startort;A Barxa;3
+2026-11-27;startort;A Canda;7
+2026-11-27;startort;A Coruña;715
+2026-11-27;startort;A Degolada;14
+2026-11-27;startort;A Fontaneira;11
+2026-11-27;startort;A Guarda;3727
+2026-11-27;startort;A Lastra;19
+2026-11-27;startort;A Noia;4
+2026-11-27;startort;A Pobra de Burón;1
+2026-11-27;startort;A Rúa;28
+2026-11-27;startort;A barciela;2
+2026-11-27;startort;A calle;8
+2026-11-27;startort;A ponte;9
+2026-11-27;startort;A porbra do Brollon;14
+2026-11-27;startort;ARCOS DE VALDEVEZ.;1
+2026-11-27;startort;ARNOIA.;1
+2026-11-27;startort;Aachen- Aquisgrán;29
+2026-11-27;startort;Abadin;410
+2026-11-27;startort;Abla;2
+2026-11-27;startort;Abres;3
+2026-11-27;startort;Aguiada;4
+2026-11-27;startort;Aguila del campo;1
+2026-11-27;startort;Agés;9
+2026-11-27;startort;Alcalá la Real;3
+2026-11-27;startort;Alcuéscar;1
+2026-11-27;startort;Alcácer do Sal;10
+2026-11-27;startort;Aldeanueva del Camino;3
+2026-11-27;startort;Alemania;235
+2026-11-27;startort;Alemania. O.C.;96
+2026-11-27;startort;Alicante;90
+2026-11-27;startort;Allariz;206
+2026-11-27;startort;Almadén de la Plata;1
+2026-11-27;startort;Almería;120
+2026-11-27;startort;Alto do Acevo (por Pobra de Burón);16
+2026-11-27;startort;Alto do Acevo (por San Xoán de Padrón );37
+2026-11-27;startort;Ambasmestas;34
+2026-11-27;startort;Ameixoeira C.G.A;19
+2026-11-27;startort;Amsterdam;58
+2026-11-27;startort;Andorra;18
+2026-11-27;startort;Antequera;2
+2026-11-27;startort;Aragón;64
+2026-11-27;startort;Arles;145
+2026-11-27;startort;Arrés;1
+2026-11-27;startort;Artieda;1
+2026-11-27;startort;Astorga;3342
+2026-11-27;startort;Asturianos;12
+2026-11-27;startort;Atapuerca;3
+2026-11-27;startort;Australia;69
+2026-11-27;startort;Austria;30
+2026-11-27;startort;Aveiro;40
+2026-11-27;startort;Avilés;753
+2026-11-27;startort;Azofra;1
+2026-11-27;startort;Azoreira C.G.A;4
+2026-11-27;startort;Baamonde;1094
+2026-11-27;startort;Badajoz;2
+2026-11-27;startort;Baena;1
+2026-11-27;startort;Baiona;12246
+2026-11-27;startort;Barbadelo;811
+2026-11-27;startort;Barcelona;165
+2026-11-27;startort;Barcelos;1519
+2026-11-27;startort;Barreiros;2
+2026-11-27;startort;Batalha;1
+2026-11-27;startort;Bayonne;728
+2026-11-27;startort;Baños de Montemayor;5
+2026-11-27;startort;Belesar;3
+2026-11-27;startort;Belorado;30
+2026-11-27;startort;Benavente;27
+2026-11-27;startort;Bercianos del Real Camino;5
+2026-11-27;startort;Berducedo;66
+2026-11-27;startort;Berán C.G.A;17
+2026-11-27;startort;Betanzos;8
+2026-11-27;startort;Betharram;4
+2026-11-27;startort;Bexo;1
+2026-11-27;startort;Biarritz;131
+2026-11-27;startort;Biduedo (por Samos);1
+2026-11-27;startort;Biduedo (por San XII);1
+2026-11-27;startort;Bilbao;1338
+2026-11-27;startort;Boadilla del Camino;7
+2026-11-27;startort;Boiro;4
+2026-11-27;startort;Borres;33
+2026-11-27;startort;Braga;473
+2026-11-27;startort;Braga C.G.A.;805
+2026-11-27;startort;Brea;590
+2026-11-27;startort;Brujas;5
+2026-11-27;startort;Bulgaria;7
+2026-11-27;startort;Burdeos;44
+2026-11-27;startort;Burgos;2051
+2026-11-27;startort;Burguete;6
+2026-11-27;startort;Burlada;2
+2026-11-27;startort;Bustio;2
+2026-11-27;startort;Bélgica;218
+2026-11-27;startort;C.G.A resto de Portugal;126
+2026-11-27;startort;Cabo de Creus;4
+2026-11-27;startort;Cabo de Cruz;1
+2026-11-27;startort;Cacabelos;98
+2026-11-27;startort;Cadavelo;68
+2026-11-27;startort;Cadavo;265
+2026-11-27;startort;Caión;5
+2026-11-27;startort;Calzada de Béjar;6
+2026-11-27;startort;Calzada de Valdunciel;1
+2026-11-27;startort;Calzadilla de la Cueza;3
+2026-11-27;startort;Caminha;2871
+2026-11-27;startort;Campo;1
+2026-11-27;startort;Campo do Gerês C.G.A;25
+2026-11-27;startort;Campobecerros;3
+2026-11-27;startort;Camponaraya;25
+2026-11-27;startort;Canfranc;24
+2026-11-27;startort;Carballido;2
+2026-11-27;startort;Carcaboso;13
+2026-11-27;startort;Cardeñuela-Ríopico;1
+2026-11-27;startort;Carral;1
+2026-11-27;startort;Carreira;50
+2026-11-27;startort;Carrión de los Condes;79
+2026-11-27;startort;Casar de Cáceres;2
+2026-11-27;startort;Cast. la Mancha - C.F.;15
+2026-11-27;startort;Castiblanco de los Arroyos;1
+2026-11-27;startort;Castilla La Mancha VP;11
+2026-11-27;startort;Castilla la Mancha otros;85
+2026-11-27;startort;Castiñeiras;1
+2026-11-27;startort;Castro Leboreiro C.G.A;21
+2026-11-27;startort;Castro Urdiales;63
+2026-11-27;startort;Castrojeriz;32
+2026-11-27;startort;Castroverde;328
+2026-11-27;startort;Cataluña - C.F.;26
+2026-11-27;startort;Cataluña - O.C.;182
+2026-11-27;startort;Catedral de Palma;1
+2026-11-27;startort;Cathedral Basilica of St Augustine;28
+2026-11-27;startort;Cañaveral;5
+2026-11-27;startort;Cebreiro;4892
+2026-11-27;startort;Chantada;202
+2026-11-27;startort;Chaves-Portugal;189
+2026-11-27;startort;Citierna;3
+2026-11-27;startort;Coimbra;209
+2026-11-27;startort;Coimbra Costa;139
+2026-11-27;startort;Colombres;20
+2026-11-27;startort;Colonia;32
+2026-11-27;startort;Columbrianos;3
+2026-11-27;startort;Com. Valenciana - C.F.;45
+2026-11-27;startort;Com. Valenciana - O.C.;53
+2026-11-27;startort;Comillas;26
+2026-11-27;startort;Compostilla;4
+2026-11-27;startort;Congosto;1
+2026-11-27;startort;Corrubedo;771
+2026-11-27;startort;Cortegada C.G.A;14
+2026-11-27;startort;Coruxo;51
+2026-11-27;startort;Covelo;1
+2026-11-27;startort;Cruz de Ferro;137
+2026-11-27;startort;Cudillero;71
+2026-11-27;startort;Cáceres;36
+2026-11-27;startort;Cádiz;135
+2026-11-27;startort;Córdoba;11
+2026-11-27;startort;Dax;22
+2026-11-27;startort;Dean grande;1
+2026-11-27;startort;Deba;21
+2026-11-27;startort;Dinamarca;11
+2026-11-27;startort;Dortmund;13
+2026-11-27;startort;ENTRIMO.;3
+2026-11-27;startort;Egipto;2
+2026-11-27;startort;El Acebo;51
+2026-11-27;startort;El Carrascalejo;1
+2026-11-27;startort;El Cubo de la Tierra del Vino;4
+2026-11-27;startort;El Escamplero;4
+2026-11-27;startort;El Ganso;1
+2026-11-27;startort;El burgo Ranero;8
+2026-11-27;startort;Encinas Reales;1
+2026-11-27;startort;Entrimo C.G.A.;2
+2026-11-27;startort;Eslovaquia;5
+2026-11-27;startort;Espinosa de los monteros;3
+2026-11-27;startort;Espinosa del Camino;3
+2026-11-27;startort;Esposende;991
+2026-11-27;startort;Estella;71
+2026-11-27;startort;Faramontanos de Tábara;1
+2026-11-27;startort;Faro;104
+2026-11-27;startort;Fasgar;5
+2026-11-27;startort;Fatima;216
+2026-11-27;startort;Fazouro;9
+2026-11-27;startort;Feces;1
+2026-11-27;startort;Fene;16
+2026-11-27;startort;Ferreira;3
+2026-11-27;startort;Ferreiros;597
+2026-11-27;startort;Ferrol;30693
+2026-11-27;startort;Finisterra;932
+2026-11-27;startort;Finlandia;2
+2026-11-27;startort;Foncebadón;112
+2026-11-27;startort;Fonfría;198
+2026-11-27;startort;Fonfría (por Pobra de Burón);3
+2026-11-27;startort;Fonfría (por San Xoán de Padrón );3
+2026-11-27;startort;Fonsagrada - C.P.;739
+2026-11-27;startort;Francia - C.F.;1088
+2026-11-27;startort;Francia - C.N;232
+2026-11-27;startort;Frómista;103
+2026-11-27;startort;Fuente de Cantos;1
+2026-11-27;startort;Fuenterroble de Salvatierra;2
+2026-11-27;startort;Galisteo;14
+2026-11-27;startort;Gernika-Lumo;7
+2026-11-27;startort;Gerês C.G.A.;1
+2026-11-27;startort;Gijón;1019
+2026-11-27;startort;Ginebra;35
+2026-11-27;startort;Giuadix;7
+2026-11-27;startort;Golegã;15
+2026-11-27;startort;Gondan;13
+2026-11-27;startort;Grado;84
+2026-11-27;startort;Granada;29
+2026-11-27;startort;Grandas de Salime - C.P.;273
+2026-11-27;startort;Granja de Moreruela;163
+2026-11-27;startort;Grañón;1
+2026-11-27;startort;Grândola;2
+2026-11-27;startort;Grecia;3
+2026-11-27;startort;Grândola;3
+2026-11-27;startort;Gudiña;197
+2026-11-27;startort;Guemes;5
+2026-11-27;startort;Guillena;5
+2026-11-27;startort;Guimaraes;183
+2026-11-27;startort;Gándara;2
+2026-11-27;startort;Haarlem;71
+2026-11-27;startort;Hendaya;599
+2026-11-27;startort;Hinojosa del Duque;1
+2026-11-27;startort;Holanda;132
+2026-11-27;startort;Hontanas;5
+2026-11-27;startort;Hornillos del Camino;6
+2026-11-27;startort;Hospital;4
+2026-11-27;startort;Hospital da Condesa (por Samos);3
+2026-11-27;startort;Hospital da Condesa (por San XII);5
+2026-11-27;startort;Hospital de Montouto;2
+2026-11-27;startort;Hospital de Orbigo;79
+2026-11-27;startort;Huelva;8
+2026-11-27;startort;Hungría;12
+2026-11-27;startort;Igueña;1
+2026-11-27;startort;Inglaterra C.F.;1
+2026-11-27;startort;Irlanda C. Ing;120
+2026-11-27;startort;Irlanda C.F.;19
+2026-11-27;startort;Irún;5272
+2026-11-27;startort;Italia;185
+2026-11-27;startort;Jaca;63
+2026-11-27;startort;Jaén;14
+2026-11-27;startort;Jerusalem;3
+2026-11-27;startort;Konstanz;14
+2026-11-27;startort;La Bañeza;6
+2026-11-27;startort;La Faba;63
+2026-11-27;startort;La Mesa;18
+2026-11-27;startort;La Portela de Valcarce;12
+2026-11-27;startort;La Rioja;31
+2026-11-27;startort;La Robla;7
+2026-11-27;startort;La caridad;216
+2026-11-27;startort;La casquita;4
+2026-11-27;startort;La virgen del Camino;29
+2026-11-27;startort;Labruge;317
+2026-11-27;startort;Lagos;34
+2026-11-27;startort;Laguna de Castilla;128
+2026-11-27;startort;Lalín;6
+2026-11-27;startort;Laredo;63
+2026-11-27;startort;Las Herrerías de Valcarce;214
+2026-11-27;startort;Las Médulas;22
+2026-11-27;startort;Laza;87
+2026-11-27;startort;Le Puy;2852
+2026-11-27;startort;Leiria;4
+2026-11-27;startort;Leyre;1
+2026-11-27;startort;Lezama;2
+2026-11-27;startort;León;8217
+2026-11-27;startort;Lires;33
+2026-11-27;startort;Lisboa;2606
+2026-11-27;startort;Lisboa Costa;1115
+2026-11-27;startort;Liñares (por Samos);9
+2026-11-27;startort;Liñares (por San XII);11
+2026-11-27;startort;Llanes;172
+2026-11-27;startort;Lluc;5
+2026-11-27;startort;Lobios;1
+2026-11-27;startort;Lobios C.G.A;2
+2026-11-27;startort;Logroño;479
+2026-11-27;startort;Lorca;4
+2026-11-27;startort;Los Arcos;18
+2026-11-27;startort;Los Santos de Maimona;1
+2026-11-27;startort;Lourdes;184
+2026-11-27;startort;Lourenzá;256
+2026-11-27;startort;Luarca;417
+2026-11-27;startort;Lubián;23
+2026-11-27;startort;Lucena;1
+2026-11-27;startort;Lugo - C.P.;8422
+2026-11-27;startort;Luxemburgo;1
+2026-11-27;startort;Lédigos;2
+2026-11-27;startort;MELGAÇO.;3
+2026-11-27;startort;MONÇAO.;3
+2026-11-27;startort;Madrid;337
+2026-11-27;startort;Madrid - C.F.;428
+2026-11-27;startort;Madrid - V.P.;38
+2026-11-27;startort;Malaga;64
+2026-11-27;startort;Malpica;4
+2026-11-27;startort;Manjarín;16
+2026-11-27;startort;Mansilla de las Mulas;91
+2026-11-27;startort;Marinhas;195
+2026-11-27;startort;Markina-Xemein;7
+2026-11-27;startort;Martos;2
+2026-11-27;startort;Medellín;1
+2026-11-27;startort;Mera (Ortigueira);1
+2026-11-27;startort;Mierchamps;1
+2026-11-27;startort;Miño;1
+2026-11-27;startort;Molinaseca;93
+2026-11-27;startort;Mombuey;10
+2026-11-27;startort;Mondoñedo;671
+2026-11-27;startort;Monesterio;3
+2026-11-27;startort;Monforte de Lemos;856
+2026-11-27;startort;Monreal;3
+2026-11-27;startort;Mont st. Michel;33
+2026-11-27;startort;Montamarta;1
+2026-11-27;startort;Monterrey;1
+2026-11-27;startort;Monterrubio de la Serena;1
+2026-11-27;startort;Montserrat;31
+2026-11-27;startort;Morgade;140
+2026-11-27;startort;Murcia;21
+2026-11-27;startort;Murias de Rechivaldo;18
+2026-11-27;startort;Muros;671
+2026-11-27;startort;Muros de nalon;152
+2026-11-27;startort;Muruzábal;1
+2026-11-27;startort;Muxia;1705
+2026-11-27;startort;Muxía;1
+2026-11-27;startort;Mérida;79
+2026-11-27;startort;Naron;55
+2026-11-27;startort;Navarra;43
+2026-11-27;startort;Navarrete;8
+2026-11-27;startort;Neda;58
+2026-11-27;startort;Nigrán;559
+2026-11-27;startort;Nocedo;4
+2026-11-27;startort;Noruega;3
+2026-11-27;startort;Nájera;34
+2026-11-27;startort;O Barco de Valdeorras;25
+2026-11-27;startort;O burgo;1
+2026-11-27;startort;Oia;1618
+2026-11-27;startort;Oostkapelle;4
+2026-11-27;startort;Oporto;30027
+2026-11-27;startort;Oporto Costa;29040
+2026-11-27;startort;Orbaneja-Ríopico;1
+2026-11-27;startort;Orisson;8
+2026-11-27;startort;Ortigueira;1
+2026-11-27;startort;Otero de Sanabria;6
+2026-11-27;startort;Otur;12
+2026-11-27;startort;Ourense;5088
+2026-11-27;startort;Oviedo;10
+2026-11-27;startort;Oviedo - C.N.;245
+2026-11-27;startort;Oviedo - C.P.;14825
+2026-11-27;startort;Padornelo;97
+2026-11-27;startort;Padornelo (por Samos);5
+2026-11-27;startort;Padornelo (por San Xil);3
+2026-11-27;startort;Pajares;1
+2026-11-27;startort;Palacios de Sanabria;1
+2026-11-27;startort;Palmeira;57
+2026-11-27;startort;Pamplona;2280
+2026-11-27;startort;Pandorado;1
+2026-11-27;startort;Paradanova (por Pobra de Burón);1
+2026-11-27;startort;Paradavella;26
+2026-11-27;startort;París;131
+2026-11-27;startort;Pascais (por Samos);3
+2026-11-27;startort;Pastoriza;3
+2026-11-27;startort;Pereiras;3
+2026-11-27;startort;Pereje;5
+2026-11-27;startort;Pobeña;16
+2026-11-27;startort;Pola de Allande;82
+2026-11-27;startort;Pola de siero;27
+2026-11-27;startort;Polonia;85
+2026-11-27;startort;Ponferrada;5255
+2026-11-27;startort;Ponferrada. C.Inv.;1736
+2026-11-27;startort;Ponte das Febres;75
+2026-11-27;startort;Ponte de Lima;2324
+2026-11-27;startort;Ponte de sa;3
+2026-11-27;startort;Ponte do Porto;3
+2026-11-27;startort;Ponte do Porto (Mañón);3
+2026-11-27;startort;Pontedeume;7
+2026-11-27;startort;Pontepedra;16
+2026-11-27;startort;Porriño;4470
+2026-11-27;startort;Portecelo;85
+2026-11-27;startort;Portela do Homem C.G.A;3
+2026-11-27;startort;Portimão;99
+2026-11-27;startort;Portimão;24
+2026-11-27;startort;Porto (por Tui);24974
+2026-11-27;startort;Porto Camba;1
+2026-11-27;startort;Porto do Cabo (Cedeira);25
+2026-11-27;startort;Porto do Son;174
+2026-11-27;startort;Portugalete;85
+2026-11-27;startort;Povoa de Varzim;1321
+2026-11-27;startort;Priesca;2
+2026-11-27;startort;Puebla de Sanabria;207
+2026-11-27;startort;Puente Villarente;7
+2026-11-27;startort;Puente de Domingo Flórez;3
+2026-11-27;startort;Puente la Reina;68
+2026-11-27;startort;Puerto de Béjar;4
+2026-11-27;startort;Puerto del Acebo;2
+2026-11-27;startort;Quiroga;51
+2026-11-27;startort;R. Castilla León C.Inv;14
+2026-11-27;startort;R.Pais Vasco C.F.;31
+2026-11-27;startort;RESTO DE PORTUGAL C.G.A;25
+2026-11-27;startort;RIBADAVIA.;7
+2026-11-27;startort;Rabanal del Camino;161
+2026-11-27;startort;Ramallosa;399
+2026-11-27;startort;Rates;261
+2026-11-27;startort;Realejo Alto;44
+2026-11-27;startort;Rebordondo;1
+2026-11-27;startort;Reino Unido C.F.;8
+2026-11-27;startort;Reino Unido C.Ing;98
+2026-11-27;startort;Reliegos;5
+2026-11-27;startort;Republica Checa;19
+2026-11-27;startort;Requejo de Sanabria;4
+2026-11-27;startort;Resto Andalucia;3
+2026-11-27;startort;Resto Asturias - C.N;50
+2026-11-27;startort;Resto Asturias - C.P.;10
+2026-11-27;startort;Resto C. León;26
+2026-11-27;startort;Resto C. León - V.P.;17
+2026-11-27;startort;Resto C. León C.F.;14
+2026-11-27;startort;Resto Cantabria;5
+2026-11-27;startort;Resto Europa;63
+2026-11-27;startort;Resto Europa C. Ing.;10
+2026-11-27;startort;Resto Galicia;752
+2026-11-27;startort;Resto País Vasco - C.N.;7
+2026-11-27;startort;Resto Portugal;494
+2026-11-27;startort;Resto de Andalucia;34
+2026-11-27;startort;Resto de Europa;82
+2026-11-27;startort;Resto de Extremadura;3
+2026-11-27;startort;Resto de Galicia;926
+2026-11-27;startort;Resto de Portugal;378
+2026-11-27;startort;Resto de Portugal C.M.R.;1
+2026-11-27;startort;Ribadavia C.G.A;8
+2026-11-27;startort;Ribadeo;1847
+2026-11-27;startort;Ribadeo C. del Mar;170
+2026-11-27;startort;Ribadesella;96
+2026-11-27;startort;Ribeira;283
+2026-11-27;startort;Riego de Ambrós;3
+2026-11-27;startort;Rioja;2
+2026-11-27;startort;Rionegro del Puente;2
+2026-11-27;startort;Roermond;19
+2026-11-27;startort;Roma;20
+2026-11-27;startort;Roncesvalles;3624
+2026-11-27;startort;Rubiães;316
+2026-11-27;startort;Ruesta;1
+2026-11-27;startort;Ruitelán;9
+2026-11-27;startort;Rusia;2
+2026-11-27;startort;Rábade;3
+2026-11-27;startort;S. Jean P. Port;30090
+2026-11-27;startort;SISTELO.;1
+2026-11-27;startort;Sahagún;175
+2026-11-27;startort;Saint Palais;29
+2026-11-27;startort;Salamanca;227
+2026-11-27;startort;Salas;99
+2026-11-27;startort;Samos;1309
+2026-11-27;startort;San Andrés de Teixido;3
+2026-11-27;startort;San Ciprián (Cervo);1
+2026-11-27;startort;San Juan de Ortega;70
+2026-11-27;startort;San Pedro da Torre;4
+2026-11-27;startort;San Pedro de Mérida;1
+2026-11-27;startort;San Sebastián;959
+2026-11-27;startort;San Vicente de la Barquera;70
+2026-11-27;startort;San XII;9
+2026-11-27;startort;San martín del Camino;24
+2026-11-27;startort;San miguel del Camino;1
+2026-11-27;startort;Sandiás;7
+2026-11-27;startort;Sangüesa;7
+2026-11-27;startort;Sant Felíu de Llobregat;1
+2026-11-27;startort;Santa Catalina de Somoza;6
+2026-11-27;startort;Santa Cruz;6
+2026-11-27;startort;Santa Marta de Tara;9
+2026-11-27;startort;Santa María de Gondar;6
+2026-11-27;startort;Santander;876
+2026-11-27;startort;Santarém;53
+2026-11-27;startort;Santillana del mar;158
+2026-11-27;startort;Santiponce;3
+2026-11-27;startort;Sarandos;2
+2026-11-27;startort;Sarria;167307
+2026-11-27;startort;Setúbal;2
+2026-11-27;startort;Sevilla;1673
+2026-11-27;startort;Sigueiro;1
+2026-11-27;startort;Silleiro;1
+2026-11-27;startort;Sintra;3
+2026-11-27;startort;Sobradelo;2
+2026-11-27;startort;Somport;190
+2026-11-27;startort;Soto de Luiña;79
+2026-11-27;startort;St Pauls Catholic Church;4
+2026-11-27;startort;Sta Maria;1
+2026-11-27;startort;Sto. Domingo de la Calzada;108
+2026-11-27;startort;Suecia;10
+2026-11-27;startort;Suiza;73
+2026-11-27;startort;Tapia de Casariego;53
+2026-11-27;startort;Tavira;4
+2026-11-27;startort;Terradillos de los Templarios;4
+2026-11-27;startort;Terras de Bouro C.G.A;1
+2026-11-27;startort;Tineo - C.P.;256
+2026-11-27;startort;Tomar;97
+2026-11-27;startort;Tosantos;3
+2026-11-27;startort;Toulouse;46
+2026-11-27;startort;Tours;60
+2026-11-27;startort;Trabada;3
+2026-11-27;startort;Trabadelo;43
+2026-11-27;startort;Triacastela;2359
+2026-11-27;startort;Trobajo del Camino;3
+2026-11-27;startort;Tui;46328
+2026-11-27;startort;Tábara;28
+2026-11-27;startort;Unquera;21
+2026-11-27;startort;Uterga;3
+2026-11-27;startort;Valcarlos;21
+2026-11-27;startort;Valencia;170
+2026-11-27;startort;Valencia O.C.;37
+2026-11-27;startort;Valença do Minho;22682
+2026-11-27;startort;Valladolid;38
+2026-11-27;startort;Valverde de Valdelacasa;1
+2026-11-27;startort;Valverde de la Virgen;5
+2026-11-27;startort;Vega de Valcarce;61
+2026-11-27;startort;Vegadeo;168
+2026-11-27;startort;Verín;76
+2026-11-27;startort;Vezelay;127
+2026-11-27;startort;Viana;14
+2026-11-27;startort;Viana do Castelo;3117
+2026-11-27;startort;Viena;4
+2026-11-27;startort;Vigo;27099
+2026-11-27;startort;Vila Nova Famalicão;56
+2026-11-27;startort;Vila do Conde;778
+2026-11-27;startort;Vila real;65
+2026-11-27;startort;Vilaflor de Chasna;2
+2026-11-27;startort;Vilafranca;83
+2026-11-27;startort;Vilalba;2403
+2026-11-27;startort;Vilalle;5
+2026-11-27;startort;Vilamartin Pequeño;1
+2026-11-27;startort;Vilanova de Cerveira;174
+2026-11-27;startort;Vilar de Barrio;15
+2026-11-27;startort;Vilarinho;112
+2026-11-27;startort;Vilela;6
+2026-11-27;startort;Villadangos del Páramo;7
+2026-11-27;startort;Villademoros;6
+2026-11-27;startort;Villafranca de Montes de Oca;4
+2026-11-27;startort;Villafranca del Bierzo;1440
+2026-11-27;startort;Villafría;1
+2026-11-27;startort;Villalcázar de Sirga;23
+2026-11-27;startort;Villalval;1
+2026-11-27;startort;Villares de Órbigo;4
+2026-11-27;startort;Villarmentero de Campos;5
+2026-11-27;startort;Villatuerta;1
+2026-11-27;startort;Villaviciosa;56
+2026-11-27;startort;Vincios;33
+2026-11-27;startort;Viseu;151
+2026-11-27;startort;Viveiro;6
+2026-11-27;startort;Xinzo de Limia;42
+2026-11-27;startort;Xubia;6
+2026-11-27;startort;Xunqueira de Ambia;156
+2026-11-27;startort;Zabaldika;3
+2026-11-27;startort;Zafra;9
+2026-11-27;startort;Zamora;281
+2026-11-27;startort;Zaragoza;88
+2026-11-27;startort;Zarautz;34
+2026-11-27;startort;Zubiri;25
+2026-11-27;startort;almeria;8
+2026-11-27;startort;Águeda;92
+2026-11-27;startort;Óbanos;2
+2026-11-27;weg;(ohne Angabe);30
+2026-11-27;weg;Camino Francés;245105
+2026-11-27;weg;Camino Inglés;31696
+2026-11-27;weg;Camino Levante;170
+2026-11-27;weg;Camino Mozárabe;251
+2026-11-27;weg;Camino Olvidado;148
+2026-11-27;weg;Camino Portugués;114140
+2026-11-27;weg;Camino Portugués por la Costa;111144
+2026-11-27;weg;Camino Primitivo;25684
+2026-11-27;weg;Camino Sureste - Alicante;90
+2026-11-27;weg;Camino de Geira - Arrieros;923
+2026-11-27;weg;Camino de Invierno;2992
+2026-11-27;weg;Camino de Las Américas;32
+2026-11-27;weg;Camino de Lluc;7
+2026-11-27;weg;Camino de Muros - Noia;845
+2026-11-27;weg;Camino de San Rosendo;1
+2026-11-27;weg;Camino de San Salvador;181
+2026-11-27;weg;Camino de Tenerife Norte;44
+2026-11-27;weg;Camino de Tenerife Sur;2
+2026-11-27;weg;Camino del Barbanza;1169
+2026-11-27;weg;Camino del Mar;220
+2026-11-27;weg;Camino del Norte;21102
+2026-11-27;weg;Miñoto Ribeiro;39
+2026-11-27;weg;Muxía - Finisterre;2670
+2026-11-27;weg;O Vello Camino de Santiago (A Coruña-Santiago);121
+2026-11-27;weg;O Vello Camino de Santiago (Betanzos-Santiago);9
+2026-11-27;weg;Otros Caminos;1743
+2026-11-27;weg;Vía Céltica;13
+2026-11-27;weg;Vía de la Plata;9276
